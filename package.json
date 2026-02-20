@@ -1,0 +1,19 @@
+{
+  "name": "personal-homepage",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Personal homepage with trending videos, news, and geek community aggregation",
+  "scripts": {
+    "crawl": "node scripts/cli.js",
+    "crawl:all": "node scripts/cli.js all",
+    "crawl:videos": "node scripts/cli.js trending-videos",
+    "crawl:news": "node scripts/cli.js news",
+    "crawl:geek": "node scripts/cli.js geek",
+    "dev": "cd site && npm run dev",
+    "build": "node scripts/copy-data-to-public.js && cd site && npm run build",
+    "start": "cd site && npm run start"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "date": "2026-02-20",
+  "items": [
+    { "title": "Sample YouTube Video", "url": "https://youtube.com/watch?v=example", "views": "1.2M", "source": "youtube" },
+    { "title": "TikTok Placeholder", "url": "#", "views": "-", "source": "tiktok" }
+  ]
+}
