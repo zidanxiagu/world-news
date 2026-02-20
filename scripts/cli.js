@@ -58,9 +58,41 @@ async function main() {
     if (cmd === 'learning') summaries.push('learning: placeholder updated');
   }
 
+  // 热门分析：抓取 + Top10 + 每条 LLM 内容摘要（供 OpenClaw 每日定时；需 summaryVideoApiUrl/Key）
+  if (cmd === 'trending-analysis') {
+    const yt = require('./youtube-trending');
+    const result = await yt.runTrendingAnalysis(dateStr);
+    const n = (result.analysisTop10 || []).length;
+    console.log(`trending-analysis: ${dateStr}, top10 analyzed (${n} with contentSummary)`);
+    if (stdout) console.log(JSON.stringify(result, null, 2));
+    return;
+  }
+
+  // 本地用大模型生成热门视频摘要（需配置 summaryApiUrl + summaryApiKey，无法在 GitHub Actions 里跑）
+  if (cmd === 'summarize-trending') {
+    const yt = require('./youtube-trending');
+    const dataDir = path.join(config.dataDir, 'trending-videos');
+    const filePath = path.join(dataDir, `${dateStr}.json`);
+    if (!fs.existsSync(filePath)) {
+      console.error(`No data file: ${filePath}. Run "node scripts/cli.js trending-videos --date ${dateStr}" first.`);
+      process.exit(1);
+    }
+    const data = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+    const titles = (data.items || []).map((i) => i.title).filter(Boolean);
+    if (titles.length === 0) {
+      console.error('No video titles in file.');
+      process.exit(1);
+    }
+    const summary = await yt.generateSummary({ titles });
+    data.summary = summary;
+    fs.writeFileSync(filePath, JSON.stringify(data, null, 2), 'utf8');
+    console.log(`summarize-trending: wrote summary (${dateStr}), ${summary.length} chars`);
+    return;
+  }
+
   if (!stdout || cmd === 'all') {
     if (summaries.length) console.log(summaries.join('\n'));
-    else console.log('Usage: node cli.js trending-videos|news|geek|learning|all [--date YYYY-MM-DD] [--stdout]');
+    else console.log('Usage: node cli.js trending-videos|trending-analysis|news|geek|learning|summarize-trending|all [--date YYYY-MM-DD] [--stdout]');
   }
 }
 

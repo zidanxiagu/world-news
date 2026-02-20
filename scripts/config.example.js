@@ -10,6 +10,15 @@ module.exports = {
     maxResultsPerRegion: 15,
     summaryApiUrl: process.env.YOUTUBE_SUMMARY_API_URL || '',
     summaryApiKey: process.env.YOUTUBE_SUMMARY_API_KEY || '',
+    // 每条视频的 LLM 内容摘要（本地/OpenClaw 用，勿放 GitHub）
+    summaryVideoApiUrl: process.env.YOUTUBE_SUMMARY_VIDEO_API_URL || '',
+    summaryVideoApiKey: process.env.YOUTUBE_SUMMARY_VIDEO_API_KEY || '',
+    // 摘要来源：snippet=免费仅用描述片段 | ollama=本机 Ollama | gemini=Google 免费版 | grok=xAI | custom=自建接口
+    summaryVideoProvider: process.env.YOUTUBE_SUMMARY_VIDEO_PROVIDER || 'snippet',
+    summaryVideoOllamaUrl: process.env.YOUTUBE_OLLAMA_URL || 'http://localhost:11434/v1/chat/completions',
+    summaryVideoOllamaModel: process.env.YOUTUBE_OLLAMA_MODEL || 'llama3.2',
+    summaryVideoGeminiModel: process.env.YOUTUBE_GEMINI_MODEL || 'gemini-2.0-flash',
+    summaryVideoGrokModel: process.env.YOUTUBE_GROK_MODEL || 'grok-2-1212',
   },
   // Reddit API (optional, 也可用 RSS 无需 key)
   reddit: {

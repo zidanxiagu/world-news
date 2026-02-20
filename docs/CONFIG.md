@@ -100,3 +100,81 @@ Workflow 会把上述环境变量传给 `node scripts/cli.js all`，因此只需
 - [ ] 配置 Reddit 的 clientId / clientSecret 以抓 Reddit 热门
 
 配好后，本地执行 `node scripts/cli.js trending-videos` 应能生成 `data/trending-videos/YYYY-MM-DD.json`；执行 `node scripts/cli.js all` 会拉取所有模块数据。
+
+---
+
+## 五、大模型摘要（仅本地，不参与 GitHub 每日 build）
+
+用大模型为热门视频生成文字摘要需要调用你的 LLM API（密钥不能放在 GitHub），因此**不能在 GitHub Actions 的每日 build 里执行**，只能在本地或你自己的服务器上跑。
+
+### 1. 配置摘要 API
+
+在 `config.js` 里填：
+
+- **youtube.summaryApiUrl**：你的摘要接口地址（POST，见下方约定）
+- **youtube.summaryApiKey**：鉴权（如 Bearer token）
+
+接口约定：脚本会 POST 一个 JSON：`{ "titles": ["视频标题1", "..."], "maxSentences": 3 }`，期望响应 JSON 里包含 `summary` 字符串。
+
+### 2. 本地流程（推荐）
+
+1. **拉取热门**（本地或等每日 build 后从站点/仓库拿到当日 JSON 到本地）  
+   `node scripts/cli.js trending-videos --date 2026-02-20`
+
+2. **用大模型写摘要到同一份数据**（会直接改 `data/trending-videos/YYYY-MM-DD.json`）  
+   `node scripts/cli.js summarize-trending --date 2026-02-20`
+
+3. **把带摘要的数据推送到仓库**  
+   `git add -f data/trending-videos/2026-02-20.json`  
+   `git commit -m "data: trending with LLM summary"`  
+   `git push origin main`
+
+4. **在 GitHub 上触发「仅部署」**  
+   **Actions** → 选择 **Deploy only (no crawl)** → **Run workflow**。  
+   该 workflow 不会拉取数据，只会用当前仓库里的 `data/` 构建并部署到 Pages，站点会显示你刚推送的带摘要数据。
+
+### 3. 两个 workflow 分工
+
+| Workflow | 何时跑 | 做什么 |
+|----------|--------|--------|
+| **Daily build and deploy** | 每天 08:00 北京 / 或手动 | 拉取 YouTube 等数据（无 LLM）、构建、部署 |
+| **Deploy only (no crawl)** | 仅手动 | 不拉取；用仓库里已有 data 构建并部署（适合你先本地跑摘要再推送后更新站点） |
+
+---
+
+## 六、OpenClaw 每日定时：热门抓取 + Top10 LLM 分析
+
+在**本地 OpenClaw** 里添加每日定时任务，执行「热门视频抓取 + 前十名 LLM 内容摘要」，结果会写入 `data/trending-videos/YYYY-MM-DD.json`，网页会展示 **Top 10 热门分析**（标题、作者、发布时间、链接、类型、点赞/评论/分享、内容摘要）。
+
+### 1. 配置 LLM 单条视频摘要
+
+在 `config.js` 里配置（勿提交到 Git）：
+
+- **youtube.summaryVideoApiUrl**：接受单条视频的接口，POST  body 为 `{ title, description, maxSentences: 3 }`，响应 JSON 含 `summary` 字符串。
+- **youtube.summaryVideoApiKey**：鉴权（如 Bearer token）。
+
+**详细教程**（接口约定、请求/响应格式、OpenAI/Gemini/自建示例）：**[docs/SUMMARY_VIDEO_API.md](SUMMARY_VIDEO_API.md)**。
+
+也可用环境变量 `YOUTUBE_SUMMARY_VIDEO_API_URL`、`YOUTUBE_SUMMARY_VIDEO_API_KEY`。
+
+### 2. 本地执行一次
+
+```bash
+cd /path/to/personal-homepage
+node scripts/cli.js trending-analysis
+```
+
+会先抓取当日热门，再对 **Top 10** 逐条调 LLM 生成内容摘要，并写回 JSON。
+
+### 3. 在 OpenClaw 里添加每日定时
+
+- 新建「定时任务」或「快捷指令」。
+- 执行命令设为（把路径换成你的仓库根目录）：
+  ```bash
+  /bin/bash /path/to/personal-homepage/scripts/run-daily-trending-analysis.sh
+  ```
+- 设为每日固定时间（如早上 9:00）运行。
+
+### 4. 网页展示
+
+站点会读取 `data/trending-videos/` 下最新日期的 JSON。若有 `analysisTop10`，则展示前十名卡片：**名字、作者、发布时间、链接、类型、点赞数、评论数、分享数**（YouTube 无分享数则显示 —）、**LLM 生成的内容摘要**。排版已单独优化，便于阅读。

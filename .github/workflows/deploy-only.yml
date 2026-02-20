@@ -1,12 +1,12 @@
-name: Daily build and deploy
+# 仅构建并部署，不拉取数据。用于：本地已跑过抓取 + LLM 摘要后，把 data/ 推送到仓库，然后自动或手动部署。
+name: Deploy only (no crawl)
 
 on:
-  schedule:
-    # 每天 00:00 UTC = 北京时间 08:00 自动跑一次
-    - cron: '0 0 * * *'
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['data/**']
 
-# 若 Pages 源选的是 GitHub Actions，必须用 deploy-pages 部署
 permissions:
   contents: read
   pages: write
@@ -26,20 +26,6 @@ jobs:
 
       - name: Install root deps
         run: npm install
-
-      - name: Prepare config for CI
-        run: cp scripts/config.example.js scripts/config.js
-
-      - name: Crawl all
-        env:
-          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
-          YOUTUBE_REGIONS: ${{ secrets.YOUTUBE_REGIONS }}
-          YOUTUBE_SUMMARY_API_URL: ${{ secrets.YOUTUBE_SUMMARY_API_URL }}
-          YOUTUBE_SUMMARY_API_KEY: ${{ secrets.YOUTUBE_SUMMARY_API_KEY }}
-          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
-          REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
-        run: node scripts/cli.js all
-        continue-on-error: true
 
       - name: Copy data to public
         run: node scripts/copy-data-to-public.js

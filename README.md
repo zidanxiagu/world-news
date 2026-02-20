@@ -28,6 +28,8 @@ cd site && npm run dev
 - **iMessage**: 通过 OpenClaw 技能「更新主页数据」「抓今日热门」等触发
 - **定时**: GitHub Actions 每日 cron 或本机 cron 执行 `node scripts/cli.js all`
 
+**每日从执行到部署的流程图**：见 **[docs/FLOW.md](docs/FLOW.md)**（含 GitHub 自动 build、本地/OpenClaw 分析 + 仅部署两条路径）。
+
 ## 配置
 
 复制 `scripts/config.example.js` 为 `scripts/config.js`，填入 API Key（不提交 config.js）。或使用环境变量。

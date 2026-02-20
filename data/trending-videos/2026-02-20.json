@@ -1,16 +1,11 @@
 {
   "date": "2026-02-20",
-  "items": [
-    {
-      "title": "(TikTok 热门占位 — 暂无官方 API)",
-      "url": "#",
-      "views": "-",
-      "source": "tiktok"
-    }
-  ],
+  "items": [],
   "summary": "",
   "regions": [
     "US",
     "GB"
-  ]
+  ],
+  "analysisTop10": [],
+  "analyzedAt": "2026-02-20T10:20:13.939Z"
 }

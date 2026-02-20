@@ -11,19 +11,27 @@
   "date": "YYYY-MM-DD",
   "regions": ["US", "GB"],
   "summary": "今日 US/GB 地区热门共 N 支，趋势包括：...",
-  "items": [
+  "analyzedAt": "ISO8601",
+  "analysisTop10": [
     {
       "title": "string",
       "url": "string",
       "views": "string",
-      "source": "youtube|tiktok",
+      "likeCount": "string",
+      "commentCount": "string",
+      "shareCount": "—",
+      "categoryName": "string",
       "channelTitle": "string",
-      "region": "string"
+      "publishedAt": "ISO8601",
+      "publishedAtFormatted": "string",
+      "region": "string",
+      "contentSummary": "LLM 生成的内容摘要"
     }
-  ]
+  ],
+  "items": [ "...同上字段，含 contentSummary 的为 Top10" ]
 }
 ```
-- `summary` 由脚本根据标题生成（或调用可选摘要 API）；`regions` 为抓取时使用的地区码。
+- `analysisTop10` 与每条 `contentSummary` 由本地/OpenClaw 跑 `trending-analysis` 生成（需 LLM API）。
 
 ## news
 

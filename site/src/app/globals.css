@@ -57,3 +57,111 @@ section h2 {
   font-size: 0.85rem;
   color: #888;
 }
+
+/* 每日热门视频 - Top10 分析卡片 */
+.trending-section {
+  width: 100%;
+}
+.trending-summary {
+  margin-bottom: 1.5rem;
+}
+.trending-summary p {
+  margin: 0.5rem 0 0 0;
+}
+.trending-top10 {
+  margin-top: 1rem;
+}
+.top10-title {
+  font-size: 1rem;
+  color: #a0a0a0;
+  margin: 0 0 1rem 0;
+  font-weight: 600;
+}
+.top10-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.top10-card {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 1rem;
+  padding: 1.25rem;
+  border-left: 3px solid #333;
+}
+.top10-card:hover {
+  border-left-color: #6ea8fe;
+}
+.top10-rank {
+  flex-shrink: 0;
+  width: 2.5rem;
+  height: 2.5rem;
+  line-height: 2.5rem;
+  text-align: center;
+  font-weight: 700;
+  font-size: 0.9rem;
+  color: #6ea8fe;
+  background: rgba(110, 168, 254, 0.12);
+  border-radius: 8px;
+}
+.top10-main {
+  flex: 1;
+  min-width: 0;
+}
+.top10-name {
+  margin: 0 0 0.35rem 0;
+  font-size: 1.05rem;
+  line-height: 1.35;
+}
+.top10-name a {
+  color: #e0e0e0;
+}
+.top10-meta,
+.top10-stats {
+  font-size: 0.8rem;
+  color: #888;
+  margin-top: 0.25rem;
+}
+.top10-meta .sep,
+.top10-stats .sep {
+  margin: 0 0.4rem;
+  color: #555;
+}
+.top10-type {
+  margin-top: 0.35rem;
+}
+.top10-type .tag {
+  display: inline-block;
+  font-size: 0.75rem;
+  padding: 0.2rem 0.5rem;
+  background: #2a2a2a;
+  color: #a0a0a0;
+  border-radius: 4px;
+}
+.top10-summary {
+  margin-top: 0.75rem;
+  padding-top: 0.75rem;
+  border-top: 1px solid #2a2a2a;
+}
+.top10-summary strong {
+  font-size: 0.8rem;
+  color: #888;
+}
+.top10-summary p {
+  margin: 0.35rem 0 0 0;
+  font-size: 0.9rem;
+  color: #b0b0b0;
+  line-height: 1.5;
+}
+.trending-fallback {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.trending-fallback .card h3 {
+  margin: 0 0 0.25rem 0;
+  font-size: 1rem;
+}
+.trending-section .empty {
+  color: #888;
+}
