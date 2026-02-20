@@ -1,9 +1,14 @@
 const path = require('path');
 const fs = require('fs');
-const config = require('./config');
 
-const src = config.dataDir;
-const dest = path.join(config.repoRoot, 'site', 'public', 'data');
+let config;
+try {
+  config = require('./config');
+} catch (_) {
+  config = { dataDir: path.join(__dirname, '..', 'data'), repoRoot: path.join(__dirname, '..') };
+}
+const src = config.dataDir || path.join(__dirname, '..', 'data');
+const dest = path.join(config.repoRoot || path.join(__dirname, '..'), 'site', 'public', 'data');
 if (!fs.existsSync(src)) process.exit(0);
 fs.mkdirSync(dest, { recursive: true });
 function copyDir(a, b) {
