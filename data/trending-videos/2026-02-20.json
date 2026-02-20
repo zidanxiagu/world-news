@@ -1,0 +1,17 @@
+{
+  "date": "2026-02-20",
+  "items": [
+    {
+      "title": "(YouTube API Key 未配置)",
+      "url": "#",
+      "views": "-",
+      "source": "youtube"
+    },
+    {
+      "title": "(TikTok 热门占位 — 暂无官方 API)",
+      "url": "#",
+      "views": "-",
+      "source": "tiktok"
+    }
+  ]
+}
