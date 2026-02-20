@@ -8,6 +8,10 @@ on:
 jobs:
   crawl-and-build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
     steps:
       - uses: actions/checkout@v4
 
