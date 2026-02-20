@@ -5,13 +5,15 @@ on:
     - cron: '0 0 * * *'
   workflow_dispatch:
 
+# 若 Pages 源选的是 GitHub Actions，必须用 deploy-pages 部署
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
 jobs:
-  crawl-and-build:
+  build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-      pages: write
-      id-token: write
     steps:
       - uses: actions/checkout@v4
 
@@ -30,6 +32,9 @@ jobs:
       - name: Crawl all
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          YOUTUBE_REGIONS: ${{ secrets.YOUTUBE_REGIONS }}
+          YOUTUBE_SUMMARY_API_URL: ${{ secrets.YOUTUBE_SUMMARY_API_URL }}
+          YOUTUBE_SUMMARY_API_KEY: ${{ secrets.YOUTUBE_SUMMARY_API_KEY }}
           REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
           REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
         run: node scripts/cli.js all
@@ -42,11 +47,24 @@ jobs:
         run: cd site && npm ci
 
       - name: Build site
-        run: npm run build
+        run: cd site && npm run build
 
-      - name: Deploy to GitHub Pages
-        if: github.ref == 'refs/heads/main'
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: site/out
+          path: site/out
+
+  deploy:
+    if: github.ref == 'refs/heads/main'
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deploy
+        uses: actions/deploy-pages@v4

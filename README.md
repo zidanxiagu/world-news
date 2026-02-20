@@ -30,7 +30,9 @@ cd site && npm run dev
 
 ## 配置
 
-复制 `scripts/config.example.js` 为 `scripts/config.js`，填入 API Key（不提交 config.js）。或使用环境变量，见 `scripts/config.js` 内说明。
+复制 `scripts/config.example.js` 为 `scripts/config.js`，填入 API Key（不提交 config.js）。或使用环境变量。
+
+**详细说明**：需要配哪些、如何获取 API Key、本地与 GitHub Secrets 对照，见 **[docs/CONFIG.md](docs/CONFIG.md)**。
 
 ## 部署到 GitHub Pages
 

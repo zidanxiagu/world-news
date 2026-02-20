@@ -9,11 +9,13 @@ const DATA_DIR = path.join(config.dataDir, 'trending-videos');
  */
 async function run(dateStr) {
   const existingPath = path.join(DATA_DIR, `${dateStr}.json`);
-  let base = { date: dateStr, items: [] };
+  let base = { date: dateStr, items: [], summary: '', regions: [] };
   if (fs.existsSync(existingPath)) {
     try {
       const existing = JSON.parse(fs.readFileSync(existingPath, 'utf8'));
       base.items = existing.items || [];
+      if (existing.summary) base.summary = existing.summary;
+      if (existing.regions) base.regions = existing.regions;
     } catch (_) {}
   }
   const tiktokPlaceholder = {

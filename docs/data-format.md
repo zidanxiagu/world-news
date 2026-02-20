@@ -9,11 +9,21 @@
 ```json
 {
   "date": "YYYY-MM-DD",
+  "regions": ["US", "GB"],
+  "summary": "今日 US/GB 地区热门共 N 支，趋势包括：...",
   "items": [
-    { "title": "string", "url": "string", "views": "string", "source": "youtube|tiktok" }
+    {
+      "title": "string",
+      "url": "string",
+      "views": "string",
+      "source": "youtube|tiktok",
+      "channelTitle": "string",
+      "region": "string"
+    }
   ]
 }
 ```
+- `summary` 由脚本根据标题生成（或调用可选摘要 API）；`regions` 为抓取时使用的地区码。
 
 ## news
 
