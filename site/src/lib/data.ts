@@ -13,6 +13,13 @@ function readJson(dir: string, file: string): unknown {
   }
 }
 
+function isEmptyTrending(data: unknown): boolean {
+  const d = data as { items?: unknown[]; analysisTop10?: unknown[] } | null;
+  const items = d?.items ?? [];
+  const top10 = d?.analysisTop10 ?? [];
+  return items.length === 0 && top10.length === 0;
+}
+
 function getLatestOrSample(dir: string, sampleName: string): unknown {
   const today = new Date().toISOString().slice(0, 10);
   const dirPath = path.join(DATA_BASE, dir);
@@ -28,8 +35,10 @@ function getLatestOrSample(dir: string, sampleName: string): unknown {
 }
 
 export async function readData() {
+  let trendingVideos = getLatestOrSample('trending-videos', 'sample.json');
+  if (trendingVideos && isEmptyTrending(trendingVideos)) trendingVideos = readJson('trending-videos', 'sample.json');
   return {
-    trendingVideos: getLatestOrSample('trending-videos', 'sample.json'),
+    trendingVideos: trendingVideos || getLatestOrSample('trending-videos', 'sample.json'),
     news: getLatestOrSample('news', 'sample.json'),
     geek: getLatestOrSample('reddit-hn', 'sample.json'),
     learning: readJson('learning', 'placeholder.json'),
