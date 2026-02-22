@@ -31,8 +31,16 @@ function formatNum(s: string | undefined): string {
   return String(n);
 }
 
+function formatDate(dateStr: string | undefined): string {
+  if (!dateStr) return '';
+  const d = new Date(dateStr + 'T12:00:00');
+  if (Number.isNaN(d.getTime())) return dateStr;
+  return d.toLocaleDateString('zh-CN', { year: 'numeric', month: 'long', day: 'numeric' });
+}
+
 export function TrendingVideos({ data }: { data: unknown }) {
   const d = data as Data | null;
+  const date = d?.date ?? '';
   const summary = d?.summary ?? '';
   const regions = d?.regions ?? [];
   const top10 = d?.analysisTop10 ?? [];
@@ -41,11 +49,17 @@ export function TrendingVideos({ data }: { data: unknown }) {
 
   return (
     <div className="trending-section">
+      {date ? (
+        <div className="trending-date">
+          <span className="trending-date-label">数据日期</span>
+          <time dateTime={date}>{formatDate(date)}</time>
+        </div>
+      ) : null}
       {summary ? (
         <div className="trending-summary card">
-          <strong>趋势摘要</strong>
+          <strong className="trending-summary-label">趋势摘要</strong>
           <p>{summary}</p>
-          {regions.length > 0 && <div className="meta">地区: {regions.join(', ')}</div>}
+          {regions.length > 0 && <div className="trending-regions">地区：{regions.join('、')}</div>}
         </div>
       ) : null}
 
@@ -61,13 +75,13 @@ export function TrendingVideos({ data }: { data: unknown }) {
                     <a href={item.url} target="_blank" rel="noopener noreferrer">{item.title}</a>
                   </h4>
                   <div className="top10-meta">
-                    <span title="作者">{item.channelTitle || '—'}</span>
+                    <span className="top10-channel" title="频道">{item.channelTitle || '—'}</span>
                     <span className="sep">·</span>
-                    <span title="发布时间">{item.publishedAtFormatted || item.publishedAt || '—'}</span>
+                    <span className="top10-published" title="发布时间">{item.publishedAtFormatted || item.publishedAt || '—'}</span>
                     {item.region ? (
                       <>
                         <span className="sep">·</span>
-                        <span>{item.region}</span>
+                        <span className="top10-region">{item.region}</span>
                       </>
                     ) : null}
                   </div>
@@ -77,7 +91,7 @@ export function TrendingVideos({ data }: { data: unknown }) {
                     </div>
                   ) : null}
                   <div className="top10-stats">
-                    <span title="播放">播放 {formatNum(item.views)}</span>
+                    <span title="播放量">▶ {formatNum(item.views)}</span>
                     <span className="sep">·</span>
                     <span title="点赞">👍 {formatNum(item.likeCount)}</span>
                     <span className="sep">·</span>

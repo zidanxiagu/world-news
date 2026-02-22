@@ -19,7 +19,8 @@
 
 | 配置项 | 说明 | 如何获取 | 本地填写位置 |
 |--------|------|----------|--------------|
-| **YOUTUBE_API_KEY** | YouTube Data API v3 密钥 | 见下方「获取 YouTube API Key」 | `config.js` → `youtube.apiKey` 或环境变量 `YOUTUBE_API_KEY` |
+| **YOUTUBE_API_KEY** | YouTube Data API v3 密钥（可选） | 见下方「获取 YouTube API Key」 | `config.js` → `youtube.apiKey` 或环境变量 `YOUTUBE_API_KEY` |
+| **useScraper** | 无 Key 时是否从官网抓取 | 默认 true：无 Key 或 API 失败时自动用页面抓取 | `config.js` → `youtube.useScraper` 或环境变量 `YOUTUBE_USE_SCRAPER=false` 关闭 |
 | **regions** | 抓取哪些地区的热门 | 地区代码，如 US、GB、JP | `config.js` → `youtube.regions` 或环境变量 `YOUTUBE_REGIONS`（逗号分隔，如 `US,GB,JP`） |
 | **maxResultsPerRegion** | 每个地区最多取多少条 | 数字，默认 15 | 一般用默认即可，在 `config.js` 里改 |
 | **summaryApiUrl** / **summaryApiKey** | 可选：调用外部 API 生成文字摘要 | 你自己的摘要服务（如 LLM 接口） | 不配则用内置简单摘要（前 8 条标题拼接） |
@@ -35,7 +36,7 @@
    export YOUTUBE_API_KEY="你的密钥"
    ```
 
-**注意**：未配置 API Key 时，热门视频会显示占位文案「YouTube API Key 未配置」，不会报错。
+**注意**：未配置 API Key 时，若已开启「从官网抓取」（`youtube.useScraper` 默认 true），会尝试从 YouTube 页面 HTML 中的 `ytInitialData` 提取热门列表，无需 Key。若抓取失败或你设了 `useScraper: false`，则会显示占位或拉取失败提示。
 
 ---
 

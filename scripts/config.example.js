@@ -6,6 +6,7 @@ module.exports = {
   // YouTube Data API v3：热门与趋势
   youtube: {
     apiKey: process.env.YOUTUBE_API_KEY || '',
+    useScraper: process.env.YOUTUBE_USE_SCRAPER !== 'false',
     regions: process.env.YOUTUBE_REGIONS ? process.env.YOUTUBE_REGIONS.split(',') : ['US', 'GB'],
     maxResultsPerRegion: 15,
     summaryApiUrl: process.env.YOUTUBE_SUMMARY_API_URL || '',

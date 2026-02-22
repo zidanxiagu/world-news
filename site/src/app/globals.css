@@ -62,20 +62,58 @@ section h2 {
 .trending-section {
   width: 100%;
 }
+
+.trending-date {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 1.25rem;
+  font-size: 0.875rem;
+}
+.trending-date-label {
+  color: #888;
+  font-weight: 500;
+}
+.trending-date time {
+  color: #b0b0b0;
+  font-variant-numeric: tabular-nums;
+}
+
 .trending-summary {
-  margin-bottom: 1.5rem;
+  margin-bottom: 1.75rem;
+  padding: 1.25rem 1.5rem;
+  background: linear-gradient(135deg, #1a1a1a 0%, #161616 100%);
+  border: 1px solid #2a2a2a;
+}
+.trending-summary-label {
+  display: block;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #6ea8fe;
+  margin-bottom: 0.5rem;
 }
 .trending-summary p {
-  margin: 0.5rem 0 0 0;
+  margin: 0;
+  font-size: 0.95rem;
+  color: #d0d0d0;
+  line-height: 1.6;
 }
+.trending-regions {
+  margin-top: 0.75rem;
+  font-size: 0.8rem;
+  color: #888;
+}
+
 .trending-top10 {
-  margin-top: 1rem;
+  margin-top: 1.5rem;
 }
 .top10-title {
-  font-size: 1rem;
+  font-size: 0.9rem;
   color: #a0a0a0;
-  margin: 0 0 1rem 0;
+  margin: 0 0 1.25rem 0;
   font-weight: 600;
+  letter-spacing: 0.02em;
 }
 .top10-list {
   list-style: none;
@@ -84,75 +122,102 @@ section h2 {
 }
 .top10-card {
   display: flex;
-  gap: 1rem;
-  margin-bottom: 1rem;
-  padding: 1.25rem;
-  border-left: 3px solid #333;
+  gap: 1.25rem;
+  margin-bottom: 1.25rem;
+  padding: 1.35rem 1.5rem;
+  background: #1a1a1a;
+  border-radius: 10px;
+  border: 1px solid #252525;
+  border-left: 4px solid #333;
+  transition: border-left-color 0.2s, border-color 0.2s, box-shadow 0.2s;
 }
 .top10-card:hover {
   border-left-color: #6ea8fe;
+  border-color: #2a3540;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.25);
 }
 .top10-rank {
   flex-shrink: 0;
-  width: 2.5rem;
-  height: 2.5rem;
-  line-height: 2.5rem;
+  width: 2.75rem;
+  height: 2.75rem;
+  line-height: 2.75rem;
   text-align: center;
   font-weight: 700;
-  font-size: 0.9rem;
+  font-size: 0.95rem;
   color: #6ea8fe;
-  background: rgba(110, 168, 254, 0.12);
-  border-radius: 8px;
+  background: rgba(110, 168, 254, 0.14);
+  border-radius: 10px;
+  font-variant-numeric: tabular-nums;
 }
 .top10-main {
   flex: 1;
   min-width: 0;
 }
 .top10-name {
-  margin: 0 0 0.35rem 0;
+  margin: 0 0 0.4rem 0;
   font-size: 1.05rem;
-  line-height: 1.35;
+  line-height: 1.4;
+  font-weight: 500;
 }
 .top10-name a {
-  color: #e0e0e0;
+  color: #e8e8e8;
+}
+.top10-name a:hover {
+  color: #6ea8fe;
 }
 .top10-meta,
 .top10-stats {
   font-size: 0.8rem;
   color: #888;
-  margin-top: 0.25rem;
+  margin-top: 0.3rem;
 }
 .top10-meta .sep,
 .top10-stats .sep {
-  margin: 0 0.4rem;
-  color: #555;
+  margin: 0 0.5rem;
+  color: #444;
+  user-select: none;
+}
+.top10-channel {
+  color: #9a9a9a;
+}
+.top10-published,
+.top10-region {
+  color: #777;
 }
 .top10-type {
-  margin-top: 0.35rem;
+  margin-top: 0.4rem;
 }
 .top10-type .tag {
   display: inline-block;
-  font-size: 0.75rem;
-  padding: 0.2rem 0.5rem;
-  background: #2a2a2a;
+  font-size: 0.72rem;
+  padding: 0.22rem 0.55rem;
+  background: #252525;
   color: #a0a0a0;
-  border-radius: 4px;
+  border-radius: 6px;
+}
+.top10-stats {
+  margin-top: 0.35rem;
 }
 .top10-summary {
-  margin-top: 0.75rem;
-  padding-top: 0.75rem;
-  border-top: 1px solid #2a2a2a;
+  margin-top: 0.85rem;
+  padding-top: 0.85rem;
+  border-top: 1px solid #252525;
 }
 .top10-summary strong {
-  font-size: 0.8rem;
-  color: #888;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: #777;
+  display: block;
+  margin-bottom: 0.25rem;
 }
 .top10-summary p {
-  margin: 0.35rem 0 0 0;
+  margin: 0;
   font-size: 0.9rem;
-  color: #b0b0b0;
-  line-height: 1.5;
+  color: #b5b5b5;
+  line-height: 1.55;
 }
+
 .trending-fallback {
   list-style: none;
   padding: 0;

@@ -6,6 +6,82 @@ const DATA_DIR = path.join(config.dataDir, 'trending-videos');
 const regions = config.youtube?.regions || ['US', 'GB'];
 const maxPerRegion = config.youtube?.maxResultsPerRegion ?? 15;
 
+/** 从 YouTube 官网抓取热门（无需 API Key）。从页面 HTML 里的 ytInitialData 提取视频列表。 */
+async function fetchTrendingByScraper(regionCode = 'US') {
+  const url = 'https://www.youtube.com/feed/trending';
+  const res = await fetch(url, {
+    headers: {
+      'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+      'Accept-Language': 'en-US,en;q=0.9',
+    },
+  });
+  const html = await res.text();
+  const startMarker = 'var ytInitialData = ';
+  const idx = html.indexOf(startMarker);
+  if (idx === -1) throw new Error('ytInitialData not found in page');
+  const jsonStart = html.indexOf('{', idx + startMarker.length);
+  if (jsonStart === -1) throw new Error('ytInitialData: no { found');
+  let depth = 0;
+  let end = jsonStart;
+  for (let i = jsonStart; i < html.length; i++) {
+    if (html[i] === '{') depth++;
+    else if (html[i] === '}') { depth--; if (depth === 0) { end = i + 1; break; } }
+  }
+  const jsonStr = html.slice(jsonStart, end);
+  let data;
+  try {
+    data = JSON.parse(jsonStr);
+  } catch (e) {
+    throw new Error('ytInitialData parse failed: ' + e.message);
+  }
+  const videos = collectVideoRenderers(data);
+  return videos.slice(0, maxPerRegion).map((v) => ({
+    id: v.videoId,
+    title: v.title?.runs?.[0]?.text || v.title?.simpleText || '',
+    description: (v.descriptionSnippet?.runs?.[0]?.text || '').slice(0, 500),
+    url: `https://youtube.com/watch?v=${v.videoId}`,
+    views: parseViewCount(v.viewCount?.simpleText || v.shortViewCount?.simpleText || '0'),
+    viewsStr: v.viewCount?.simpleText || v.shortViewCount?.simpleText || '0',
+    likeCount: '',
+    commentCount: '',
+    categoryId: '',
+    channelTitle: v.ownerText?.runs?.[0]?.text || v.longBylineText?.runs?.[0]?.text || '',
+    publishedAt: v.publishedTime?.simpleText || '',
+    source: 'youtube',
+    region: regionCode,
+  }));
+}
+
+function parseViewCount(s) {
+  const raw = String(s).replace(/\s/g, '').replace(/,/g, '');
+  const m = raw.match(/^([\d.]+)\s*([KMB])?/i);
+  if (!m) return 0;
+  const n = parseFloat(m[1]) || 0;
+  const u = (m[2] || '').toUpperCase();
+  if (u === 'K') return Math.floor(n * 1000);
+  if (u === 'M') return Math.floor(n * 1e6);
+  if (u === 'B') return Math.floor(n * 1e9);
+  return Math.floor(n);
+}
+
+function collectVideoRenderers(obj, out = [], seen = new Set()) {
+  if (!obj || typeof obj !== 'object') return out;
+  if (seen.has(obj)) return out;
+  const hasTitle = obj.title && (obj.title.runs?.[0]?.text || obj.title.simpleText);
+  if (obj.videoId && hasTitle) {
+    seen.add(obj);
+    out.push(obj);
+    return out;
+  }
+  if (Array.isArray(obj)) {
+    for (const item of obj) collectVideoRenderers(item, out, seen);
+    return out;
+  }
+  seen.add(obj);
+  for (const key of Object.keys(obj)) collectVideoRenderers(obj[key], out, seen);
+  return out;
+}
+
 async function fetchPopularForRegion(apiKey, regionCode) {
   const url = `https://www.googleapis.com/youtube/v3/videos?part=snippet,statistics&chart=mostPopular&regionCode=${regionCode}&maxResults=${maxPerRegion}&key=${apiKey}`;
   const res = await fetch(url);
@@ -30,18 +106,25 @@ async function fetchPopularForRegion(apiKey, regionCode) {
 
 async function fetchAllTrending(dateStr) {
   const apiKey = config.youtube?.apiKey || '';
-  if (!apiKey) {
-    return {
-      date: dateStr,
-      regions: [],
-      items: [{ title: '(YouTube API Key 未配置)', url: '#', viewsStr: '-', source: 'youtube' }],
-      summary: '',
-    };
-  }
+  const useScraper = config.youtube?.useScraper !== false;
   const byId = new Map();
+
   for (const regionCode of regions) {
     try {
-      const items = await fetchPopularForRegion(apiKey, regionCode);
+      let items;
+      if (apiKey) {
+        try {
+          items = await fetchPopularForRegion(apiKey, regionCode);
+        } catch (apiErr) {
+          if (useScraper) {
+            items = await fetchTrendingByScraper(regionCode);
+          } else throw apiErr;
+        }
+      } else if (useScraper) {
+        items = await fetchTrendingByScraper(regionCode);
+      } else {
+        throw new Error('YouTube API Key 未配置且未启用爬虫');
+      }
       for (const item of items) {
         if (!byId.has(item.id)) byId.set(item.id, { ...item, region: item.region });
         else {

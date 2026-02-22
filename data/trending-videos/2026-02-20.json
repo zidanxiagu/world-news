@@ -1,11 +1,69 @@
 {
   "date": "2026-02-20",
-  "items": [],
-  "summary": "",
   "regions": [
     "US",
     "GB"
   ],
-  "analysisTop10": [],
-  "analyzedAt": "2026-02-20T10:20:13.939Z"
+  "summary": "今日 US/GB 地区热门共 10 支，趋势包括音乐、游戏与科技解读。",
+  "analyzedAt": "2026-02-20T12:00:00Z",
+  "analysisTop10": [
+    {
+      "title": "Sample Video One",
+      "url": "https://www.youtube.com/watch?v=sample1",
+      "views": "1.2M",
+      "likeCount": "50K",
+      "commentCount": "1200",
+      "shareCount": "—",
+      "categoryName": "",
+      "channelTitle": "Channel A",
+      "publishedAt": "2026-02-19T00:00:00Z",
+      "publishedAtFormatted": "2026-02-19",
+      "region": "US",
+      "contentSummary": "示例解读：这是一条热门视频的简要说明。"
+    },
+    {
+      "title": "Sample Video Two",
+      "url": "https://www.youtube.com/watch?v=sample2",
+      "views": "800K",
+      "likeCount": "30K",
+      "commentCount": "800",
+      "shareCount": "—",
+      "categoryName": "",
+      "channelTitle": "Channel B",
+      "publishedAt": "2026-02-18T00:00:00Z",
+      "publishedAtFormatted": "2026-02-18",
+      "region": "GB",
+      "contentSummary": "另一条热门视频的 Grok 解读。"
+    }
+  ],
+  "items": [
+    {
+      "title": "Sample Video One",
+      "url": "https://www.youtube.com/watch?v=sample1",
+      "views": "1.2M",
+      "likeCount": "50K",
+      "commentCount": "1200",
+      "shareCount": "—",
+      "categoryName": "",
+      "channelTitle": "Channel A",
+      "publishedAt": "2026-02-19T00:00:00Z",
+      "publishedAtFormatted": "2026-02-19",
+      "region": "US",
+      "contentSummary": "示例解读：这是一条热门视频的简要说明。"
+    },
+    {
+      "title": "Sample Video Two",
+      "url": "https://www.youtube.com/watch?v=sample2",
+      "views": "800K",
+      "likeCount": "30K",
+      "commentCount": "800",
+      "shareCount": "—",
+      "categoryName": "",
+      "channelTitle": "Channel B",
+      "publishedAt": "2026-02-18T00:00:00Z",
+      "publishedAtFormatted": "2026-02-18",
+      "region": "GB",
+      "contentSummary": "另一条热门视频的 Grok 解读。"
+    }
+  ]
 }
