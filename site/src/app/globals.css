@@ -93,14 +93,38 @@ section h2 {
   color: #6ea8fe;
   margin-bottom: 0.5rem;
 }
-.trending-summary p {
-  margin: 0;
+.trending-summary p,
+.trending-summary-intro {
+  margin: 0 0 0.75rem 0;
   font-size: 0.95rem;
   color: #d0d0d0;
   line-height: 1.6;
 }
+.trending-summary-intro {
+  margin-bottom: 0.75rem;
+}
+.trending-summary-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 0.75rem;
+  margin: 0;
+}
+.trending-summary-tag {
+  display: inline-block;
+  padding: 0.35rem 0.75rem;
+  font-size: 0.8rem;
+  color: #c0c0c0;
+  background: #252525;
+  border-radius: 6px;
+  border: 1px solid #333;
+  line-height: 1.3;
+}
+.trending-summary-tag:hover {
+  background: #2a2a2a;
+  color: #e0e0e0;
+}
 .trending-regions {
-  margin-top: 0.75rem;
+  margin-top: 1rem;
   font-size: 0.8rem;
   color: #888;
 }
@@ -185,7 +209,15 @@ section h2 {
   color: #777;
 }
 .top10-type {
-  margin-top: 0.4rem;
+  margin-top: 0.5rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+.top10-type-label {
+  font-size: 0.75rem;
+  color: #777;
+  flex-shrink: 0;
 }
 .top10-type .tag {
   display: inline-block;
@@ -196,7 +228,14 @@ section h2 {
   border-radius: 6px;
 }
 .top10-stats {
-  margin-top: 0.35rem;
+  margin-top: 0.4rem;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.15rem 0;
+}
+.top10-stat {
+  white-space: nowrap;
 }
 .top10-summary {
   margin-top: 0.85rem;
@@ -223,10 +262,29 @@ section h2 {
   padding: 0;
   margin: 0;
 }
-.trending-fallback .card h3 {
-  margin: 0 0 0.25rem 0;
-  font-size: 1rem;
+.trending-fallback-card {
+  padding: 1rem 1.25rem;
+  margin-bottom: 0.75rem;
+  border-radius: 8px;
+  border: 1px solid #252525;
 }
+.trending-fallback-card h3 {
+  margin: 0 0 0.5rem 0;
+  font-size: 1rem;
+  line-height: 1.35;
+}
+.trending-fallback-meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem 1rem;
+  font-size: 0.8rem;
+  color: #888;
+}
+.trending-fallback-meta .channel { color: #9a9a9a; }
+.trending-fallback-meta .region { color: #777; }
+.trending-fallback-meta .stat { white-space: nowrap; }
+.trending-fallback-meta .category { margin-left: 0.25rem; }
 .trending-section .empty {
   color: #888;
 }

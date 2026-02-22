@@ -38,6 +38,18 @@ function formatDate(dateStr: string | undefined): string {
   return d.toLocaleDateString('zh-CN', { year: 'numeric', month: 'long', day: 'numeric' });
 }
 
+function parseSummaryTitles(summary: string): { intro: string; titles: string[] } {
+  const idx = summary.indexOf('趋势包括');
+  if (idx === -1) return { intro: summary, titles: [] };
+  const intro = summary.slice(0, idx).replace(/[,，\s]+$/, '').trim();
+  const rest = summary.slice(idx).replace(/^趋势包括[：:\s]*/, '').replace(/\s*[，。等]+\.?\s*$/, '').trim();
+  const titles = rest
+    .split(/[,，、|｜]+/)
+    .map((s) => s.trim())
+    .filter(Boolean);
+  return { intro, titles };
+}
+
 export function TrendingVideos({ data }: { data: unknown }) {
   const d = data as Data | null;
   const date = d?.date ?? '';
@@ -46,6 +58,8 @@ export function TrendingVideos({ data }: { data: unknown }) {
   const top10 = d?.analysisTop10 ?? [];
   const items = d?.items ?? [];
   const showAnalysis = top10.length > 0;
+  const summaryParsed = summary ? parseSummaryTitles(summary) : null;
+  const hasSummaryList = summaryParsed && summaryParsed.titles.length > 0;
 
   return (
     <div className="trending-section">
@@ -58,7 +72,18 @@ export function TrendingVideos({ data }: { data: unknown }) {
       {summary ? (
         <div className="trending-summary card">
           <strong className="trending-summary-label">趋势摘要</strong>
-          <p>{summary}</p>
+          {hasSummaryList ? (
+            <>
+              {summaryParsed!.intro && <p className="trending-summary-intro">{summaryParsed!.intro}</p>}
+              <div className="trending-summary-tags" role="list">
+                {summaryParsed!.titles.map((t, i) => (
+                  <span key={i} className="trending-summary-tag" role="listitem">{t}</span>
+                ))}
+              </div>
+            </>
+          ) : (
+            <p>{summary}</p>
+          )}
           {regions.length > 0 && <div className="trending-regions">地区：{regions.join('、')}</div>}
         </div>
       ) : null}
@@ -85,19 +110,18 @@ export function TrendingVideos({ data }: { data: unknown }) {
                       </>
                     ) : null}
                   </div>
-                  {item.categoryName ? (
-                    <div className="top10-type">
-                      <span className="tag">{item.categoryName}</span>
-                    </div>
-                  ) : null}
+                  <div className="top10-type">
+                    <span className="top10-type-label">分类</span>
+                    <span className="tag">{item.categoryName || '—'}</span>
+                  </div>
                   <div className="top10-stats">
-                    <span title="播放量">▶ {formatNum(item.views)}</span>
+                    <span className="top10-stat" title="播放量">▶ {formatNum(item.views)}</span>
                     <span className="sep">·</span>
-                    <span title="点赞">👍 {formatNum(item.likeCount)}</span>
+                    <span className="top10-stat" title="点赞数">👍 {formatNum(item.likeCount)}</span>
                     <span className="sep">·</span>
-                    <span title="评论">💬 {formatNum(item.commentCount)}</span>
+                    <span className="top10-stat" title="评论数">💬 {formatNum(item.commentCount)}</span>
                     <span className="sep">·</span>
-                    <span title="分享">↗ {item.shareCount ?? '—'}</span>
+                    <span className="top10-stat" title="分享">↗ {item.shareCount ?? '—'}</span>
                   </div>
                   {item.contentSummary ? (
                     <div className="top10-summary">
@@ -115,13 +139,15 @@ export function TrendingVideos({ data }: { data: unknown }) {
       {!showAnalysis && items.length > 0 ? (
         <ul className="trending-fallback">
           {items.map((item, i) => (
-            <li key={i} className="card">
+            <li key={i} className="trending-fallback-card card">
               <h3><a href={item.url} target="_blank" rel="noopener noreferrer">{item.title}</a></h3>
-              <div className="meta">
-                {item.source}
-                {item.channelTitle ? ` · ${item.channelTitle}` : ''}
-                {item.region ? ` · ${item.region}` : ''}
-                {' · '}{item.views ?? '—'} 播放
+              <div className="trending-fallback-meta">
+                {item.channelTitle && <span className="channel">{item.channelTitle}</span>}
+                {item.region && <span className="region">{item.region}</span>}
+                <span className="stat">▶ {formatNum(item.views)}</span>
+                <span className="stat">👍 {formatNum(item.likeCount)}</span>
+                <span className="stat">💬 {formatNum(item.commentCount)}</span>
+                {item.categoryName ? <span className="category tag">{item.categoryName}</span> : null}
               </div>
             </li>
           ))}
