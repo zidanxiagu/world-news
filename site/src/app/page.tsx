@@ -9,13 +9,14 @@ export default async function Home() {
   return (
     <>
       <nav>
-        <a href="#trending">每日热门视频</a>
+        <a href="#trending">今日热门视频</a>
         <a href="#news">财经·科技新闻</a>
         <a href="#geek">极客社区</a>
         <a href="#learning">个人学习</a>
+        <a href="/archive">历史归档</a>
       </nav>
       <section id="trending">
-        <h2>每日热门视频</h2>
+        <h2>今日热门视频</h2>
         <TrendingVideos data={data.trendingVideos} />
       </section>
       <section id="news">

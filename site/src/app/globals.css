@@ -288,3 +288,95 @@ section h2 {
 .trending-section .empty {
   color: #888;
 }
+
+/* 历史归档 */
+.archive-nav {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 0.75rem 1.5rem;
+  background: #1a1a1a;
+  border-bottom: 1px solid #252525;
+}
+.archive-nav a {
+  color: #6ea8fe;
+}
+.archive-title {
+  color: #a0a0a0;
+  font-size: 0.95rem;
+}
+.archive-section {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem;
+}
+.archive-section h2 {
+  margin-top: 0;
+  font-size: 1.25rem;
+  color: #a0a0a0;
+  border-bottom: 1px solid #333;
+  padding-bottom: 0.5rem;
+  margin-bottom: 1.5rem;
+}
+.archive-sources {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+.archive-source-block {
+  background: #1a1a1a;
+  border-radius: 10px;
+  padding: 1.25rem 1.5rem;
+  border: 1px solid #252525;
+}
+.archive-source-name {
+  font-size: 1rem;
+  color: #c0c0c0;
+  margin: 0 0 0.75rem 0;
+  font-weight: 600;
+}
+.archive-dates {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem 0.5rem;
+}
+.archive-dates a {
+  display: inline-block;
+  padding: 0.3rem 0.6rem;
+  font-size: 0.8rem;
+  color: #9a9a9a;
+  background: #252525;
+  border-radius: 6px;
+  text-decoration: none;
+}
+.archive-dates a:hover {
+  color: #6ea8fe;
+  background: #2a2a2a;
+}
+.archive-dates a.active {
+  color: #6ea8fe;
+  background: rgba(110, 168, 254, 0.15);
+}
+.archive-empty {
+  margin: 0;
+  font-size: 0.85rem;
+  color: #666;
+}
+.archive-content {
+  margin-top: 2rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid #2a2a2a;
+}
+.archive-content-title {
+  font-size: 0.95rem;
+  color: #a0a0a0;
+  margin: 0 0 1rem 0;
+  font-weight: 600;
+}
+.archive-hint {
+  margin-top: 1.5rem;
+  color: #888;
+}
