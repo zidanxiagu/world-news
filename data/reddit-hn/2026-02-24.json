@@ -5,213 +5,183 @@
       "title": "State of the Subreddit (January 2027): Mods applications and rules updates",
       "url": "https://reddit.com/r/programming/comments/1qoxwdt/state_of_the_subreddit_january_2027_mods/",
       "subreddit": "programming",
-      "score": 108,
-      "summary": "子版块 2027 年 1 月状态更新，包括版主申请和规则调整。"
+      "score": 110
     },
     {
       "title": "[Mock the hype post] The Software Development Lifecycle Is Dead | Boris Tane",
       "url": "https://reddit.com/r/programming/comments/1rd55kh/mock_the_hype_post_the_software_development/",
       "subreddit": "programming",
-      "score": 88,
-      "summary": "嘲讽式帖子：宣称软件开发生命周期已死，由 Boris Tane 撰写。"
+      "score": 90
     },
     {
       "title": "Let's understand &amp; implement consistent hashing.",
       "url": "https://reddit.com/r/programming/comments/1rd7ukf/lets_understand_implement_consistent_hashing/",
       "subreddit": "programming",
-      "score": 28,
-      "summary": "讲解并实现一致性哈希（consistent hashing）的原理与代码。"
+      "score": 28
     },
     {
       "title": "Age of Empires: 25+ years of pathfinding problems with C++ - Raymi Klingers - Meeting C++ 2025",
       "url": "https://reddit.com/r/programming/comments/1rczm6j/age_of_empires_25_years_of_pathfinding_problems/",
       "subreddit": "programming",
-      "score": 71,
-      "summary": "分享 Age of Empires 25+ 年来使用 C++ 解决路径规划问题的经验教训。"
+      "score": 69
     },
     {
       "title": "Code isn’t what’s slowing projects down",
       "url": "https://reddit.com/r/programming/comments/1rcj41t/code_isnt_whats_slowing_projects_down/",
       "subreddit": "programming",
-      "score": 326,
-      "summary": "指出真正拖慢项目进度的不是代码本身。"
+      "score": 331
     },
     {
       "title": "Hi! We're 404 Media's Jason Koebler and Joseph Cox. AMA (us) about the tech ICE is using, Flock and the state of surveillance in the US on Feb. 4, 12 pm ET",
       "url": "https://reddit.com/r/technology/comments/1qv9y8j/hi_were_404_medias_jason_koebler_and_joseph_cox/",
       "subreddit": "technology",
-      "score": 231,
-      "summary": "404 Media 的两位记者举办 AMA，讨论美国 ICE 使用的技术、Flock 系统及监控现状。"
+      "score": 229
     },
     {
       "title": "AI Added ‘Basically Zero’ to US Economic Growth Last Year, Goldman Sachs Says",
       "url": "https://reddit.com/r/technology/comments/1rct2p0/ai_added_basically_zero_to_us_economic_growth/",
       "subreddit": "technology",
-      "score": 29482,
-      "summary": "高盛报告称 AI 去年对美国经济增长贡献几乎为零。"
+      "score": 29601
     },
     {
       "title": "China invents process that turns desert sand into fertile soil in just 10 months",
       "url": "https://reddit.com/r/technology/comments/1rctrda/china_invents_process_that_turns_desert_sand_into/",
       "subreddit": "technology",
-      "score": 7138,
-      "summary": "中国研发出一种新技术，可在短短 10 个月内将沙漠沙子转化为肥沃土壤。"
+      "score": 7189
     },
     {
       "title": "Data centers are now hoarding SSDs as hard drive supplies dry up",
       "url": "https://reddit.com/r/technology/comments/1rcowmz/data_centers_are_now_hoarding_ssds_as_hard_drive/",
       "subreddit": "technology",
-      "score": 9271,
-      "summary": "由于硬盘供应短缺，数据中心开始大量囤积 SSD。"
+      "score": 9303
     },
     {
-      "title": "Nicki Minaj’s social media propped up by thousands of bots, analysis finds | An analysis shared with POLITICO reveals the rap sensation’s advocacy for conservative causes has been amplified by an army of bots and coordinated activity.",
-      "url": "https://reddit.com/r/technology/comments/1rcsw0y/nicki_minajs_social_media_propped_up_by_thousands/",
+      "title": "IBM stock dives after Anthropic points out AI can rewrite COBOL fast",
+      "url": "https://reddit.com/r/technology/comments/1rd41u7/ibm_stock_dives_after_anthropic_points_out_ai_can/",
       "subreddit": "technology",
-      "score": 3868,
-      "summary": "分析显示 Nicki Minaj 的社交媒体账号有数千机器人账号为其保守派言论造势。"
+      "score": 1008
     },
     {
       "title": "Monthly Getting Started / Web Dev Career Thread",
       "url": "https://reddit.com/r/webdev/comments/1q12o1k/monthly_getting_started_web_dev_career_thread/",
       "subreddit": "webdev",
-      "score": 30,
-      "summary": "本月 Web 开发入门及职业发展讨论贴。"
+      "score": 31
     },
     {
       "title": "Monthly Getting Started / Web Dev Career Thread",
       "url": "https://reddit.com/r/webdev/comments/1qswnox/monthly_getting_started_web_dev_career_thread/",
       "subreddit": "webdev",
-      "score": 14,
-      "summary": "本月 Web 开发入门及职业发展讨论贴。"
+      "score": 11
     },
     {
       "title": "RFC 406i The Rejection of Artificially Generated Slop (RAGS)",
       "url": "https://reddit.com/r/webdev/comments/1rcxvq5/rfc_406i_the_rejection_of_artificially_generated/",
       "subreddit": "webdev",
-      "score": 128,
-      "summary": "提出 RFC 406i，反对使用人工智能生成的低质量内容（slop）。"
+      "score": 127
     },
     {
       "title": "My 2025 dev setup after mass-quitting tools that annoyed me",
       "url": "https://reddit.com/r/webdev/comments/1rd8w9x/my_2025_dev_setup_after_massquitting_tools_that/",
       "subreddit": "webdev",
-      "score": 19,
-      "summary": "分享 2025 年彻底放弃烦人工具后的开发环境配置。"
+      "score": 18
     },
     {
       "title": "Just let go of my first freelance client",
       "url": "https://reddit.com/r/webdev/comments/1rd5nvb/just_let_go_of_my_first_freelance_client/",
       "subreddit": "webdev",
-      "score": 14,
-      "summary": "刚刚失去第一个自由职业客户的心得分享。"
+      "score": 13
     }
   ],
   "hn": [
     {
       "title": "Terence Tao, at 8 years old (1984) [pdf]",
       "url": "https://gwern.net/doc/iq/high/smpy/1984-clements.pdf",
-      "score": 249,
-      "id": "47123689",
-      "summary": "1984 年 8 岁的 Terence Tao 照片及相关 PDF 文档。"
-    },
-    {
-      "title": "Firefox 148 Launches with AI Kill Switch Feature and More Enhancements",
-      "url": "https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/",
-      "score": 228,
-      "id": "47133313",
-      "summary": "Firefox 148 版本发布，新增 AI 功能一键关闭开关及其他改进。"
+      "score": 256,
+      "id": "47123689"
     },
     {
       "title": "Show HN: enveil – hide your .env secrets from prAIng eyes",
       "url": "https://github.com/GreatScott/enveil",
-      "score": 74,
-      "id": "47133055",
-      "summary": "Show HN: enveil 工具，用于隐藏 .env 文件中的秘密免被 AI 窥探。"
+      "score": 76,
+      "id": "47133055"
+    },
+    {
+      "title": "Firefox 148 Launches with AI Kill Switch Feature and More Enhancements",
+      "url": "https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/",
+      "score": 235,
+      "id": "47133313"
     },
     {
       "title": "Diode – Build, program, and simulate hardware",
       "url": "https://www.withdiode.com/",
-      "score": 32,
-      "id": "47094768",
-      "summary": "Diode 项目：用于构建、编程和模拟硬件的工具。"
+      "score": 44,
+      "id": "47094768"
     },
     {
       "title": "I Ported Coreboot to the ThinkPad X270",
       "url": "https://dork.dev/posts/2026-02-20-ported-coreboot/",
       "score": 191,
-      "id": "47130860",
-      "summary": "成功将 Coreboot 移植到 ThinkPad X270 笔记本。"
+      "id": "47130860"
     },
     {
       "title": "Blood test boosts Alzheimer's diagnosis accuracy to 94.5%, clinical study shows",
       "url": "https://medicalxpress.com/news/2026-02-blood-boosts-alzheimer-diagnosis-accuracy.html",
-      "score": 247,
-      "id": "47132388",
-      "summary": "临床研究显示某血液检测可将阿尔茨海默病诊断准确率提升至 94.5%。"
+      "score": 253,
+      "id": "47132388"
     },
     {
       "title": "The Age Verification Trap: Verifying age undermines everyone's data protection",
       "url": "https://spectrum.ieee.org/age-verification",
-      "score": 1444,
-      "id": "47122715",
-      "summary": "年龄验证机制的陷阱：验证年龄反而损害所有人的数据保护。"
+      "score": 1449,
+      "id": "47122715"
     },
     {
       "title": "Show HN: X86CSS – An x86 CPU emulator written in CSS",
       "url": "https://lyra.horse/x86css/",
       "score": 121,
-      "id": "47132102",
-      "summary": "Show HN: 用纯 CSS 编写的 x86 CPU 模拟器 X86CSS。"
+      "id": "47132102"
     },
     {
       "title": "Show HN: Steerling-8B, a language model that can explain any token it generates",
       "url": "https://www.guidelabs.ai/post/steerling-8b-base-model-release/",
-      "score": 158,
-      "id": "47131225",
-      "summary": "Show HN: Steerling-8B 语言模型，能解释它生成的每一个 token。"
+      "score": 159,
+      "id": "47131225"
     },
     {
       "title": "Baby chicks pass the bouba-kiki test, challenging a theory of language evolution",
       "url": "https://www.scientificamerican.com/article/baby-chicks-pass-the-bouba-kiki-test-challenging-a-theory-of-language/",
-      "score": 75,
-      "id": "47079208",
-      "summary": "小鸡通过 bouba-kiki 测试，挑战语言进化相关理论。"
+      "score": 76,
+      "id": "47079208"
     },
     {
       "title": "Making Wolfram Tech Available as a Foundation Tool for LLM Systems",
       "url": "https://writings.stephenwolfram.com/2026/02/making-wolfram-tech-available-as-a-foundation-tool-for-llm-systems/",
       "score": 168,
-      "id": "47129727",
-      "summary": "Wolfram 技术现可作为 LLM 系统的基础工具使用。"
+      "id": "47129727"
     },
     {
       "title": "Unsung heroes: Flickr's URLs scheme",
       "url": "https://unsung.aresluna.org/unsung-heroes-flickrs-urls-scheme/",
-      "score": 61,
-      "id": "47100714",
-      "summary": "赞扬 Flickr URL 设计方案的低调贡献。"
+      "score": 66,
+      "id": "47100714"
     },
     {
       "title": "UNIX99, a UNIX-like OS for the TI-99/4A (2025)",
       "url": "https://forums.atariage.com/topic/380883-unix99-a-unix-like-os-for-the-ti-994a/",
-      "score": 174,
-      "id": "47127986",
-      "summary": "UNIX99：为 TI-99/4A 计算机打造的类 UNIX 操作系统（2025 年）。"
+      "score": 176,
+      "id": "47127986"
     },
     {
       "title": "“Car Wash” test with 53 models",
       "url": "https://opper.ai/blog/car-wash-test",
-      "score": 224,
-      "id": "47128138",
-      "summary": "用 53 个模型进行“洗车”测试的实验结果。"
+      "score": 227,
+      "id": "47128138"
     },
     {
       "title": "Intel XeSS 3: expanded support for Core Ultra/Core Ultra 2 and Arc A, B series",
       "url": "https://www.intel.com/content/www/us/en/download/785597/intel-arc-graphics-windows.html",
-      "score": 29,
-      "id": "47132721",
-      "summary": "Intel XeSS 3 扩展支持 Core Ultra/Core Ultra 2 及 Arc A、B 系列显卡。"
+      "score": 31,
+      "id": "47132721"
     }
   ],
   "producthunt": [],
