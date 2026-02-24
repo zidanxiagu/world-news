@@ -21,3 +21,22 @@ function copyDir(a, b) {
   }
 }
 copyDir(src, dest);
+
+// 供静态导出时归档页使用：写入 archive-index.json（来源 -> 日期列表）
+const ARCHIVE_SOURCE_DIRS = ['trending-videos', 'reddit-hn', 'news'];
+const index = {};
+for (const dir of ARCHIVE_SOURCE_DIRS) {
+  const dirPath = path.join(dest, dir);
+  if (!fs.existsSync(dirPath)) {
+    index[dir] = [];
+    continue;
+  }
+  const files = fs.readdirSync(dirPath).filter((f) => f.endsWith('.json'));
+  const dates = files
+    .filter((f) => /^\d{4}-\d{2}-\d{2}\.json$/.test(f))
+    .map((f) => f.replace('.json', ''))
+    .sort()
+    .reverse();
+  index[dir] = dates;
+}
+fs.writeFileSync(path.join(dest, 'archive-index.json'), JSON.stringify(index), 'utf8');
