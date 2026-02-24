@@ -215,7 +215,7 @@ const OLLAMA_CHAT_URL = 'http://localhost:11434/v1/chat/completions';
 const GEMINI_BASE = 'https://generativelanguage.googleapis.com/v1beta/models';
 
 function buildSummaryPrompt(title, description, maxSentences) {
-  return `你是一个视频内容总结助手。根据以下 YouTube 视频标题和描述，用 ${maxSentences} 句话概括视频的主要内容或亮点。只输出摘要正文，不要加「摘要：」等前缀。\n\n标题：${title}\n\n描述：${description}`;
+  return `你是一个视频内容总结助手。根据以下 YouTube 视频标题和描述，用 ${maxSentences} 句话概括视频的主要内容或亮点。要求：必须用中文输出摘要，标题或描述为英文时也请将摘要写成中文。只输出摘要正文，不要加「摘要：」等前缀。\n\n标题：${title}\n\n描述：${description}`;
 }
 
 /** 免费：仅用描述前几句作为摘要，不调任何 API */
