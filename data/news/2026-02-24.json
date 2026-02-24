@@ -5,37 +5,43 @@
       "title": "(RSS 拉取失败: https://feeds.reuters.com/reuters/topNews)",
       "url": "#",
       "source": "https://feeds.reuters.com/reuters/topNews",
-      "publishedAt": "2026-02-24"
+      "publishedAt": "2026-02-24",
+      "summary": "RSS 拉取失败: https://feeds.reuters.com/reuters/topNews"
+    },
+    {
+      "title": "Stripe, PayPal Ventures bet on India&#8217;s Xflow to fix cross-border B2B payments",
+      "url": "https://techcrunch.com/2026/02/23/stripe-paypal-ventures-bet-on-indias-xflow-to-fix-cross-border-b2b-payments/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-02-24T07:28:59.254Z",
+      "summary": "Stripe和PayPal Ventures投资印度初创公司Xflow，旨在解决跨境B2B支付痛点。"
     },
     {
       "title": "A Meta AI security researcher said an OpenClaw agent ran amok on her inbox",
       "url": "https://techcrunch.com/2026/02/23/a-meta-ai-security-researcher-said-an-openclaw-agent-ran-amok-on-her-inbox/",
       "source": "TechCrunch",
-      "publishedAt": "2026-02-24T04:34:57.360Z"
+      "publishedAt": "2026-02-24T07:28:59.255Z",
+      "summary": "一位Meta AI安全研究员表示，其邮箱被一个名为OpenClaw的AI代理失控干扰。"
     },
     {
       "title": "Tesla&#8217;s battle with the California Department of Motor Vehicles isn&#8217;t over after all",
       "url": "https://techcrunch.com/2026/02/23/teslas-battle-with-the-california-department-of-motor-vehicles-isnt-over-after-all/",
       "source": "TechCrunch",
-      "publishedAt": "2026-02-24T04:34:57.361Z"
+      "publishedAt": "2026-02-24T07:28:59.255Z",
+      "summary": "特斯拉与加州机动车管理局的争端并未完全结束，仍存在后续法律问题。"
     },
     {
       "title": "With AI, investor loyalty is (almost) dead: At least a dozen OpenAI VCs now also back Anthropic",
       "url": "https://techcrunch.com/2026/02/23/with-ai-investor-loyalty-is-almost-dead-at-least-a-dozen-openai-vcs-now-also-back-anthropic/",
       "source": "TechCrunch",
-      "publishedAt": "2026-02-24T04:34:57.361Z"
+      "publishedAt": "2026-02-24T07:28:59.255Z",
+      "summary": "随着AI发展，投资者忠诚度几乎消失，至少十几家支持OpenAI的风投现在也投资了Anthropic。"
     },
     {
       "title": "Ex-Apple team launches Acme Weather, a new take on weather forecasting",
       "url": "https://techcrunch.com/2026/02/23/ex-apple-team-launches-acme-weather-a-new-take-on-weather-forecasting/",
       "source": "TechCrunch",
-      "publishedAt": "2026-02-24T04:34:57.361Z"
-    },
-    {
-      "title": "Anthropic accuses Chinese AI labs of mining Claude as US debates AI chip exports",
-      "url": "https://techcrunch.com/2026/02/23/anthropic-accuses-chinese-ai-labs-of-mining-claude-as-us-debates-ai-chip-exports/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-02-24T04:34:57.361Z"
+      "publishedAt": "2026-02-24T07:28:59.255Z",
+      "summary": "前苹果团队推出全新天气应用Acme Weather，带来不同的天气预报体验。"
     }
   ]
 }
