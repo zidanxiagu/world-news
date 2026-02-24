@@ -1,0 +1,187 @@
+{
+  "date": "2026-02-24",
+  "reddit": [
+    {
+      "title": "State of the Subreddit (January 2027): Mods applications and rules updates",
+      "url": "https://reddit.com/r/programming/comments/1qoxwdt/state_of_the_subreddit_january_2027_mods/",
+      "subreddit": "programming",
+      "score": 111
+    },
+    {
+      "title": "Code isn’t what’s slowing projects down",
+      "url": "https://reddit.com/r/programming/comments/1rcj41t/code_isnt_whats_slowing_projects_down/",
+      "subreddit": "programming",
+      "score": 238
+    },
+    {
+      "title": "Dictionary Compression is finally here, and it's ridiculously good",
+      "url": "https://reddit.com/r/programming/comments/1rcfofi/dictionary_compression_is_finally_here_and_its/",
+      "subreddit": "programming",
+      "score": 240
+    },
+    {
+      "title": "Age of Empires: 25+ years of pathfinding problems with C++ - Raymi Klingers - Meeting C++ 2025",
+      "url": "https://reddit.com/r/programming/comments/1rczm6j/age_of_empires_25_years_of_pathfinding_problems/",
+      "subreddit": "programming",
+      "score": 17
+    },
+    {
+      "title": "C Enum Sizes; or, How MSVC Ignores The Standard Once Again",
+      "url": "https://reddit.com/r/programming/comments/1rd0400/c_enum_sizes_or_how_msvc_ignores_the_standard/",
+      "subreddit": "programming",
+      "score": 15
+    },
+    {
+      "title": "Hi! We're 404 Media's Jason Koebler and Joseph Cox. AMA (us) about the tech ICE is using, Flock and the state of surveillance in the US on Feb. 4, 12 pm ET",
+      "url": "https://reddit.com/r/technology/comments/1qv9y8j/hi_were_404_medias_jason_koebler_and_joseph_cox/",
+      "subreddit": "technology",
+      "score": 228
+    },
+    {
+      "title": "AI Added ‘Basically Zero’ to US Economic Growth Last Year, Goldman Sachs Says",
+      "url": "https://reddit.com/r/technology/comments/1rct2p0/ai_added_basically_zero_to_us_economic_growth/",
+      "subreddit": "technology",
+      "score": 21266
+    },
+    {
+      "title": "China invents process that turns desert sand into fertile soil in just 10 months",
+      "url": "https://reddit.com/r/technology/comments/1rctrda/china_invents_process_that_turns_desert_sand_into/",
+      "subreddit": "technology",
+      "score": 4984
+    },
+    {
+      "title": "Data centers are now hoarding SSDs as hard drive supplies dry up",
+      "url": "https://reddit.com/r/technology/comments/1rcowmz/data_centers_are_now_hoarding_ssds_as_hard_drive/",
+      "subreddit": "technology",
+      "score": 7613
+    },
+    {
+      "title": "Nicki Minaj’s social media propped up by thousands of bots, analysis finds | An analysis shared with POLITICO reveals the rap sensation’s advocacy for conservative causes has been amplified by an army of bots and coordinated activity.",
+      "url": "https://reddit.com/r/technology/comments/1rcsw0y/nicki_minajs_social_media_propped_up_by_thousands/",
+      "subreddit": "technology",
+      "score": 2858
+    },
+    {
+      "title": "Monthly Getting Started / Web Dev Career Thread",
+      "url": "https://reddit.com/r/webdev/comments/1q12o1k/monthly_getting_started_web_dev_career_thread/",
+      "subreddit": "webdev",
+      "score": 33
+    },
+    {
+      "title": "Monthly Getting Started / Web Dev Career Thread",
+      "url": "https://reddit.com/r/webdev/comments/1qswnox/monthly_getting_started_web_dev_career_thread/",
+      "subreddit": "webdev",
+      "score": 12
+    },
+    {
+      "title": "RFC 406i The Rejection of Artificially Generated Slop (RAGS)",
+      "url": "https://reddit.com/r/webdev/comments/1rcxvq5/rfc_406i_the_rejection_of_artificially_generated/",
+      "subreddit": "webdev",
+      "score": 51
+    },
+    {
+      "title": "what is a hidden gem website for development that everyone should know about?​",
+      "url": "https://reddit.com/r/webdev/comments/1rceli3/what_is_a_hidden_gem_website_for_development_that/",
+      "subreddit": "webdev",
+      "score": 225
+    },
+    {
+      "title": "Why is jQuery so bad, but Alpine.js/HTMX/etc is just fine?",
+      "url": "https://reddit.com/r/webdev/comments/1rclqyp/why_is_jquery_so_bad_but_alpinejshtmxetc_is_just/",
+      "subreddit": "webdev",
+      "score": 84
+    }
+  ],
+  "hn": [
+    {
+      "title": "Blood test boosts Alzheimer's diagnosis accuracy to 94.5%, clinical study shows",
+      "url": "https://medicalxpress.com/news/2026-02-blood-boosts-alzheimer-diagnosis-accuracy.html",
+      "score": 33,
+      "id": "47132388"
+    },
+    {
+      "title": "I Ported Coreboot to the ThinkPad X270",
+      "url": "https://dork.dev/posts/2026-02-20-ported-coreboot/",
+      "score": 79,
+      "id": "47130860"
+    },
+    {
+      "title": "The Age Verification Trap: Verifying age undermines everyone's data protection",
+      "url": "https://spectrum.ieee.org/age-verification",
+      "score": 1266,
+      "id": "47122715"
+    },
+    {
+      "title": "UNIX99, a UNIX-like OS for the TI-99/4A (2025)",
+      "url": "https://forums.atariage.com/topic/380883-unix99-a-unix-like-os-for-the-ti-994a/",
+      "score": 155,
+      "id": "47127986"
+    },
+    {
+      "title": "Shatner is making an album with 35 metal icons",
+      "url": "https://www.guitarworld.com/artists/guitarists/william-shatner-announces-all-star-metal-album",
+      "score": 119,
+      "id": "47131173"
+    },
+    {
+      "title": "Making Wolfram Tech Available as a Foundation Tool for LLM Systems",
+      "url": "https://writings.stephenwolfram.com/2026/02/making-wolfram-tech-available-as-a-foundation-tool-for-llm-systems/",
+      "score": 82,
+      "id": "47129727"
+    },
+    {
+      "title": "Show HN: Steerling-8B, a language model that can explain any token it generates",
+      "url": "https://www.guidelabs.ai/post/steerling-8b-base-model-release/",
+      "score": 28,
+      "id": "47131225"
+    },
+    {
+      "title": "FreeBSD doesn't have Wi-Fi driver for my old MacBook, so AI built one for me",
+      "url": "https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/",
+      "score": 293,
+      "id": "47129361"
+    },
+    {
+      "title": "GPU Rack Power Density, 2015–2025",
+      "url": "https://syaala.com/blog/gpu-rack-density-timeline-2026",
+      "score": 9,
+      "id": "47084622"
+    },
+    {
+      "title": "A simple web we own",
+      "url": "https://rsdoiel.github.io/blog/2026/02/21/a_simple_web_we_own.html",
+      "score": 191,
+      "id": "47124149"
+    },
+    {
+      "title": "“Car Wash” test with 53 models",
+      "url": "https://opper.ai/blog/car-wash-test",
+      "score": 107,
+      "id": "47128138"
+    },
+    {
+      "title": "Show HN: PgDog – Scale Postgres without changing the app",
+      "url": "https://github.com/pgdogdev/pgdog",
+      "score": 199,
+      "id": "47123631"
+    },
+    {
+      "title": "Ladybird adopts Rust, with help from AI",
+      "url": "https://ladybird.org/posts/adopting-rust/",
+      "score": 1106,
+      "id": "47120899"
+    },
+    {
+      "title": "Show HN: Babyshark – Wireshark made easy (terminal UI for PCAPs)",
+      "url": "https://github.com/vignesh07/babyshark",
+      "score": 71,
+      "id": "47128535"
+    },
+    {
+      "title": "The challenges of porting Shufflepuck Cafe to the 8 bits Apple II",
+      "url": "https://www.colino.net/wordpress/archives/2026/02/23/the-challenges-of-porting-shufflepuck-cafe-to-the-8-bits-apple-ii/",
+      "score": 53,
+      "id": "47128631"
+    }
+  ]
+}
