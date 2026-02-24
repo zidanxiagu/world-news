@@ -1,3 +1,4 @@
+import Link from 'next/link';
 import { readData } from '@/lib/data';
 import { TrendingVideos } from '@/components/TrendingVideos';
 import { NewsDigest } from '@/components/NewsDigest';
@@ -13,7 +14,7 @@ export default async function Home() {
         <a href="#news">财经·科技新闻</a>
         <a href="#geek">极客社区</a>
         <a href="#learning">个人学习</a>
-        <a href="/archive">历史归档</a>
+        <Link href="/archive">历史归档</Link>
       </nav>
       <section id="trending">
         <h2>今日热门视频</h2>
