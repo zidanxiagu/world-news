@@ -120,7 +120,14 @@ async function fetchProductHunt() {
     const items = await fetchProductHuntApi(apiKey);
     if (items.length > 0) return items;
   }
-  return fetchProductHuntRss();
+  try {
+    const items = await fetchProductHuntRss();
+    if (items.length === 0) console.log('[geek] Product Hunt RSS returned 0 items (Grok will fill in summaries step)');
+    return items;
+  } catch (e) {
+    console.log('[geek] Product Hunt RSS failed:', e.message, '(Grok will fill in summaries step)');
+    return [];
+  }
 }
 
 async function fetchRssItems(url, sourceName) {

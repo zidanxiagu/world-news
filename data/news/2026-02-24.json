@@ -6,42 +6,42 @@
       "url": "#",
       "source": "https://feeds.reuters.com/reuters/topNews",
       "publishedAt": "2026-02-24",
-      "summary": "RSS 拉取失败: https://feeds.reuters.com/reuters/topNews"
+      "summary": "由于 RSS 拉取失败，无法从路透社获取顶级新闻内容。"
     },
     {
       "title": "Canva acquires startups working on animation and marketing",
       "url": "https://techcrunch.com/2026/02/23/canva-acquires-startups-working-on-animation-and-marketing/",
       "source": "TechCrunch",
       "publishedAt": "2026-02-24T10:40:14.838Z",
-      "summary": "Canva 收购了两家专注于动画制作和营销领域的初创公司，以增强其设计平台功能。"
+      "summary": "Canva 收购了专注于动画和营销的初创公司，以扩展其设计工具的功能并加强在创意领域的竞争力。"
     },
     {
       "title": "Stripe, PayPal Ventures bet on India&#8217;s Xflow to fix cross-border B2B payments",
       "url": "https://techcrunch.com/2026/02/23/stripe-paypal-ventures-bet-on-indias-xflow-to-fix-cross-border-b2b-payments/",
       "source": "TechCrunch",
       "publishedAt": "2026-02-24T10:40:14.839Z",
-      "summary": "Stripe 和 PayPal Ventures 投资印度初创公司 Xflow，旨在解决跨境 B2B 支付痛点。"
+      "summary": "Stripe 和 PayPal Ventures 投资印度初创公司 Xflow，旨在解决跨境 B2B 支付中的痛点，提高效率和安全性。"
     },
     {
       "title": "A Meta AI security researcher said an OpenClaw agent ran amok on her inbox",
       "url": "https://techcrunch.com/2026/02/23/a-meta-ai-security-researcher-said-an-openclaw-agent-ran-amok-on-her-inbox/",
       "source": "TechCrunch",
       "publishedAt": "2026-02-24T10:40:14.839Z",
-      "summary": "一位 Meta AI 安全研究员表示，其邮箱被一个名为 OpenClaw 的 AI 代理失控入侵。"
+      "summary": "Meta AI 安全研究员表示，OpenClaw 代理在她的收件箱中失控运行，引发了对 AI 代理潜在风险的担忧。"
     },
     {
       "title": "Tesla&#8217;s battle with the California Department of Motor Vehicles isn&#8217;t over after all",
       "url": "https://techcrunch.com/2026/02/23/teslas-battle-with-the-california-department-of-motor-vehicles-isnt-over-after-all/",
       "source": "TechCrunch",
       "publishedAt": "2026-02-24T10:40:14.839Z",
-      "summary": "特斯拉与加州机动车管理局的争端并未完全结束，仍存在后续法律或监管问题。"
+      "summary": "特斯拉与加州机动车辆管理局的纠纷尚未结束，可能涉及自动驾驶技术的监管问题。"
     },
     {
       "title": "With AI, investor loyalty is (almost) dead: At least a dozen OpenAI VCs now also back Anthropic",
       "url": "https://techcrunch.com/2026/02/23/with-ai-investor-loyalty-is-almost-dead-at-least-a-dozen-openai-vcs-now-also-back-anthropic/",
       "source": "TechCrunch",
       "publishedAt": "2026-02-24T10:40:14.839Z",
-      "summary": "随着 AI 发展，至少十几位原本投资 OpenAI 的风投机构现在也开始支持 Anthropic，投资者忠诚度几乎消失。"
+      "summary": "随着 AI 的发展，投资者忠诚度几乎消失，至少有十几家 OpenAI 的风投现在也支持 Anthropic，显示出投资者的多元化策略。"
     }
   ]
 }

@@ -6,105 +6,105 @@
       "url": "https://reddit.com/r/programming/comments/1qoxwdt/state_of_the_subreddit_january_2027_mods/",
       "subreddit": "programming",
       "score": 112,
-      "summary": "子版块 2027 年 1 月状态更新：包括版主招募申请和规则调整内容。"
+      "summary": "子版块一月状态更新，包括版主申请和规则修改。"
     },
     {
       "title": "[Mock the hype post] The Software Development Lifecycle Is Dead | Boris Tane",
       "url": "https://reddit.com/r/programming/comments/1rd55kh/mock_the_hype_post_the_software_development/",
       "subreddit": "programming",
       "score": 107,
-      "summary": "嘲讽式帖子：宣称软件开发生命周期已死，由 Boris Tane 撰写。"
+      "summary": "嘲讽炒作帖：软件开发生命周期已死，由 Boris Tane 撰写。"
     },
     {
       "title": "Let's understand &amp; implement consistent hashing.",
       "url": "https://reddit.com/r/programming/comments/1rd7ukf/lets_understand_implement_consistent_hashing/",
       "subreddit": "programming",
       "score": 32,
-      "summary": "讲解并实现一致性哈希（consistent hashing）的技术原理与代码实践。"
+      "summary": "让我们理解并实现一致性哈希算法。"
     },
     {
       "title": "Age of Empires: 25+ years of pathfinding problems with C++ - Raymi Klingers - Meeting C++ 2025",
       "url": "https://reddit.com/r/programming/comments/1rczm6j/age_of_empires_25_years_of_pathfinding_problems/",
       "subreddit": "programming",
       "score": 71,
-      "summary": "分享 Age of Empires 游戏 25+ 年间用 C++ 实现的路径寻找问题演进，由 Raymi Klingers 在 Meeting C++ 2025 演讲。"
+      "summary": "帝国时代：25 年以上的 C++ 路径寻找问题，由 Raymi Klingers 在 Meeting C++ 2025 上分享。"
     },
     {
       "title": "Code isn’t what’s slowing projects down",
       "url": "https://reddit.com/r/programming/comments/1rcj41t/code_isnt_whats_slowing_projects_down/",
       "subreddit": "programming",
       "score": 331,
-      "summary": "指出真正拖慢项目进度的不是代码本身，而是其他因素。"
+      "summary": "代码并不是拖慢项目进度的原因。"
     },
     {
       "title": "Hi! We're 404 Media's Jason Koebler and Joseph Cox. AMA (us) about the tech ICE is using, Flock and the state of surveillance in the US on Feb. 4, 12 pm ET",
       "url": "https://reddit.com/r/technology/comments/1qv9y8j/hi_were_404_medias_jason_koebler_and_joseph_cox/",
       "subreddit": "technology",
       "score": 227,
-      "summary": "404 Media 的 Jason Koebler 和 Joseph Cox 将于 2 月 4 日中午 12 点 ET 举行 AMA，讨论美国科技监控、ICE 使用技术、Flock 系统及监控现状。"
+      "summary": "我们是 404 Media 的 Jason Koebler 和 Joseph Cox，在 2 月 4 日中午 12 点 ET 进行 AMA，讨论 ICE 使用的技术、Flock 和美国监控状态。"
     },
     {
       "title": "AI Added ‘Basically Zero’ to US Economic Growth Last Year, Goldman Sachs Says",
       "url": "https://reddit.com/r/technology/comments/1rct2p0/ai_added_basically_zero_to_us_economic_growth/",
       "subreddit": "technology",
       "score": 29991,
-      "summary": "高盛报告称，AI 去年对美国经济增长贡献几乎为零。"
+      "summary": "高盛表示，AI 去年对美国经济增长贡献几乎为零。"
     },
     {
       "title": "China invents process that turns desert sand into fertile soil in just 10 months",
       "url": "https://reddit.com/r/technology/comments/1rctrda/china_invents_process_that_turns_desert_sand_into/",
       "subreddit": "technology",
       "score": 7321,
-      "summary": "中国研发出一种工艺，可在短短 10 个月内将沙漠沙子转化为肥沃土壤。"
+      "summary": "中国发明了一种将沙漠沙子在 10 个月内转化为肥沃土壤的过程。"
     },
     {
       "title": "Data centers are now hoarding SSDs as hard drive supplies dry up",
       "url": "https://reddit.com/r/technology/comments/1rcowmz/data_centers_are_now_hoarding_ssds_as_hard_drive/",
       "subreddit": "technology",
       "score": 9413,
-      "summary": "由于硬盘供应短缺，数据中心开始大量囤积 SSD。"
+      "summary": "数据中心现在囤积 SSD，因为硬盘供应枯竭。"
     },
     {
       "title": "IBM stock dives after Anthropic points out AI can rewrite COBOL fast",
       "url": "https://reddit.com/r/technology/comments/1rd41u7/ibm_stock_dives_after_anthropic_points_out_ai_can/",
       "subreddit": "technology",
       "score": 1203,
-      "summary": "Anthropic 指出 AI 可快速重写 COBOL 代码，导致 IBM 股价下跌。"
+      "summary": "IBM 股票因 Anthropic 指出 AI 可以快速重写 COBOL 而暴跌。"
     },
     {
       "title": "Monthly Getting Started / Web Dev Career Thread",
       "url": "https://reddit.com/r/webdev/comments/1q12o1k/monthly_getting_started_web_dev_career_thread/",
       "subreddit": "webdev",
       "score": 32,
-      "summary": "本月 Web 开发入门/职业发展讨论串（重复出现两条）。"
+      "summary": "每月入门 / 网页开发职业线程。"
     },
     {
       "title": "Monthly Getting Started / Web Dev Career Thread",
       "url": "https://reddit.com/r/webdev/comments/1qswnox/monthly_getting_started_web_dev_career_thread/",
       "subreddit": "webdev",
       "score": 13,
-      "summary": "RFC 406i 提案：正式拒绝人工智能生成的低质量内容（slop），称为 RAGS。"
+      "summary": "每月入门 / 网页开发职业线程。"
     },
     {
       "title": "RFC 406i The Rejection of Artificially Generated Slop (RAGS)",
       "url": "https://reddit.com/r/webdev/comments/1rcxvq5/rfc_406i_the_rejection_of_artificially_generated/",
       "subreddit": "webdev",
       "score": 136,
-      "summary": "作者分享 2025 年开发环境：大规模弃用各种烦人工具后的最终配置。"
+      "summary": "RFC 406i：拒绝人工智能生成的垃圾 (RAGS)。"
     },
     {
       "title": "My 2025 dev setup after mass-quitting tools that annoyed me",
       "url": "https://reddit.com/r/webdev/comments/1rd8w9x/my_2025_dev_setup_after_massquitting_tools_that/",
       "subreddit": "webdev",
       "score": 24,
-      "summary": "作者刚刚失去第一个自由职业客户的心路历程。"
+      "summary": "我的 2025 年开发设置，在大规模退出烦人的工具后。"
     },
     {
       "title": "Just let go of my first freelance client",
       "url": "https://reddit.com/r/webdev/comments/1rd5nvb/just_let_go_of_my_first_freelance_client/",
       "subreddit": "webdev",
       "score": 15,
-      "summary": ""
+      "summary": "刚刚放手我的第一个自由职业客户。"
     }
   ],
   "hn": [
@@ -113,200 +113,359 @@
       "url": "https://gwern.net/doc/iq/high/smpy/1984-clements.pdf",
       "score": 272,
       "id": "47123689",
-      "summary": "1984 年 8 岁的 Terence Tao 照片或相关 PDF 文档。"
+      "summary": "Terence Tao 在 8 岁时（1984 年）的 PDF 文件。"
     },
     {
       "title": "Diode – Build, program, and simulate hardware",
       "url": "https://www.withdiode.com/",
       "score": 67,
       "id": "47094768",
-      "summary": "Diode：一款用于构建、编程和模拟硬件的工具。"
+      "summary": "Diode – 构建、编程和模拟硬件。"
     },
     {
       "title": "Show HN: enveil – hide your .env secrets from prAIng eyes",
       "url": "https://github.com/GreatScott/enveil",
       "score": 81,
       "id": "47133055",
-      "summary": "Show HN: enveil – 一款将 .env 秘密文件隐藏起来防止泄露的工具。"
+      "summary": "Show HN: enveil – 隐藏你的 .env 秘密免受窥探。"
     },
     {
       "title": "Firefox 148 Launches with AI Kill Switch Feature and More Enhancements",
       "url": "https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/",
       "score": 260,
       "id": "47133313",
-      "summary": "Firefox 148 版本发布，新增 AI 功能一键关闭开关及其他改进。"
+      "summary": "Firefox 148 推出 AI 关闭开关功能以及更多增强。"
     },
     {
       "title": "A distributed queue in a single JSON file on object storage",
       "url": "https://turbopuffer.com/blog/object-storage-queue",
       "score": 10,
       "id": "47099401",
-      "summary": "介绍一种仅用单个 JSON 文件在对象存储上实现的分布式队列。"
+      "summary": "一个分布在对象存储单个 JSON 文件中的分布式队列。"
     },
     {
       "title": "I Ported Coreboot to the ThinkPad X270",
       "url": "https://dork.dev/posts/2026-02-20-ported-coreboot/",
       "score": 197,
       "id": "47130860",
-      "summary": "作者成功将 Coreboot 移植到 ThinkPad X270 笔记本。"
+      "summary": "我将 Coreboot 移植到 ThinkPad X270。"
     },
     {
       "title": "Blood test boosts Alzheimer's diagnosis accuracy to 94.5%, clinical study shows",
       "url": "https://medicalxpress.com/news/2026-02-blood-boosts-alzheimer-diagnosis-accuracy.html",
       "score": 262,
       "id": "47132388",
-      "summary": "临床研究显示，一种血液检测方法将阿尔茨海默病诊断准确率提升至 94.5%。"
+      "summary": "血液测试将阿尔茨海默病的诊断准确率提高到 94.5%，临床研究显示。"
     },
     {
       "title": "The Age Verification Trap: Verifying age undermines everyone's data protection",
       "url": "https://spectrum.ieee.org/age-verification",
       "score": 1467,
       "id": "47122715",
-      "summary": "年龄验证机制陷阱：验证年龄的过程反而损害所有人的数据保护。"
+      "summary": "年龄验证陷阱：验证年龄会破坏每个人的数据保护。"
     },
     {
       "title": "Show HN: X86CSS – An x86 CPU emulator written in CSS",
       "url": "https://lyra.horse/x86css/",
       "score": 128,
       "id": "47132102",
-      "summary": "Show HN: X86CSS – 用纯 CSS 语言编写的 x86 CPU 模拟器。"
+      "summary": "Show HN: X86CSS – 用 CSS 编写的 x86 CPU 模拟器。"
     },
     {
       "title": "Show HN: Steerling-8B, a language model that can explain any token it generates",
       "url": "https://www.guidelabs.ai/post/steerling-8b-base-model-release/",
       "score": 169,
       "id": "47131225",
-      "summary": "Show HN: Steerling-8B，一款能为自身生成的每个 token 提供解释的语言模型。"
+      "summary": "Show HN: Steerling-8B，一个可以解释它生成的任何 token 的语言模型。"
     },
     {
       "title": "Making Wolfram tech available as a foundation tool for LLM systems",
       "url": "https://writings.stephenwolfram.com/2026/02/making-wolfram-tech-available-as-a-foundation-tool-for-llm-systems/",
       "score": 173,
       "id": "47129727",
-      "summary": "Wolfram 技术被作为 LLM 系统的基础工具提供可用性。"
+      "summary": "使 Wolfram 技术作为 LLM 系统的基础工具可用。"
     },
     {
       "title": "“Car Wash” test with 53 models",
       "url": "https://opper.ai/blog/car-wash-test",
       "score": 236,
       "id": "47128138",
-      "summary": "使用 53 个模型进行的“Car Wash”测试结果分享。"
+      "summary": "用 53 个模型进行的“Car Wash”测试。"
     },
     {
       "title": "UNIX99, a UNIX-like OS for the TI-99/4A (2025)",
       "url": "https://forums.atariage.com/topic/380883-unix99-a-unix-like-os-for-the-ti-994a/",
       "score": 178,
       "id": "47127986",
-      "summary": "UNIX99：2025 年为 TI-99/4A 计算机打造的类 UNIX 操作系统。"
+      "summary": "UNIX99，一个用于 TI-99/4A 的类 UNIX 操作系统（2025）。"
     },
     {
       "title": "Intel XeSS 3: expanded support for Core Ultra/Core Ultra 2 and Arc A, B series",
       "url": "https://www.intel.com/content/www/us/en/download/785597/intel-arc-graphics-windows.html",
       "score": 33,
       "id": "47132721",
-      "summary": "Intel XeSS 3 扩展支持 Core Ultra/Core Ultra 2 以及 Arc A、B 系列显卡。"
+      "summary": "Intel XeSS 3：扩展支持 Core Ultra/Core Ultra 2 和 Arc A、B 系列。"
     },
     {
       "title": "Unsung heroes: Flickr's URLs scheme",
       "url": "https://unsung.aresluna.org/unsung-heroes-flickrs-urls-scheme/",
       "score": 75,
       "id": "47100714",
-      "summary": "致敬 Flickr 长期被低估的 URL 设计方案及其巧妙之处。"
+      "summary": "无名英雄：Flickr 的 URL 方案。"
     }
   ],
-  "producthunt": [],
+  "producthunt": [
+    {
+      "title": "toktrack",
+      "url": "https://www.producthunt.com/products/toktrack",
+      "summary": "toktrack 是一个跟踪 AI CLI 支出的工具，支持 Claude、Codex 和 Gemini，在 40ms 内完成跟踪。",
+      "source": "Product Hunt"
+    },
+    {
+      "title": "Liftsell",
+      "url": "https://www.producthunt.com/products/liftsell",
+      "summary": "Liftsell 提供智能弹出窗口和小部件，能够跟踪收入，帮助优化营销策略。",
+      "source": "Product Hunt"
+    },
+    {
+      "title": "SoloGuard",
+      "url": "https://www.producthunt.com/products/sologuard",
+      "summary": "SoloGuard 是为独居者和老年人设计的安检工具，确保他们的安全。",
+      "source": "Product Hunt"
+    },
+    {
+      "title": "Ziva.sh",
+      "url": "https://www.producthunt.com/products/ziva-sh-ai-agent-for-game-engines",
+      "summary": "Ziva.sh 是一个为 Godot 游戏引擎构建的 AI 代理，提升游戏开发效率。",
+      "source": "Product Hunt"
+    },
+    {
+      "title": "Collective OS",
+      "url": "https://www.producthunt.com/products/collective-os",
+      "summary": "Collective OS 是为代理机构和顾问设计的 AI 驱动推荐网络。",
+      "source": "Product Hunt"
+    },
+    {
+      "title": "Stitch by Google",
+      "url": "https://www.producthunt.com/products/stitch-by-google",
+      "summary": "Stitch by Google 可将草图转化为生产就绪的 UI，仅需几秒钟。",
+      "source": "Product Hunt"
+    },
+    {
+      "title": "Dictato",
+      "url": "https://www.producthunt.com/products/dictato",
+      "summary": "Dictato 为每台 Mac 提供本地即时语音转文本功能。",
+      "source": "Product Hunt"
+    },
+    {
+      "title": "Key Visual",
+      "url": "https://www.producthunt.com/products/key-visual",
+      "summary": "Key Visual 使用 AI 和实时 CMS 数据自动化营销视觉效果。",
+      "source": "Product Hunt"
+    },
+    {
+      "title": "Quilt",
+      "url": "https://www.producthunt.com/products/quilt-5",
+      "summary": "Quilt 是市场上最智能和高效的热泵。",
+      "source": "Product Hunt"
+    },
+    {
+      "title": "Universal-3 Pro by AssemblyAI",
+      "url": "https://www.producthunt.com/products/universal-3-pro-by-assemblyai",
+      "summary": "AssemblyAI 的 Universal-3 Pro 是终于理解上下文的语音转文本工具。",
+      "source": "Product Hunt"
+    }
+  ],
   "substack": [
     {
       "title": "The Pulse #162: Even fewer middle managers and more flexible teams?",
       "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-162-even-fewer-middle-managers",
       "source": "newsletter.pragmaticengineer.com",
-      "summary": "The Pulse #162：探讨更少中层管理者、更多灵活团队的组织趋势。"
+      "summary": "The Pulse #162：甚至更少的中层管理人员和更灵活的团队？"
     },
     {
       "title": "How Codex is built",
       "url": "https://newsletter.pragmaticengineer.com/p/how-codex-is-built",
       "source": "newsletter.pragmaticengineer.com",
-      "summary": "详细介绍 Codex 是如何构建出来的。"
+      "summary": "Codex 是如何构建的。"
     },
     {
       "title": "The Pragmatic Summit recordings and summaries",
       "url": "https://newsletter.pragmaticengineer.com/p/the-pragmatic-summit-recordings",
       "source": "newsletter.pragmaticengineer.com",
-      "summary": "Pragmatic Summit 大会录音及内容总结发布。"
+      "summary": "The Pragmatic Summit 录音和总结。"
     },
     {
       "title": "The programming language after Kotlin – with the creator of Kotlin",
       "url": "https://newsletter.pragmaticengineer.com/p/the-programming-language-after-kotlin",
       "source": "newsletter.pragmaticengineer.com",
-      "summary": "与 Kotlin 创造者共同讨论 Kotlin 之后的下一代编程语言。"
+      "summary": "Kotlin 之后的编程语言 – 与 Kotlin 的创建者一起。"
     },
     {
       "title": "Steve Yegge on AI Agents and the Future of Software Engineering",
       "url": "https://newsletter.pragmaticengineer.com/p/steve-yegge-on-ai-agents-and-the",
       "source": "newsletter.pragmaticengineer.com",
-      "summary": "Steve Yegge 谈 AI Agent 以及软件工程的未来走向。"
+      "summary": "Steve Yegge 谈 AI 代理和软件工程的未来。"
     },
     {
       "title": "How Large Language Models Learn",
       "url": "https://blog.bytebytego.com/p/how-large-language-models-learn",
       "source": "blog.bytebytego.com",
-      "summary": "讲解大型语言模型的学习机制与原理。"
+      "summary": "大型语言模型如何学习。"
     },
     {
       "title": "EP203: RabbitMQ vs Kafka vs Pulsar",
       "url": "https://blog.bytebytego.com/p/ep203-rabbitmq-vs-kafka-vs-pulsar",
       "source": "blog.bytebytego.com",
-      "summary": "EP203：对比分析 RabbitMQ、Kafka 和 Pulsar 三款消息队列。"
+      "summary": "EP203：RabbitMQ vs Kafka vs Pulsar。"
     },
     {
       "title": "LAST CALL FOR ENROLLMENT: Become an AI Engineer - Cohort 4",
       "url": "https://blog.bytebytego.com/p/last-call-for-enrollment-become-an",
       "source": "blog.bytebytego.com",
-      "summary": "最后召集：AI 工程师第四期课程即将开课报名。"
+      "summary": "最后报名：成为 AI 工程师 - 第 4 期。"
     },
     {
       "title": "Eventual Consistency: The Key Trade-Off Behind Modern Databases",
       "url": "https://blog.bytebytego.com/p/eventual-consistency-the-key-trade",
       "source": "blog.bytebytego.com",
-      "summary": "最终一致性：现代数据库背后最重要的权衡取舍。"
+      "summary": "最终一致性：现代数据库背后的关键权衡。"
     },
     {
       "title": "The First 10-Year Evolution of Stripe’s Payments API",
       "url": "https://blog.bytebytego.com/p/the-first-10-year-evolution-of-stripes",
       "source": "blog.bytebytego.com",
-      "summary": "回顾 Stripe 支付 API 在过去 10 年中的演进历程。"
+      "summary": "Stripe 支付 API 的前 10 年演变。"
     },
     {
       "title": "🎙️ This week on How I AI: How Notion’s design team uses Claude Code to design",
       "url": "https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-how-notions",
       "source": "www.lennysnewsletter.com",
-      "summary": "How I AI 本周节目：Notion 设计团队如何使用 Claude Code 辅助设计工作。"
+      "summary": "🎙️ 本周的 How I AI：Notion 的设计团队如何使用 Claude Code 进行设计。"
     },
     {
       "title": "“I haven’t written a single line of front-end code in 3 months”: How Notion’s design team uses Claude Code to prototype",
       "url": "https://www.lennysnewsletter.com/p/i-havent-written-a-single-line-of",
       "source": "www.lennysnewsletter.com",
-      "summary": "Notion 设计团队成员表示已有 3 个月未写一行前端代码，全靠 Claude Code 快速原型。"
+      "summary": "“我三个月没写一行前端代码”：Notion 的设计团队如何使用 Claude Code 原型设计。"
     },
     {
       "title": "🧠 Community Wisdom: Making your product enterprise-ready, when engineering outpaces product, managing PRD versions as features evolve, planning work around energy, and more",
       "url": "https://www.lennysnewsletter.com/p/community-wisdom-making-your-product",
       "source": "www.lennysnewsletter.com",
-      "summary": "社区智慧分享：产品企业化准备、工程跑赢产品、PRD 版本管理、按精力规划工作等话题。"
+      "summary": "🧠 社区智慧：让你的产品企业就绪，当工程超过产品时，管理 PRD 版本随着功能演变，围绕能量规划工作，等等。"
     },
     {
       "title": "Head of Claude Code: What happens after coding is solved | Boris Cherny",
       "url": "https://www.lennysnewsletter.com/p/head-of-claude-code-what-happens",
       "source": "www.lennysnewsletter.com",
-      "summary": "Claude Code 负责人 Boris Cherny 谈“编码问题解决之后”会发生什么。"
+      "summary": "Claude Code 负责人：编码解决后会发生什么 | Boris Cherny。"
     },
     {
       "title": "How to do AI analysis you can actually trust",
       "url": "https://www.lennysnewsletter.com/p/how-to-do-ai-analysis-you-can-actually",
       "source": "www.lennysnewsletter.com",
-      "summary": "讲解如何进行真正可信赖的 AI 数据分析。"
+      "summary": "如何进行你真正可以信任的 AI 分析。"
     }
   ],
-  "jike": [],
-  "pinterest": []
+  "jike": [
+    {
+      "title": "春节档IMAX票房近2亿",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001902krxy.html",
+      "summary": "春节档 IMAX 票房达 1.93 亿人民币，《镖人》和《飞驰人生3》将登陆北美和澳洲市场。",
+      "source": "即刻（中国社交平台）"
+    },
+    {
+      "title": "沈腾主演电影票房超400亿",
+      "url": "http://finance.sina.com.cn/jjxw/2026-02-24/doc-inhnxaeq5993532.shtml",
+      "summary": "沈腾成为中国首位主演电影票房超 400 亿的演员，《飞驰人生3》正在热映中。",
+      "source": "即刻（中国社交平台）"
+    },
+    {
+      "title": "梅尔茨：习近平能让普京立即停战",
+      "url": "https://www.dw.com/zh/%E6%A2%85%E5%B0%94%E8%8C%A8%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%83%BD%E8%AE%A9%E6%99%AE%E4%BA%AC%E7%AB%8B%E5%8D%B3%E5%81%9C%E6%88%98/a-76101336",
+      "summary": "德国总理梅尔茨表示，中国可在结束乌克兰战争中发挥关键作用，习近平可令普京停战。",
+      "source": "即刻（中国社交平台）"
+    },
+    {
+      "title": "美股市场回顾：QQQ结构弱化",
+      "url": "https://www.moomoo.com/hans/community/feed/feb-24-2026-us-stock-market-recap-waiting-amid-temptation-116123982823430",
+      "summary": "QQQ 反弹后回落，形成更低高点，市场资金流向存储和光通信领域。",
+      "source": "即刻（中国社交平台）"
+    },
+    {
+      "title": "机器人点燃新春新体验",
+      "url": "https://news.cctv.cn/2026/02/24/ARTIlCtCHEbECiCp2exDUt8v260223.shtml",
+      "summary": "人形机器人融入春节年俗，加速应用落地，订单量增长三倍。",
+      "source": "即刻（中国社交平台）"
+    },
+    {
+      "title": "新浪时尚热点：明星秀场造型",
+      "url": "https://cj.sina.cn/articles/view/7857201856/1d45362c001902kmmg?froms=ggmp",
+      "summary": "肖战出席 Gucci 大秀，张康乐亮相 G 社，刘雯登时尚芭莎封面。",
+      "source": "即刻（中国社交平台）"
+    },
+    {
+      "title": "广东高质量发展大会",
+      "url": "https://finance.eastmoney.com/a/202602243652079740.html",
+      "summary": "广东正月初八召开高质量发展大会，影视作品引爆深圳文旅热潮。",
+      "source": "即刻（中国社交平台）"
+    }
+  ],
+  "pinterest": [
+    {
+      "title": "Vintage watches styling",
+      "url": "https://www.pinterest.com/ideas/vintage-watches/910488755087/",
+      "summary": "复古手表造型是 2026 年 2 月的热门趋势，强调经典配饰的时尚搭配。",
+      "source": "Pinterest"
+    },
+    {
+      "title": "Baking for beginners",
+      "url": "https://www.pinterest.com/ideas/baking-for-beginners/923333646947/",
+      "summary": "初学者烘焙教程，提供简单易学的食谱和技巧。",
+      "source": "Pinterest"
+    },
+    {
+      "title": "Art and crafts organisation",
+      "url": "https://www.pinterest.com/ideas/art-and-crafts-organization/943526945434/",
+      "summary": "艺术和手工艺品的组织方法，帮助保持创作空间整洁。",
+      "source": "Pinterest"
+    },
+    {
+      "title": "Rio de Janeiro trips",
+      "url": "https://www.pinterest.com/ideas/rio-de-janeiro/900290875873/",
+      "summary": "里约热内卢旅行灵感，包括景点和行程规划。",
+      "source": "Pinterest"
+    },
+    {
+      "title": "Main character energy",
+      "url": "https://www.pinterest.com/ideas/main-character-energy/942709932509/",
+      "summary": "主角能量趋势，鼓励个人自信和独特风格的表达。",
+      "source": "Pinterest"
+    },
+    {
+      "title": "Valentine’s Day ideas",
+      "url": "https://www.pinterest.com/ideas/valentines-day/937004634753/",
+      "summary": "情人节创意想法，包括礼物和装饰建议。",
+      "source": "Pinterest"
+    },
+    {
+      "title": "Gimme Gummy",
+      "url": "https://business.pinterest.com/pinterest-predicts/2026/gimme-gummy/",
+      "summary": "软糖趋势，涉及弹力手机壳和化妆品等有趣产品。",
+      "source": "Pinterest"
+    },
+    {
+      "title": "African boho living room",
+      "url": "https://www.pinterest.com/ideas/african-boho-living-room/934774899785/",
+      "summary": "非洲波西米亚风格客厅装饰，融合文化元素。",
+      "source": "Pinterest"
+    },
+    {
+      "title": "Afro chic home decor",
+      "url": "https://www.pinterest.com/ideas/afro-chic-home-decor/914348931766/",
+      "summary": "非洲时尚家居装饰，提供优雅的室内设计灵感。",
+      "source": "Pinterest"
+    }
+  ]
 }
