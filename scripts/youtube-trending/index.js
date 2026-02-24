@@ -286,6 +286,7 @@ async function generateVideoContentSummary(item) {
     return snippetSummary(description);
   }
 
+  // xAI/Grok API：仅当显式配置 summaryVideoProvider='grok'|'xai' 且配了 key 时调用
   if (provider === 'grok' || provider === 'xai') {
     if (!apiKey) return snippetSummary(description);
     try {

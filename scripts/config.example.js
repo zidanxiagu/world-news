@@ -14,7 +14,7 @@ module.exports = {
     // 每条视频的 LLM 内容摘要（本地/OpenClaw 用，勿放 GitHub）
     summaryVideoApiUrl: process.env.YOUTUBE_SUMMARY_VIDEO_API_URL || '',
     summaryVideoApiKey: process.env.YOUTUBE_SUMMARY_VIDEO_API_KEY || '',
-    // 摘要来源：snippet=免费仅用描述片段 | ollama=本机 Ollama | gemini=Google 免费版 | grok=xAI | custom=自建接口
+    // 摘要来源：snippet=免费仅用描述片段 | grok/xai=xAI API（需 key）| 不配 key 时可用「登录 Grok」流程见 docs/OPENCLAW_GROK_热门完整流程与iMessage触发.md
     summaryVideoProvider: process.env.YOUTUBE_SUMMARY_VIDEO_PROVIDER || 'snippet',
     summaryVideoOllamaUrl: process.env.YOUTUBE_OLLAMA_URL || 'http://localhost:11434/v1/chat/completions',
     summaryVideoOllamaModel: process.env.YOUTUBE_OLLAMA_MODEL || 'llama3.2',
@@ -26,6 +26,22 @@ module.exports = {
     clientId: process.env.REDDIT_CLIENT_ID || '',
     clientSecret: process.env.REDDIT_CLIENT_SECRET || '',
     userAgent: process.env.REDDIT_USER_AGENT || 'personal-homepage/1.0',
+  },
+  // Product Hunt（需 API token，见 https://api.producthunt.com/v2/docs）
+  producthunt: {
+    apiKey: process.env.PRODUCT_HUNT_API_KEY || '',
+  },
+  // Substack：填要抓取的 Substack RSS 地址（如 https://xxx.substack.com/feed）
+  substack: {
+    feeds: process.env.SUBSTACK_FEEDS ? process.env.SUBSTACK_FEEDS.split(',') : [],
+  },
+  // 即刻：填 RSS 桥地址（若有），否则留空
+  jike: {
+    feeds: process.env.JIKE_FEEDS ? process.env.JIKE_FEEDS.split(',') : [],
+  },
+  // Pinterest：填 RSS 或可抓取地址（若有），否则留空
+  pinterest: {
+    feeds: process.env.PINTEREST_FEEDS ? process.env.PINTEREST_FEEDS.split(',') : [],
   },
   // 新闻 RSS 源（无需 key）。若已配置 youtube.summaryVideoApiKey（xAI），新闻与 Reddit/HN 会复用该 key 为每条生成中文摘要。
   news: {

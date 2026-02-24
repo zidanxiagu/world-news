@@ -46,7 +46,11 @@ async function main() {
     const result = await geek.run(dateStr);
     const r = (result.reddit || []).length;
     const h = (result.hn || []).length;
-    summaries.push(`geek: reddit ${r}, hn ${h} (${dateStr})`);
+    const ph = (result.producthunt || []).length;
+    const sub = (result.substack || []).length;
+    const jk = (result.jike || []).length;
+    const pin = (result.pinterest || []).length;
+    summaries.push(`geek: reddit ${r}, hn ${h}, producthunt ${ph}, substack ${sub}, jike ${jk}, pinterest ${pin} (${dateStr})`);
     if (stdout && cmd === 'geek') console.log(JSON.stringify(result, null, 2));
   }
 

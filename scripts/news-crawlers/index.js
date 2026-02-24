@@ -40,7 +40,9 @@ async function run(dateStr) {
     }
   }
   const items = all.slice(0, 30);
-  await addChineseSummaries(items, 'summary', 15, 400);
+  if (process.env.USE_GROK !== '1') {
+    await addChineseSummaries(items, 'summary', 15, 400);
+  }
   const result = { date: dateStr, items };
   fs.mkdirSync(DATA_DIR, { recursive: true });
   fs.writeFileSync(path.join(DATA_DIR, `${dateStr}.json`), JSON.stringify(result, null, 2), 'utf8');

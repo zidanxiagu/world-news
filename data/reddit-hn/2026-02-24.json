@@ -5,85 +5,85 @@
       "title": "State of the Subreddit (January 2027): Mods applications and rules updates",
       "url": "https://reddit.com/r/programming/comments/1qoxwdt/state_of_the_subreddit_january_2027_mods/",
       "subreddit": "programming",
-      "score": 113
+      "score": 108
     },
     {
       "title": "[Mock the hype post] The Software Development Lifecycle Is Dead | Boris Tane",
       "url": "https://reddit.com/r/programming/comments/1rd55kh/mock_the_hype_post_the_software_development/",
       "subreddit": "programming",
-      "score": 94
+      "score": 100
     },
     {
       "title": "Let's understand &amp; implement consistent hashing.",
       "url": "https://reddit.com/r/programming/comments/1rd7ukf/lets_understand_implement_consistent_hashing/",
       "subreddit": "programming",
-      "score": 27
+      "score": 33
     },
     {
       "title": "Age of Empires: 25+ years of pathfinding problems with C++ - Raymi Klingers - Meeting C++ 2025",
       "url": "https://reddit.com/r/programming/comments/1rczm6j/age_of_empires_25_years_of_pathfinding_problems/",
       "subreddit": "programming",
-      "score": 71
+      "score": 70
     },
     {
       "title": "Code isn’t what’s slowing projects down",
       "url": "https://reddit.com/r/programming/comments/1rcj41t/code_isnt_whats_slowing_projects_down/",
       "subreddit": "programming",
-      "score": 330
+      "score": 335
     },
     {
       "title": "Hi! We're 404 Media's Jason Koebler and Joseph Cox. AMA (us) about the tech ICE is using, Flock and the state of surveillance in the US on Feb. 4, 12 pm ET",
       "url": "https://reddit.com/r/technology/comments/1qv9y8j/hi_were_404_medias_jason_koebler_and_joseph_cox/",
       "subreddit": "technology",
-      "score": 228
+      "score": 226
     },
     {
       "title": "AI Added ‘Basically Zero’ to US Economic Growth Last Year, Goldman Sachs Says",
       "url": "https://reddit.com/r/technology/comments/1rct2p0/ai_added_basically_zero_to_us_economic_growth/",
       "subreddit": "technology",
-      "score": 29707
+      "score": 29835
     },
     {
       "title": "China invents process that turns desert sand into fertile soil in just 10 months",
       "url": "https://reddit.com/r/technology/comments/1rctrda/china_invents_process_that_turns_desert_sand_into/",
       "subreddit": "technology",
-      "score": 7222
+      "score": 7275
     },
     {
       "title": "Data centers are now hoarding SSDs as hard drive supplies dry up",
       "url": "https://reddit.com/r/technology/comments/1rcowmz/data_centers_are_now_hoarding_ssds_as_hard_drive/",
       "subreddit": "technology",
-      "score": 9333
+      "score": 9371
     },
     {
       "title": "IBM stock dives after Anthropic points out AI can rewrite COBOL fast",
       "url": "https://reddit.com/r/technology/comments/1rd41u7/ibm_stock_dives_after_anthropic_points_out_ai_can/",
       "subreddit": "technology",
-      "score": 1052
+      "score": 1127
     },
     {
       "title": "Monthly Getting Started / Web Dev Career Thread",
       "url": "https://reddit.com/r/webdev/comments/1q12o1k/monthly_getting_started_web_dev_career_thread/",
       "subreddit": "webdev",
-      "score": 32
+      "score": 34
     },
     {
       "title": "Monthly Getting Started / Web Dev Career Thread",
       "url": "https://reddit.com/r/webdev/comments/1qswnox/monthly_getting_started_web_dev_career_thread/",
       "subreddit": "webdev",
-      "score": 13
+      "score": 15
     },
     {
       "title": "RFC 406i The Rejection of Artificially Generated Slop (RAGS)",
       "url": "https://reddit.com/r/webdev/comments/1rcxvq5/rfc_406i_the_rejection_of_artificially_generated/",
       "subreddit": "webdev",
-      "score": 129
+      "score": 135
     },
     {
       "title": "My 2025 dev setup after mass-quitting tools that annoyed me",
       "url": "https://reddit.com/r/webdev/comments/1rd8w9x/my_2025_dev_setup_after_massquitting_tools_that/",
       "subreddit": "webdev",
-      "score": 21
+      "score": 25
     },
     {
       "title": "Just let go of my first freelance client",
@@ -94,94 +94,94 @@
   ],
   "hn": [
     {
-      "title": "Show HN: enveil – hide your .env secrets from prAIng eyes",
-      "url": "https://github.com/GreatScott/enveil",
-      "score": 78,
-      "id": "47133055"
+      "title": "Diode – Build, program, and simulate hardware",
+      "url": "https://www.withdiode.com/",
+      "score": 59,
+      "id": "47094768"
     },
     {
       "title": "Firefox 148 Launches with AI Kill Switch Feature and More Enhancements",
       "url": "https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/",
-      "score": 244,
+      "score": 257,
       "id": "47133313"
-    },
-    {
-      "title": "Diode – Build, program, and simulate hardware",
-      "url": "https://www.withdiode.com/",
-      "score": 48,
-      "id": "47094768"
     },
     {
       "title": "Terence Tao, at 8 years old (1984) [pdf]",
       "url": "https://gwern.net/doc/iq/high/smpy/1984-clements.pdf",
-      "score": 257,
+      "score": 261,
       "id": "47123689"
     },
     {
       "title": "I Ported Coreboot to the ThinkPad X270",
       "url": "https://dork.dev/posts/2026-02-20-ported-coreboot/",
-      "score": 191,
+      "score": 193,
       "id": "47130860"
+    },
+    {
+      "title": "Show HN: enveil – hide your .env secrets from prAIng eyes",
+      "url": "https://github.com/GreatScott/enveil",
+      "score": 80,
+      "id": "47133055"
     },
     {
       "title": "Blood test boosts Alzheimer's diagnosis accuracy to 94.5%, clinical study shows",
       "url": "https://medicalxpress.com/news/2026-02-blood-boosts-alzheimer-diagnosis-accuracy.html",
-      "score": 257,
+      "score": 258,
       "id": "47132388"
     },
     {
       "title": "The Age Verification Trap: Verifying age undermines everyone's data protection",
       "url": "https://spectrum.ieee.org/age-verification",
-      "score": 1454,
+      "score": 1460,
       "id": "47122715"
     },
     {
       "title": "Show HN: X86CSS – An x86 CPU emulator written in CSS",
       "url": "https://lyra.horse/x86css/",
-      "score": 122,
+      "score": 125,
       "id": "47132102"
     },
     {
       "title": "Baby chicks pass the bouba-kiki test, challenging a theory of language evolution",
       "url": "https://www.scientificamerican.com/article/baby-chicks-pass-the-bouba-kiki-test-challenging-a-theory-of-language/",
-      "score": 81,
+      "score": 84,
       "id": "47079208"
     },
     {
       "title": "Show HN: Steerling-8B, a language model that can explain any token it generates",
       "url": "https://www.guidelabs.ai/post/steerling-8b-base-model-release/",
-      "score": 162,
+      "score": 166,
       "id": "47131225"
     },
     {
       "title": "Making Wolfram Tech Available as a Foundation Tool for LLM Systems",
       "url": "https://writings.stephenwolfram.com/2026/02/making-wolfram-tech-available-as-a-foundation-tool-for-llm-systems/",
-      "score": 169,
+      "score": 171,
       "id": "47129727"
     },
     {
       "title": "Unsung heroes: Flickr's URLs scheme",
       "url": "https://unsung.aresluna.org/unsung-heroes-flickrs-urls-scheme/",
-      "score": 68,
+      "score": 71,
       "id": "47100714"
+    },
+    {
+      "title": "A distributed queue in a single JSON file on object storage",
+      "url": "https://turbopuffer.com/blog/object-storage-queue",
+      "score": 5,
+      "id": "47099401"
+    },
+    {
+      "title": "“Car Wash” test with 53 models",
+      "url": "https://opper.ai/blog/car-wash-test",
+      "score": 233,
+      "id": "47128138"
     },
     {
       "title": "UNIX99, a UNIX-like OS for the TI-99/4A (2025)",
       "url": "https://forums.atariage.com/topic/380883-unix99-a-unix-like-os-for-the-ti-994a/",
       "score": 177,
       "id": "47127986"
-    },
-    {
-      "title": "“Car Wash” test with 53 models",
-      "url": "https://opper.ai/blog/car-wash-test",
-      "score": 231,
-      "id": "47128138"
-    },
-    {
-      "title": "Intel XeSS 3: expanded support for Core Ultra/Core Ultra 2 and Arc A, B series",
-      "url": "https://www.intel.com/content/www/us/en/download/785597/intel-arc-graphics-windows.html",
-      "score": 32,
-      "id": "47132721"
     }
   ],
   "producthunt": [],
