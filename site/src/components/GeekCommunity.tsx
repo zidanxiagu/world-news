@@ -1,7 +1,7 @@
 interface Data {
   date?: string;
-  reddit?: { title: string; url: string; subreddit: string; score: number }[];
-  hn?: { title: string; url: string; score: number; id: string }[];
+  reddit?: { title: string; url: string; subreddit: string; score: number; summary?: string }[];
+  hn?: { title: string; url: string; score: number; id: string; summary?: string }[];
 }
 
 export function GeekCommunity({ data }: { data: unknown }) {
@@ -19,6 +19,7 @@ export function GeekCommunity({ data }: { data: unknown }) {
           {reddit.map((item, i) => (
             <div key={`r-${i}`} className="card">
               <h3><a href={item.url} target="_blank" rel="noopener noreferrer">{item.title}</a></h3>
+              {item.summary ? <p className="item-summary">{item.summary}</p> : null}
               <div className="meta">r/{item.subreddit} · {item.score} pts</div>
             </div>
           ))}
@@ -26,6 +27,7 @@ export function GeekCommunity({ data }: { data: unknown }) {
           {hn.map((item, i) => (
             <div key={`h-${i}`} className="card">
               <h3><a href={item.url} target="_blank" rel="noopener noreferrer">{item.title}</a></h3>
+              {item.summary ? <p className="item-summary">{item.summary}</p> : null}
               <div className="meta">{item.score} pts</div>
             </div>
           ))}

@@ -27,7 +27,7 @@ module.exports = {
     clientSecret: process.env.REDDIT_CLIENT_SECRET || '',
     userAgent: process.env.REDDIT_USER_AGENT || 'personal-homepage/1.0',
   },
-  // 新闻 RSS 源（无需 key）
+  // 新闻 RSS 源（无需 key）。若已配置 youtube.summaryVideoApiKey（xAI），新闻与 Reddit/HN 会复用该 key 为每条生成中文摘要。
   news: {
     feeds: [
       'https://feeds.reuters.com/reuters/topNews',

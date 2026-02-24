@@ -3,6 +3,7 @@ interface Item {
   url: string;
   source: string;
   publishedAt?: string;
+  summary?: string;
 }
 interface Data {
   date?: string;
@@ -20,6 +21,7 @@ export function NewsDigest({ data }: { data: unknown }) {
         items.map((item, i) => (
           <div key={i} className="card">
             <h3><a href={item.url} target="_blank" rel="noopener noreferrer">{item.title}</a></h3>
+            {item.summary ? <p className="item-summary">{item.summary}</p> : null}
             <div className="meta">{item.source} · {item.publishedAt ? new Date(item.publishedAt).toLocaleDateString() : ''}</div>
           </div>
         ))

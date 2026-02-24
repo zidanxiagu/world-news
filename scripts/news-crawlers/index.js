@@ -1,6 +1,7 @@
 const path = require('path');
 const fs = require('fs');
 const config = require('../config');
+const { addChineseSummaries } = require('../llm-summary');
 
 const DATA_DIR = path.join(config.dataDir, 'news');
 
@@ -38,7 +39,9 @@ async function run(dateStr) {
       });
     }
   }
-  const result = { date: dateStr, items: all.slice(0, 30) };
+  const items = all.slice(0, 30);
+  await addChineseSummaries(items, 'summary', 15, 400);
+  const result = { date: dateStr, items };
   fs.mkdirSync(DATA_DIR, { recursive: true });
   fs.writeFileSync(path.join(DATA_DIR, `${dateStr}.json`), JSON.stringify(result, null, 2), 'utf8');
   return result;

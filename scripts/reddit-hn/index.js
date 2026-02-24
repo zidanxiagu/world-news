@@ -1,6 +1,7 @@
 const path = require('path');
 const fs = require('fs');
 const config = require('../config');
+const { addChineseSummaries } = require('../llm-summary');
 
 const DATA_DIR = path.join(config.dataDir, 'reddit-hn');
 
@@ -51,6 +52,8 @@ async function fetchReddit() {
 
 async function run(dateStr) {
   const [hn, reddit] = await Promise.all([fetchHN(), fetchReddit()]);
+  await addChineseSummaries(reddit, 'summary', 10, 400);
+  await addChineseSummaries(hn, 'summary', 10, 400);
   const result = { date: dateStr, reddit, hn };
   fs.mkdirSync(DATA_DIR, { recursive: true });
   fs.writeFileSync(path.join(DATA_DIR, `${dateStr}.json`), JSON.stringify(result, null, 2), 'utf8');
