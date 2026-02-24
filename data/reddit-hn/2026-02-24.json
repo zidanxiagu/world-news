@@ -5,73 +5,73 @@
       "title": "State of the Subreddit (January 2027): Mods applications and rules updates",
       "url": "https://reddit.com/r/programming/comments/1qoxwdt/state_of_the_subreddit_january_2027_mods/",
       "subreddit": "programming",
-      "score": 110
+      "score": 112
     },
     {
       "title": "Code isn’t what’s slowing projects down",
       "url": "https://reddit.com/r/programming/comments/1rcj41t/code_isnt_whats_slowing_projects_down/",
       "subreddit": "programming",
-      "score": 239
+      "score": 237
     },
     {
       "title": "Dictionary Compression is finally here, and it's ridiculously good",
       "url": "https://reddit.com/r/programming/comments/1rcfofi/dictionary_compression_is_finally_here_and_its/",
       "subreddit": "programming",
-      "score": 241
+      "score": 239
     },
     {
       "title": "Age of Empires: 25+ years of pathfinding problems with C++ - Raymi Klingers - Meeting C++ 2025",
       "url": "https://reddit.com/r/programming/comments/1rczm6j/age_of_empires_25_years_of_pathfinding_problems/",
       "subreddit": "programming",
-      "score": 18
+      "score": 20
     },
     {
-      "title": "C Enum Sizes; or, How MSVC Ignores The Standard Once Again",
-      "url": "https://reddit.com/r/programming/comments/1rd0400/c_enum_sizes_or_how_msvc_ignores_the_standard/",
+      "title": "How I ported Doom to a 20-year-old VoIP phone",
+      "url": "https://reddit.com/r/programming/comments/1rcrqxe/how_i_ported_doom_to_a_20yearold_voip_phone/",
       "subreddit": "programming",
-      "score": 17
+      "score": 41
     },
     {
       "title": "Hi! We're 404 Media's Jason Koebler and Joseph Cox. AMA (us) about the tech ICE is using, Flock and the state of surveillance in the US on Feb. 4, 12 pm ET",
       "url": "https://reddit.com/r/technology/comments/1qv9y8j/hi_were_404_medias_jason_koebler_and_joseph_cox/",
       "subreddit": "technology",
-      "score": 225
+      "score": 227
     },
     {
       "title": "AI Added ‘Basically Zero’ to US Economic Growth Last Year, Goldman Sachs Says",
       "url": "https://reddit.com/r/technology/comments/1rct2p0/ai_added_basically_zero_to_us_economic_growth/",
       "subreddit": "technology",
-      "score": 21716
+      "score": 21774
     },
     {
       "title": "China invents process that turns desert sand into fertile soil in just 10 months",
       "url": "https://reddit.com/r/technology/comments/1rctrda/china_invents_process_that_turns_desert_sand_into/",
       "subreddit": "technology",
-      "score": 5077
+      "score": 5101
     },
     {
       "title": "Data centers are now hoarding SSDs as hard drive supplies dry up",
       "url": "https://reddit.com/r/technology/comments/1rcowmz/data_centers_are_now_hoarding_ssds_as_hard_drive/",
       "subreddit": "technology",
-      "score": 7675
+      "score": 7688
     },
     {
       "title": "Nicki Minaj’s social media propped up by thousands of bots, analysis finds | An analysis shared with POLITICO reveals the rap sensation’s advocacy for conservative causes has been amplified by an army of bots and coordinated activity.",
       "url": "https://reddit.com/r/technology/comments/1rcsw0y/nicki_minajs_social_media_propped_up_by_thousands/",
       "subreddit": "technology",
-      "score": 2916
+      "score": 2926
     },
     {
       "title": "Monthly Getting Started / Web Dev Career Thread",
       "url": "https://reddit.com/r/webdev/comments/1q12o1k/monthly_getting_started_web_dev_career_thread/",
       "subreddit": "webdev",
-      "score": 34
+      "score": 32
     },
     {
       "title": "Monthly Getting Started / Web Dev Career Thread",
       "url": "https://reddit.com/r/webdev/comments/1qswnox/monthly_getting_started_web_dev_career_thread/",
       "subreddit": "webdev",
-      "score": 13
+      "score": 12
     },
     {
       "title": "RFC 406i The Rejection of Artificially Generated Slop (RAGS)",
@@ -83,26 +83,26 @@
       "title": "what is a hidden gem website for development that everyone should know about?​",
       "url": "https://reddit.com/r/webdev/comments/1rceli3/what_is_a_hidden_gem_website_for_development_that/",
       "subreddit": "webdev",
-      "score": 225
+      "score": 230
     },
     {
       "title": "Why is jQuery so bad, but Alpine.js/HTMX/etc is just fine?",
       "url": "https://reddit.com/r/webdev/comments/1rclqyp/why_is_jquery_so_bad_but_alpinejshtmxetc_is_just/",
       "subreddit": "webdev",
-      "score": 79
+      "score": 80
     }
   ],
   "hn": [
     {
       "title": "Blood test boosts Alzheimer's diagnosis accuracy to 94.5%, clinical study shows",
       "url": "https://medicalxpress.com/news/2026-02-blood-boosts-alzheimer-diagnosis-accuracy.html",
-      "score": 49,
+      "score": 53,
       "id": "47132388"
     },
     {
       "title": "I Ported Coreboot to the ThinkPad X270",
       "url": "https://dork.dev/posts/2026-02-20-ported-coreboot/",
-      "score": 88,
+      "score": 90,
       "id": "47130860"
     },
     {
@@ -114,7 +114,7 @@
     {
       "title": "The Age Verification Trap: Verifying age undermines everyone's data protection",
       "url": "https://spectrum.ieee.org/age-verification",
-      "score": 1270,
+      "score": 1272,
       "id": "47122715"
     },
     {
@@ -126,19 +126,19 @@
     {
       "title": "Making Wolfram Tech Available as a Foundation Tool for LLM Systems",
       "url": "https://writings.stephenwolfram.com/2026/02/making-wolfram-tech-available-as-a-foundation-tool-for-llm-systems/",
-      "score": 89,
+      "score": 90,
       "id": "47129727"
     },
     {
       "title": "Shatner is making an album with 35 metal icons",
       "url": "https://www.guitarworld.com/artists/guitarists/william-shatner-announces-all-star-metal-album",
-      "score": 123,
+      "score": 124,
       "id": "47131173"
     },
     {
       "title": "Show HN: X86CSS – An x86 CPU emulator written in CSS",
       "url": "https://lyra.horse/x86css/",
-      "score": 8,
+      "score": 11,
       "id": "47132102"
     },
     {
@@ -156,13 +156,13 @@
     {
       "title": "A simple web we own",
       "url": "https://rsdoiel.github.io/blog/2026/02/21/a_simple_web_we_own.html",
-      "score": 194,
+      "score": 195,
       "id": "47124149"
     },
     {
       "title": "“Car Wash” test with 53 models",
       "url": "https://opper.ai/blog/car-wash-test",
-      "score": 114,
+      "score": 115,
       "id": "47128138"
     },
     {
