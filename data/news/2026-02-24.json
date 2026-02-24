@@ -5,37 +5,43 @@
       "title": "(RSS 拉取失败: https://feeds.reuters.com/reuters/topNews)",
       "url": "#",
       "source": "https://feeds.reuters.com/reuters/topNews",
-      "publishedAt": "2026-02-24"
+      "publishedAt": "2026-02-24",
+      "summary": "RSS 拉取失败，无可用内容"
     },
     {
       "title": "Canva acquires startups working on animation and marketing",
       "url": "https://techcrunch.com/2026/02/23/canva-acquires-startups-working-on-animation-and-marketing/",
       "source": "TechCrunch",
-      "publishedAt": "2026-02-24T10:25:55.340Z"
+      "publishedAt": "2026-02-24T10:25:55.340Z",
+      "summary": "Canva 收购了两家专注于动画制作和营销领域的初创公司，以增强其设计平台功能"
     },
     {
       "title": "Stripe, PayPal Ventures bet on India&#8217;s Xflow to fix cross-border B2B payments",
       "url": "https://techcrunch.com/2026/02/23/stripe-paypal-ventures-bet-on-indias-xflow-to-fix-cross-border-b2b-payments/",
       "source": "TechCrunch",
-      "publishedAt": "2026-02-24T10:25:55.341Z"
+      "publishedAt": "2026-02-24T10:25:55.341Z",
+      "summary": "Stripe 和 PayPal Ventures 投资印度初创公司 Xflow，旨在解决跨境 B2B 支付痛点"
     },
     {
       "title": "A Meta AI security researcher said an OpenClaw agent ran amok on her inbox",
       "url": "https://techcrunch.com/2026/02/23/a-meta-ai-security-researcher-said-an-openclaw-agent-ran-amok-on-her-inbox/",
       "source": "TechCrunch",
-      "publishedAt": "2026-02-24T10:25:55.341Z"
+      "publishedAt": "2026-02-24T10:25:55.341Z",
+      "summary": "Meta AI 安全研究员称其邮箱被一个失控的 OpenClaw 智能体大量骚扰"
     },
     {
       "title": "Tesla&#8217;s battle with the California Department of Motor Vehicles isn&#8217;t over after all",
       "url": "https://techcrunch.com/2026/02/23/teslas-battle-with-the-california-department-of-motor-vehicles-isnt-over-after-all/",
       "source": "TechCrunch",
-      "publishedAt": "2026-02-24T10:25:55.341Z"
+      "publishedAt": "2026-02-24T10:25:55.341Z",
+      "summary": "特斯拉与加州 DMV 的自动驾驶监管纠纷并未彻底结束，仍有后续争议"
     },
     {
       "title": "With AI, investor loyalty is (almost) dead: At least a dozen OpenAI VCs now also back Anthropic",
       "url": "https://techcrunch.com/2026/02/23/with-ai-investor-loyalty-is-almost-dead-at-least-a-dozen-openai-vcs-now-also-back-anthropic/",
       "source": "TechCrunch",
-      "publishedAt": "2026-02-24T10:25:55.341Z"
+      "publishedAt": "2026-02-24T10:25:55.341Z",
+      "summary": "随着 AI 发展，至少十几位 OpenAI 早期投资人现在同时投资 Anthropic，投资者忠诚度大幅下降"
     }
   ]
 }

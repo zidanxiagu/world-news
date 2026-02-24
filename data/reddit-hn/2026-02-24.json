@@ -5,187 +5,399 @@
       "title": "State of the Subreddit (January 2027): Mods applications and rules updates",
       "url": "https://reddit.com/r/programming/comments/1qoxwdt/state_of_the_subreddit_january_2027_mods/",
       "subreddit": "programming",
-      "score": 108
+      "score": 111,
+      "summary": "子版块 2027 年 1 月状态更新，包括版主招募和规则调整"
     },
     {
       "title": "[Mock the hype post] The Software Development Lifecycle Is Dead | Boris Tane",
       "url": "https://reddit.com/r/programming/comments/1rd55kh/mock_the_hype_post_the_software_development/",
       "subreddit": "programming",
-      "score": 100
+      "score": 103,
+      "summary": "嘲讽式文章称软件开发生命周期已死"
     },
     {
       "title": "Let's understand &amp; implement consistent hashing.",
       "url": "https://reddit.com/r/programming/comments/1rd7ukf/lets_understand_implement_consistent_hashing/",
       "subreddit": "programming",
-      "score": 33
+      "score": 33,
+      "summary": "详细讲解并实现一致性哈希的原理与代码"
     },
     {
       "title": "Age of Empires: 25+ years of pathfinding problems with C++ - Raymi Klingers - Meeting C++ 2025",
       "url": "https://reddit.com/r/programming/comments/1rczm6j/age_of_empires_25_years_of_pathfinding_problems/",
       "subreddit": "programming",
-      "score": 70
+      "score": 77,
+      "summary": "Age of Empires 游戏 25 年以上路径寻找问题的 C++ 实现经验分享"
     },
     {
       "title": "Code isn’t what’s slowing projects down",
       "url": "https://reddit.com/r/programming/comments/1rcj41t/code_isnt_whats_slowing_projects_down/",
       "subreddit": "programming",
-      "score": 335
+      "score": 330,
+      "summary": "代码本身并不是拖慢项目进度的主要原因"
     },
     {
       "title": "Hi! We're 404 Media's Jason Koebler and Joseph Cox. AMA (us) about the tech ICE is using, Flock and the state of surveillance in the US on Feb. 4, 12 pm ET",
       "url": "https://reddit.com/r/technology/comments/1qv9y8j/hi_were_404_medias_jason_koebler_and_joseph_cox/",
       "subreddit": "technology",
-      "score": 226
+      "score": 225,
+      "summary": "404 Media 记者 Jason Koebler 和 Joseph Cox 举办 AMA，讨论美国科技监控、Flock 系统及 ICE 使用情况"
     },
     {
       "title": "AI Added ‘Basically Zero’ to US Economic Growth Last Year, Goldman Sachs Says",
       "url": "https://reddit.com/r/technology/comments/1rct2p0/ai_added_basically_zero_to_us_economic_growth/",
       "subreddit": "technology",
-      "score": 29835
+      "score": 29901,
+      "summary": "高盛报告称去年 AI 对美国经济增长贡献几乎为零"
     },
     {
       "title": "China invents process that turns desert sand into fertile soil in just 10 months",
       "url": "https://reddit.com/r/technology/comments/1rctrda/china_invents_process_that_turns_desert_sand_into/",
       "subreddit": "technology",
-      "score": 7275
+      "score": 7296,
+      "summary": "中国研发出一种工艺，可在短短 10 个月内将沙漠沙子转化为肥沃土壤"
     },
     {
       "title": "Data centers are now hoarding SSDs as hard drive supplies dry up",
       "url": "https://reddit.com/r/technology/comments/1rcowmz/data_centers_are_now_hoarding_ssds_as_hard_drive/",
       "subreddit": "technology",
-      "score": 9371
+      "score": 9393,
+      "summary": "数据中心因硬盘供应短缺而大量囤积 SSD"
     },
     {
       "title": "IBM stock dives after Anthropic points out AI can rewrite COBOL fast",
       "url": "https://reddit.com/r/technology/comments/1rd41u7/ibm_stock_dives_after_anthropic_points_out_ai_can/",
       "subreddit": "technology",
-      "score": 1127
+      "score": 1167,
+      "summary": "IBM 股价因 Anthropic 展示 AI 能快速重写 COBOL 代码而大跌"
     },
     {
       "title": "Monthly Getting Started / Web Dev Career Thread",
       "url": "https://reddit.com/r/webdev/comments/1q12o1k/monthly_getting_started_web_dev_career_thread/",
       "subreddit": "webdev",
-      "score": 34
+      "score": 32,
+      "summary": "本月 Web 开发新人入门与职业发展讨论贴"
     },
     {
       "title": "Monthly Getting Started / Web Dev Career Thread",
       "url": "https://reddit.com/r/webdev/comments/1qswnox/monthly_getting_started_web_dev_career_thread/",
       "subreddit": "webdev",
-      "score": 15
+      "score": 13,
+      "summary": "本月 Web 开发新人入门与职业发展讨论贴（重复）"
     },
     {
       "title": "RFC 406i The Rejection of Artificially Generated Slop (RAGS)",
       "url": "https://reddit.com/r/webdev/comments/1rcxvq5/rfc_406i_the_rejection_of_artificially_generated/",
       "subreddit": "webdev",
-      "score": 135
+      "score": 136,
+      "summary": "RFC 406i 提案：拒绝人工智能生成的垃圾内容（RAGS）"
     },
     {
       "title": "My 2025 dev setup after mass-quitting tools that annoyed me",
       "url": "https://reddit.com/r/webdev/comments/1rd8w9x/my_2025_dev_setup_after_massquitting_tools_that/",
       "subreddit": "webdev",
-      "score": 25
+      "score": 26,
+      "summary": "2025 年开发者彻底抛弃烦人工具后的全新开发环境分享"
     },
     {
       "title": "Just let go of my first freelance client",
       "url": "https://reddit.com/r/webdev/comments/1rd5nvb/just_let_go_of_my_first_freelance_client/",
       "subreddit": "webdev",
-      "score": 14
+      "score": 15,
+      "summary": "刚刚失去了我的第一个自由职业客户"
     }
   ],
   "hn": [
     {
+      "title": "Terence Tao, at 8 years old (1984) [pdf]",
+      "url": "https://gwern.net/doc/iq/high/smpy/1984-clements.pdf",
+      "score": 267,
+      "id": "47123689",
+      "summary": "1984 年 8 岁的 Terence Tao 照片及相关 PDF 文档"
+    },
+    {
       "title": "Diode – Build, program, and simulate hardware",
       "url": "https://www.withdiode.com/",
-      "score": 59,
-      "id": "47094768"
+      "score": 63,
+      "id": "47094768",
+      "summary": "Diode：用于构建、编程和模拟硬件的工具"
     },
     {
       "title": "Firefox 148 Launches with AI Kill Switch Feature and More Enhancements",
       "url": "https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/",
-      "score": 257,
-      "id": "47133313"
-    },
-    {
-      "title": "Terence Tao, at 8 years old (1984) [pdf]",
-      "url": "https://gwern.net/doc/iq/high/smpy/1984-clements.pdf",
-      "score": 261,
-      "id": "47123689"
-    },
-    {
-      "title": "I Ported Coreboot to the ThinkPad X270",
-      "url": "https://dork.dev/posts/2026-02-20-ported-coreboot/",
-      "score": 193,
-      "id": "47130860"
+      "score": 260,
+      "id": "47133313",
+      "summary": "Firefox 148 版本发布，新增 AI 功能一键关闭开关及其他改进"
     },
     {
       "title": "Show HN: enveil – hide your .env secrets from prAIng eyes",
       "url": "https://github.com/GreatScott/enveil",
       "score": 80,
-      "id": "47133055"
+      "id": "47133055",
+      "summary": "Show HN: enveil – 防止 .env 密钥在 AI 时代被偷窥的隐藏工具"
+    },
+    {
+      "title": "I Ported Coreboot to the ThinkPad X270",
+      "url": "https://dork.dev/posts/2026-02-20-ported-coreboot/",
+      "score": 195,
+      "id": "47130860",
+      "summary": "成功将 Coreboot 移植到 ThinkPad X270 笔记本"
     },
     {
       "title": "Blood test boosts Alzheimer's diagnosis accuracy to 94.5%, clinical study shows",
       "url": "https://medicalxpress.com/news/2026-02-blood-boosts-alzheimer-diagnosis-accuracy.html",
-      "score": 258,
-      "id": "47132388"
-    },
-    {
-      "title": "The Age Verification Trap: Verifying age undermines everyone's data protection",
-      "url": "https://spectrum.ieee.org/age-verification",
-      "score": 1460,
-      "id": "47122715"
-    },
-    {
-      "title": "Show HN: X86CSS – An x86 CPU emulator written in CSS",
-      "url": "https://lyra.horse/x86css/",
-      "score": 125,
-      "id": "47132102"
-    },
-    {
-      "title": "Baby chicks pass the bouba-kiki test, challenging a theory of language evolution",
-      "url": "https://www.scientificamerican.com/article/baby-chicks-pass-the-bouba-kiki-test-challenging-a-theory-of-language/",
-      "score": 84,
-      "id": "47079208"
-    },
-    {
-      "title": "Show HN: Steerling-8B, a language model that can explain any token it generates",
-      "url": "https://www.guidelabs.ai/post/steerling-8b-base-model-release/",
-      "score": 166,
-      "id": "47131225"
-    },
-    {
-      "title": "Making Wolfram Tech Available as a Foundation Tool for LLM Systems",
-      "url": "https://writings.stephenwolfram.com/2026/02/making-wolfram-tech-available-as-a-foundation-tool-for-llm-systems/",
-      "score": 171,
-      "id": "47129727"
-    },
-    {
-      "title": "Unsung heroes: Flickr's URLs scheme",
-      "url": "https://unsung.aresluna.org/unsung-heroes-flickrs-urls-scheme/",
-      "score": 71,
-      "id": "47100714"
+      "score": 261,
+      "id": "47132388",
+      "summary": "临床研究显示某血液检测可将阿尔茨海默病诊断准确率提升至 94.5%"
     },
     {
       "title": "A distributed queue in a single JSON file on object storage",
       "url": "https://turbopuffer.com/blog/object-storage-queue",
-      "score": 5,
-      "id": "47099401"
+      "score": 7,
+      "id": "47099401",
+      "summary": "在对象存储上用单个 JSON 文件实现分布式队列"
+    },
+    {
+      "title": "The Age Verification Trap: Verifying age undermines everyone's data protection",
+      "url": "https://spectrum.ieee.org/age-verification",
+      "score": 1464,
+      "id": "47122715",
+      "summary": "年龄验证机制的陷阱：它实际上削弱了所有人的数据保护"
+    },
+    {
+      "title": "Show HN: X86CSS – An x86 CPU emulator written in CSS",
+      "url": "https://lyra.horse/x86css/",
+      "score": 126,
+      "id": "47132102",
+      "summary": "Show HN: X86CSS – 用纯 CSS 编写的 x86 CPU 模拟器"
+    },
+    {
+      "title": "Baby chicks pass the bouba-kiki test, challenging a theory of language evolution",
+      "url": "https://www.scientificamerican.com/article/baby-chicks-pass-the-bouba-kiki-test-challenging-a-theory-of-language/",
+      "score": 85,
+      "id": "47079208",
+      "summary": "小鸡通过 bouba-kiki 测试，挑战语言进化相关理论"
+    },
+    {
+      "title": "Show HN: Steerling-8B, a language model that can explain any token it generates",
+      "url": "https://www.guidelabs.ai/post/steerling-8b-base-model-release/",
+      "score": 167,
+      "id": "47131225",
+      "summary": "Show HN: Steerling-8B – 一种能为每个生成 token 提供解释的语言模型"
+    },
+    {
+      "title": "Making Wolfram Tech Available as a Foundation Tool for LLM Systems",
+      "url": "https://writings.stephenwolfram.com/2026/02/making-wolfram-tech-available-as-a-foundation-tool-for-llm-systems/",
+      "score": 173,
+      "id": "47129727",
+      "summary": "Wolfram 技术作为 LLM 系统基础工具的可用性"
     },
     {
       "title": "“Car Wash” test with 53 models",
       "url": "https://opper.ai/blog/car-wash-test",
-      "score": 233,
-      "id": "47128138"
+      "score": 235,
+      "id": "47128138",
+      "summary": "用 53 个模型进行的“洗车”测试"
     },
     {
       "title": "UNIX99, a UNIX-like OS for the TI-99/4A (2025)",
       "url": "https://forums.atariage.com/topic/380883-unix99-a-unix-like-os-for-the-ti-994a/",
       "score": 177,
-      "id": "47127986"
+      "id": "47127986",
+      "summary": "UNIX99：为 TI-99/4A 计算机打造的类 UNIX 操作系统（2025）"
+    },
+    {
+      "title": "Unsung heroes: Flickr's URLs scheme",
+      "url": "https://unsung.aresluna.org/unsung-heroes-flickrs-urls-scheme/",
+      "score": 75,
+      "id": "47100714",
+      "summary": "Flickr URL 方案被誉为被低估的网络工程杰作"
     }
   ],
-  "producthunt": [],
-  "substack": [],
+  "producthunt": [
+    {
+      "title": "Bazaar V4 — AI motion graphics and video generator",
+      "url": "https://www.producthunt.com/products/bazaar-2",
+      "votesCount": 0,
+      "summary": "Bazaar V4：基于 AI 的动态图形和视频生成工具"
+    },
+    {
+      "title": "Just The Article Please — A simple article reader for the web",
+      "url": "https://www.producthunt.com/products/just-the-article-please",
+      "votesCount": 0,
+      "summary": "Just The Article Please：极简网页文章阅读器，去除干扰"
+    },
+    {
+      "title": "Prosaic — A minimal, open-source, writer-first terminal writing app",
+      "url": "https://www.producthunt.com/products/prosaic",
+      "votesCount": 0,
+      "summary": "Prosaic：开源、极简、以写作者为中心的终端写作应用"
+    },
+    {
+      "title": "What YC Is Really Betting On? — An X-ray of 793 YC startups. See what's really inside.",
+      "url": "https://www.producthunt.com/products/what-yc-is-really-betting-on",
+      "votesCount": 0,
+      "summary": "What YC Is Really Betting On?：剖析 793 家 YC 初创公司真实趋势"
+    },
+    {
+      "title": "Falconer — The source of truth for knowledge, context, and docs.",
+      "url": "https://www.producthunt.com/products/falconer",
+      "votesCount": 0,
+      "summary": "Falconer：知识、上下文和文档的统一真实来源工具"
+    },
+    {
+      "title": "Gemma — AI personal assistant that calls you with reminders",
+      "url": "https://www.producthunt.com/products/gemma",
+      "votesCount": 0,
+      "summary": "Gemma：能打电话提醒你的 AI 私人助理"
+    },
+    {
+      "title": "Dock 3.0 — Optimize, track &amp; grow your apps now w/ Google Play support",
+      "url": "https://www.producthunt.com/products/dock-developer-optimization-content-kit",
+      "votesCount": 0,
+      "summary": "Dock 3.0：支持 Google Play 的应用优化、跟踪与增长平台"
+    },
+    {
+      "title": "toktrack — Track AI CLI spending across Claude, Codex &amp; Gemini in 40ms",
+      "url": "https://www.producthunt.com/products/toktrack",
+      "votesCount": 0,
+      "summary": "toktrack：40ms 内追踪 Claude、Codex、Gemini 等 AI CLI 花费"
+    },
+    {
+      "title": "Dictato — Local instant voice-to-text for every Mac",
+      "url": "https://www.producthunt.com/products/dictato",
+      "votesCount": 0,
+      "summary": "Dictato：Mac 本地即时语音转文字工具"
+    },
+    {
+      "title": "Liner Write — Cursor for Professional Writing",
+      "url": "https://www.producthunt.com/products/liner-write",
+      "votesCount": 0,
+      "summary": "Liner Write：专为专业写作打造的 Cursor 类工具"
+    },
+    {
+      "title": "Liftsell — Smart popups &amp; widgets that track revenue",
+      "url": "https://www.producthunt.com/products/liftsell",
+      "votesCount": 0,
+      "summary": "Liftsell：智能弹窗和小部件，直接追踪收入效果"
+    },
+    {
+      "title": "Quilt — The smartest and most efficient heat pump on the market",
+      "url": "https://www.producthunt.com/products/quilt-5",
+      "votesCount": 0,
+      "summary": "Quilt：市场上最智能高效的热泵产品"
+    },
+    {
+      "title": "ClawRecipes — Give your OpenClaw more actions in a single install",
+      "url": "https://www.producthunt.com/products/clawrecipes-openclaw-recipes",
+      "votesCount": 0,
+      "summary": "ClawRecipes：一键为 OpenClaw 智能体添加更多动作的扩展"
+    },
+    {
+      "title": "Ziva.sh — AI agent built for the Godot game engine",
+      "url": "https://www.producthunt.com/products/ziva-sh-ai-agent-for-game-engines",
+      "votesCount": 0,
+      "summary": "Ziva.sh：专为 Godot 游戏引擎打造的 AI 智能体"
+    },
+    {
+      "title": "Toggle for OpenClaw — Your browser activity, streamed to your agent: live..",
+      "url": "https://www.producthunt.com/products/togglex-openclaw",
+      "votesCount": 0,
+      "summary": "Toggle for OpenClaw：将浏览器活动实时流式传输给智能体的工具"
+    }
+  ],
+  "substack": [
+    {
+      "title": "The Pulse #162: Even fewer middle managers and more flexible teams?",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-162-even-fewer-middle-managers",
+      "source": "newsletter.pragmaticengineer.com",
+      "summary": "The Pulse #162：探讨更少中层管理人员和更灵活团队的趋势"
+    },
+    {
+      "title": "How Codex is built",
+      "url": "https://newsletter.pragmaticengineer.com/p/how-codex-is-built",
+      "source": "newsletter.pragmaticengineer.com",
+      "summary": "深度解析 Codex 是如何构建出来的"
+    },
+    {
+      "title": "The Pragmatic Summit recordings and summaries",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pragmatic-summit-recordings",
+      "source": "newsletter.pragmaticengineer.com",
+      "summary": "Pragmatic Summit 大会录音与内容总结"
+    },
+    {
+      "title": "The programming language after Kotlin – with the creator of Kotlin",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-programming-language-after-kotlin",
+      "source": "newsletter.pragmaticengineer.com",
+      "summary": "Kotlin 创造者谈 Kotlin 之后的下一代编程语言"
+    },
+    {
+      "title": "Steve Yegge on AI Agents and the Future of Software Engineering",
+      "url": "https://newsletter.pragmaticengineer.com/p/steve-yegge-on-ai-agents-and-the",
+      "source": "newsletter.pragmaticengineer.com",
+      "summary": "Steve Yegge 谈 AI 智能体与软件工程的未来"
+    },
+    {
+      "title": "How Large Language Models Learn",
+      "url": "https://blog.bytebytego.com/p/how-large-language-models-learn",
+      "source": "blog.bytebytego.com",
+      "summary": "大型语言模型究竟是如何学习的"
+    },
+    {
+      "title": "EP203: RabbitMQ vs Kafka vs Pulsar",
+      "url": "https://blog.bytebytego.com/p/ep203-rabbitmq-vs-kafka-vs-pulsar",
+      "source": "blog.bytebytego.com",
+      "summary": "EP203：对比 RabbitMQ、Kafka 和 Pulsar 的优劣"
+    },
+    {
+      "title": "LAST CALL FOR ENROLLMENT: Become an AI Engineer - Cohort 4",
+      "url": "https://blog.bytebytego.com/p/last-call-for-enrollment-become-an",
+      "source": "blog.bytebytego.com",
+      "summary": "AI 工程师第四期训练营最后报名提醒"
+    },
+    {
+      "title": "Eventual Consistency: The Key Trade-Off Behind Modern Databases",
+      "url": "https://blog.bytebytego.com/p/eventual-consistency-the-key-trade",
+      "source": "blog.bytebytego.com",
+      "summary": "最终一致性：现代数据库背后的核心权衡"
+    },
+    {
+      "title": "The First 10-Year Evolution of Stripe’s Payments API",
+      "url": "https://blog.bytebytego.com/p/the-first-10-year-evolution-of-stripes",
+      "source": "blog.bytebytego.com",
+      "summary": "Stripe 支付 API 的第一个十年演进历程"
+    },
+    {
+      "title": "🎙️ This week on How I AI: How Notion’s design team uses Claude Code to design",
+      "url": "https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-how-notions",
+      "source": "www.lennysnewsletter.com",
+      "summary": "本周 How I AI：Notion 设计团队如何用 Claude Code 辅助设计"
+    },
+    {
+      "title": "“I haven’t written a single line of front-end code in 3 months”: How Notion’s design team uses Claude Code to prototype",
+      "url": "https://www.lennysnewsletter.com/p/i-havent-written-a-single-line-of",
+      "source": "www.lennysnewsletter.com",
+      "summary": "Notion 设计团队三个月没写前端代码，全靠 Claude Code 快速原型"
+    },
+    {
+      "title": "🧠 Community Wisdom: Making your product enterprise-ready, when engineering outpaces product, managing PRD versions as features evolve, planning work around energy, and more",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-making-your-product",
+      "source": "www.lennysnewsletter.com",
+      "summary": "社区经验分享：产品企业化、工程超车产品、PRD 版本管理、按精力规划工作等"
+    },
+    {
+      "title": "Head of Claude Code: What happens after coding is solved | Boris Cherny",
+      "url": "https://www.lennysnewsletter.com/p/head-of-claude-code-what-happens",
+      "source": "www.lennysnewsletter.com",
+      "summary": "Claude Code 负责人 Boris Cherny：编码问题解决后会发生什么"
+    },
+    {
+      "title": "How to do AI analysis you can actually trust",
+      "url": "https://www.lennysnewsletter.com/p/how-to-do-ai-analysis-you-can-actually",
+      "source": "www.lennysnewsletter.com",
+      "summary": "如何进行真正可信赖的 AI 数据分析"
+    }
+  ],
   "jike": [],
   "pinterest": []
 }

@@ -51,9 +51,7 @@ async function fetchReddit() {
   return reddit.slice(0, 20);
 }
 
-async function fetchProductHunt() {
-  const apiKey = config.producthunt?.apiKey || process.env.PRODUCT_HUNT_API_KEY;
-  if (!apiKey) return [];
+async function fetchProductHuntApi(apiKey) {
   try {
     const res = await fetch('https://api.producthunt.com/v2/api/graphql', {
       method: 'POST',
@@ -81,21 +79,77 @@ async function fetchProductHunt() {
   }
 }
 
+async function fetchProductHuntRss() {
+  try {
+    const res = await fetch('https://www.producthunt.com/feed', {
+      headers: { 'User-Agent': UA },
+    });
+    const xml = await res.text();
+    const items = [];
+    const entryRegex = /<entry>[\s\S]*?<\/entry>/gi;
+    let em;
+    while ((em = entryRegex.exec(xml)) !== null) {
+      const block = em[0];
+      const titleM = block.match(/<title[^>]*>([^<]*(?:<!\[CDATA\[[\s\S]*?\]\]>)?[^<]*)<\/title>/i);
+      const linkM = block.match(/<link[^>]*rel="alternate"[^>]*href="([^"]+)"/i);
+      const contentM = block.match(/<content[^>]*>([\s\S]*?)<\/content>/i);
+      const title = titleM ? titleM[1].replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, '$1').trim() : '';
+      const url = linkM ? linkM[1].trim() : '';
+      let tagline = '';
+      if (contentM) {
+        const pMatch = contentM[1].replace(/&lt;/g, '<').replace(/&gt;/g, '>').match(/<p>\s*([\s\S]*?)\s*<\/p>/i);
+        if (pMatch) tagline = pMatch[1].replace(/<[^>]+>/g, '').trim();
+      }
+      if (title && url) {
+        items.push({
+          title: tagline ? `${title} — ${tagline}` : title,
+          url,
+          votesCount: 0,
+        });
+      }
+    }
+    return items.slice(0, 15);
+  } catch (_) {
+    return [];
+  }
+}
+
+async function fetchProductHunt() {
+  const apiKey = config.producthunt?.apiKey || process.env.PRODUCT_HUNT_API_KEY;
+  if (apiKey) {
+    const items = await fetchProductHuntApi(apiKey);
+    if (items.length > 0) return items;
+  }
+  return fetchProductHuntRss();
+}
+
 async function fetchRssItems(url, sourceName) {
   try {
     const res = await fetch(url, { headers: { 'User-Agent': UA } });
     const xml = await res.text();
     const items = [];
-    const titleMatch = xml.match(/<title>([^<]+)<\/title>/);
-    const source = sourceName || (titleMatch ? titleMatch[1].trim() : new URL(url).hostname);
-    const itemRegex = /<item>[\s\S]*?<title>([^<]*)<\/title>[\s\S]*?<link>([^<]*)<\/link>[\s\S]*?(?:<pubDate>([^<]*)<\/pubDate>)?[\s\S]*?<\/item>/gi;
+    const titleMatch = xml.match(/<title[^>]*>([\s\S]*?)<\/title>/);
+    const source = sourceName || (titleMatch ? titleMatch[1].replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, '$1').trim() : new URL(url).hostname);
+    const itemRegex = /<item[\s>][\s\S]*?<\/item>/gi;
     let m;
     while ((m = itemRegex.exec(xml)) !== null) {
-      items.push({
-        title: m[1].replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, '$1').trim(),
-        url: m[2].trim(),
-        source,
-      });
+      const block = m[0];
+      const tM = block.match(/<title[^>]*>([\s\S]*?)<\/title>/i);
+      const lM = block.match(/<link[^>]*>([\s\S]*?)<\/link>/i);
+      const title = tM ? tM[1].replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, '$1').trim() : '';
+      const link = lM ? lM[1].replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, '$1').trim() : '';
+      if (title && link) items.push({ title, url: link, source });
+    }
+    if (items.length === 0) {
+      const entryRegex = /<entry[\s>][\s\S]*?<\/entry>/gi;
+      while ((m = entryRegex.exec(xml)) !== null) {
+        const block = m[0];
+        const tM = block.match(/<title[^>]*>([\s\S]*?)<\/title>/i);
+        const lM = block.match(/<link[^>]*href="([^"]+)"/i);
+        const title = tM ? tM[1].replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, '$1').trim() : '';
+        const link = lM ? lM[1].trim() : '';
+        if (title && link) items.push({ title, url: link, source });
+      }
     }
     return items;
   } catch (_) {
