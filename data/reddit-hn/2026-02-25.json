@@ -6,105 +6,120 @@
       "url": "https://reddit.com/r/programming/comments/1qoxwdt/state_of_the_subreddit_january_2027_mods/",
       "subreddit": "programming",
       "score": 111,
-      "summary": "子版块状态更新：2027年1月版主招募及规则调整"
+      "summary": "子版块发布2027年1月状态更新，包括开放版主申请及规则调整内容。",
+      "titleZh": "子版块现状（2027年1月）：版主招募与规则更新"
     },
     {
       "title": "RFC 406i: The Rejection of Artificially Generated Slop (RAGS)",
       "url": "https://reddit.com/r/programming/comments/1rdiul6/rfc_406i_the_rejection_of_artificially_generated/",
       "subreddit": "programming",
       "score": 506,
-      "summary": "提出拒绝人工智能生成垃圾内容的RFC 406i (RAGS)"
+      "summary": "提出拒绝AI生成低质量内容的正式建议（RAGS），旨在提升社区内容质量。",
+      "titleZh": "RFC 406i：拒绝人工智能生成垃圾内容（RAGS）"
     },
     {
       "title": "Goodbye InnerHTML, Hello SetHTML: Stronger XSS Protection in Firefox 148",
       "url": "https://reddit.com/r/programming/comments/1rdmf7m/goodbye_innerhtml_hello_sethtml_stronger_xss/",
       "subreddit": "programming",
       "score": 128,
-      "summary": "Firefox 148引入SetHTML取代InnerHTML，提供更强XSS防护"
+      "summary": "Firefox 148引入SetHTML API，提供比InnerHTML更安全的XSS防护机制。",
+      "titleZh": "告别InnerHTML，欢迎SetHTML：Firefox 148更强的XSS防护"
     },
     {
       "title": "Reducing the size of Go binaries by up to 77%",
       "url": "https://reddit.com/r/programming/comments/1rdmh56/reducing_the_size_of_go_binaries_by_up_to_77/",
       "subreddit": "programming",
       "score": 71,
-      "summary": "将Go二进制文件大小减少最高77%"
+      "summary": "介绍多种优化技术，可将Go编译的二进制文件体积大幅缩小最高77%。",
+      "titleZh": "将Go二进制文件大小减少最高77%"
     },
     {
       "title": "A Decade of Docker Containers",
       "url": "https://reddit.com/r/programming/comments/1rdxjyl/a_decade_of_docker_containers/",
       "subreddit": "programming",
       "score": 15,
-      "summary": "Docker容器技术十年回顾"
+      "summary": "回顾Docker容器技术过去十年的发展历程与重要影响。",
+      "titleZh": "Docker容器十年回顾"
     },
     {
       "title": "Pentagon sets Friday deadline for Anthropic to abandon ethics rules for AI — or else",
       "url": "https://reddit.com/r/technology/comments/1rdvlsb/pentagon_sets_friday_deadline_for_anthropic_to/",
       "subreddit": "technology",
       "score": 7907,
-      "summary": "五角大楼要求Anthropic周五前放弃AI伦理规则，否则面临后果"
+      "summary": "五角大楼向Anthropic发出最后通牒，要求放弃部分AI伦理限制否则面临后果。",
+      "titleZh": "五角大楼要求Anthropic周五前放弃AI伦理规则否则采取行动"
     },
     {
       "title": "Discord delays global age verification rollout after backlash",
       "url": "https://reddit.com/r/technology/comments/1rdp1hv/discord_delays_global_age_verification_rollout/",
       "subreddit": "technology",
       "score": 10457,
-      "summary": "Discord因强烈反对推迟全球年龄验证上线"
+      "summary": "Discord在用户强烈反对后宣布推迟全球年龄验证功能的部署计划。",
+      "titleZh": "Discord因强烈反对推迟全球年龄验证上线"
     },
     {
       "title": "Americans are destroying Flock surveillance cameras",
       "url": "https://reddit.com/r/technology/comments/1rdw18z/americans_are_destroying_flock_surveillance/",
       "subreddit": "technology",
       "score": 2973,
-      "summary": "美国民众破坏Flock监控摄像头"
+      "summary": "美国多地出现民众故意破坏Flock公司安装的公共监控摄像头的现象。",
+      "titleZh": "美国民众正在破坏Flock监控摄像头"
     },
     {
       "title": "Discord cuts ties with Peter Thiel-backed verification software after code found in US surveillance",
       "url": "https://reddit.com/r/technology/comments/1rdd54l/discord_cuts_ties_with_peter_thielbacked/",
       "subreddit": "technology",
       "score": 34510,
-      "summary": "Discord因代码涉美国监控切断与Peter Thiel支持的验证软件合作"
+      "summary": "Discord因安全担忧终止与彼得·蒂尔投资的身份验证软件合作关系。",
+      "titleZh": "Discord因发现美国监控代码切断与彼得·蒂尔支持的验证软件合作"
     },
     {
       "title": "Anthropic won’t budge as Pentagon escalates AI dispute",
       "url": "https://reddit.com/r/technology/comments/1rdw0gi/anthropic_wont_budge_as_pentagon_escalates_ai/",
       "subreddit": "technology",
       "score": 1039,
-      "summary": "Anthropic拒绝让步，五角大楼加剧AI争端"
+      "summary": "Anthropic坚持AI伦理立场，与五角大楼的冲突进一步升级。",
+      "titleZh": "Anthropic拒绝让步，五角大楼升级AI争议"
     },
     {
       "title": "Monthly Getting Started / Web Dev Career Thread",
       "url": "https://reddit.com/r/webdev/comments/1q12o1k/monthly_getting_started_web_dev_career_thread/",
       "subreddit": "webdev",
       "score": 31,
-      "summary": "每月Web开发入门/职业讨论贴"
+      "summary": "本月Web开发新手入门及职业发展讨论主题帖。",
+      "titleZh": "每月Web开发入门/职业讨论贴"
     },
     {
       "title": "Monthly Getting Started / Web Dev Career Thread",
       "url": "https://reddit.com/r/webdev/comments/1qswnox/monthly_getting_started_web_dev_career_thread/",
       "subreddit": "webdev",
       "score": 13,
-      "summary": "每月Web开发入门/职业讨论贴"
+      "summary": "本月Web开发新手入门及职业发展讨论主题帖（重复）。",
+      "titleZh": "每月Web开发入门/职业讨论贴"
     },
     {
       "title": "1password just increased their pricing by 33%. What are some open source alternatives?",
       "url": "https://reddit.com/r/webdev/comments/1rdoncs/1password_just_increased_their_pricing_by_33_what/",
       "subreddit": "webdev",
       "score": 441,
-      "summary": "1Password涨价33%，求开源密码管理器替代方案"
+      "summary": "1Password订阅价格大幅上涨，用户寻求开源密码管理器替代选项。",
+      "titleZh": "1Password价格上涨33%，有哪些开源替代方案？"
     },
     {
       "title": "A collection of modern CSS code snippets replacing many old practices",
       "url": "https://reddit.com/r/webdev/comments/1rdnmwb/a_collection_of_modern_css_code_snippets/",
       "subreddit": "webdev",
       "score": 194,
-      "summary": "现代CSS代码片段集合，取代许多旧做法"
+      "summary": "分享一系列现代CSS技巧与代码片段，可替代传统过时写法。",
+      "titleZh": "现代CSS代码片段合集，取代许多旧做法"
     },
     {
       "title": "How many devs mainly use raw SQL instead of an ORM?",
       "url": "https://reddit.com/r/webdev/comments/1rdo8ae/how_many_devs_mainly_use_raw_sql_instead_of_an_orm/",
       "subreddit": "webdev",
       "score": 75,
-      "summary": "有多少开发者主要直接使用原生SQL而非ORM？"
+      "summary": "讨论开发者在项目中更倾向直接写SQL还是依赖ORM工具的现状。",
+      "titleZh": "有多少开发者主要使用原生SQL而非ORM？"
     }
   ],
   "hn": [
@@ -113,105 +128,120 @@
       "url": "https://www.calebleak.com/posts/dog-game/",
       "score": 669,
       "id": "47139675",
-      "summary": "帮我的狗编写代码游戏来增加乐趣"
+      "summary": "作者分享为宠物狗制作互动编程游戏的趣味经历。",
+      "titleZh": "我帮我的狗写代码游戏"
     },
     {
       "title": "Show HN: Moonshine Open-Weights STT models – higher accuracy than WhisperLargev3",
       "url": "https://github.com/moonshine-ai/moonshine",
       "score": 138,
       "id": "47143755",
-      "summary": "展示项目：Moonshine开源STT模型，精度高于Whisper Large v3"
+      "summary": "发布开源语音转文字模型Moonshine，声称在多项指标超越Whisper Large v3。",
+      "titleZh": "Show HN：Moonshine开源STT模型 – 精度高于Whisper Large v3"
     },
     {
       "title": "Justifying Text-Wrap: Pretty",
       "url": "https://matklad.github.io/2026/02/14/justifying-text-wrap-pretty.html",
       "score": 43,
       "id": "47077215",
-      "summary": "为text-wrap: pretty提供正当理由"
+      "summary": "探讨并论证CSS text-wrap: pretty属性的实际价值与美观改进。",
+      "titleZh": "证明text-wrap: pretty的合理性"
     },
     {
       "title": "Mac mini will be made at a new facility in Houston",
       "url": "https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/",
       "score": 370,
       "id": "47143152",
-      "summary": "Mac mini将在休斯顿新工厂生产"
+      "summary": "苹果宣布Mac mini未来将在美国休斯顿新建工厂组装生产。",
+      "titleZh": "Mac mini将在休斯顿新工厂生产"
     },
     {
       "title": "Hacking an old Kindle to display bus arrival times",
       "url": "https://www.mariannefeng.com/portfolio/kindle/",
       "score": 185,
       "id": "47141797",
-      "summary": "黑掉旧Kindle显示公交到站时间"
+      "summary": "教程介绍如何改造旧Kindle使其显示实时公交到达信息。",
+      "titleZh": "黑掉老Kindle显示公交到站时间"
     },
     {
       "title": "Code has always been the easy part",
       "url": "https://laughingmeme.org/2026/02/09/code-has-always-been-the-easy-part.html",
       "score": 10,
       "id": "47099476",
-      "summary": "代码从来都是最简单的部分"
+      "summary": "文章讨论软件开发中真正困难的并非写代码，而是需求、协作与维护等环节。",
+      "titleZh": "代码从来都是最简单的部分"
     },
     {
       "title": "Nearby Glasses",
       "url": "https://github.com/yjeanrenaud/yj_nearbyglasses",
       "score": 255,
       "id": "47140042",
-      "summary": "Nearby Glasses近视眼镜相关项目"
+      "summary": "介绍一款帮助寻找附近眼镜或眼镜店的服务或应用。",
+      "titleZh": "附近眼镜"
     },
     {
       "title": "Pi – a minimal terminal coding harness",
       "url": "https://pi.dev",
       "score": 179,
       "id": "47143754",
-      "summary": "Pi：极简终端编码工具"
+      "summary": "发布极简主义终端编程辅助工具Pi。",
+      "titleZh": "Pi – 极简终端编码工具"
     },
     {
       "title": "Amazon Busted for Widespread Scheme to Inflate Prices Across the Economy",
       "url": "https://www.thebignewsletter.com/p/amazon-busted-for-widespread-price",
       "score": 128,
       "id": "47145907",
-      "summary": "亚马逊被曝通过广泛价格操纵方案抬高全经济价格"
+      "summary": "报道指控亚马逊通过多种手段系统性推高商品价格影响整体经济。",
+      "titleZh": "亚马逊被曝大规模操纵价格抬高全经济成本"
     },
     {
       "title": "Corgi Labs (YC W23) Is Hiring",
       "url": "https://www.ycombinator.com/companies/corgi-labs/jobs/ZiEIf7a-founders-associate",
       "score": 1,
       "id": "47145911",
-      "summary": "Corgi Labs (YC W23) 正在招聘"
+      "summary": "YC W23批次创业公司Corgi Labs公开招聘职位。",
+      "titleZh": "Corgi Labs (YC W23) 正在招聘"
     },
     {
       "title": "I pitched a roller coaster to Disneyland at age 10 in 1978",
       "url": "https://wordglyph.xyz/one-piece-at-a-time",
       "score": 402,
       "id": "47136604",
-      "summary": "1978年10岁时我向迪士尼乐园推销过过山车"
+      "summary": "作者回忆童年时向迪士尼提交过山车设计方案的经历。",
+      "titleZh": "1978年10岁时我向迪士尼乐园推销过山车设计"
     },
     {
       "title": "Mercury 2: The fastest reasoning LLM, powered by diffusion",
       "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-2",
       "score": 88,
       "id": "47144464",
-      "summary": "Mercury 2：基于扩散模型的最快推理LLM"
+      "summary": "介绍基于扩散模型的新一代快速推理大语言模型Mercury 2。",
+      "titleZh": "Mercury 2：最快的扩散模型推理LLM"
     },
     {
       "title": "Show HN: Emdash – Open-source agentic development environment",
       "url": "https://github.com/generalaction/emdash",
       "score": 118,
       "id": "47140322",
-      "summary": "展示项目：Emdash开源智能体开发环境"
+      "summary": "发布开源的agentic（智能体导向）开发环境Emdash。",
+      "titleZh": "Show HN：Emdash – 开源智能体开发环境"
     },
     {
       "title": "Hugging Face Skills",
       "url": "https://github.com/huggingface/skills",
       "score": 142,
       "id": "47139902",
-      "summary": "Hugging Face技能平台"
+      "summary": "Hugging Face推出技能认证或学习路径相关功能。",
+      "titleZh": "Hugging Face技能"
     },
     {
       "title": "Optophone",
       "url": "https://en.wikipedia.org/wiki/Optophone",
       "score": 43,
       "id": "47093978",
-      "summary": "Optophone项目"
+      "summary": "介绍Optophone这一概念或项目（可能与光声转换或辅助设备相关）。",
+      "titleZh": "Optophone"
     }
   ],
   "producthunt": [
@@ -219,91 +249,106 @@
       "title": "ClawRecipes — Save 50+ hours setting up OpenClaw Agents with ClawRecipes",
       "url": "https://www.producthunt.com/products/clawrecipes-openclaw-recipes",
       "votesCount": 0,
-      "summary": "ClawRecipes帮助节省50+小时设置OpenClaw Agents"
+      "summary": "ClawRecipes提供预制配方，帮助快速搭建OpenClaw智能代理节省大量时间。",
+      "titleZh": "ClawRecipes — 用ClawRecipes节省50+小时搭建OpenClaw Agents"
     },
     {
       "title": "Toggle for OpenClaw — Your browser activity, streamed to your agent in real time",
       "url": "https://www.producthunt.com/products/togglex-openclaw",
       "votesCount": 0,
-      "summary": "Toggle for OpenClaw实时将浏览器活动流式传输给AI代理"
+      "summary": "Toggle插件实现浏览器行为实时传输至OpenClaw代理。",
+      "titleZh": "Toggle for OpenClaw — 浏览器活动实时流传输给你的智能代理"
     },
     {
       "title": "Collective OS — The Al-powered referral network for agencies &amp; consultants",
       "url": "https://www.producthunt.com/products/collective-os",
       "votesCount": 0,
-      "summary": "Collective OS为代理和顾问提供AI驱动的推荐网络"
+      "summary": "Collective OS是一个AI辅助的代理机构与顾问之间互相引荐的平台。",
+      "titleZh": "Collective OS — AI驱动的机构与顾问引荐网络"
     },
     {
       "title": "toktrack — Track AI CLI spending across Claude, Codex &amp; Gemini in 40ms",
       "url": "https://www.producthunt.com/products/toktrack",
       "votesCount": 0,
-      "summary": "toktrack在40ms内追踪Claude、Codex和Gemini的AI CLI花费"
+      "summary": "toktrack工具可快速统计多个AI模型CLI接口的使用成本。",
+      "titleZh": "toktrack — 40ms内追踪Claude、Codex与Gemini的AI CLI花费"
     },
     {
       "title": "Modelence App Builder — Build real apps, not prototypes",
       "url": "https://www.producthunt.com/products/modelence-app-builder",
       "votesCount": 0,
-      "summary": "Modelence App Builder可构建真实应用而非原型"
+      "summary": "Modelence允许用户快速创建可投入生产的完整应用而非仅限原型。",
+      "titleZh": "Modelence App Builder — 构建真实应用而非原型"
     },
     {
       "title": "Lemonade Password Manager — Simple, secure, with an Env Vault for your .env files",
       "url": "https://www.producthunt.com/products/lemonade-password-manager",
       "votesCount": 0,
-      "summary": "Lemonade Password Manager简单安全，附带.env文件保险库"
+      "summary": "Lemonade是一款简洁安全的密码管理工具，同时提供环境变量文件安全存储。",
+      "titleZh": "Lemonade Password Manager — 简洁安全密码管理器，附带.env文件保险库"
     },
     {
       "title": "Bazaar V4 — AI motion graphics and video generator",
       "url": "https://www.producthunt.com/products/bazaar-2",
       "votesCount": 0,
-      "summary": "Bazaar V4为AI动态图形和视频生成工具"
+      "summary": "Bazaar V4利用AI生成高质量动态图形和视频内容。",
+      "titleZh": "Bazaar V4 — AI驱动的动态图形与视频生成器"
     },
     {
       "title": "What YC Is Really Betting On? — An X-ray of 793 YC startups",
       "url": "https://www.producthunt.com/products/what-yc-is-really-betting-on",
       "votesCount": 0,
-      "summary": "What YC Is Really Betting On分析793家YC初创公司的真实投资方向"
+      "summary": "深度分析793家YC孵化公司，揭示YC当前投资趋势与重点方向。",
+      "titleZh": "YC到底在赌什么？——793家YC初创公司透视"
     },
     {
       "title": "Anima — UX Design Agent | Design to Code",
       "url": "https://www.producthunt.com/products/anima-app",
       "votesCount": 0,
-      "summary": "Anima UX设计代理：从设计直接生成代码"
+      "summary": "Anima是一款AI驱动的UX设计代理，可直接将设计稿转为代码。",
+      "titleZh": "Anima — UX设计智能代理 | 从设计到代码"
     },
     {
       "title": "Liftsell — Smart popups &amp; widgets that track revenue",
       "url": "https://www.producthunt.com/products/liftsell",
       "votesCount": 0,
-      "summary": "Liftsell提供智能弹窗和小部件来追踪收入"
+      "summary": "Liftsell提供可追踪转化与营收表现的智能弹窗及小部件工具。",
+      "titleZh": "Liftsell — 智能弹窗与组件追踪营收"
     },
     {
       "title": "Kivicube — Create stunning 3D/AR content in minutes, no coding required",
       "url": "https://www.producthunt.com/products/kivicube",
       "votesCount": 0,
-      "summary": "Kivicube无需编码即可快速创建惊艳3D/AR内容"
+      "summary": "Kivicube平台让用户无需编程即可快速制作高质量3D与AR内容。",
+      "titleZh": "Kivicube — 几分钟内无需代码创建惊艳3D/AR内容"
     },
     {
       "title": "Forum — Invest in your taste. Regulated exchange to trade relevance.",
       "url": "https://www.producthunt.com/products/forum-2",
       "votesCount": 0,
-      "summary": "Forum受监管的交易所平台，用来交易品味和相关性"
+      "summary": "Forum是一个受监管的平台，允许用户交易“相关性”资产。",
+      "titleZh": "Forum — 投资你的品味，有监管的相关性交易平台"
     },
     {
       "title": "Prosaic — A minimal, open-source, writer-first terminal writing app",
       "url": "https://www.producthunt.com/products/prosaic",
       "votesCount": 0,
-      "summary": "Prosaic极简开源写作终端应用，专注写作者"
+      "summary": "Prosaic是一款专注写作的极简开源终端文本编辑器。",
+      "titleZh": "Prosaic — 极简开源、以写作者为先的终端写作应用"
     },
     {
       "title": "Dock 3.0 — Optimize, track &amp; grow your apps now w/ Google Play support",
       "url": "https://www.producthunt.com/products/dock-developer-optimization-content-kit",
       "votesCount": 0,
-      "summary": "Dock 3.0优化、追踪并增长应用，现支持Google Play"
+      "summary": "Dock 3.0升级版提供应用优化、数据追踪及增长功能，现支持Google Play。",
+      "titleZh": "Dock 3.0 — 支持Google Play的App优化、追踪与增长工具"
     },
     {
       "title": "Dictato — Local instant voice-to-text for every Mac",
       "url": "https://www.producthunt.com/products/dictato",
       "votesCount": 0,
-      "summary": "Dictato为每台Mac提供本地即时语音转文字功能"
+      "summary": "Dictato为Mac提供完全本地运行的快速语音转文字功能。",
+      "titleZh": "Dictato — Mac本地即时语音转文字工具"
     }
   ],
   "substack": [
@@ -311,277 +356,322 @@
       "title": "The Future of Software Engineering with AI: Six Predictions",
       "url": "https://newsletter.pragmaticengineer.com/p/the-future-of-software-engineering-with-ai",
       "source": "newsletter.pragmaticengineer.com",
-      "summary": "AI时代软件工程的未来：六大预测"
+      "summary": "作者对AI如何重塑软件工程提出六项前瞻性预测。",
+      "titleZh": "AI时代软件工程的未来：六大预测"
     },
     {
       "title": "The Pulse #162: Even fewer middle managers and more flexible teams?",
       "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-162-even-fewer-middle-managers",
       "source": "newsletter.pragmaticengineer.com",
-      "summary": "The Pulse #162：更少中层经理与更灵活团队？"
+      "summary": "讨论企业组织结构可能出现更少中间管理层和更灵活团队的趋势。",
+      "titleZh": "The Pulse #162：更少的中间管理层与更灵活的团队？"
     },
     {
       "title": "How Codex is built",
       "url": "https://newsletter.pragmaticengineer.com/p/how-codex-is-built",
       "source": "newsletter.pragmaticengineer.com",
-      "summary": "Codex的构建过程详解"
+      "summary": "深度解析Codex（OpenAI代码模型）的技术架构与开发过程。",
+      "titleZh": "Codex是如何构建的"
     },
     {
       "title": "The Pragmatic Summit recordings and summaries",
       "url": "https://newsletter.pragmaticengineer.com/p/the-pragmatic-summit-recordings",
       "source": "newsletter.pragmaticengineer.com",
-      "summary": "Pragmatic Summit会议录音与总结"
+      "summary": "分享The Pragmatic Summit会议的演讲录音及核心内容总结。",
+      "titleZh": "The Pragmatic Summit 录音与总结"
     },
     {
       "title": "The programming language after Kotlin – with the creator of Kotlin",
       "url": "https://newsletter.pragmaticengineer.com/p/the-programming-language-after-kotlin",
       "source": "newsletter.pragmaticengineer.com",
-      "summary": "Kotlin之后的新编程语言——与Kotlin创造者对话"
+      "summary": "Kotlin创始人谈下一代编程语言的可能方向与特征。",
+      "titleZh": "Kotlin之后的编程语言 – 与Kotlin创造者对话"
     },
     {
       "title": "How Uber Reinvented Access Control for Microservices",
       "url": "https://blog.bytebytego.com/p/how-uber-reinvented-access-control",
       "source": "blog.bytebytego.com",
-      "summary": "Uber如何为微服务重塑访问控制系统"
+      "summary": "Uber分享其微服务架构中访问控制系统的革新设计与实现。",
+      "titleZh": "Uber如何为微服务重塑访问控制系统"
     },
     {
       "title": "How Large Language Models Learn",
       "url": "https://blog.bytebytego.com/p/how-large-language-models-learn",
       "source": "blog.bytebytego.com",
-      "summary": "大型语言模型的学习机制"
+      "summary": "解释大语言模型训练与学习的核心机制与原理。",
+      "titleZh": "大型语言模型是如何学习的"
     },
     {
       "title": "EP203: RabbitMQ vs Kafka vs Pulsar",
       "url": "https://blog.bytebytego.com/p/ep203-rabbitmq-vs-kafka-vs-pulsar",
       "source": "blog.bytebytego.com",
-      "summary": "RabbitMQ vs Kafka vs Pulsar对比"
+      "summary": "对比分析三大主流消息队列系统RabbitMQ、Kafka与Pulsar的优劣。",
+      "titleZh": "EP203：RabbitMQ vs Kafka vs Pulsar"
     },
     {
       "title": "LAST CALL FOR ENROLLMENT: Become an AI Engineer - Cohort 4",
       "url": "https://blog.bytebytego.com/p/last-call-for-enrollment-become-an",
       "source": "blog.bytebytego.com",
-      "summary": "最后招生：成为AI工程师第四期"
+      "summary": "AI工程师培训第4期课程即将截止报名。",
+      "titleZh": "最后召集报名：成为AI工程师 - 第4期"
     },
     {
       "title": "Eventual Consistency: The Key Trade-Off Behind Modern Databases",
       "url": "https://blog.bytebytego.com/p/eventual-consistency-the-key-trade",
       "source": "blog.bytebytego.com",
-      "summary": "最终一致性：现代数据库背后的关键权衡"
+      "summary": "探讨最终一致性在分布式数据库设计中的核心地位与取舍。",
+      "titleZh": "最终一致性：现代数据库背后的关键权衡"
     },
     {
       "title": "How to use AI for your next job interview",
       "url": "https://www.lennysnewsletter.com/p/how-to-use-ai-in-your-next-job-interview",
       "source": "www.lennysnewsletter.com",
-      "summary": "如何用AI准备下一次求职面试"
+      "summary": "指导利用AI工具高效准备求职面试的实用方法。",
+      "titleZh": "如何用AI准备下一次求职面试"
     },
     {
       "title": "How to use AI for your next job interview",
       "url": "https://www.lennysnewsletter.com/p/how-to-use-ai-for-your-next-job-interview",
       "source": "www.lennysnewsletter.com",
-      "summary": "如何用AI准备下一次求职面试"
+      "summary": "指导利用AI工具高效准备求职面试的实用方法（重复）。",
+      "titleZh": "如何用AI准备下一次求职面试"
     },
     {
       "title": "🎙️ This week on How I AI: How Notion’s design team uses Claude Code to design",
       "url": "https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-how-notions",
       "source": "www.lennysnewsletter.com",
-      "summary": "How I AI本周：Notion设计团队如何用Claude Code进行设计"
+      "summary": "Notion设计团队分享使用Claude Code进行设计的实际工作流。",
+      "titleZh": "本周How I AI：Notion设计团队如何用Claude Code辅助设计"
     },
     {
       "title": "“I haven’t written a single line of front-end code in 3 months”: How Notion’s design team uses Claude Code to prototype",
       "url": "https://www.lennysnewsletter.com/p/i-havent-written-a-single-line-of",
       "source": "www.lennysnewsletter.com",
-      "summary": "Notion设计团队三个月未写前端代码，全靠Claude Code原型"
+      "summary": "Notion设计团队介绍如何借助Claude Code完全替代手动前端编码进行原型开发。",
+      "titleZh": "“我三个月没写一行前端代码”：Notion设计团队用Claude Code快速原型"
     },
     {
       "title": "🧠 Community Wisdom: Making your product enterprise-ready, when engineering outpaces product, managing PRD versions as features evolve, planning work around energy, and more",
       "url": "https://www.lennysnewsletter.com/p/community-wisdom-making-your-product",
       "source": "www.lennysnewsletter.com",
-      "summary": "社区智慧：产品企业化、工程超车产品、管理PRD版本、按精力规划工作等话题"
+      "summary": "汇集社区关于企业级产品准备、工程与产品节奏协调、需求文档版本管理及工作能量规划的经验分享。",
+      "titleZh": "社区智慧：让产品企业级就绪、工程领先产品时怎么办、PRD版本管理、按精力规划工作等"
     }
   ],
   "jike": [
     {
       "title": "AI发展新趋势",
       "url": "https://web.okjike.com/topic/ai-trends",
-      "summary": "AI领域出现新的发展趋势",
-      "source": "即刻（中国社交平台）"
+      "summary": "讨论人工智能领域的最新发展趋势与动态。",
+      "source": "即刻（中国社交平台）",
+      "titleZh": "AI发展新趋势"
     },
     {
       "title": "奥运庆功活动",
       "url": "https://web.okjike.com/topic/olympics-celebration",
-      "summary": "举办奥运会庆祝活动",
-      "source": "即刻（中国社交平台）"
+      "summary": "报道或分享奥运会胜利后的庆祝活动信息。",
+      "source": "即刻（中国社交平台）",
+      "titleZh": "奥运庆功活动"
     },
     {
       "title": "音乐新专辑",
       "url": "https://web.okjike.com/topic/new-album",
-      "summary": "歌手或乐队发布全新音乐专辑",
-      "source": "即刻（中国社交平台）"
+      "summary": "介绍某位艺术家或乐队最新发布的音乐专辑。",
+      "source": "即刻（中国社交平台）",
+      "titleZh": "音乐新专辑"
     },
     {
       "title": "梦幻弹出店",
       "url": "https://web.okjike.com/topic/dream-pop-up",
-      "summary": "推出梦幻风格的快闪弹出店",
-      "source": "即刻（中国社交平台）"
+      "summary": "宣传或分享限时梦幻主题快闪店活动。",
+      "source": "即刻（中国社交平台）",
+      "titleZh": "梦幻弹出店"
     },
     {
       "title": "励志名言",
       "url": "https://web.okjike.com/topic/motivational-quotes",
-      "summary": "分享励志名言警句",
-      "source": "即刻（中国社交平台）"
+      "summary": "分享一句或多句鼓舞人心的励志语录。",
+      "source": "即刻（中国社交平台）",
+      "titleZh": "励志名言"
     },
     {
       "title": "政治事件",
       "url": "https://web.okjike.com/topic/political-news",
-      "summary": "发生重大政治事件",
-      "source": "即刻（中国社交平台）"
+      "summary": "报道或评论近期发生的重要政治事件。",
+      "source": "即刻（中国社交平台）",
+      "titleZh": "政治事件"
     },
     {
       "title": "早安问候",
       "url": "https://web.okjike.com/topic/morning-greeting",
-      "summary": "发布早晨问候内容",
-      "source": "即刻（中国社交平台）"
+      "summary": "发布早晨问候语，向关注者表达美好祝福。",
+      "source": "即刻（中国社交平台）",
+      "titleZh": "早安问候"
     },
     {
       "title": "时尚杂志",
       "url": "https://web.okjike.com/topic/fashion-magazine",
-      "summary": "介绍时尚杂志相关内容",
-      "source": "即刻（中国社交平台）"
+      "summary": "推荐或分享最新时尚杂志内容或封面。",
+      "source": "即刻（中国社交平台）",
+      "titleZh": "时尚杂志"
     },
     {
       "title": "活动日程",
       "url": "https://web.okjike.com/topic/event-schedule",
-      "summary": "公布活动日程安排",
-      "source": "即刻（中国社交平台）"
+      "summary": "公布即将举办的各类活动时间表。",
+      "source": "即刻（中国社交平台）",
+      "titleZh": "活动日程"
     },
     {
       "title": "历史演讲",
       "url": "https://web.okjike.com/topic/historical-speech",
-      "summary": "回顾或引用历史著名演讲",
-      "source": "即刻（中国社交平台）"
+      "summary": "分享历史上著名人物的经典演讲内容或片段。",
+      "source": "即刻（中国社交平台）",
+      "titleZh": "历史演讲"
     }
   ],
   "pinterest": [
     {
       "title": "Gimme Gummy",
       "url": "https://business.pinterest.com/pinterest-predicts/2026/gimme-gummy",
-      "summary": "Gimme Gummy糖果主题或食谱",
-      "source": "Pinterest"
+      "summary": "展示各种软糖、橡皮糖相关的美食图片或创意。",
+      "source": "Pinterest",
+      "titleZh": "Gimme Gummy"
     },
     {
       "title": "Glamoratti",
       "url": "https://business.pinterest.com/pinterest-predicts/2026/glamoratti",
-      "summary": "Glamoratti华丽时尚风格",
-      "source": "Pinterest"
+      "summary": "收集高端华丽、魅力四射的时尚与生活方式图片。",
+      "source": "Pinterest",
+      "titleZh": "Glamoratti"
     },
     {
       "title": "Mystic Outlands",
       "url": "https://business.pinterest.com/pinterest-predicts/2026/mystic-outlands",
-      "summary": "Mystic Outlands神秘外域幻想场景",
-      "source": "Pinterest"
+      "summary": "呈现神秘、奇幻的外域风景或艺术风格图像。",
+      "source": "Pinterest",
+      "titleZh": "Mystic Outlands"
     },
     {
       "title": "Vintage watches styling",
       "url": "https://community.pinterest.biz/t/the-trend-report-february-2026/41759",
-      "summary": "复古手表搭配造型",
-      "source": "Pinterest"
+      "summary": "展示复古手表搭配造型的时尚灵感图。",
+      "source": "Pinterest",
+      "titleZh": "Vintage watches styling"
     },
     {
       "title": "Baking for beginners",
       "url": "https://community.pinterest.biz/t/the-trend-report-february-2026/41759",
-      "summary": "适合初学者的烘焙教程",
-      "source": "Pinterest"
+      "summary": "适合新手的烘焙食谱与步骤图片教程。",
+      "source": "Pinterest",
+      "titleZh": "Baking for beginners"
     },
     {
       "title": "Art and crafts organisation",
       "url": "https://community.pinterest.biz/t/the-trend-report-february-2026/41759",
-      "summary": "艺术与手工艺品的收纳整理",
-      "source": "Pinterest"
+      "summary": "手工艺术与材料收纳整理的灵感照片。",
+      "source": "Pinterest",
+      "titleZh": "Art and crafts organisation"
     },
     {
       "title": "Rio de Janeiro trips",
       "url": "https://community.pinterest.biz/t/the-trend-report-february-2026/41759",
-      "summary": "里约热内卢旅行攻略与美图",
-      "source": "Pinterest"
+      "summary": "里约热内卢旅游景点与旅行灵感图片集。",
+      "source": "Pinterest",
+      "titleZh": "Rio de Janeiro trips"
     },
     {
       "title": "Main character energy",
       "url": "https://community.pinterest.biz/t/the-trend-report-february-2026/41759",
-      "summary": "主角能量氛围的造型与生活方式",
-      "source": "Pinterest"
+      "summary": "展现主角气场、自信有态度的生活方式照片。",
+      "source": "Pinterest",
+      "titleZh": "Main character energy"
     },
     {
       "title": "Cabbage Crush",
       "url": "https://www.aol.com/shopping/article/pinterest-just-released-its-list-of-anticipated-2026-trends--and-theyre-pretty-wild-160503705.html",
-      "summary": "Cabbage Crush卷心菜相关创意或食物",
-      "source": "Pinterest"
+      "summary": "以卷心菜为主题的创意美食或艺术图片。",
+      "source": "Pinterest",
+      "titleZh": "Cabbage Crush"
     },
     {
       "title": "Brooched",
       "url": "https://www.aol.com/shopping/article/pinterest-just-released-its-list-of-anticipated-2026-trends--and-theyre-pretty-wild-160503705.html",
-      "summary": "Brooched胸针设计与佩戴方式",
-      "source": "Pinterest"
+      "summary": "展示各种胸针设计与佩戴方式的时尚图片。",
+      "source": "Pinterest",
+      "titleZh": "Brooched"
     }
   ],
   "x": [
     {
       "title": "Letz go even bigger and better,,, ALL Female US Olympians and Paralympian medalists are invited out to celebrate in Viva Las Vegas for the SHE GOT GAME Weekend ,,, Hit a guy up and LETZ GOOO",
       "url": "https://x.com/FlavorFlav/status/2026477099016663452",
-      "summary": "邀请所有美国奥运和残奥女 medalists 参加拉斯维加斯SHE GOT GAME周末庆祝活动",
-      "source": "X (Twitter)"
+      "summary": "邀请所有美国奥运及残奥会女子奖牌得主参加拉斯维加斯的大型庆祝周末活动。",
+      "source": "X (Twitter)",
+      "titleZh": "让我们更大更好，所有美国奥运和残奥女奖牌得主受邀参加拉斯维加斯SHE GOT GAME周末庆典"
     },
     {
       "title": "엑소, 中 13개 도시 60만명 방문한 쇼핑몰 랩핑 팝업 성황 최대 음악 플랫폼 QQ뮤직 협업! K팝 아티스트 사상 최다 도시 진행",
       "url": "https://x.com/weareoneEXO/status/2026487550186238121",
-      "summary": "EXO与中国13城60万人次购物中心合作QQ音乐推出史上最多城市K-pop艺人包装弹出店",
-      "source": "X (Twitter)"
+      "summary": "EXO与QQ音乐合作在中国13个城市举办商场快闪活动，吸引60万人流量创纪录。",
+      "source": "X (Twitter)",
+      "titleZh": "EXO中国13城60万人流量商场包装快闪店大获成功，创最多城市K-pop艺人QQ音乐合作记录"
     },
     {
       "title": "[🌐Global Info] SWEET Dreamiez POP-UP 🍰 달콤한 향기가 솔솔! 몽글몽글한 구름을 타고 시즈니를 위한 특별한 선물이 찾아옵니다.🍓🧁",
       "url": "https://x.com/LINEFRIENDSinfo/status/2026479114555896213",
-      "summary": "SWEET Dreamiez POP-UP甜美梦幻主题弹出店为粉丝带来特别礼物",
-      "source": "X (Twitter)"
+      "summary": "SWEET Dreamiez主题甜品快闪店活动上线，为粉丝带来梦幻甜点体验。",
+      "source": "X (Twitter)",
+      "titleZh": "SWEET Dreamiez POP-UP全球资讯：甜蜜云朵主题快闪店为粉丝带来特别礼物"
     },
     {
       "title": "Listen, I'm the ____________ 💙 #BOYNEXTDOOR #보이넥스트도어 #BND",
       "url": "https://x.com/HYBE_MERCH/status/2026477256856732121",
-      "summary": "BOYNEXTDOOR成员填空自我介绍挑战",
-      "source": "X (Twitter)"
+      "summary": "BOYNEXTDOOR成员发布带填空挑战的互动帖子，附带团体标签。",
+      "source": "X (Twitter)",
+      "titleZh": "听着，我就是那个_____ 💙 #BOYNEXTDOOR"
     },
     {
       "title": "The President tried to imprison us. But he failed. Instead, we’ll be in the People’s House—staring right at him and holding him accountable. Don’t give up the ship.",
       "url": "https://x.com/RepJasonCrow/status/2026473273739948055",
-      "summary": "总统试图监禁我们但失败，我们将在人民之家直面并监督他",
-      "source": "X (Twitter)"
+      "summary": "某政治人物表示将进入国会直接监督并追究总统责任的强硬表态。",
+      "source": "X (Twitter)",
+      "titleZh": "总统试图监禁我们但失败了，我们将进入人民之家直面他并追究责任"
     },
     {
       "title": "มอนิ่งเช้านี้ เป็นกำลังใจให้ทุกคนในการทำงานครับ ✌️",
       "url": "https://x.com/zee_pruk/status/2026479938707272020",
-      "summary": "早晨鼓励大家工作加油的泰语问候",
-      "source": "X (Twitter)"
+      "summary": "用泰语发布早晨励志问候语，为工作日打气。",
+      "source": "X (Twitter)",
+      "titleZh": "今早问候，给大家工作加油！"
     },
     {
       "title": "YEJI X Marie Claire X Roger Vivier (1) MAR, 2026 #ITZY #MIDZY @ITZYofficial #YEJI #예지 @marieclairekr",
       "url": "https://x.com/ITZYofficial/status/2026477266558136449",
-      "summary": "ITZY成员YEJI为Marie Claire与Roger Vivier拍摄2026年3月刊",
-      "source": "X (Twitter)"
+      "summary": "ITZY成员YEJI拍摄Marie Claire与Roger Vivier合作时尚大片预告。",
+      "source": "X (Twitter)",
+      "titleZh": "YEJI X Marie Claire X Roger Vivier (1) MAR, 2026 #ITZY #YEJI"
     },
     {
       "title": "#DMDschedule 🗓️ : 25.02.2026 Zee Your New Skin The Klinique Love Anniversary 🙋🏻‍♂️ : @zee_pruk @CwrNew @NongZon_Domundi ⏰️ : 18.00 น. | 6 PM (GMT+7)",
       "url": "https://x.com/DomundiTV/status/2026478504812908649",
-      "summary": "DMD 2026年2月25日活动安排：Zee Your New Skin The Klinique Love Anniversary",
-      "source": "X (Twitter)"
+      "summary": "公布泰国艺人Zee Pruk等参与的The Klinique周年庆活动时间安排。",
+      "source": "X (Twitter)",
+      "titleZh": "DMD日程：2月25日Zee Your New Skin The Klinique Love Anniversary活动"
     },
     {
       "title": "Muammar Gaddafi at the 2009 United Nation Assembly: \"They will create the virus themselves and sell you the antidotes. Thereafter,they will pretend to take time to find the solution when they already have it.\"",
       "url": "https://x.com/iluminatibot/status/2026483181852246406",
-      "summary": "2009年卡扎菲在联合国大会发言警告制造病毒并售卖解药的阴谋论",
-      "source": "X (Twitter)"
+      "summary": "引用卡扎菲2009年联合国演讲中关于阴谋论的著名言论。",
+      "source": "X (Twitter)",
+      "titleZh": "穆阿迈尔·卡扎菲2009年联合国大会演讲：他们会自己制造病毒然后卖给你解药"
     },
     {
       "title": "🌼🌷#春が近いよモス食べよう キャンペーン実施中🌷🌼 モスバーガーが抽選で500名さまに当たる🎁 3/1(日)まで",
       "url": "https://x.com/mos_burger/status/2026477252905517374",
-      "summary": "モスバーガー春季临近活动，抽选500人赠送奖品至3月1日",
-      "source": "X (Twitter)"
+      "summary": "日本Mos汉堡推出春季主题抽奖活动，邀请顾客参与用餐赢取奖品。",
+      "source": "X (Twitter)",
+      "titleZh": "春天快到了，一起去吃Mos吧！活动进行中，抽选500人送礼至3月1日"
     }
   ]
 }

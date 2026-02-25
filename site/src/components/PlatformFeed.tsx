@@ -1,5 +1,6 @@
 interface Item {
   title: string;
+  titleZh?: string;
   url: string;
   summary?: string;
   score?: number;
@@ -24,9 +25,10 @@ export function PlatformFeed({
         <div key={i} className="card">
           <h3>
             <a href={item.url} target="_blank" rel="noopener noreferrer">
-              {item.title}
+              {item.titleZh || item.title}
             </a>
           </h3>
+          {item.titleZh ? <p className="title-original">{item.title}</p> : null}
           {item.summary ? <p className="item-summary">{item.summary}</p> : null}
           <div className="meta">{meta(item)}</div>
         </div>

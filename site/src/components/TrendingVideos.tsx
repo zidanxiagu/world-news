@@ -24,6 +24,7 @@ interface Data {
 
 function formatNum(s: string | undefined): string {
   if (s === undefined || s === '—' || s === '-') return '—';
+  if (/[KMBkmb]$/.test(s)) return s;
   const n = parseInt(s, 10);
   if (Number.isNaN(n)) return s;
   if (n >= 1e6) return (n / 1e6).toFixed(1) + 'M';

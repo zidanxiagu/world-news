@@ -34,11 +34,11 @@ export default async function Home() {
         <div className="nav-inner">
           <span className="nav-brand">每日热门</span>
           <div className="nav-links">
-            <a href="#news" className="nav-link news"><span className="nav-dot" />财经科技</a>
+            <a href="#news" className="nav-link news"><span className="nav-dot" />Finance & Tech</a>
             <a href="#reddit" className="nav-link reddit"><span className="nav-dot" />Reddit</a>
-            <a href="#hn" className="nav-link hn"><span className="nav-dot" />黑客新闻</a>
-            <a href="#ph" className="nav-link ph"><span className="nav-dot" />产品猎人</a>
-            <a href="#sub" className="nav-link sub"><span className="nav-dot" />深度文章</a>
+            <a href="#hn" className="nav-link hn"><span className="nav-dot" />Hacker News</a>
+            <a href="#ph" className="nav-link ph"><span className="nav-dot" />Product Hunt</a>
+            <a href="#sub" className="nav-link sub"><span className="nav-dot" />Substack</a>
             <a href="#jike" className="nav-link jike"><span className="nav-dot" />即刻</a>
             <a href="#pin" className="nav-link pin"><span className="nav-dot" />Pinterest</a>
             <a href="#youtube" className="nav-link yt"><span className="nav-dot" />YouTube</a>
@@ -56,8 +56,7 @@ export default async function Home() {
           <div className="section-inner">
             <div className="section-header">
               <div className="section-icon">📊</div>
-              <h2 className="section-title">今日财经科技</h2>
-              <span className="section-subtitle">Finance & Tech News</span>
+              <h2 className="section-title">Finance & Tech News</h2>
             </div>
             <NewsDigest data={data.news} />
           </div>
@@ -68,8 +67,7 @@ export default async function Home() {
           <div className="section-inner">
             <div className="section-header">
               <div className="section-icon">🤖</div>
-              <h2 className="section-title">Reddit 热门</h2>
-              <span className="section-subtitle">Reddit Trending</span>
+              <h2 className="section-title">Reddit</h2>
             </div>
             <PlatformFeed
               items={geek.reddit ?? []}
@@ -83,8 +81,7 @@ export default async function Home() {
           <div className="section-inner">
             <div className="section-header">
               <div className="section-icon">🔥</div>
-              <h2 className="section-title">黑客新闻</h2>
-              <span className="section-subtitle">Hacker News</span>
+              <h2 className="section-title">Hacker News</h2>
             </div>
             <PlatformFeed
               items={geek.hn ?? []}
@@ -98,8 +95,7 @@ export default async function Home() {
           <div className="section-inner">
             <div className="section-header">
               <div className="section-icon">🚀</div>
-              <h2 className="section-title">产品猎人</h2>
-              <span className="section-subtitle">Product Hunt</span>
+              <h2 className="section-title">Product Hunt</h2>
             </div>
             <PlatformFeed
               items={geek.producthunt ?? []}
@@ -113,8 +109,7 @@ export default async function Home() {
           <div className="section-inner">
             <div className="section-header">
               <div className="section-icon">📝</div>
-              <h2 className="section-title">深度文章</h2>
-              <span className="section-subtitle">Substack</span>
+              <h2 className="section-title">Substack</h2>
             </div>
             <PlatformFeed
               items={geek.substack ?? []}
@@ -128,8 +123,7 @@ export default async function Home() {
           <div className="section-inner">
             <div className="section-header">
               <div className="section-icon">📍</div>
-              <h2 className="section-title">即刻热门</h2>
-              <span className="section-subtitle">Jike Trending</span>
+              <h2 className="section-title">即刻</h2>
             </div>
             <PlatformFeed
               items={geek.jike ?? []}
@@ -143,8 +137,7 @@ export default async function Home() {
           <div className="section-inner">
             <div className="section-header">
               <div className="section-icon">📌</div>
-              <h2 className="section-title">灵感图集</h2>
-              <span className="section-subtitle">Pinterest</span>
+              <h2 className="section-title">Pinterest</h2>
             </div>
             <PlatformFeed
               items={geek.pinterest ?? []}
@@ -158,8 +151,7 @@ export default async function Home() {
           <div className="section-inner">
             <div className="section-header">
               <div className="section-icon">▶</div>
-              <h2 className="section-title">YouTube 今日热门</h2>
-              <span className="section-subtitle">YouTube Trending</span>
+              <h2 className="section-title">YouTube</h2>
             </div>
             <TrendingVideos data={data.trendingVideos} />
           </div>
@@ -170,8 +162,7 @@ export default async function Home() {
           <div className="section-inner">
             <div className="section-header">
               <div className="section-icon">𝕏</div>
-              <h2 className="section-title">X 今日热门</h2>
-              <span className="section-subtitle">X (Twitter) Trending</span>
+              <h2 className="section-title">X (Twitter)</h2>
             </div>
             <PlatformFeed
               items={geek.x ?? []}

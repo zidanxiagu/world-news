@@ -29,7 +29,7 @@ async function run(dateStr) {
   for (const feedUrl of config.news.feeds || []) {
     try {
       const items = await fetchRssFeed(feedUrl);
-      all.push(...items.slice(0, 5));
+      all.push(...items.slice(0, 10));
     } catch (e) {
       all.push({
         title: `(RSS 拉取失败: ${feedUrl})`,
