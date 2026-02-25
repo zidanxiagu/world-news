@@ -1,21 +1,20 @@
 interface Item {
   title: string;
   url: string;
-  source: string;
-  publishedAt?: string;
   summary?: string;
-}
-interface Data {
-  date?: string;
-  items?: Item[];
+  source?: string;
 }
 
-export function NewsDigest({ data }: { data: unknown }) {
+interface Data {
+  x?: Item[];
+}
+
+export function XTrending({ data }: { data: unknown }) {
   const d = data as Data | null;
-  const items = d?.items ?? [];
+  const items = d?.x ?? [];
 
   if (items.length === 0) {
-    return <p className="empty-state">暂无财经科技新闻</p>;
+    return <p className="empty-state">暂无 X 热门数据</p>;
   }
 
   return (
@@ -28,10 +27,7 @@ export function NewsDigest({ data }: { data: unknown }) {
             </a>
           </h3>
           {item.summary ? <p className="item-summary">{item.summary}</p> : null}
-          <div className="meta">
-            {item.source}
-            {item.publishedAt ? ` · ${new Date(item.publishedAt).toLocaleDateString('zh-CN')}` : ''}
-          </div>
+          <div className="meta">{item.source ?? 'X'}</div>
         </div>
       ))}
     </div>

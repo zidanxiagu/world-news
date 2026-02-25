@@ -74,6 +74,5 @@ export async function readData() {
     trendingVideos: trendingVideos || getLatestOrSample('trending-videos', 'sample.json'),
     news: getLatestOrSample('news', 'sample.json'),
     geek: getLatestOrSample('reddit-hn', 'sample.json'),
-    learning: readJson('learning', 'placeholder.json'),
   };
 }

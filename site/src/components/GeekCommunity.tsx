@@ -17,14 +17,15 @@ interface Data {
   substack?: Item[];
   jike?: Item[];
   pinterest?: Item[];
-  x?: Item[];
 }
 
 function Section({
+  icon,
   title,
   items,
   meta,
 }: {
+  icon: string;
   title: string;
   items: Item[];
   meta: (item: Item) => React.ReactNode;
@@ -32,7 +33,10 @@ function Section({
   if (!items?.length) return null;
   return (
     <>
-      <h3 style={{ fontSize: '0.95rem', color: '#888', marginTop: '1rem' }}>{title}</h3>
+      <h3 className="geek-sub-title">
+        <span className="geek-sub-icon">{icon}</span>
+        {title}
+      </h3>
       {items.map((item, i) => (
         <div key={`${title}-${i}`} className="card">
           <h3>
@@ -56,61 +60,56 @@ export function GeekCommunity({ data }: { data: unknown }) {
   const substack = d?.substack ?? [];
   const jike = d?.jike ?? [];
   const pinterest = d?.pinterest ?? [];
-  const x = d?.x ?? [];
   const empty =
     reddit.length === 0 &&
     hn.length === 0 &&
     producthunt.length === 0 &&
     substack.length === 0 &&
     jike.length === 0 &&
-    pinterest.length === 0 &&
-    x.length === 0;
+    pinterest.length === 0;
+
+  if (empty) {
+    return <p className="empty-state">暂无极客社区数据</p>;
+  }
 
   return (
     <div>
-      {empty ? (
-        <p className="card">
-          暂无数据。运行 <code>node scripts/cli.js geek</code> 拉取；在 config 中配置 producthunt.apiKey、substack.feeds、jike.feeds、pinterest.feeds 可拉取更多平台。
-        </p>
-      ) : (
-        <>
-          <Section
-            title="Reddit"
-            items={reddit}
-            meta={(item) => <>r/{item.subreddit} · {item.score ?? 0} pts</>}
-          />
-          <Section
-            title="Hacker News"
-            items={hn}
-            meta={(item) => <>{item.score ?? 0} pts</>}
-          />
-          <Section
-            title="Product Hunt"
-            items={producthunt}
-            meta={(item) => <>{item.votesCount ?? 0} votes</>}
-          />
-          <Section
-            title="Substack"
-            items={substack}
-            meta={(item) => <>{item.source ?? 'Substack'}</>}
-          />
-          <Section
-            title="即刻"
-            items={jike}
-            meta={(item) => <>{item.source ?? '即刻'}</>}
-          />
-          <Section
-            title="Pinterest"
-            items={pinterest}
-            meta={(item) => <>{item.source ?? 'Pinterest'}</>}
-          />
-          <Section
-            title="X (Twitter)"
-            items={x}
-            meta={(item) => <>{item.source ?? 'X'}</>}
-          />
-        </>
-      )}
+      <Section
+        icon="🤖"
+        title="Reddit"
+        items={reddit}
+        meta={(item) => <>r/{item.subreddit} · {item.score ?? 0} pts</>}
+      />
+      <Section
+        icon="🔥"
+        title="Hacker News"
+        items={hn}
+        meta={(item) => <>{item.score ?? 0} pts</>}
+      />
+      <Section
+        icon="🚀"
+        title="Product Hunt"
+        items={producthunt}
+        meta={(item) => <>{item.votesCount ?? 0} votes</>}
+      />
+      <Section
+        icon="📝"
+        title="Substack"
+        items={substack}
+        meta={(item) => <>{item.source ?? 'Substack'}</>}
+      />
+      <Section
+        icon="📍"
+        title="即刻"
+        items={jike}
+        meta={(item) => <>{item.source ?? '即刻'}</>}
+      />
+      <Section
+        icon="📌"
+        title="Pinterest"
+        items={pinterest}
+        meta={(item) => <>{item.source ?? 'Pinterest'}</>}
+      />
     </div>
   );
 }
