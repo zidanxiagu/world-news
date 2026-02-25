@@ -23,13 +23,17 @@ interface Data {
 }
 
 function formatNum(s: string | undefined): string {
-  if (s === undefined || s === '—' || s === '-') return '—';
+  if (!s || s === '—' || s === '-' || s === 'N/A') return '—';
   if (/[KMBkmb]$/.test(s)) return s;
   const n = parseInt(s, 10);
   if (Number.isNaN(n)) return s;
   if (n >= 1e6) return (n / 1e6).toFixed(1) + 'M';
   if (n >= 1e3) return (n / 1e3).toFixed(1) + 'K';
   return String(n);
+}
+
+function hasValue(s: string | undefined): boolean {
+  return !!s && s !== '—' && s !== '-' && s !== 'N/A' && s !== '';
 }
 
 function formatDate(dateStr: string | undefined): string {
@@ -111,18 +115,16 @@ export function TrendingVideos({ data }: { data: unknown }) {
                       </>
                     ) : null}
                   </div>
-                  <div className="top10-type">
-                    <span className="top10-type-label">分类</span>
-                    <span className="tag">{item.categoryName || '—'}</span>
-                  </div>
+                  {hasValue(item.categoryName) ? (
+                    <div className="top10-type">
+                      <span className="top10-type-label">分类</span>
+                      <span className="tag">{item.categoryName}</span>
+                    </div>
+                  ) : null}
                   <div className="top10-stats">
-                    <span className="top10-stat" title="播放量">▶ {formatNum(item.views)}</span>
-                    <span className="sep">·</span>
-                    <span className="top10-stat" title="点赞数">👍 {formatNum(item.likeCount)}</span>
-                    <span className="sep">·</span>
-                    <span className="top10-stat" title="评论数">💬 {formatNum(item.commentCount)}</span>
-                    <span className="sep">·</span>
-                    <span className="top10-stat" title="分享">↗ {item.shareCount ?? '—'}</span>
+                    {hasValue(item.views) ? <><span className="top10-stat" title="播放量">▶ {formatNum(item.views)}</span><span className="sep">·</span></> : null}
+                    {hasValue(item.likeCount) ? <><span className="top10-stat" title="点赞数">👍 {formatNum(item.likeCount)}</span><span className="sep">·</span></> : null}
+                    {hasValue(item.commentCount) ? <><span className="top10-stat" title="评论数">💬 {formatNum(item.commentCount)}</span></> : null}
                   </div>
                   {item.contentSummary ? (
                     <div className="top10-summary">
