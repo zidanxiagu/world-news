@@ -43,6 +43,8 @@ module.exports = {
   pinterest: {
     feeds: process.env.PINTEREST_FEEDS ? process.env.PINTEREST_FEEDS.split(',') : [],
   },
+  // X (Twitter)：无公开 API/RSS，由 Grok 实时搜索提供热门内容
+  x: {},
   // 新闻 RSS 源（无需 key）。若已配置 youtube.summaryVideoApiKey（xAI），新闻与 Reddit/HN 会复用该 key 为每条生成中文摘要。
   news: {
     feeds: [

@@ -17,6 +17,7 @@ interface Data {
   substack?: Item[];
   jike?: Item[];
   pinterest?: Item[];
+  x?: Item[];
 }
 
 function Section({
@@ -55,13 +56,15 @@ export function GeekCommunity({ data }: { data: unknown }) {
   const substack = d?.substack ?? [];
   const jike = d?.jike ?? [];
   const pinterest = d?.pinterest ?? [];
+  const x = d?.x ?? [];
   const empty =
     reddit.length === 0 &&
     hn.length === 0 &&
     producthunt.length === 0 &&
     substack.length === 0 &&
     jike.length === 0 &&
-    pinterest.length === 0;
+    pinterest.length === 0 &&
+    x.length === 0;
 
   return (
     <div>
@@ -100,6 +103,11 @@ export function GeekCommunity({ data }: { data: unknown }) {
             title="Pinterest"
             items={pinterest}
             meta={(item) => <>{item.source ?? 'Pinterest'}</>}
+          />
+          <Section
+            title="X (Twitter)"
+            items={x}
+            meta={(item) => <>{item.source ?? 'X'}</>}
           />
         </>
       )}

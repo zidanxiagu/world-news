@@ -194,15 +194,20 @@ async function fetchPinterest() {
   return all.slice(0, 15);
 }
 
+async function fetchX() {
+  return [];
+}
+
 async function run(dateStr) {
   const useGrok = process.env.USE_GROK === '1';
-  const [hn, reddit, producthunt, substack, jike, pinterest] = await Promise.all([
+  const [hn, reddit, producthunt, substack, jike, pinterest, x] = await Promise.all([
     fetchHN(),
     fetchReddit(),
     fetchProductHunt(),
     fetchSubstack(),
     fetchJike(),
     fetchPinterest(),
+    fetchX(),
   ]);
 
   const limit = useGrok ? 15 : 10;
@@ -212,6 +217,7 @@ async function run(dateStr) {
   const subList = substack.slice(0, 15);
   const jikeList = jike.slice(0, 15);
   const pinList = pinterest.slice(0, 15);
+  const xList = x.slice(0, 15);
 
   if (!useGrok) {
     await addChineseSummaries(redditList, 'summary', limit, 400);
@@ -220,6 +226,7 @@ async function run(dateStr) {
     await addChineseSummaries(subList, 'summary', limit, 400);
     await addChineseSummaries(jikeList, 'summary', limit, 400);
     await addChineseSummaries(pinList, 'summary', limit, 400);
+    await addChineseSummaries(xList, 'summary', limit, 400);
   }
 
   const result = {
@@ -230,6 +237,7 @@ async function run(dateStr) {
     substack: subList,
     jike: jikeList,
     pinterest: pinList,
+    x: xList,
   };
   fs.mkdirSync(DATA_DIR, { recursive: true });
   fs.writeFileSync(path.join(DATA_DIR, `${dateStr}.json`), JSON.stringify(result, null, 2), 'utf8');

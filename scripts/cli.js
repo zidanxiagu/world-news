@@ -50,7 +50,8 @@ async function main() {
     const sub = (result.substack || []).length;
     const jk = (result.jike || []).length;
     const pin = (result.pinterest || []).length;
-    summaries.push(`geek: reddit ${r}, hn ${h}, producthunt ${ph}, substack ${sub}, jike ${jk}, pinterest ${pin} (${dateStr})`);
+    const xc = (result.x || []).length;
+    summaries.push(`geek: reddit ${r}, hn ${h}, producthunt ${ph}, substack ${sub}, jike ${jk}, pinterest ${pin}, x ${xc} (${dateStr})`);
     if (stdout && cmd === 'geek') console.log(JSON.stringify(result, null, 2));
   }
 
