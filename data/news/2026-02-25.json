@@ -1,0 +1,47 @@
+{
+  "date": "2026-02-25",
+  "items": [
+    {
+      "title": "(RSS 拉取失败: https://feeds.reuters.com/reuters/topNews)",
+      "url": "#",
+      "source": "https://feeds.reuters.com/reuters/topNews",
+      "publishedAt": "2026-02-25",
+      "summary": "RSS拉取失败，无法获取路透社顶级新闻的内容。"
+    },
+    {
+      "title": "Nvidia challenger AI chip startup MatX raised $500M",
+      "url": "https://techcrunch.com/2026/02/24/nvidia-challenger-ai-chip-startup-matx-raised-500m/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-02-25T01:26:21.523Z",
+      "summary": "AI芯片初创公司MatX作为Nvidia的竞争者，成功筹集5亿美元资金，用于开发先进AI芯片。"
+    },
+    {
+      "title": "Self-driving tech startup Wayve raises $1.2B from Nvidia, Uber, and three automakers",
+      "url": "https://techcrunch.com/2026/02/24/self-driving-tech-startup-wayve-raises-1-2b-from-nvidia-uber-and-three-automakers/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-02-25T01:26:21.525Z",
+      "summary": "自动驾驶初创公司Wayve从Nvidia、Uber和三家汽车制造商那里获得12亿美元投资，以加速AI驱动的自动驾驶技术发展。"
+    },
+    {
+      "title": "Spanish &#8216;soonicorn&#8217; Multiverse Computing releases free compressed AI model",
+      "url": "https://techcrunch.com/2026/02/24/spanish-soonicorn-multiverse-computing-releases-free-compressed-ai-model/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-02-25T01:26:21.525Z",
+      "summary": "西班牙准独角兽公司Multiverse Computing发布了免费的压缩AI模型，帮助降低AI计算成本并在资源有限设备上运行。"
+    },
+    {
+      "title": "Apple rolls out age-verification tools worldwide to comply with growing web of child safety laws",
+      "url": "https://techcrunch.com/2026/02/24/apple-rolls-out-age-verification-tools-worldwide-to-comply-with-growing-web-of-child-safety-laws/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-02-25T01:26:21.525Z",
+      "summary": "苹果在全球推出年龄验证工具，以遵守日益严格的儿童安全法律，保护未成年人在线安全。"
+    },
+    {
+      "title": "Uber engineers built an AI version of their boss",
+      "url": "https://techcrunch.com/2026/02/24/uber-engineers-built-ai-version-of-boss-dara-khosrowshahi/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-02-25T01:26:21.525Z",
+      "summary": "Uber工程师构建了他们老板的AI版本，展示AI在模拟人类行为和决策方面的趣味应用。"
+    }
+  ]
+}
