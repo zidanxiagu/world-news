@@ -26,27 +26,47 @@ async function fetchHN() {
   return hn;
 }
 
+async function fetchRedditSub(sub, limit = 5) {
+  const controller = new AbortController();
+  const timer = setTimeout(() => controller.abort(), 10000);
+  try {
+    const res = await fetch(`https://www.reddit.com/r/${sub}/hot.json?limit=${limit}`, {
+      headers: { 'User-Agent': config.reddit?.userAgent || UA },
+      signal: controller.signal,
+    });
+    clearTimeout(timer);
+    if (!res.ok) return [];
+    const data = await res.json();
+    const children = data?.data?.children || [];
+    return children
+      .filter((c) => c.data && c.data.title && !c.data.stickied)
+      .map((c) => ({
+        title: c.data.title,
+        url: `https://reddit.com${c.data.permalink}`,
+        subreddit: sub,
+        score: c.data.score || 0,
+      }));
+  } catch (_) {
+    clearTimeout(timer);
+    return [];
+  }
+}
+
 async function fetchReddit() {
-  const subs = ['programming', 'technology', 'webdev'];
+  const subs = [
+    'programming', 'technology', 'webdev',
+    'machinelearning', 'artificial', 'wallstreetbets',
+    'science', 'worldnews',
+  ];
+  const results = await Promise.allSettled(subs.map((s) => fetchRedditSub(s, 3)));
   const reddit = [];
-  for (const sub of subs) {
-    try {
-      const res = await fetch(`https://www.reddit.com/r/${sub}/hot.json?limit=5`, {
-        headers: { 'User-Agent': config.reddit?.userAgent || UA },
-      });
-      const data = await res.json();
-      const children = data?.data?.children || [];
-      for (const c of children) {
-        const d = c.data;
-        if (d && d.title)
-          reddit.push({
-            title: d.title,
-            url: `https://reddit.com${d.permalink}`,
-            subreddit: sub,
-            score: d.score || 0,
-          });
-      }
-    } catch (_) {}
+  for (const r of results) {
+    if (r.status === 'fulfilled') reddit.push(...r.value);
+  }
+  if (reddit.length > 0) {
+    console.log(`[geek] Reddit: fetched ${reddit.length} items from direct API`);
+  } else {
+    console.log('[geek] Reddit: direct API returned 0 items (Grok will fill in summaries step)');
   }
   return reddit.slice(0, 20);
 }
