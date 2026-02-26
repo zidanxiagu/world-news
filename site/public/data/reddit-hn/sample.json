@@ -1,0 +1,9 @@
+{
+  "date": "2026-02-20",
+  "reddit": [
+    { "title": "Sample Reddit Post", "url": "https://reddit.com/r/programming/comments/example", "subreddit": "programming", "score": 1234 }
+  ],
+  "hn": [
+    { "title": "Sample HN Post", "url": "https://news.ycombinator.com/item?id=1", "score": 99, "id": "1" }
+  ]
+}

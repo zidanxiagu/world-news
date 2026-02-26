@@ -1,0 +1,343 @@
+{
+  "date": "2026-02-24",
+  "reddit": [
+    {
+      "title": "State of the Subreddit (January 2027): Mods applications and rules updates",
+      "url": "https://reddit.com/r/programming/comments/1qoxwdt/state_of_the_subreddit_january_2027_mods/",
+      "subreddit": "programming",
+      "score": 110
+    },
+    {
+      "title": "[Mock the hype post] The Software Development Lifecycle Is Dead | Boris Tane",
+      "url": "https://reddit.com/r/programming/comments/1rd55kh/mock_the_hype_post_the_software_development/",
+      "subreddit": "programming",
+      "score": 113
+    },
+    {
+      "title": "Let's understand &amp; implement consistent hashing.",
+      "url": "https://reddit.com/r/programming/comments/1rd7ukf/lets_understand_implement_consistent_hashing/",
+      "subreddit": "programming",
+      "score": 32
+    },
+    {
+      "title": "Age of Empires: 25+ years of pathfinding problems with C++ - Raymi Klingers - Meeting C++ 2025",
+      "url": "https://reddit.com/r/programming/comments/1rczm6j/age_of_empires_25_years_of_pathfinding_problems/",
+      "subreddit": "programming",
+      "score": 79
+    },
+    {
+      "title": "Code isn’t what’s slowing projects down",
+      "url": "https://reddit.com/r/programming/comments/1rcj41t/code_isnt_whats_slowing_projects_down/",
+      "subreddit": "programming",
+      "score": 334
+    },
+    {
+      "title": "Hi! We're 404 Media's Jason Koebler and Joseph Cox. AMA (us) about the tech ICE is using, Flock and the state of surveillance in the US on Feb. 4, 12 pm ET",
+      "url": "https://reddit.com/r/technology/comments/1qv9y8j/hi_were_404_medias_jason_koebler_and_joseph_cox/",
+      "subreddit": "technology",
+      "score": 225
+    },
+    {
+      "title": "AI Added ‘Basically Zero’ to US Economic Growth Last Year, Goldman Sachs Says",
+      "url": "https://reddit.com/r/technology/comments/1rct2p0/ai_added_basically_zero_to_us_economic_growth/",
+      "subreddit": "technology",
+      "score": 30177
+    },
+    {
+      "title": "China invents process that turns desert sand into fertile soil in just 10 months",
+      "url": "https://reddit.com/r/technology/comments/1rctrda/china_invents_process_that_turns_desert_sand_into/",
+      "subreddit": "technology",
+      "score": 7375
+    },
+    {
+      "title": "Data centers are now hoarding SSDs as hard drive supplies dry up",
+      "url": "https://reddit.com/r/technology/comments/1rcowmz/data_centers_are_now_hoarding_ssds_as_hard_drive/",
+      "subreddit": "technology",
+      "score": 9461
+    },
+    {
+      "title": "IBM stock dives after Anthropic points out AI can rewrite COBOL fast",
+      "url": "https://reddit.com/r/technology/comments/1rd41u7/ibm_stock_dives_after_anthropic_points_out_ai_can/",
+      "subreddit": "technology",
+      "score": 1293
+    },
+    {
+      "title": "Monthly Getting Started / Web Dev Career Thread",
+      "url": "https://reddit.com/r/webdev/comments/1q12o1k/monthly_getting_started_web_dev_career_thread/",
+      "subreddit": "webdev",
+      "score": 30
+    },
+    {
+      "title": "Monthly Getting Started / Web Dev Career Thread",
+      "url": "https://reddit.com/r/webdev/comments/1qswnox/monthly_getting_started_web_dev_career_thread/",
+      "subreddit": "webdev",
+      "score": 14
+    },
+    {
+      "title": "RFC 406i The Rejection of Artificially Generated Slop (RAGS)",
+      "url": "https://reddit.com/r/webdev/comments/1rcxvq5/rfc_406i_the_rejection_of_artificially_generated/",
+      "subreddit": "webdev",
+      "score": 139
+    },
+    {
+      "title": "My 2025 dev setup after mass-quitting tools that annoyed me",
+      "url": "https://reddit.com/r/webdev/comments/1rd8w9x/my_2025_dev_setup_after_massquitting_tools_that/",
+      "subreddit": "webdev",
+      "score": 27
+    },
+    {
+      "title": "Just let go of my first freelance client",
+      "url": "https://reddit.com/r/webdev/comments/1rd5nvb/just_let_go_of_my_first_freelance_client/",
+      "subreddit": "webdev",
+      "score": 15
+    }
+  ],
+  "hn": [
+    {
+      "title": "AI-generated replies really are a scourge these days",
+      "url": "https://twitter.com/simonw/status/2025909963445707171",
+      "score": 25,
+      "id": "47134946"
+    },
+    {
+      "title": "Terence Tao, at 8 years old (1984) [pdf]",
+      "url": "https://gwern.net/doc/iq/high/smpy/1984-clements.pdf",
+      "score": 279,
+      "id": "47123689"
+    },
+    {
+      "title": "Diode – Build, program, and simulate hardware",
+      "url": "https://www.withdiode.com/",
+      "score": 72,
+      "id": "47094768"
+    },
+    {
+      "title": "A distributed queue in a single JSON file on object storage",
+      "url": "https://turbopuffer.com/blog/object-storage-queue",
+      "score": 16,
+      "id": "47099401"
+    },
+    {
+      "title": "Show HN: enveil – hide your .env secrets from prAIng eyes",
+      "url": "https://github.com/GreatScott/enveil",
+      "score": 82,
+      "id": "47133055"
+    },
+    {
+      "title": "Firefox 148 Launches with AI Kill Switch Feature and More Enhancements",
+      "url": "https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/",
+      "score": 269,
+      "id": "47133313"
+    },
+    {
+      "title": "I Ported Coreboot to the ThinkPad X270",
+      "url": "https://dork.dev/posts/2026-02-20-ported-coreboot/",
+      "score": 198,
+      "id": "47130860"
+    },
+    {
+      "title": "Blood test boosts Alzheimer's diagnosis accuracy to 94.5%, clinical study shows",
+      "url": "https://medicalxpress.com/news/2026-02-blood-boosts-alzheimer-diagnosis-accuracy.html",
+      "score": 267,
+      "id": "47132388"
+    },
+    {
+      "title": "The Age Verification Trap: Verifying age undermines everyone's data protection",
+      "url": "https://spectrum.ieee.org/age-verification",
+      "score": 1470,
+      "id": "47122715"
+    },
+    {
+      "title": "Show HN: X86CSS – An x86 CPU emulator written in CSS",
+      "url": "https://lyra.horse/x86css/",
+      "score": 132,
+      "id": "47132102"
+    },
+    {
+      "title": "Show HN: Steerling-8B, a language model that can explain any token it generates",
+      "url": "https://www.guidelabs.ai/post/steerling-8b-base-model-release/",
+      "score": 171,
+      "id": "47131225"
+    },
+    {
+      "title": "Making Wolfram tech available as a foundation tool for LLM systems",
+      "url": "https://writings.stephenwolfram.com/2026/02/making-wolfram-tech-available-as-a-foundation-tool-for-llm-systems/",
+      "score": 174,
+      "id": "47129727"
+    },
+    {
+      "title": "“Car Wash” test with 53 models",
+      "url": "https://opper.ai/blog/car-wash-test",
+      "score": 237,
+      "id": "47128138"
+    },
+    {
+      "title": "UNIX99, a UNIX-like OS for the TI-99/4A (2025)",
+      "url": "https://forums.atariage.com/topic/380883-unix99-a-unix-like-os-for-the-ti-994a/page/5/#findComment-5713334",
+      "score": 178,
+      "id": "47127986"
+    },
+    {
+      "title": "Intel XeSS 3: expanded support for Core Ultra/Core Ultra 2 and Arc A, B series",
+      "url": "https://www.intel.com/content/www/us/en/download/785597/intel-arc-graphics-windows.html",
+      "score": 37,
+      "id": "47132721"
+    }
+  ],
+  "producthunt": [
+    {
+      "title": "Prosaic — A minimal, open-source, writer-first terminal writing app",
+      "url": "https://www.producthunt.com/products/prosaic",
+      "votesCount": 0
+    },
+    {
+      "title": "Just The Article Please — A simple article reader for the web",
+      "url": "https://www.producthunt.com/products/just-the-article-please",
+      "votesCount": 0
+    },
+    {
+      "title": "What YC Is Really Betting On? — An X-ray of 793 YC startups. See what's really inside.",
+      "url": "https://www.producthunt.com/products/what-yc-is-really-betting-on",
+      "votesCount": 0
+    },
+    {
+      "title": "Ziva.sh — AI agent built for the Godot game engine",
+      "url": "https://www.producthunt.com/products/ziva-sh-ai-agent-for-game-engines",
+      "votesCount": 0
+    },
+    {
+      "title": "Radial — Automate anything with a gesture",
+      "url": "https://www.producthunt.com/products/radial",
+      "votesCount": 0
+    },
+    {
+      "title": "Dock 3.0 — Optimize, track &amp; grow your apps now w/ Google Play support",
+      "url": "https://www.producthunt.com/products/dock-developer-optimization-content-kit",
+      "votesCount": 0
+    },
+    {
+      "title": "Stitch by Google — Turn napkin sketches into production-ready UI in seconds.",
+      "url": "https://www.producthunt.com/products/stitch-by-google",
+      "votesCount": 0
+    },
+    {
+      "title": "Collective OS — The Al-powered referral network for agencies &amp; consultants",
+      "url": "https://www.producthunt.com/products/collective-os",
+      "votesCount": 0
+    },
+    {
+      "title": "Foxchat — Best Intercom alternative for startups and indie hackers",
+      "url": "https://www.producthunt.com/products/foxchat",
+      "votesCount": 0
+    },
+    {
+      "title": "WebMCP — Give AI agents access to web apps via JavaScript",
+      "url": "https://www.producthunt.com/products/webmcp",
+      "votesCount": 0
+    },
+    {
+      "title": "Gemma — AI personal assistant that calls you with reminders",
+      "url": "https://www.producthunt.com/products/gemma",
+      "votesCount": 0
+    },
+    {
+      "title": "Toggle for OpenClaw — Your browser activity, streamed to your agent: live..",
+      "url": "https://www.producthunt.com/products/togglex-openclaw",
+      "votesCount": 0
+    },
+    {
+      "title": "Liftsell — Smart popups &amp; widgets that track revenue",
+      "url": "https://www.producthunt.com/products/liftsell",
+      "votesCount": 0
+    },
+    {
+      "title": "Dictato — Local instant voice-to-text for every Mac",
+      "url": "https://www.producthunt.com/products/dictato",
+      "votesCount": 0
+    },
+    {
+      "title": "Nag Alarm AI — An alarm that talks to you with a personalized message",
+      "url": "https://www.producthunt.com/products/nag-alarm-ai",
+      "votesCount": 0
+    }
+  ],
+  "substack": [
+    {
+      "title": "The Pulse #162: Even fewer middle managers and more flexible teams?",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-162-even-fewer-middle-managers",
+      "source": "newsletter.pragmaticengineer.com"
+    },
+    {
+      "title": "How Codex is built",
+      "url": "https://newsletter.pragmaticengineer.com/p/how-codex-is-built",
+      "source": "newsletter.pragmaticengineer.com"
+    },
+    {
+      "title": "The Pragmatic Summit recordings and summaries",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pragmatic-summit-recordings",
+      "source": "newsletter.pragmaticengineer.com"
+    },
+    {
+      "title": "The programming language after Kotlin – with the creator of Kotlin",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-programming-language-after-kotlin",
+      "source": "newsletter.pragmaticengineer.com"
+    },
+    {
+      "title": "Steve Yegge on AI Agents and the Future of Software Engineering",
+      "url": "https://newsletter.pragmaticengineer.com/p/steve-yegge-on-ai-agents-and-the",
+      "source": "newsletter.pragmaticengineer.com"
+    },
+    {
+      "title": "How Large Language Models Learn",
+      "url": "https://blog.bytebytego.com/p/how-large-language-models-learn",
+      "source": "blog.bytebytego.com"
+    },
+    {
+      "title": "EP203: RabbitMQ vs Kafka vs Pulsar",
+      "url": "https://blog.bytebytego.com/p/ep203-rabbitmq-vs-kafka-vs-pulsar",
+      "source": "blog.bytebytego.com"
+    },
+    {
+      "title": "LAST CALL FOR ENROLLMENT: Become an AI Engineer - Cohort 4",
+      "url": "https://blog.bytebytego.com/p/last-call-for-enrollment-become-an",
+      "source": "blog.bytebytego.com"
+    },
+    {
+      "title": "Eventual Consistency: The Key Trade-Off Behind Modern Databases",
+      "url": "https://blog.bytebytego.com/p/eventual-consistency-the-key-trade",
+      "source": "blog.bytebytego.com"
+    },
+    {
+      "title": "The First 10-Year Evolution of Stripe’s Payments API",
+      "url": "https://blog.bytebytego.com/p/the-first-10-year-evolution-of-stripes",
+      "source": "blog.bytebytego.com"
+    },
+    {
+      "title": "🎙️ This week on How I AI: How Notion’s design team uses Claude Code to design",
+      "url": "https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-how-notions",
+      "source": "www.lennysnewsletter.com"
+    },
+    {
+      "title": "“I haven’t written a single line of front-end code in 3 months”: How Notion’s design team uses Claude Code to prototype",
+      "url": "https://www.lennysnewsletter.com/p/i-havent-written-a-single-line-of",
+      "source": "www.lennysnewsletter.com"
+    },
+    {
+      "title": "🧠 Community Wisdom: Making your product enterprise-ready, when engineering outpaces product, managing PRD versions as features evolve, planning work around energy, and more",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-making-your-product",
+      "source": "www.lennysnewsletter.com"
+    },
+    {
+      "title": "Head of Claude Code: What happens after coding is solved | Boris Cherny",
+      "url": "https://www.lennysnewsletter.com/p/head-of-claude-code-what-happens",
+      "source": "www.lennysnewsletter.com"
+    },
+    {
+      "title": "How to do AI analysis you can actually trust",
+      "url": "https://www.lennysnewsletter.com/p/how-to-do-ai-analysis-you-can-actually",
+      "source": "www.lennysnewsletter.com"
+    }
+  ],
+  "jike": [],
+  "pinterest": []
+}
