@@ -6,6 +6,13 @@ const SITE_URL = 'https://zidanxiagu.github.io/world-news';
 export const metadata: Metadata = {
   title: '抓瞎 - 带你每日瞎看世界',
   description: '抓瞎 - 带你每日瞎看世界',
+  icons: {
+    icon: [
+      { url: `${SITE_URL}/favicon.png`, sizes: '32x32', type: 'image/png' },
+      { url: `${SITE_URL}/favicon-16x16.png`, sizes: '16x16', type: 'image/png' },
+    ],
+    apple: `${SITE_URL}/apple-touch-icon.png`,
+  },
   openGraph: {
     title: '抓瞎 - 带你每日瞎看世界',
     description: '抓瞎 - 带你每日瞎看世界',
