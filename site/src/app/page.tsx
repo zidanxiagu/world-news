@@ -34,13 +34,13 @@ export default async function Home() {
         <div className="nav-inner">
           <span className="nav-brand">抓瞎</span>
           <div className="nav-links">
-            <a href="#news" className="nav-link news"><span className="nav-dot" />Finance & Tech</a>
             <a href="#reddit" className="nav-link reddit"><span className="nav-dot" />Reddit</a>
             <a href="#hn" className="nav-link hn"><span className="nav-dot" />Hacker News</a>
             <a href="#ph" className="nav-link ph"><span className="nav-dot" />Product Hunt</a>
             <a href="#sub" className="nav-link sub"><span className="nav-dot" />Substack</a>
             <a href="#jike" className="nav-link jike"><span className="nav-dot" />即刻</a>
             <a href="#pin" className="nav-link pin"><span className="nav-dot" />Pinterest</a>
+            <a href="#news" className="nav-link news"><span className="nav-dot" />Finance & Tech</a>
             <a href="#youtube" className="nav-link yt"><span className="nav-dot" />YouTube</a>
             <a href="#x" className="nav-link x"><span className="nav-dot" />X</a>
           </div>
@@ -54,18 +54,7 @@ export default async function Home() {
       <MobileNav />
 
       <main>
-        {/* 1. 财经科技 */}
-        <section id="news" className="section section-news">
-          <div className="section-inner">
-            <div className="section-header">
-              <div className="section-icon">📊</div>
-              <h2 className="section-title">Finance & Tech News</h2>
-            </div>
-            <NewsDigest data={data.news} />
-          </div>
-        </section>
-
-        {/* 2. Reddit */}
+        {/* 1. Reddit */}
         <section id="reddit" className="section section-reddit">
           <div className="section-inner">
             <div className="section-header">
@@ -79,7 +68,7 @@ export default async function Home() {
           </div>
         </section>
 
-        {/* 3. Hacker News */}
+        {/* 2. Hacker News */}
         <section id="hn" className="section section-hn">
           <div className="section-inner">
             <div className="section-header">
@@ -93,7 +82,7 @@ export default async function Home() {
           </div>
         </section>
 
-        {/* 4. Product Hunt */}
+        {/* 3. Product Hunt */}
         <section id="ph" className="section section-ph">
           <div className="section-inner">
             <div className="section-header">
@@ -107,7 +96,7 @@ export default async function Home() {
           </div>
         </section>
 
-        {/* 5. Substack */}
+        {/* 4. Substack */}
         <section id="sub" className="section section-sub">
           <div className="section-inner">
             <div className="section-header">
@@ -121,7 +110,7 @@ export default async function Home() {
           </div>
         </section>
 
-        {/* 6. 即刻 */}
+        {/* 5. 即刻 */}
         <section id="jike" className="section section-jike">
           <div className="section-inner">
             <div className="section-header">
@@ -135,7 +124,7 @@ export default async function Home() {
           </div>
         </section>
 
-        {/* 7. Pinterest */}
+        {/* 6. Pinterest */}
         <section id="pin" className="section section-pin">
           <div className="section-inner">
             <div className="section-header">
@@ -146,6 +135,17 @@ export default async function Home() {
               items={geek.pinterest ?? []}
               meta={(item) => <>{item.source ?? 'Pinterest'}</>}
             />
+          </div>
+        </section>
+
+        {/* 7. 财经科技 */}
+        <section id="news" className="section section-news">
+          <div className="section-inner">
+            <div className="section-header">
+              <div className="section-icon">📊</div>
+              <h2 className="section-title">Finance & Tech News</h2>
+            </div>
+            <NewsDigest data={data.news} />
           </div>
         </section>
 
