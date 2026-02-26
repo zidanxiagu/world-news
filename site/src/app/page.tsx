@@ -32,7 +32,7 @@ export default async function Home() {
     <>
       <nav className="main-nav">
         <div className="nav-inner">
-          <span className="nav-brand">每日热门</span>
+          <span className="nav-brand">抓瞎</span>
           <div className="nav-links">
             <a href="#news" className="nav-link news"><span className="nav-dot" />Finance & Tech</a>
             <a href="#reddit" className="nav-link reddit"><span className="nav-dot" />Reddit</a>

@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: '北境日报 — 多源热门聚合',
+  title: '抓瞎 — 多源热门聚合',
   description: 'YouTube、X、财经科技新闻、极客社区 每日热门',
 };
 
