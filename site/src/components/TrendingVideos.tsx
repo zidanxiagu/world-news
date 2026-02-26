@@ -1,5 +1,6 @@
 interface TrendItem {
   title: string;
+  titleZh?: string;
   url: string;
   views?: string;
   source?: string;
@@ -102,8 +103,9 @@ export function TrendingVideos({ data }: { data: unknown }) {
                 <div className="top10-rank">#{i + 1}</div>
                 <div className="top10-main">
                   <h4 className="top10-name">
-                    <a href={item.url} target="_blank" rel="noopener noreferrer">{item.title}</a>
+                    <a href={item.url} target="_blank" rel="noopener noreferrer">{item.titleZh || item.title}</a>
                   </h4>
+                  {item.titleZh ? <p className="title-original">{item.title}</p> : null}
                   <div className="top10-meta">
                     <span className="top10-channel" title="频道">{item.channelTitle || '—'}</span>
                     <span className="sep">·</span>
@@ -143,7 +145,8 @@ export function TrendingVideos({ data }: { data: unknown }) {
         <ul className="trending-fallback">
           {items.map((item, i) => (
             <li key={i} className="trending-fallback-card card">
-              <h3><a href={item.url} target="_blank" rel="noopener noreferrer">{item.title}</a></h3>
+              <h3><a href={item.url} target="_blank" rel="noopener noreferrer">{item.titleZh || item.title}</a></h3>
+              {item.titleZh ? <p className="title-original">{item.title}</p> : null}
               <div className="trending-fallback-meta">
                 {item.channelTitle && <span className="channel">{item.channelTitle}</span>}
                 {item.region && <span className="region">{item.region}</span>}
