@@ -1,9 +1,33 @@
 import type { Metadata } from 'next';
 import './globals.css';
 
+const SITE_URL = 'https://zidanxiagu.github.io/world-news';
+
 export const metadata: Metadata = {
-  title: '抓瞎 — 多源热门聚合',
-  description: 'YouTube、X、财经科技新闻、极客社区 每日热门',
+  title: '抓瞎 - 带你每日瞎看世界',
+  description: '抓瞎 - 带你每日瞎看世界',
+  openGraph: {
+    title: '抓瞎 - 带你每日瞎看世界',
+    description: '抓瞎 - 带你每日瞎看世界',
+    url: SITE_URL,
+    siteName: '抓瞎',
+    images: [
+      {
+        url: `${SITE_URL}/og-image.png`,
+        width: 1200,
+        height: 630,
+        alt: '抓瞎',
+      },
+    ],
+    locale: 'zh_CN',
+    type: 'website',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: '抓瞎 - 带你每日瞎看世界',
+    description: '抓瞎 - 带你每日瞎看世界',
+    images: [`${SITE_URL}/og-image.png`],
+  },
 };
 
 export default function RootLayout({

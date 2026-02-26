@@ -11,7 +11,11 @@
     "crawl:geek": "node scripts/cli.js geek",
     "dev": "cd site && npm run dev",
     "build": "node scripts/copy-data-to-public.js && cd site && npm run build",
-    "start": "cd site && npm run start"
+    "start": "cd site && npm run start",
+    "generate-og": "node scripts/generate-og-image.js"
+  },
+  "devDependencies": {
+    "sharp": "^0.33.5"
   },
   "engines": {
     "node": ">=18"
