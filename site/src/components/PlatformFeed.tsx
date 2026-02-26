@@ -7,6 +7,9 @@ interface Item {
   subreddit?: string;
   votesCount?: number;
   source?: string;
+  author?: string;
+  likes?: number;
+  retweets?: number;
 }
 
 export function PlatformFeed({

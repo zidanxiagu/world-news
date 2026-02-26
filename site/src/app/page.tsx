@@ -13,6 +13,9 @@ interface GeekItem {
   subreddit?: string;
   votesCount?: number;
   source?: string;
+  author?: string;
+  likes?: number;
+  retweets?: number;
 }
 interface GeekData {
   reddit?: GeekItem[];
@@ -169,7 +172,14 @@ export default async function Home() {
             </div>
             <PlatformFeed
               items={geek.x ?? []}
-              meta={(item) => <>{item.source ?? 'X'}</>}
+              meta={(item) => <>
+                {item.author ? <span className="x-author">{item.author}</span> : null}
+                {item.author && (item.likes || item.retweets) ? <span className="sep"> · </span> : null}
+                {item.likes ? <span title="点赞">❤️ {item.likes >= 1000 ? (item.likes / 1000).toFixed(1) + 'K' : item.likes}</span> : null}
+                {item.likes && item.retweets ? <span className="sep"> · </span> : null}
+                {item.retweets ? <span title="转发">🔁 {item.retweets >= 1000 ? (item.retweets / 1000).toFixed(1) + 'K' : item.retweets}</span> : null}
+                {!item.author && !item.likes && !item.retweets ? <span>{item.source ?? 'X'}</span> : null}
+              </>}
             />
           </div>
         </section>

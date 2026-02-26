@@ -7,6 +7,9 @@ interface Item {
   votesCount?: number;
   source?: string;
   id?: string;
+  author?: string;
+  likes?: number;
+  retweets?: number;
 }
 
 interface Data {
@@ -117,7 +120,14 @@ export function GeekCommunity({ data }: { data: unknown }) {
         icon="𝕏"
         title="X (Twitter)"
         items={x}
-        meta={(item) => <>{item.source ?? 'X'}</>}
+        meta={(item) => <>
+          {item.author ? <span>{item.author}</span> : null}
+          {item.author && (item.likes || item.retweets) ? ' · ' : ''}
+          {item.likes ? <span>❤️ {item.likes}</span> : null}
+          {item.likes && item.retweets ? ' · ' : ''}
+          {item.retweets ? <span>🔁 {item.retweets}</span> : null}
+          {!item.author && !item.likes && !item.retweets ? <span>{item.source ?? 'X'}</span> : null}
+        </>}
       />
     </div>
   );
