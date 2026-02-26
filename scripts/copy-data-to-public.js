@@ -57,7 +57,7 @@ if (latestDate) {
   const rhFile = path.join(dest, 'reddit-hn', `${latestDate}.json`);
   if (fs.existsSync(rhFile)) {
     const rh = JSON.parse(fs.readFileSync(rhFile, 'utf8'));
-    const LABELS = { reddit: 'Reddit', hn: 'Hacker News', producthunt: 'Product Hunt', substack: 'Substack', jike: '即刻', pinterest: 'Pinterest', x: 'X' };
+    const LABELS = { reddit: 'Reddit', hn: 'Hacker News', producthunt: 'Product Hunt', substack: 'Substack', pinterest: 'Pinterest', x: 'X' };
     for (const [key, label] of Object.entries(LABELS)) {
       (rh[key] || []).forEach((item) => {
         feedItems.push({ title: item.titleZh || item.title, link: item.url, desc: item.summary || '', cat: label });
@@ -80,7 +80,7 @@ if (latestDate) {
   <channel>
     <title>抓瞎 - 带你每日瞎看世界</title>
     <link>${SITE_URL}</link>
-    <description>多源热门聚合：YouTube、财经科技、Reddit、HN、Product Hunt、Substack、即刻、Pinterest、X</description>
+    <description>多源热门聚合：YouTube、财经科技、Reddit、HN、Product Hunt、Substack、Pinterest、X</description>
     <language>zh-CN</language>
     <lastBuildDate>${new Date().toUTCString()}</lastBuildDate>
     <atom:link href="${SITE_URL}/feed.xml" rel="self" type="application/rss+xml"/>

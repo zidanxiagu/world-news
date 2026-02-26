@@ -7,7 +7,6 @@ const SECTIONS = [
   { id: 'hn',      label: 'Hacker News',    color: '#D97706' },
   { id: 'ph',      label: 'Product Hunt',   color: '#DC2626' },
   { id: 'sub',     label: 'Substack',       color: '#7C3AED' },
-  { id: 'jike',    label: '即刻',            color: '#2563EB' },
   { id: 'pin',     label: 'Pinterest',      color: '#E11D48' },
   { id: 'news',    label: 'Finance & Tech', color: '#059669' },
   { id: 'youtube', label: 'YouTube',        color: '#B91C1C' },

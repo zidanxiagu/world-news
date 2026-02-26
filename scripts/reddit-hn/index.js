@@ -194,16 +194,6 @@ async function fetchSubstack() {
   return all.slice(0, 15);
 }
 
-async function fetchJike() {
-  const feeds = config.jike?.feeds || [];
-  const all = [];
-  for (const url of feeds.slice(0, 5)) {
-    const items = await fetchRssItems(url, '即刻');
-    all.push(...items.slice(0, 5));
-  }
-  return all.slice(0, 15);
-}
-
 async function fetchPinterest() {
   const feeds = config.pinterest?.feeds || [];
   const all = [];
@@ -220,12 +210,11 @@ async function fetchX() {
 
 async function run(dateStr) {
   const useGrok = process.env.USE_GROK === '1';
-  const [hn, reddit, producthunt, substack, jike, pinterest, x] = await Promise.all([
+  const [hn, reddit, producthunt, substack, pinterest, x] = await Promise.all([
     fetchHN(),
     fetchReddit(),
     fetchProductHunt(),
     fetchSubstack(),
-    fetchJike(),
     fetchPinterest(),
     fetchX(),
   ]);
@@ -235,7 +224,6 @@ async function run(dateStr) {
   const hnList = hn.slice(0, useGrok ? 15 : hn.length);
   const phList = producthunt.slice(0, 15);
   const subList = substack.slice(0, 15);
-  const jikeList = jike.slice(0, 15);
   const pinList = pinterest.slice(0, 15);
   const xList = x.slice(0, 15);
 
@@ -244,7 +232,6 @@ async function run(dateStr) {
     await addChineseSummaries(hnList, 'summary', limit, 400);
     await addChineseSummaries(phList, 'summary', limit, 400);
     await addChineseSummaries(subList, 'summary', limit, 400);
-    await addChineseSummaries(jikeList, 'summary', limit, 400);
     await addChineseSummaries(pinList, 'summary', limit, 400);
     await addChineseSummaries(xList, 'summary', limit, 400);
   }
@@ -255,7 +242,6 @@ async function run(dateStr) {
     hn: hnList,
     producthunt: phList,
     substack: subList,
-    jike: jikeList,
     pinterest: pinList,
     x: xList,
   };

@@ -48,10 +48,9 @@ async function main() {
     const h = (result.hn || []).length;
     const ph = (result.producthunt || []).length;
     const sub = (result.substack || []).length;
-    const jk = (result.jike || []).length;
     const pin = (result.pinterest || []).length;
     const xc = (result.x || []).length;
-    summaries.push(`geek: reddit ${r}, hn ${h}, producthunt ${ph}, substack ${sub}, jike ${jk}, pinterest ${pin}, x ${xc} (${dateStr})`);
+    summaries.push(`geek: reddit ${r}, hn ${h}, producthunt ${ph}, substack ${sub}, pinterest ${pin}, x ${xc} (${dateStr})`);
     if (stdout && cmd === 'geek') console.log(JSON.stringify(result, null, 2));
   }
 

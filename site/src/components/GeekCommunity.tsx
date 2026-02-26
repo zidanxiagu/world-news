@@ -18,7 +18,6 @@ interface Data {
   hn?: Item[];
   producthunt?: Item[];
   substack?: Item[];
-  jike?: Item[];
   pinterest?: Item[];
   x?: Item[];
 }
@@ -62,7 +61,6 @@ export function GeekCommunity({ data }: { data: unknown }) {
   const hn = d?.hn ?? [];
   const producthunt = d?.producthunt ?? [];
   const substack = d?.substack ?? [];
-  const jike = d?.jike ?? [];
   const pinterest = d?.pinterest ?? [];
   const x = d?.x ?? [];
   const empty =
@@ -70,7 +68,6 @@ export function GeekCommunity({ data }: { data: unknown }) {
     hn.length === 0 &&
     producthunt.length === 0 &&
     substack.length === 0 &&
-    jike.length === 0 &&
     pinterest.length === 0 &&
     x.length === 0;
 
@@ -103,12 +100,6 @@ export function GeekCommunity({ data }: { data: unknown }) {
         title="Substack"
         items={substack}
         meta={(item) => <>{item.source ?? 'Substack'}</>}
-      />
-      <Section
-        icon="📍"
-        title="即刻"
-        items={jike}
-        meta={(item) => <>{item.source ?? '即刻'}</>}
       />
       <Section
         icon="📌"

@@ -22,7 +22,6 @@ interface GeekData {
   hn?: GeekItem[];
   producthunt?: GeekItem[];
   substack?: GeekItem[];
-  jike?: GeekItem[];
   pinterest?: GeekItem[];
   x?: GeekItem[];
 }
@@ -41,7 +40,6 @@ export default async function Home() {
             <a href="#hn" className="nav-link hn"><span className="nav-dot" />Hacker News</a>
             <a href="#ph" className="nav-link ph"><span className="nav-dot" />Product Hunt</a>
             <a href="#sub" className="nav-link sub"><span className="nav-dot" />Substack</a>
-            <a href="#jike" className="nav-link jike"><span className="nav-dot" />即刻</a>
             <a href="#pin" className="nav-link pin"><span className="nav-dot" />Pinterest</a>
             <a href="#news" className="nav-link news"><span className="nav-dot" />Finance & Tech</a>
             <a href="#youtube" className="nav-link yt"><span className="nav-dot" />YouTube</a>
@@ -113,21 +111,7 @@ export default async function Home() {
           </div>
         </section>
 
-        {/* 5. 即刻 */}
-        <section id="jike" className="section section-jike">
-          <div className="section-inner">
-            <div className="section-header">
-              <div className="section-icon">📍</div>
-              <h2 className="section-title">即刻</h2>
-            </div>
-            <PlatformFeed
-              items={geek.jike ?? []}
-              meta={(item) => <>{item.source ?? '即刻'}</>}
-            />
-          </div>
-        </section>
-
-        {/* 6. Pinterest */}
+        {/* 5. Pinterest */}
         <section id="pin" className="section section-pin">
           <div className="section-inner">
             <div className="section-header">
@@ -141,7 +125,7 @@ export default async function Home() {
           </div>
         </section>
 
-        {/* 7. 财经科技 */}
+        {/* 6. 财经科技 */}
         <section id="news" className="section section-news">
           <div className="section-inner">
             <div className="section-header">
@@ -152,7 +136,7 @@ export default async function Home() {
           </div>
         </section>
 
-        {/* 8. YouTube */}
+        {/* 7. YouTube */}
         <section id="youtube" className="section section-yt">
           <div className="section-inner">
             <div className="section-header">
@@ -163,7 +147,7 @@ export default async function Home() {
           </div>
         </section>
 
-        {/* 9. X */}
+        {/* 8. X */}
         <section id="x" className="section section-x">
           <div className="section-inner">
             <div className="section-header">

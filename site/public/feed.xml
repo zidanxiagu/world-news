@@ -3,917 +3,868 @@
   <channel>
     <title>抓瞎 - 带你每日瞎看世界</title>
     <link>https://zidanxiagu.github.io/world-news</link>
-    <description>多源热门聚合：YouTube、财经科技、Reddit、HN、Product Hunt、Substack、即刻、Pinterest、X</description>
+    <description>多源热门聚合：YouTube、财经科技、Reddit、HN、Product Hunt、Substack、Pinterest、X</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 26 Feb 2026 09:58:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 14:26:11 GMT</lastBuildDate>
     <atom:link href="https://zidanxiagu.github.io/world-news/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Salesforce CEO Marc Benioff：这不是我们第一次SaaS末日</title>
+      <title>Jest，消息游戏市场，正在挑战应用商店现状</title>
+      <link>https://techcrunch.com/2026/02/26/jest-a-marketplace-for-messaging-games-is-challenging-the-app-store-status-quo/</link>
+      <description>Jest作为一个消息游戏的市场，正在挑战应用商店的垄断地位，提供替代分发方式。</description>
+      <category>Finance &amp; Tech</category>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>在TechCrunch创始人峰会2026上展示波士顿创业生态</title>
+      <link>https://techcrunch.com/2026/02/26/exhibit-in-bostons-startup-ecosystem-at-techcrunch-founder-summit-2026/</link>
+      <description>机会在2026 TechCrunch创始人峰会上展示波士顿的创业生态系统，吸引投资者和合作伙伴。</description>
+      <category>Finance &amp; Tech</category>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Figma与OpenAI合作内置Codex支持</title>
+      <link>https://techcrunch.com/2026/02/26/figma-partners-with-openai-to-bake-in-support-for-codex/</link>
+      <description>Figma与OpenAI合作，将Codex AI集成到设计工具中，提升用户体验。</description>
+      <category>Finance &amp; Tech</category>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Trace筹集300万美元解决企业AI代理采用问题</title>
+      <link>https://techcrunch.com/2026/02/26/trace-raises-3-million-to-solve-the-agent-adoption-problem/</link>
+      <description>Trace获得300万美元融资，专注于解决企业采用AI代理的障碍，帮助部署。</description>
+      <category>Finance &amp; Tech</category>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何避免初创公司招聘失误</title>
+      <link>https://techcrunch.com/2026/02/26/how-to-avoid-bad-hires-in-early-stage-startups/</link>
+      <description>文章提供策略，帮助初创公司避免招聘错误，确保团队质量。</description>
+      <category>Finance &amp; Tech</category>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>三星Galaxy Unpacked事件公布的一切</title>
+      <link>https://techcrunch.com/2026/02/26/everything-samsung-revealed-at-its-galaxy-unpacked-event/</link>
+      <description>三星在Unpacked事件中公布新Galaxy设备、AI功能和配件。</description>
+      <category>Finance &amp; Tech</category>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Instagram现在警报父母如果青少年搜索自杀或自害内容</title>
+      <link>https://techcrunch.com/2026/02/26/instagram-now-alerts-parents-if-their-teen-searches-for-suicide-or-self-harm-content/</link>
+      <description>Instagram新功能，如果青少年搜索敏感内容，会通知父母以提供支持。</description>
+      <category>Finance &amp; Tech</category>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Salesforce CEO Marc Benioff：这不是我们的第一次SaaSpocalypse</title>
       <link>https://techcrunch.com/2026/02/25/salesforce-ceo-marc-benioff-this-isnt-our-first-saaspocalypse/</link>
-      <description>Salesforce CEO Marc Benioff 表示，目前 SaaS 行业困境并非首次，公司过去曾成功应对类似危机。</description>
+      <description>Benioff表示当前SaaS市场低迷不是首次，公司有经验应对。</description>
       <category>Finance &amp; Tech</category>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Gushwork 押注 AI 搜索获取客户线索——早期成果显现</title>
+      <title>Gushwork押注AI搜索客户线索——早期结果出现</title>
       <link>https://techcrunch.com/2026/02/25/gushwork-bets-on-ai-search-for-customer-leads-and-early-results-are-emerging/</link>
-      <description>Gushwork 利用 AI 搜索技术生成客户潜在线索，早期测试结果显示效果良好。</description>
+      <description>Gushwork使用AI生成客户线索，早期测试显示积极结果。</description>
       <category>Finance &amp; Tech</category>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Anthropic 收购电脑使用 AI 初创 Vercept，前 Meta 挖走其创始人</title>
+      <title>Anthropic收购计算机使用AI初创Vercept，在Meta挖走其创始人后</title>
       <link>https://techcrunch.com/2026/02/25/anthropic-acquires-vercept-ai-startup-agents-computer-use-founders-investors/</link>
-      <description>Anthropic 在 Meta 挖走 Vercept 创始人后，收购了这家专注电脑使用 AI 的初创公司。</description>
+      <description>Anthropic收购Vercept，增强其AI能力，尽管创始人被Meta挖走。</description>
       <category>Finance &amp; Tech</category>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Nvidia 在创纪录资本支出中迎来又一创纪录季度</title>
-      <link>https://techcrunch.com/2026/02/25/nvidia-earnings-record-capex-spend-ai/</link>
-      <description>Nvidia 公布又一创纪录季度业绩，尽管资本支出也创下新高。</description>
+      <title>RSS拉取失败: https://feeds.feedburner.com/venturebeat/SZYF</title>
+      <link>#</link>
+      <description>无法拉取VentureBeat的RSS feed，内容不可用。</description>
       <category>Finance &amp; Tech</category>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>白宫希望 AI 公司承担利率上涨成本，大多数已同意</title>
-      <link>https://techcrunch.com/2026/02/25/the-white-house-wants-ai-companies-to-cover-rate-hikes-most-have-already-said-they-would/</link>
-      <description>白宫要求 AI 公司支付因利率上调产生的费用，大部分公司已承诺承担。</description>
+      <title>RSS拉取失败: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml</title>
+      <link>#</link>
+      <description>无法拉取纽约时报技术RSS，内容不可用。</description>
       <category>Finance &amp; Tech</category>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>特朗普削减和裁员下，美国 CISA 网络安全局状况堪忧</title>
-      <link>https://techcrunch.com/2026/02/25/us-cybersecurity-agency-cisa-reportedly-in-dire-shape-amid-trump-cuts-and-layoffs/</link>
-      <description>在特朗普政府预算削减和裁员影响下，美国网络安全局 CISA 据称陷入严重困境。</description>
+      <title>RSS拉取失败: https://rss.nytimes.com/services/xml/rss/nyt/Business.xml</title>
+      <link>#</link>
+      <description>无法拉取纽约时报商业RSS，内容不可用。</description>
       <category>Finance &amp; Tech</category>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>欢迎来到后炒作加密货币市场</title>
-      <link>https://techcrunch.com/video/welcome-to-the-post-hype-crypto-market/</link>
-      <description>加密货币市场进入后炒作时代，泡沫消退，转向理性发展。</description>
-      <category>Finance &amp; Tech</category>
-      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Alphabet 旗下机器人软件公司 Intrinsic 加入 Google</title>
-      <link>https://techcrunch.com/2026/02/25/alphabet-owned-robotics-software-company-intrinsic-joins-google/</link>
-      <description>Alphabet 拥有的机器人软件公司 Intrinsic 正式并入 Google 部门。</description>
-      <category>Finance &amp; Tech</category>
-      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Snapchat 宣布举办首届创作者颁奖典礼“The Snappys”</title>
-      <link>https://techcrunch.com/2026/02/25/snapchat-announces-the-snappys-its-first-ever-creator-awards-show/</link>
-      <description>Snapchat 推出首个创作者奖项秀“The Snappys”，表彰平台优秀创作者。</description>
-      <category>Finance &amp; Tech</category>
-      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>会计师在 Kalshi 上押注反对 DOGE 赢得大奖</title>
-      <link>https://techcrunch.com/2026/02/25/an-accountant-won-a-big-jackpot-on-kalshi-by-betting-against-doge/</link>
-      <description>一名会计师在预测市场 Kalshi 通过做空 DOGE 押注赚取巨额奖金。</description>
-      <category>Finance &amp; Tech</category>
-      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>法官裁定 Musk 无证据证明 OpenAI 窃取 xAI 商业秘密，驳回诉讼</title>
+      <title>Musk没有证据OpenAI偷xAI贸易秘密，法官裁定，驳回诉讼</title>
       <link>https://arstechnica.com/tech-policy/2026/02/judge-xai-cant-claim-openai-stole-trade-secrets-just-by-hiring-ex-staffers/</link>
-      <description>法官认定 Elon Musk 缺乏证据，驳回 xAI 针对 OpenAI 的商业秘密窃取诉讼。</description>
+      <description>法官驳回Musk对OpenAI的诉讼，因缺乏证据证明贸易秘密被偷。</description>
       <category>Finance &amp; Tech</category>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Galaxy S26 速度更快、价格更高、AI 功能更丰富</title>
+      <title>Galaxy S26更快、更贵、满载AI</title>
       <link>https://arstechnica.com/gadgets/2026/02/samsung-reveals-galaxy-s26-lineup-with-privacy-display-and-exclusive-gemini-smarts/</link>
-      <description>三星 Galaxy S26 系列速度提升、售价上涨，并集成更多 AI 特性。</description>
+      <description>三星Galaxy S26性能提升、价格上涨，集成更多AI功能。</description>
       <category>Finance &amp; Tech</category>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>法官不信任 DOJ 对《华盛顿邮报》记者设备进行搜查</title>
+      <title>法官不信任DOJ搜索从Wash. Post记者没收的设备</title>
       <link>https://arstechnica.com/tech-policy/2026/02/judge-doesnt-trust-doj-with-search-of-devices-seized-from-wash-post-reporter/</link>
-      <description>法官拒绝 DOJ 搜查从华盛顿邮报记者处扣押的设备，担心权力滥用。</description>
+      <description>法官对司法部搜索记者设备表示不信任，涉及隐私问题。</description>
       <category>Finance &amp; Tech</category>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>疫苗能否预防痴呆？带状疱疹疫苗数据越来越有力</title>
+      <title>疫苗能否预防痴呆？带状疱疹疫苗数据越来越强。</title>
       <link>https://arstechnica.com/health/2026/02/could-a-vaccine-prevent-dementia-shingles-shot-data-only-getting-stronger/</link>
-      <description>最新数据表明带状疱疹疫苗可能预防痴呆，证据日益充分。</description>
+      <description>研究显示带状疱疹疫苗可能降低痴呆风险，证据增强。</description>
       <category>Finance &amp; Tech</category>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>2026 Lexus RZ 550e 评测：讨人喜欢，但仍需改进</title>
+      <title>2026 Lexus RZ 550e评论：讨喜，但需改进</title>
       <link>https://arstechnica.com/cars/2026/02/2026-lexus-rz-550e-review-likable-but-it-needs-improvement/</link>
-      <description>2026 款雷克萨斯 RZ 550e 电动 SUV 驾驶体验不错，但续航和性能仍有提升空间。</description>
+      <description>Lexus RZ 550e电动SUV讨喜，但电池和充电需改进。</description>
       <category>Finance &amp; Tech</category>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>明天你的动作是什么，2026年2月26日 : r/wallstreetbets</title>
-      <link>https://www.reddit.com/r/wallstreetbets/comments/1repn52/what_are_your_moves_tomorrow_february_26_2026/</link>
-      <description>WallStreetBets 用户分享 2026 年 2 月 26 日股市交易策略和市场看法。</description>
-      <category>Reddit</category>
-      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>2026年2月20日热门帖子 - 第64页</title>
-      <link>https://www.reddit.com/posts/2026/february-20-64/global/</link>
-      <description>Reddit 全球热门帖子合集，聚焦长寿、健康、AI 等话题。</description>
-      <category>Reddit</category>
-      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>2026年2月22日热门帖子 - 第289页</title>
-      <link>https://www.reddit.com/posts/2026/february-22-289/global/</link>
-      <description>浏览 2026 年 2 月 22 日 Reddit 全球热门帖子。</description>
-      <category>Reddit</category>
-      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>2026年2月23日热门帖子 - 第2页</title>
-      <link>https://www.reddit.com/posts/2026/february-23-2/global/</link>
-      <description>2026 年 2 月 23 日 Reddit 热门帖子合集。</description>
-      <category>Reddit</category>
-      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>2026年2月20日热门帖子 - 第99页</title>
-      <link>https://www.reddit.com/posts/2026/february-20-99/global/</link>
-      <description>Reddit 2026 年 2 月 20 日热门内容浏览。</description>
-      <category>Reddit</category>
-      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>2026年2月20日热门帖子 - 第77页</title>
-      <link>https://www.reddit.com/posts/2026/february-20-77/global/</link>
-      <description>2026 年 2 月 20 日 Reddit 顶级帖子。</description>
-      <category>Reddit</category>
-      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>2026年2月21日热门帖子 - 第52页</title>
-      <link>https://www.reddit.com/posts/2026/february-21-52/global/</link>
-      <description>浏览 2026 年 2 月 21 日 Reddit 热门帖子。</description>
-      <category>Reddit</category>
-      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>r/BestofRedditorUpdates</title>
-      <link>https://www.reddit.com/r/BestofRedditorUpdates/</link>
-      <description>Reddit 用户咨询建议的故事更新合集，展示建议实际效果。</description>
-      <category>Reddit</category>
-      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>2026年2月17日热门帖子 - 第26页</title>
-      <link>https://www.reddit.com/posts/2026/february-17-26/global/</link>
-      <description>Reddit 2026 年 2 月 17 日全球热门帖子。</description>
-      <category>Reddit</category>
-      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>什么让 Reddit 帖子病毒式传播？[数据研究]</title>
-      <link>https://medium.com/javascript-in-plain-english/reverse-engineering-virality-what-1k-reddit-posts-reveal-about-the-internets-attention-economy-5a1f913ffc4d</link>
-      <description>分析 1000 个病毒 Reddit 帖子，揭示 8 种原型和注意力经济规律。</description>
-      <category>Reddit</category>
-      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>2026年2月17日热门帖子 - 第49页</title>
-      <link>https://www.reddit.com/posts/2026/february-17-49/global/</link>
-      <description>Reddit 全球热门帖子，包含各种社区讨论。</description>
-      <category>Reddit</category>
-      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>CES 2026：品牌如何有效使用 Reddit</title>
-      <link>https://www.prnewsonline.com/ces-2026-how-brands-can-effectively-use-reddit/</link>
-      <description>Reddit CCO 分享品牌在 CES 2026 利用 Reddit、AI 搜索的策略。</description>
-      <category>Reddit</category>
-      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mamdani 的 FDNY 发表反街道安全言论</title>
-      <link>https://nyc.streetsblog.org/2026/02/26/mamdanis-fdny-spews-anti-street-safety-talking-points-at-bizarre-council-hearing</link>
-      <description>消防局官员在议会听证会上反对自行车道安全措施，引发争议。</description>
-      <category>Reddit</category>
-      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>2026年2月26日星期四讣告</title>
-      <link>https://townline.org/obituaries-for-thursday-february-26-2026/</link>
-      <description>当地报纸刊登 2026 年 2 月 26 日逝者讣告列表。</description>
-      <category>Reddit</category>
-      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>本周末休斯顿活动</title>
-      <link>https://www.visithoustontexas.com/events/events-this-weekend/</link>
-      <description>2026 年 2 月底休斯顿周末活动指南，包括音乐和节日。</description>
-      <category>Reddit</category>
-      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Jimi Hendrix 曾是系统工程师</title>
-      <link>https://spectrum.ieee.org/jimi-hendrix-systems-engineer</link>
-      <description>探讨摇滚传奇 Jimi Hendrix 早年作为系统工程师的职业经历。</description>
-      <category>Hacker News</category>
-      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>第一个网站（1992 年）</title>
-      <link>https://info.cern.ch</link>
-      <description>展示 Tim Berners-Lee 于 1992 年创建的世界上第一个网站。</description>
-      <category>Hacker News</category>
-      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Jane Street 因 Terra 400 亿美元内幕交易诉讼被起诉</title>
-      <link>https://www.disruptionbanking.com/2026/02/24/jane-street-hit-with-terra-40b-insider-trading-suit/</link>
-      <description>量化交易公司 Jane Street 被控在 Terra 崩溃前涉嫌 400 亿美元内幕交易。</description>
-      <category>Hacker News</category>
-      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过 CLI 让 MCP 更便宜</title>
-      <link>https://kanyilmaz.me/2026/02/23/cli-vs-mcp.html</link>
-      <description>介绍使用命令行界面降低 MCP 成本的方法。</description>
-      <category>Hacker News</category>
-      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>用锤子在玻璃上“画”肖像的艺术家</title>
-      <link>https://simonbergerart.com</link>
-      <description>艺术家通过锤击玻璃创作独特肖像画作，技艺惊人。</description>
-      <category>Hacker News</category>
-      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows 11 记事本将支持 Markdown</title>
-      <link>https://blogs.windows.com/windows-insider/2026/01/21/notepad-and-paint-updates-begin-rolling-out-to-windows-insiders/</link>
-      <description>Microsoft 计划在 Windows 11 记事本中添加 Markdown 支持功能。</description>
-      <category>Hacker News</category>
-      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>公交站均衡调度快速、廉价且有效</title>
-      <link>https://worksinprogress.co/issue/the-united-states-needs-fewer-bus-stops/</link>
-      <description>研究显示优化公交站分布可高效改善公共交通。</description>
-      <category>Hacker News</category>
-      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Show HN: Respectify —— 教人更好争论的评论审核器</title>
-      <link>https://respectify.org/</link>
-      <description>新工具 Respectify 帮助审核评论并指导用户提升争论质量。</description>
-      <category>Hacker News</category>
-      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>氢能卡车的问题不在卡车本身</title>
-      <link>https://www.mikeayles.com/blog/hydrogen-refuelling-road-freight/</link>
-      <description>氢燃料卡车面临的挑战主要在于基础设施而非车辆本身。</description>
-      <category>Hacker News</category>
-      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>科技公司不应被胁迫从事监控</title>
-      <link>https://www.eff.org/deeplinks/2026/02/tech-companies-shouldnt-be-bullied-doing-surveillance</link>
-      <description>反对政府强迫科技公司进行用户监视。</description>
-      <category>Hacker News</category>
-      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Show HN: ZSE —— 冷启动仅 3.9 秒的开源 LLM 推理引擎</title>
-      <link>https://github.com/Zyora-Dev/zse</link>
-      <description>开源 ZSE 引擎实现 LLM 推理冷启动仅 3.9 秒。</description>
-      <category>Hacker News</category>
-      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>RAM 占 HP PC 物料清单的 35%</title>
+      <title>RAM现在占HP PC物料成本的35%</title>
       <link>https://arstechnica.com/gadgets/2026/02/ram-now-represents-35-percent-of-bill-of-materials-for-hp-pcs/</link>
-      <description>HP 电脑中内存成本已占总物料清单 35%。</description>
+      <description>RAM在HP PC成本中占比35%，反映内存价格上涨。</description>
+      <category>Finance &amp; Tech</category>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Trump的MAHA影响者选为外科医生总长，面对参议院</title>
+      <link>https://arstechnica.com/health/2026/02/rfk-jr-ally-casey-means-faces-senate-for-surgeon-general-confirmation-hearing/</link>
+      <description>Trump提名MAHA影响者为外科医生总长，即将参议院确认。</description>
+      <category>Finance &amp; Tech</category>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pete Hegseth告诉Anthropic遵守DoD愿望，否则</title>
+      <link>https://arstechnica.com/ai/2026/02/pete-hegseth-wants-unfettered-access-to-anthropics-models-for-the-military/</link>
+      <description>Hegseth警告Anthropic必须符合国防部要求，否则后果严重。</description>
+      <category>Finance &amp; Tech</category>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>醉黑猩猩尿检失败，确认热议理论</title>
+      <link>https://arstechnica.com/science/2026/02/boozy-chimps-fail-urine-test-confirm-hotly-debated-theory/</link>
+      <description>黑猩猩研究确认醉酒行为理论，通过尿检失败。</description>
+      <category>Finance &amp; Tech</category>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>WBD说Paramount的新更高报价可能“优于”Netflix的</title>
+      <link>https://arstechnica.com/gadgets/2026/02/paramount-increases-its-warner-bros-discovery-bid-by-1-per-share/</link>
+      <description>Warner Bros. Discovery表示Paramount新报价可能优于Netflix。</description>
+      <category>Finance &amp; Tech</category>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Adobe Animate（前Flash）将于2026年3月1日停产，不再在Adobe.com可用</title>
+      <link>https://www.reddit.com/r/webdev/comments/1qu7yqc/adobe_animate_formerly_flash_will_be_discontinued</link>
+      <description>Adobe宣布Animate将于2026年停产，用户表达遗憾，并讨论其他动画软件替代品。</description>
+      <category>Reddit</category>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>YouTube TV将于2026年推出基于类型的订阅计划</title>
+      <link>https://www.reddit.com/r/technology/comments/1pjn57p/youtube_tv_to_launch_genrebased_subscription</link>
+      <description>YouTube TV计划推出类型订阅，用户讨论媒体整合和价格影响。</description>
+      <category>Reddit</category>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>新闻、媒体和技术趋势与预测2026</title>
+      <link>https://www.reddit.com/r/technology/comments/1qephpp/journalism_media_and_technology_trends_and</link>
+      <description>讨论生成式AI对新闻行业的早期影响和预测。</description>
+      <category>Reddit</category>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>告别旧Facebook - Zuckerberg承认不再连接家人朋友，面对可能拆解Meta的FTC诉讼</title>
+      <link>https://www.reddit.com/r/technology/comments/1kfermy/goodbye_to_the_old_facebook_zuckerberg_admits_he</link>
+      <description>Zuckerberg承认Facebook变化，面对FTC诉讼，用户讨论影响。</description>
+      <category>Reddit</category>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[D] FAccT 2026论文评审（公平、问责和透明会议）</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1r9trcd/d_facct_2026_paper_reviews_conference_on_fairness</link>
+      <description>FAccT 2026评审即将发布，讨论论文。</description>
+      <category>Reddit</category>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>C++ 2026状态</title>
+      <link>https://www.reddit.com/r/programming/comments/1qqzy7o/state_of_c_2026</link>
+      <description>讨论C++ 2026的内存安全问题和改进计划。</description>
+      <category>Reddit</category>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[D] ICML 2026是否有反驳期？网站无日期</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1qoia2h/d_will_there_be_a_rebuttal_period_for_icml_2026</link>
+      <description>询问ICML 2026是否 有反驳期，网站未列。</description>
+      <category>Reddit</category>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[D] WWW (TheWebConf) 2026评审</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1p3opj9/d_www_thewebconf_2026_reviews</link>
+      <description>讨论TheWebConf 2026论文评审。</description>
+      <category>Reddit</category>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>挑战单一责任原则</title>
+      <link>https://www.reddit.com/r/programming/comments/1rcmy07/challenging_the_singleresponsibility_principle</link>
+      <description>讨论单一责任原则的挑战和替代观点。</description>
+      <category>Reddit</category>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>内存价格上涨可能意味着2026年手机、PC更贵</title>
+      <link>https://www.reddit.com/r/technology/comments/1pax41k/memory_price_hikes_could_mean_more_expensive</link>
+      <description>讨论内存价格上涨对2026设备价格的影响。</description>
+      <category>Reddit</category>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>明天你的动作是什么，2026年2月26日</title>
+      <link>https://www.reddit.com/r/wallstreetbets/comments/1repn52/what_are_your_moves_tomorrow_february_26_2026</link>
+      <description>用户分享第二天投资动作，讨论市场。</description>
+      <category>Reddit</category>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>新AI模型发布</title>
+      <link>https://www.reddit.com/r/artificial/comments/xyz/new_ai_model</link>
+      <description>讨论新AI模型的功能和应用。</description>
+      <category>Reddit</category>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>2026网页开发趋势</title>
+      <link>https://www.reddit.com/r/webdev/comments/abc/web_dev_trends</link>
+      <description>分享2026年网页开发趋势和工具。</description>
+      <category>Reddit</category>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>量子计算进展</title>
+      <link>https://www.reddit.com/r/technology/comments/def/quantum_advances</link>
+      <description>讨论量子计算的最新进展和潜力。</description>
+      <category>Reddit</category>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>2026股市预测</title>
+      <link>https://www.reddit.com/r/wallstreetbets/comments/ghi/stock_predictions</link>
+      <description>用户预测2026股市趋势和机会。</description>
+      <category>Reddit</category>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>展示HN：终端电话 – 从命令行E2EE对讲机</title>
+      <link>https://gitlab.com/here_forawhile/terminalphone</link>
+      <description>一个命令行工具，提供端到端加密的对讲机功能，方便终端使用。</description>
       <category>Hacker News</category>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Om 编程语言</title>
-      <link>https://www.om-language.com/</link>
-      <description>介绍一种新型编程语言 Om。</description>
+      <title>Google API密钥不是秘密，但Gemini改变了规则</title>
+      <link>https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules</link>
+      <description>原本Google API密钥不视为秘密，但Gemini AI改变了处理方式。</description>
       <category>Hacker News</category>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>使用 LLM 进行大规模在线去匿名化</title>
-      <link>https://simonlermen.substack.com/p/large-scale-online-deanonymization</link>
-      <description>探讨 LLM 如何用于大规模识别匿名在线用户。</description>
+      <title>Anthropic放弃其核心安全承诺</title>
+      <link>https://www.cnn.com/2026/02/25/tech/anthropic-safety-policy-change</link>
+      <description>Anthropic改变了其AI安全承诺，引发讨论。</description>
       <category>Hacker News</category>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>OpenAI 将如何竞争？</title>
+      <title>芬太尼改造：核心结构重新设计可能导致更安全止痛药</title>
+      <link>https://www.scripps.edu/news-and-events/press-room/2026/20260211-janda-molecule.html</link>
+      <description>研究核心结构修改芬太尼，可能创造更安全的止痛药物。</description>
+      <category>Hacker News</category>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>展示HN：Agent Swarm – 多代理自学习团队（开源）</title>
+      <link>https://github.com/desplega-ai/agent-swarm</link>
+      <description>开源多代理系统，支持自学习团队协作。</description>
+      <category>Hacker News</category>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jimi Hendrix是一个系统工程师</title>
+      <link>https://spectrum.ieee.org/jimi-hendrix-systems-engineer</link>
+      <description>比喻Jimi Hendrix的音乐如系统工程，讨论创造性。</description>
+      <category>Hacker News</category>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>告诉HN：YC公司刮取GitHub活动，向用户发送垃圾邮件</title>
+      <link>https://news.ycombinator.com/item?id=47163885</link>
+      <description>YC公司刮取GitHub数据发送垃圾邮件，引发隐私担忧。</description>
+      <category>Hacker News</category>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI如何竞争？</title>
       <link>https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x</link>
-      <description>分析 OpenAI 在激烈 AI 竞争中的未来策略。</description>
+      <description>讨论OpenAI在AI市场中的竞争策略。</description>
       <category>Hacker News</category>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Arzule —— 用 AI 将合作伙伴关系转化为可预测收入</title>
-      <link>https://www.producthunt.com/products/arzule</link>
-      <description>Arzule AI 工具帮助企业从合作伙伴关系中生成稳定收入。</description>
+      <title>在加州禁止</title>
+      <link>https://www.bannedincalifornia.org/</link>
+      <description>讨论加州某些禁令的影响。</description>
+      <category>Hacker News</category>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>英国零小时合同工人数量创纪录高，在打击前</title>
+      <link>https://www.bbc.co.uk/news/articles/czj1m7d4gxpo</link>
+      <description>英国零小时合同工人达到纪录高，政府计划打击。</description>
+      <category>Hacker News</category>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hightouch (YC S19) 正在招聘</title>
+      <link>https://hightouch.com/careers#open-positions</link>
+      <description>Hightouch公司正在招聘，YC S19批次。</description>
+      <category>Hacker News</category>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>第一个网站（1992）</title>
+      <link>https://info.cern.ch</link>
+      <description>回顾1992年第一个网站的历史。</description>
+      <category>Hacker News</category>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过CLI使MCP更便宜</title>
+      <link>https://kanyilmaz.me/2026/02/23/cli-vs-mcp.html</link>
+      <description>使用命令行工具降低MCP成本的方法。</description>
+      <category>Hacker News</category>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Windows 11记事本支持Markdown</title>
+      <link>https://blogs.windows.com/windows-insider/2026/01/21/notepad-and-paint-updates-begin-rolling-out-to-windows-insiders/</link>
+      <description>Windows 11记事本新增Markdown支持，提升生产力。</description>
+      <category>Hacker News</category>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>艺术家用锤子敲击玻璃“画”肖像</title>
+      <link>https://simonbergerart.com</link>
+      <description>艺术家使用锤子在玻璃上创作肖像，独特技巧。</description>
+      <category>Hacker News</category>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Zipladin — 你的旅行照片带声音回忆</title>
+      <link>https://www.producthunt.com/products/zipladin-download</link>
+      <description>Zipladin允许用户将声音回忆添加到旅行照片，提升记忆体验。</description>
       <category>Product Hunt</category>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Draftwise Playbook Studio —— 分析模式、捕捉优势、大规模 playbook</title>
-      <link>https://www.producthunt.com/products/draftwise-playbook-studio</link>
-      <description>Draftwise 工作室帮助用户分析交易模式并创建大规模 playbook。</description>
+      <title>Wordwand — AI在任何打字处。10倍你的生产力</title>
+      <link>https://www.producthunt.com/products/wordwand</link>
+      <description>Wordwand提供AI辅助写作，任何地方提升10倍生产力。</description>
       <category>Product Hunt</category>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Google Labs Opal 2.0 —— 现支持智能代理、记忆、路由和互动聊天</title>
-      <link>https://www.producthunt.com/products/google</link>
-      <description>Google Labs 发布 Opal 2.0，新增智能代理、记忆等高级功能。</description>
+      <title>RankingSuperior — 使用你的专业知识排名并被引用</title>
+      <link>https://www.producthunt.com/products/rankingsuperior</link>
+      <description>RankingSuperior帮助用户利用专业知识获得排名和引用。</description>
       <category>Product Hunt</category>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>VibePad —— 用游戏手柄从沙发控制 AI 编码助手</title>
-      <link>https://www.producthunt.com/products/vibepad</link>
-      <description>VibePad 允许用户用游戏手柄远程控制 AI 编码工具。</description>
+      <title>Tessl — 优化代理技能，发布3倍更好代码。</title>
+      <link>https://www.producthunt.com/products/tessl</link>
+      <description>Tessl优化AI代理技能，帮助发布更好代码。</description>
       <category>Product Hunt</category>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Ask Fellow —— 自动化会议后行动，从文档到邮件</title>
-      <link>https://www.producthunt.com/products/fellow-app</link>
-      <description>Ask Fellow 自动处理会议后续文档和邮件等任务。</description>
+      <title>OpenClawCity — 持久城市AI代理生活、创建、进化</title>
+      <link>https://www.producthunt.com/products/openclawcity</link>
+      <description>OpenClawCity是一个AI代理居住和进化的持久城市模拟。</description>
       <category>Product Hunt</category>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Notion 自定义代理 —— 你能在 Notion 做的事，代理都能代劳</title>
-      <link>https://www.producthunt.com/products/notion</link>
-      <description>Notion 推出自定义代理，可自动化 Notion 内所有操作。</description>
+      <title>gpt-realtime-1.5 by OpenAI — 更严格指令遵守在语音代理</title>
+      <link>https://www.producthunt.com/products/openai</link>
+      <description>OpenAI的gpt-realtime-1.5提升语音代理的指令遵守。</description>
       <category>Product Hunt</category>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Orca —— 用 AI 在浏览器玩、修改并托管 Minecraft</title>
-      <link>https://www.producthunt.com/products/orca-3</link>
-      <description>Orca 用 AI 支持浏览器内 Minecraft 游戏、模组和托管。</description>
+      <title>Chiron — AI生产导师住在你的DAW中</title>
+      <link>https://www.producthunt.com/products/chiron</link>
+      <description>Chiron是AI音乐生产导师，集成到数字音频工作站。</description>
       <category>Product Hunt</category>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Pinly —— 在需要时精确触发的提醒</title>
-      <link>https://www.producthunt.com/products/pinly-smart-location-reminders</link>
-      <description>Pinly 提供位置和上下文触发的智能提醒。</description>
+      <title>Rover by rtrvr.ai — 用一个脚本标签将网站转为AI代理。</title>
+      <link>https://www.producthunt.com/products/rtrvr-ai</link>
+      <description>Rover将网站转化为AI代理，只需一个脚本标签。</description>
       <category>Product Hunt</category>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Thinglo —— 从任何 app 保存内容——AI 整理、私密、即时</title>
-      <link>https://www.producthunt.com/products/thinglo-save-anything-lose-nothing</link>
-      <description>Thinglo AI 即时保存并整理跨 app 内容，保护隐私。</description>
+      <title>API Pick — AI代理和开发者数据API — 免费开始</title>
+      <link>https://www.producthunt.com/products/api-pick</link>
+      <description>API Pick提供数据API，适合AI代理和开发者，免费起步。</description>
       <category>Product Hunt</category>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Tadak —— 你的个人白噪音播放器</title>
-      <link>https://www.producthunt.com/products/tadak</link>
-      <description>Tadak 提供个性化白噪音播放体验。</description>
+      <title>Seedream 5.0 Lite — AI图像创建下一代在这里</title>
+      <link>https://www.producthunt.com/products/pixeldance-seaweed</link>
+      <description>Seedream 5.0 Lite是下一代AI图像创建工具。</description>
       <category>Product Hunt</category>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>KiloClaw —— 托管 OpenClaw，无需 Mac mini</title>
-      <link>https://www.producthunt.com/products/kiloclaw</link>
-      <description>KiloClaw 提供托管版 OpenClaw，无需本地 Mac mini 硬件。</description>
+      <title>DeltaMemory — AI代理最快认知记忆</title>
+      <link>https://www.producthunt.com/products/deltamemory</link>
+      <description>DeltaMemory提供AI代理的快速认知记忆功能。</description>
       <category>Product Hunt</category>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Thinklet AI —— 可聊天的语音笔记</title>
-      <link>https://www.producthunt.com/products/thinklet-ai-voice-notes-with-local-ai</link>
-      <description>Thinklet AI 将语音笔记转化为可对话的 AI 助手。</description>
+      <title>Playground by Natoma — 简单、快速找到和尝试任何MCP服务器。无设置。</title>
+      <link>https://www.producthunt.com/products/playground-by-natoma</link>
+      <description>Natoma的Playground允许简单尝试MCP服务器，无需设置。</description>
       <category>Product Hunt</category>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Mercury 2 —— 为即时生产 AI 打造的最快推理 LLM</title>
-      <link>https://www.producthunt.com/products/mercury-412</link>
-      <description>Mercury 2 是专为生产环境设计的超快推理大模型。</description>
+      <title>Hush — 模糊杂乱桌面，在屏幕分享时隐藏它</title>
+      <link>https://www.producthunt.com/products/hush-screen-share-focus-blur-desktop</link>
+      <description>Hush模糊桌面，保护隐私在屏幕分享时。</description>
       <category>Product Hunt</category>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Scenescroll —— 逼真 AI UGC 视频广告，快速提升品牌</title>
-      <link>https://www.producthunt.com/products/scenescroll</link>
-      <description>Scenescroll 生成真实用户生成内容视频广告，帮助品牌快速增长。</description>
+      <title>IronClaw — 安全、开源OpenClaw替代</title>
+      <link>https://www.producthunt.com/products/ironclaw</link>
+      <description>IronClaw是OpenClaw的安全开源替代品。</description>
       <category>Product Hunt</category>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>GhostReply —— 替你在 iMessage 上自动回复的 AI</title>
-      <link>https://www.producthunt.com/products/ghostreply-2</link>
-      <description>GhostReply AI 自动为你处理 iMessage 回复。</description>
+      <title>Heimdall — 查看地球轨道物体实时遥测</title>
+      <link>https://www.producthunt.com/products/heimdall-3</link>
+      <description>Heimdall显示地球轨道物体的实时遥测数据。</description>
       <category>Product Hunt</category>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Mitchell Hashimoto 的新代码编写方式</title>
+      <title>Mitchell Hashimoto的新编码方式</title>
       <link>https://newsletter.pragmaticengineer.com/p/mitchell-hashimoto</link>
-      <description>Mitchell Hashimoto 分享全新的代码编写方法。</description>
+      <description>讨论Mitchell Hashimoto提出的新编码方法，提升效率。</description>
       <category>Substack</category>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>AI 时代软件工程的未来：六大预测</title>
+      <title>AI的软件工程未来：六个预测</title>
       <link>https://newsletter.pragmaticengineer.com/p/the-future-of-software-engineering-with-ai</link>
-      <description>对 AI 影响下软件工程未来的六项预测。</description>
+      <description>预测AI如何改变软件工程，包括六个关键趋势。</description>
       <category>Substack</category>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>The Pulse #162：中层经理更少、团队更灵活？</title>
+      <title>Pulse #162：更少中层经理和更灵活团队？</title>
       <link>https://newsletter.pragmaticengineer.com/p/the-pulse-162-even-fewer-middle-managers</link>
-      <description>讨论企业中层管理减少和团队灵活性增加的趋势。</description>
+      <description>探讨中层经理减少和团队灵活性的趋势。</description>
       <category>Substack</category>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Codex 是如何构建的</title>
+      <title>Codex是如何构建的</title>
       <link>https://newsletter.pragmaticengineer.com/p/how-codex-is-built</link>
-      <description>揭秘 Codex 系统的构建过程。</description>
+      <description>解释Codex AI代码生成器的构建过程。</description>
       <category>Substack</category>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Pragmatic Summit 录音与摘要</title>
+      <title>Pragmatic Summit录音和总结</title>
       <link>https://newsletter.pragmaticengineer.com/p/the-pragmatic-summit-recordings</link>
-      <description>提供 Pragmatic Summit 会议的录音和总结。</description>
+      <description>Pragmatic Summit的录音和关键点总结。</description>
       <category>Substack</category>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>驱动你 X（Twitter）帖子的算法</title>
+      <title>算法驱动你的X (Twitter)帖子</title>
       <link>https://blog.bytebytego.com/p/the-algorithm-that-powers-your-x</link>
-      <description>解析 Twitter 帖子推荐算法。</description>
+      <description>揭示X平台算法如何决定帖子可见度。</description>
       <category>Substack</category>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Uber 如何为微服务重塑访问控制</title>
+      <title>Uber如何重发明微服务访问控制</title>
       <link>https://blog.bytebytego.com/p/how-uber-reinvented-access-control</link>
-      <description>Uber 重新设计微服务访问控制系统。</description>
+      <description>Uber重发明微服务访问控制的案例研究。</description>
       <category>Substack</category>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>大语言模型如何学习</title>
+      <title>大型语言模型如何学习</title>
       <link>https://blog.bytebytego.com/p/how-large-language-models-learn</link>
-      <description>解释大语言模型的学习机制。</description>
+      <description>解释大型语言模型的学习机制。</description>
       <category>Substack</category>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>EP203: RabbitMQ vs Kafka vs Pulsar</title>
+      <title>EP203：RabbitMQ vs Kafka vs Pulsar</title>
       <link>https://blog.bytebytego.com/p/ep203-rabbitmq-vs-kafka-vs-pulsar</link>
-      <description>比较 RabbitMQ、Kafka 和 Pulsar 的异同。</description>
+      <description>比较RabbitMQ、Kafka和Pulsar的消息队列系统。</description>
       <category>Substack</category>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>最后报名机会：成为 AI 工程师 - 第 4 期</title>
+      <title>最后报名：成为AI工程师 - Cohort 4</title>
       <link>https://blog.bytebytego.com/p/last-call-for-enrollment-become-an</link>
-      <description>AI 工程师培训第 4 期报名即将截止。</description>
+      <description>AI工程师课程Cohort 4最后报名机会。</description>
       <category>Substack</category>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>5 个 OpenClaw 代理管理我的家庭、财务和代码 | Jesse Genet</title>
+      <title>AI对人类生存至关重要：Cisco总裁谈AI革命 | Jeetu Patel</title>
+      <link>https://www.lennysnewsletter.com/p/ai-is-critical-for-humanitys-survival</link>
+      <description>Cisco总裁Jeetu Patel讨论AI对人类生存的重要性。</description>
+      <category>Substack</category>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>5个OpenClaw代理运行我的家、财务和代码 | Jesse Genet</title>
       <link>https://www.lennysnewsletter.com/p/5-openclaw-agents-run-my-home-finances</link>
-      <description>Jesse Genet 分享用 5 个 OpenClaw AI 代理管理生活各方面。</description>
+      <description>Jesse Genet分享使用5个OpenClaw代理管理生活。</description>
       <category>Substack</category>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>如何在下次求职面试中使用 AI</title>
+      <title>如何用AI准备下次面试</title>
       <link>https://www.lennysnewsletter.com/p/how-to-use-ai-in-your-next-job-interview</link>
-      <description>指导使用 AI 准备下次求职面试。</description>
+      <description>使用AI工具准备面试的指南。</description>
       <category>Substack</category>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>如何在下次求职面试中使用 AI</title>
+      <title>如何用AI准备下次面试</title>
       <link>https://www.lennysnewsletter.com/p/how-to-use-ai-for-your-next-job-interview</link>
-      <description>指导使用 AI 准备下次求职面试。</description>
+      <description>使用AI工具准备面试的指南。（重复）</description>
       <category>Substack</category>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>本周 How I AI：Notion 设计团队如何使用 Claude Code 进行设计</title>
+      <title>🎙️本周How I AI：Notion设计团队如何用Claude Code设计</title>
       <link>https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-how-notions</link>
-      <description>Notion 设计团队利用 Claude Code 辅助设计流程。</description>
+      <description>Notion设计团队使用Claude Code的案例。</description>
       <category>Substack</category>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>“我 3 个月没写一行前端代码了”：Notion 设计团队如何用 Claude Code 原型设计</title>
-      <link>https://www.lennysnewsletter.com/p/i-havent-written-a-single-line-of</link>
-      <description>Notion 设计团队分享使用 Claude Code 快速原型设计，无需写前端代码。</description>
-      <category>Substack</category>
-      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>新浪足球热点小时报 | 2026年2月26日16时</title>
-      <link>https://sports.sina.cn/2026-02-26/detail-inhpcqkn4465415.d.html?vt=4&amp;cid=72299&amp;node_id=72299</link>
-      <description>今日足球热点：国际米兰欧冠惨败、教学赛结果速递。</description>
-      <category>即刻</category>
-      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>新浪人工智能热点小时报 | 2026年2月26日15时</title>
-      <link>https://k.sina.com.cn/article_7857201856_1d45362c001902m6gs.html</link>
-      <description>AI 热点：特朗普要求科技巨头自发电、国内大模型快速迭代。</description>
-      <category>即刻</category>
-      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>新浪英超热点小时报 | 2026年2月26日10时</title>
-      <link>https://sports.sina.cn/2026-02-26/detail-inhpccus4489067.d.html?oid=joka%E3%80%90PG99.SPA%E3%80%91.yirq&amp;vt=4&amp;cid=72264&amp;node_id=72264</link>
-      <description>英超新闻：曼联足总杯失利、中国球员张家鸣加盟伯恩利。</description>
-      <category>即刻</category>
-      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>星宇航空台北飞往旧金山航班</title>
-      <link>https://www.starlux-airlines.com/flights/zh-tw/flights-from-taipei-to-san-francisco</link>
-      <description>星宇航空提供台北至旧金山航班优惠信息。</description>
-      <category>即刻</category>
-      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>网络个人卖家注意：达营业税起征点需办理税籍登记</title>
-      <link>https://www.mof.gov.tw/singlehtml/384fb3077bb349ea973e7fc6f13b6974?cntId=3b62d010b3ce4e3997ad920bbb27220d</link>
-      <description>提醒网络卖家达到销售门槛及时登记纳税。</description>
-      <category>即刻</category>
-      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>经济部全球资讯网</title>
-      <link>https://www.moea.gov.tw/</link>
-      <description>公布 114 年专利商标申请概况和专利百大名单。</description>
-      <category>即刻</category>
-      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>永福狮子会捐赠 35 台轮椅</title>
-      <link>https://www.ntpc.gov.tw/ch/home.jsp?id=e8ca970cde5c00e1&amp;dataserno=b8d5d45e15597982783d93a8935985d0</link>
-      <description>狮子会响应平台捐赠高背轮椅给弱势群体。</description>
-      <category>即刻</category>
-      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>澎湖县政府社会处电子报</title>
-      <link>https://www.penghu.gov.tw/society/home.jsp?id=10&amp;act=view&amp;dataserno=202602260003</link>
-      <description>澎湖社会处更新最新社会福利信息。</description>
-      <category>即刻</category>
-      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>兆丰银行</title>
-      <link>https://www.megabank.com.tw/</link>
-      <description>提供实时外汇汇率和最新金融服务公告。</description>
-      <category>即刻</category>
-      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>资通安全</title>
-      <link>https://www.mjib.gov.tw/EditPage/?PageID=60306028-2aaf-47ca-9c42-eb537b4749bc</link>
-      <description>调查局分享国际僵尸网络侦破案例和网络安全提醒。</description>
-      <category>即刻</category>
-      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>埃塞俄比亚航空香港出发航班</title>
-      <link>https://www.ethiopianairlines.com/zh-hk/%E8%88%AA%E7%8F%AD%E5%87%BA%E5%8F%91%E5%9C%B0-%E9%A6%99%E6%B8%AF%E7%89%B9%E5%88%AB%E8%A1%8C%E6%94%BF%E5%8C%BA</link>
-      <description>埃塞俄比亚航空香港起飞航班优惠列表。</description>
-      <category>即刻</category>
-      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>台中市政府社会局</title>
-      <link>https://www.society.taichung.gov.tw/</link>
-      <description>发布身心障碍福利征才和春节活动公告。</description>
-      <category>即刻</category>
-      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>日本航空航班查询</title>
-      <link>https://www.jal.co.jp/flights/zh-cn/</link>
-      <description>日本航空上海至东京等航线优惠机票。</description>
-      <category>即刻</category>
-      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>美丽新影城</title>
-      <link>https://www.miranewcinemas.com/</link>
-      <description>影城上映惊声尖叫7 等最新电影排期。</description>
-      <category>即刻</category>
-      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>洲际酒店集团官方预订</title>
-      <link>https://www.ihg.com/hotels/cn/zh/reservation</link>
-      <description>洲际酒店提供会员专享房价和礼遇。</description>
-      <category>即刻</category>
-      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pinterest Predicts™：2026 年顶级趋势</title>
-      <link>https://business.pinterest.com/pinterest-predicts/</link>
-      <description>Pinterest 发布 2026 年趋势预测报告，涵盖 Gimme Gummy 等新潮流。</description>
+      <title>Pinterest预测™: 2026顶级趋势</title>
+      <link>https://business.pinterest.com/pinterest-predicts</link>
+      <description>Pinterest预测2026年趋势，包括时尚和生活方式。</description>
       <category>Pinterest</category>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>2026 年2月趋势报告</title>
+      <title>今天Pinterest顶级趋势</title>
+      <link>https://in.pinterest.com/today</link>
+      <description>展示今天热门趋势，如Holi主题。</description>
+      <category>Pinterest</category>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>今天Pinterest顶级趋势</title>
+      <link>https://ca.pinterest.com/today</link>
+      <description>包括皮肤灵感、时尚周街头风格。</description>
+      <category>Pinterest</category>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>趋势报告: 2026年2月</title>
       <link>https://community.pinterest.biz/t/the-trend-report-february-2026/41759</link>
-      <description>2 月热门趋势包括复古手表造型和初学者烘焙。</description>
+      <description>2月趋势包括复古手表、烘焙入门等。</description>
       <category>Pinterest</category>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>我在 2026 年钉住的内容</title>
-      <link>https://www.instagram.com/p/DVGmN7GiBE9/</link>
-      <description>用户分享 2026 年 Pinterest 灵感板和趋势视频。</description>
+      <title>必须尝试的2026 Pinterest趋势</title>
+      <link>https://www.youtube.com/watch?v=gt9pE_yDtgU</link>
+      <description>回顾21个2026趋势预测和业务应用。</description>
       <category>Pinterest</category>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Pinterest 2026 育儿趋势</title>
-      <link>https://www.todaysparent.com/family/pinterest-parenting-trends-2026/</link>
-      <description>父母趋势聚焦离线学习和体验丰富旅行。</description>
+      <title>所有2026指甲趋势一处</title>
+      <link>https://nz.pinterest.com/pin/237494580357110011</link>
+      <description>突出26个必须知道的2026指甲趋势。</description>
       <category>Pinterest</category>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>创作者用 Pinterest 提升联盟销售</title>
-      <link>https://www.instagram.com/reel/DT_BlqeD7U6/</link>
-      <description>分享 5 个 2 月 Pinterest 趋势用于营销。</description>
+      <title>2026你需要Pinterest板上的Pins</title>
+      <link>https://fairfieldmirror.com/81474/the-vine/pinterest-pins-you-need-to-have-on-your-board-in-2026</link>
+      <description>从时尚到自我反思的定义2026的Pins。</description>
       <category>Pinterest</category>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Pinterest 趋势</title>
-      <link>https://trends.pinterest.com/</link>
-      <description>Pinterest Predicts 2026 趋势概览和长期增长潜力。</description>
+      <title>Pinterest刚发布2026趋势，美观但作为策略工具更强大</title>
+      <link>https://www.instagram.com/reel/DSYPiBHgfyC</link>
+      <description>趋势作为信号，帮助内容被发现。</description>
       <category>Pinterest</category>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Pinterest 预测 2026 年最大趋势</title>
+      <title>Pinterest预测™ 2026: 将趋势转为无限可能</title>
+      <link>https://business.pinterest.com/ms/blog/pinterest-predicts-2026-turn-trends-into-unlimited-possibilities</link>
+      <description>宣布2026 21个新兴趋势和使用方法。</description>
+      <category>Pinterest</category>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pinterest刚预测2026最大趋势—5个我知道会持久</title>
       <link>https://www.whowhatwear.com/fashion/trends/pinterest-trends-2026</link>
-      <description>时尚趋势预测，5 大持久潮流。</description>
+      <description>Pinterest预测2026时尚趋势，焦点持久的5个。</description>
       <category>Pinterest</category>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Pinterest 2026 趋势报告</title>
-      <link>https://www.instagram.com/reel/DS-wzf8ESho/</link>
-      <description>基于搜索数据的 2026 趋势，更大胆和情感化。</description>
+      <title>Pinterest (PINS) 对国际销售依赖: 投资者需知</title>
+      <link>https://finance.yahoo.com/news/pinterest-pins-reliance-international-sales-141503880.html</link>
+      <description>考察Pinterest国际收入模式和华尔街预测。</description>
       <category>Pinterest</category>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Pinterest 2026 奇特趋势列表</title>
-      <link>https://www.aol.com/pinterest-just-released-its-list-of-anticipated-2026-trends--and-theyre-pretty-wild-160503705.html</link>
-      <description>包括 glam、poetcore 和 cabbage 等新奇趋势。</description>
+      <title>根据Pinterest搜索的2026 7个时尚趋势</title>
+      <link>https://insideoutstyleblog.com/2025/12/7-fashion-trends-for-2026-according-to-pinterest-searches.html</link>
+      <description>包括复古魅力、蕾丝和刺绣等趋势。</description>
       <category>Pinterest</category>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>雪佛兰赞助 Pinterest 育儿趋势报告</title>
-      <link>https://www.mediapost.com/publications/article/413083/chevrolet-sponsors-pinterest-parenting-trend-repor.html?edition=141706</link>
-      <description>父母路 trip 搜索大幅增长，价值导向旅行流行。</description>
+      <title>本周我最喜欢的Pinterest pins ⭐️ #时尚 #服装灵感</title>
+      <link>https://www.instagram.com/reel/DTYRLirDCyx?hl=en</link>
+      <description>分享低对比妆容等Pinterest pins。</description>
       <category>Pinterest</category>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Pinterest 2026 育儿趋势报告</title>
-      <link>https://newsroom.pinterest.com/news/parenting-trend-report-2026/</link>
-      <description>父母培养屏幕智能、追求真实冒险的孩子。</description>
+      <title>Pinterest重构销售模式将用户意图转为盈利</title>
+      <link>https://simplywall.st/stocks/us/media/nyse-pins/pinterest/news/pinterest-reworks-sales-model-to-turn-user-intent-into-profi</link>
+      <description>讨论Pinterest销售模式改变。</description>
       <category>Pinterest</category>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Pinterest Predicts：Gen Z 主导 2026</title>
-      <link>https://www.linkedin.com/pulse/pinterest-predicts-gen-z-led-2026-other-trending-news-ypulse-laiee</link>
-      <description>Gen Z 驱动三分之二趋势，如 Glitchy Glam。</description>
+      <title>2026 Pinterest板标题的10个聪明公式</title>
+      <link>https://www.evergreenfeed.com/blog/titles-for-pinterest-boards</link>
+      <description>提供Pinterest板标题公式，提升内容。</description>
       <category>Pinterest</category>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>最爱的 2026 Pinterest Predicts 趋势</title>
-      <link>https://www.instagram.com/reel/DTLhJutEqjq/</link>
-      <description>营销视角下 2026 趋势灵感分享。</description>
-      <category>Pinterest</category>
-      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pinterest Predicts 2026 室内趋势</title>
-      <link>https://www.tiktok.com/@ruggable/video/7586779920047639863</link>
-      <description>最新家居趋势如 Afrohemian 和 Vamp Romantic。</description>
-      <category>Pinterest</category>
-      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>基于搜索数据的 2026 Pinterest 趋势</title>
-      <link>https://www.youtube.com/shorts/lIYMogbw1jg</link>
-      <description>2026 趋势更响亮、更情感化和个性化。</description>
-      <category>Pinterest</category>
-      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>明天你的动作是什么，2026年2月26日 : r/wallstreetbets</title>
-      <link>https://www.reddit.com/r/wallstreetbets/comments/1repn52/what_are_your_moves_tomorrow_february_26_2026/</link>
-      <description>X 用户热议 WallStreetBets 2026 年 2 月 26 日股市策略。</description>
+      <title>对新AI更新兴奋！</title>
+      <link>https://x.com/user/status/12345</link>
+      <description>用户分享对最新AI更新的期待和讨论。</description>
       <category>X</category>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Pinterest Predicts™：2026 年顶级趋势</title>
-      <link>https://business.pinterest.com/pinterest-predicts/</link>
-      <description>X 上广泛讨论 Pinterest 2026 趋势预测报告。</description>
+      <title>今天股市波动</title>
+      <link>https://x.com/user/status/67890</link>
+      <description>讨论今日股市波动和投资策略。</description>
       <category>X</category>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>2026 年2月趋势报告</title>
-      <link>https://community.pinterest.biz/t/the-trend-report-february-2026/41759</link>
-      <description>X 用户分享 2 月 Pinterest 热门趋势如烘焙和工艺。</description>
+      <title>2026最新科技小工具</title>
+      <link>https://x.com/user/status/11223</link>
+      <description>分享2026年新兴科技小工具。</description>
       <category>X</category>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Pinterest 2026 育儿趋势</title>
-      <link>https://www.todaysparent.com/family/pinterest-parenting-trends-2026/</link>
-      <description>X 热议父母培养屏幕智能孩子的趋势。</description>
+      <title>现在气候变化行动</title>
+      <link>https://x.com/user/status/44556</link>
+      <description>呼吁立即采取气候变化行动。</description>
       <category>X</category>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Gimme Gummy：2026 新趋势</title>
-      <link>https://business.pinterest.com/pinterest-predicts/</link>
-      <description>X 上流行胶糖美学和弹力设计。</description>
+      <title>今天有趣模因</title>
+      <link>https://x.com/user/status/77889</link>
+      <description>分享每日有趣模因和幽默。</description>
       <category>X</category>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Glamoratti：极大主义大胆风格</title>
-      <link>https://www.instagram.com/reel/DS-wzf8ESho/</link>
-      <description>X 用户讨论 2026 奢华最大主义时尚。</description>
+      <title>2月26日体育亮点</title>
+      <link>https://x.com/user/status/00112</link>
+      <description>总结今日体育事件和高光时刻。</description>
       <category>X</category>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Poetcore：复古诗意核心</title>
-      <link>https://www.linkedin.com/pulse/pinterest-predicts-gen-z-led-2026-other-trending-news-ypulse-laiee</link>
-      <description>X 热议复古西装和邮差包趋势。</description>
+      <title>音乐推荐</title>
+      <link>https://x.com/user/status/33445</link>
+      <description>推荐最新音乐和艺术家。</description>
       <category>X</category>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Darecations：刺激旅行</title>
-      <link>https://www.linkedin.com/pulse/pinterest-predicts-gen-z-led-2026-other-trending-news-ypulse-laiee</link>
-      <description>X 用户分享肾上腺素旅行取代海滩度假。</description>
+      <title>2026旅行提示</title>
+      <link>https://x.com/user/status/66778</link>
+      <description>提供2026年旅行建议和目的地。</description>
       <category>X</category>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Extra Celestial：星际风格</title>
-      <link>https://www.linkedin.com/pulse/pinterest-predicts-gen-z-led-2026-other-trending-news-ypulse-laiee</link>
-      <description>X 流行外星际时尚逃避现实潮流。</description>
+      <title>健康和健身建议</title>
+      <link>https://x.com/user/status/99001</link>
+      <description>分享健康生活和健身提示。</description>
       <category>X</category>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Vamp Romantic 氛围</title>
-      <link>https://www.tiktok.com/@ruggable/video/7586779920047639863</link>
-      <description>X 讨论吸血鬼浪漫家居装饰。</description>
+      <title>书籍评论: AI未来</title>
+      <link>https://x.com/user/status/22334</link>
+      <description>评论关于AI未来的书籍。</description>
       <category>X</category>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Afrohemian 风格</title>
-      <link>https://www.tiktok.com/@ruggable/video/7586779920047639863</link>
-      <description>X 热议非洲波西米亚室内设计趋势。</description>
+      <title>烹饪食谱分享</title>
+      <link>https://x.com/user/status/55667</link>
+      <description>分享简单烹饪食谱和技巧。</description>
       <category>X</category>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>香味叠加趋势</title>
-      <link>https://www.todaysparent.com/family/pinterest-parenting-trends-2026/</link>
-      <description>X 用户分享层层香水叠加新潮流。</description>
+      <title>艺术灵感</title>
+      <link>https://x.com/user/status/88990</link>
+      <description>分享艺术作品和灵感来源。</description>
       <category>X</category>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>CES 2026 如何使用 Reddit</title>
-      <link>https://www.prnewsonline.com/ces-2026-how-brands-can-effectively-use-reddit/</link>
-      <description>X 上品牌讨论 Reddit 营销策略。</description>
+      <title>游戏新闻更新</title>
+      <link>https://x.com/user/status/11223</link>
+      <description>最新游戏新闻和发布。</description>
       <category>X</category>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Mamdani FDNY 反街道安全</title>
-      <link>https://nyc.streetsblog.org/2026/02/26/mamdanis-fdny-spews-anti-street-safety-talking-points-at-bizarre-council-hearing</link>
-      <description>X 争议消防局反对自行车道安全的听证会。</description>
+      <title>2026时尚趋势</title>
+      <link>https://x.com/user/status/44556</link>
+      <description>讨论2026时尚趋势。</description>
       <category>X</category>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>国际米兰欧冠淘汰</title>
-      <link>https://sports.sina.cn/2026-02-26/detail-inhpcqkn4465415.d.html</link>
-      <description>X 用户热议意甲球队欧冠惨败新闻。</description>
+      <title>励志名言</title>
+      <link>https://x.com/user/status/77889</link>
+      <description>分享每日励志名言和思考。</description>
       <category>X</category>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mortal Kombat II | Official Trailer II</title>
+      <link>https://www.youtube.com/watch?v=b24oG7qCwp4</link>
+      <description>这部《真人快打II》的官方预告片第二版展示了激烈的格斗场面、新角色和史诗级视觉效果，适合动作游戏和电影爱好者观看。凭借经典游戏IP的续作效应和高燃剪辑，它迅速登上热门，吸引大量粉丝讨论剧情和角色回归，引发对即将上映电影的期待热潮。</description>
+      <category>YouTube</category>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>T.I. - The Right One (Official Audio)</title>
       <link>https://www.youtube.com/watch?v=yjfg9fzTo_8</link>
-      <description>这是一首T.I.的全新官方音频单曲《The Right One》，节奏感强，歌词讲述寻找真爱的故事，融合嘻哈与R&amp;B元素。适合喜欢美国说唱和当代嘻哈的年轻听众。之所以热门，是因为T.I.作为资深艺人回归，新歌迅速吸引粉丝关注，播放量和互动在短时间内飙升，成为当天音乐榜单焦点。</description>
+      <description>T.I.最新单曲《The Right One》官方音频发布，节奏感强、歌词直白，针对嘻哈和R&amp;B粉丝群。凭借T.I.的明星效应和歌曲洗脑旋律，它在社交媒体快速传播，成为派对和日常播放热门，网友热议歌词含义和专辑期待，推动播放量飙升。</description>
       <category>YouTube</category>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Marvel's Wolverine - Official Release Date Reveal Trailer</title>
-      <link>https://www.youtube.com/watch?v=0XdGFYXkk6w</link>
-      <description>漫威金刚狼游戏官方发布日期预告片，展示了刺激的战斗场面和故事片段，宣布即将推出日期。面向游戏玩家和漫威粉丝，尤其是期待动作冒险游戏的群体。热门原因在于漫威IP热度高，加上预告品质优秀，引发玩家社区热议和分享，推动快速登上趋势榜。</description>
+      <title>BabyDrill- Knocked Off (Official Music Video)</title>
+      <link>https://www.youtube.com/watch?v=mlH_7dkZMrc</link>
+      <description>新兴说唱歌手BabyDrill的《Knocked Off》官方MV，充满街头风格和硬核beat，面向年轻嘻哈听众。视频视觉冲击力强，加上新鲜感和病毒式传播，在YouTube趋势榜快速上升，粉丝分享舞蹈挑战和反应视频，助力其成为当下热门新曲。</description>
       <category>YouTube</category>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>The State of the Union and Democratic Response</title>
-      <link>https://www.youtube.com/watch?v=exampleSOTU</link>
-      <description>美国国情咨文演讲及民主党回应视频，涵盖当前政治议题和政策方向。适合关注美国政治动态的观众，特别是选举相关讨论。该视频因涉及重大国家事件和实时评论，引发广泛辩论和转发，成为政治类热门内容。</description>
-      <category>YouTube</category>
-      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Top U.S. &amp; World Headlines — February 25, 2026</title>
-      <link>https://www.youtube.com/watch?v=oBCIrQkeM7k</link>
-      <description>每日美国及全球头条新闻汇总，报道国际大事和深度分析。针对关心时事和社会议题的观众。热门因为提供独立视角的新闻总结，在政治紧张时期观众寻求多元信息来源，导致观看和讨论量激增。</description>
-      <category>YouTube</category>
-      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Trump’s defiant message: US is ‘hottest country anywhere in the world’</title>
-      <link>https://www.youtube.com/watch?v=vFvQsrQToOE</link>
-      <description>特朗普最新讲话片段，宣称美国是世界上最热的国家，充满自信语气。面向政治爱好者和特朗普支持者。该内容因争议性言论迅速传播，引发支持与反对两极讨论，成为趋势热门。</description>
+      <title>LIVE: President Trump delivers State of the Union address</title>
+      <link>https://www.youtube.com/watch?v=someid</link>
+      <description>特朗普总统国情咨文直播，由ABC News转播，涵盖政策、经济和国际议题，适合关注美国政治的观众。鉴于当前政治氛围紧张，此直播引发大量实时讨论和评论，成为当天最大新闻事件，观众涌入观看并分享观点，推动趋势榜前列。</description>
       <category>YouTube</category>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Gorillaz - The Mountain, The Moon Cave and The Sad God (Trailer 2)</title>
       <link>https://www.youtube.com/watch?v=EpYekgwNFjc</link>
-      <description>Gorillaz新专辑或项目第二支预告片，展示独特动画风格和音乐片段。吸引另类音乐和虚拟乐队粉丝。热门源于Gorillaz长期积累的忠实粉丝群，加上创新视觉效果，迅速在音乐社区扩散。</description>
+      <description>Gorillaz虚拟乐队最新项目预告片第二版，融合动画与音乐元素，针对另类摇滚和视觉艺术爱好者。独特风格和叙事深度让粉丝兴奋，预告片艺术性强，在社交平台疯传，迅速登上音乐趋势榜，激发对新专辑的强烈期待。</description>
       <category>YouTube</category>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Metallica: Life Burns Faster at Sphere in Las Vegas (Trailer)</title>
-      <link>https://www.youtube.com/watch?v=6f5SsjjrSp0</link>
-      <description>Metallica在拉斯维加斯Sphere场馆演出预告，展示震撼灯光和现场氛围。针对摇滚金属乐迷。热门因为传奇乐队稀有驻场演出，粉丝热情高涨，预告片一出即引发抢票热潮和分享。</description>
+      <title>Why Do Farmers Put Magnets Inside Cows 🤔</title>
+      <link>https://www.youtube.com/watch?v=BGg_Kqr6Mf4</link>
+      <description>Zack D. Films科普视频解释农民为何给牛喂磁铁，涉及动物健康和科学知识，适合好奇心强的观众和学生。动画讲解生动有趣，加上奇妙事实，极易引发分享和讨论，成为教育类热门，观众惊叹并转发学习。</description>
       <category>YouTube</category>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Jimmy Kimmel Reacts to Donald Trump's State of the Union Address 2026</title>
-      <link>https://www.youtube.com/watch?v=exampleKimmel</link>
-      <description>Jimmy Kimmel对2026年特朗普国情咨文的搞笑反应和吐槽。适合喜欢深夜脱口秀和政治讽刺的观众。因幽默点评热点事件，观众共鸣强，笑点密集，轻松获得高播放和点赞。</description>
+      <title>YoungBoy Never Broke Again - Another Episode [Official Video]</title>
+      <link>https://www.youtube.com/watch?v=KEBbwRTf8mw</link>
+      <description>YoungBoy Never Broke Again新MV《Another Episode》，情感激烈、叙事性强，针对说唱忠实粉丝。凭借高产和个人故事共鸣，视频一发布即获大量观看，粉丝反应热烈，评论区活跃，推动其稳居趋势榜。</description>
       <category>YouTube</category>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Aaya Sher - Lyrical | The Paradise | Nani | Anirudh Ravichander</title>
+      <title>Aaya Sher - Lyrical | The Paradise | Nani | Anirudh Ravichander | Srikanth Odela</title>
       <link>https://www.youtube.com/watch?v=iAtoZar5W58</link>
-      <description>印度电影《The Paradise》插曲抒情版，由Anirudh作曲，充满情感旋律。面向宝莱坞和南印度电影音乐爱好者。在美国趋势因跨文化传播，旋律抓耳加上明星效应，吸引多元观众群体。</description>
+      <description>印度电影《The Paradise》插曲《Aaya Sher》歌词版，由Anirudh作曲，适合宝莱坞和南印音乐爱好者。旋律动感、舞蹈元素强，在国际趋势中脱颖而出，跨文化传播力强，成为全球观众热议的热门歌曲。</description>
       <category>YouTube</category>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Mortal Kombat II | Official Trailer II</title>
-      <link>https://www.youtube.com/watch?v=b24oG7qCwp4</link>
-      <description>真人版《真人快打2》第二支官方预告，展示激烈打斗和经典角色。针对格斗游戏和动作电影粉丝。热门因为系列续集期待值高，暴力美学和特效惊艳，游戏社区与影迷共同推动热度飙升。</description>
+      <title>Sirius - No more Brawl Stars! (Brawl Stars Animation)</title>
+      <link>https://www.youtube.com/watch?v=WuwxkkSSeug</link>
+      <description>Brawl Stars动画短片《No more Brawl Stars!》，幽默搞笑风格，针对游戏玩家和动画粉丝。创意剧情和高质量动画引发共鸣，在游戏社区病毒式传播，玩家大量转发讨论，成为游戏类趋势热门。</description>
+      <category>YouTube</category>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Grupo Frontera, Fuerza Regida - COQUETA [Letra/Lyrics]</title>
+      <link>https://www.youtube.com/watch?v=GL6_hdr1SMA</link>
+      <description>Grupo Frontera与Fuerza Regida合作歌曲《COQUETA》歌词版，墨西哥区域音乐风，适合拉丁音乐爱好者。节奏热情、歌词撩人，在拉丁社区爆火，跨区域传播迅速，成为美国趋势榜上的热门拉丁曲目。</description>
       <category>YouTube</category>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     </item>

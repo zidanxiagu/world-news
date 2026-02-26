@@ -12,14 +12,13 @@ body {
 a { color: inherit; text-decoration: none; }
 a:hover { text-decoration: underline; }
 
-/* ===== Color tokens (9 sections) ===== */
+/* ===== Color tokens (8 sections) ===== */
 :root {
   --news-accent: #059669;   --news-bg: #F0FDF4;   --news-light: #6EE7B7;   --news-dark: #065F46;
   --reddit-accent: #EA580C; --reddit-bg: #FFF7ED; --reddit-light: #FDBA74; --reddit-dark: #9A3412;
   --hn-accent: #D97706;     --hn-bg: #FFFBEB;     --hn-light: #FCD34D;     --hn-dark: #92400E;
   --ph-accent: #DC2626;     --ph-bg: #FEF2F2;     --ph-light: #FCA5A5;     --ph-dark: #991B1B;
   --sub-accent: #7C3AED;    --sub-bg: #F5F3FF;    --sub-light: #C4B5FD;    --sub-dark: #5B21B6;
-  --jike-accent: #2563EB;   --jike-bg: #EFF6FF;   --jike-light: #93C5FD;   --jike-dark: #1E40AF;
   --pin-accent: #E11D48;    --pin-bg: #FFF1F2;    --pin-light: #FDA4AF;    --pin-dark: #9F1239;
   --yt-accent: #B91C1C;     --yt-bg: #FEF2F2;     --yt-light: #FCA5A5;     --yt-dark: #7F1D1D;
   --x-accent: #0284C7;      --x-bg: #F0F9FF;      --x-light: #7DD3FC;      --x-dark: #075985;
@@ -100,7 +99,6 @@ a:hover { text-decoration: underline; }
 .nav-link.hn:hover { color: var(--hn-accent); }       .nav-link.hn:hover::after { background: var(--hn-accent); }       .nav-link.hn .nav-dot { background: var(--hn-accent); }
 .nav-link.ph:hover { color: var(--ph-accent); }       .nav-link.ph:hover::after { background: var(--ph-accent); }       .nav-link.ph .nav-dot { background: var(--ph-accent); }
 .nav-link.sub:hover { color: var(--sub-accent); }     .nav-link.sub:hover::after { background: var(--sub-accent); }     .nav-link.sub .nav-dot { background: var(--sub-accent); }
-.nav-link.jike:hover { color: var(--jike-accent); }   .nav-link.jike:hover::after { background: var(--jike-accent); }   .nav-link.jike .nav-dot { background: var(--jike-accent); }
 .nav-link.pin:hover { color: var(--pin-accent); }     .nav-link.pin:hover::after { background: var(--pin-accent); }     .nav-link.pin .nav-dot { background: var(--pin-accent); }
 .nav-link.yt:hover { color: var(--yt-accent); }       .nav-link.yt:hover::after { background: var(--yt-accent); }       .nav-link.yt .nav-dot { background: var(--yt-accent); }
 .nav-link.x:hover { color: var(--x-accent); }         .nav-link.x:hover::after { background: var(--x-accent); }         .nav-link.x .nav-dot { background: var(--x-accent); }
@@ -173,7 +171,6 @@ a:hover { text-decoration: underline; }
 .section-hn      { background: var(--hn-bg); }     .section-hn .section-title      { color: var(--hn-dark); }     .section-hn .section-icon      { background: #FEF3C7; color: var(--hn-accent); }
 .section-ph      { background: var(--ph-bg); }     .section-ph .section-title      { color: var(--ph-dark); }     .section-ph .section-icon      { background: #FEE2E2; color: var(--ph-accent); }
 .section-sub     { background: var(--sub-bg); }    .section-sub .section-title     { color: var(--sub-dark); }    .section-sub .section-icon     { background: #EDE9FE; color: var(--sub-accent); }
-.section-jike    { background: var(--jike-bg); }   .section-jike .section-title    { color: var(--jike-dark); }   .section-jike .section-icon    { background: #DBEAFE; color: var(--jike-accent); }
 .section-pin     { background: var(--pin-bg); }    .section-pin .section-title     { color: var(--pin-dark); }    .section-pin .section-icon     { background: #FFE4E6; color: var(--pin-accent); }
 .section-yt      { background: var(--yt-bg); }     .section-yt .section-title      { color: var(--yt-dark); }     .section-yt .section-icon      { background: #FEE2E2; color: var(--yt-accent); }
 .section-x       { background: var(--x-bg); }      .section-x .section-title       { color: var(--x-dark); }      .section-x .section-icon       { background: #E0F2FE; color: var(--x-accent); }
@@ -204,7 +201,6 @@ a:hover { text-decoration: underline; }
 .section-hn .card      { border-left: 3px solid var(--hn-light); }     .section-hn .card:hover      { border-left-color: var(--hn-accent); }
 .section-ph .card      { border-left: 3px solid var(--ph-light); }     .section-ph .card:hover      { border-left-color: var(--ph-accent); }
 .section-sub .card     { border-left: 3px solid var(--sub-light); }    .section-sub .card:hover     { border-left-color: var(--sub-accent); }
-.section-jike .card    { border-left: 3px solid var(--jike-light); }   .section-jike .card:hover    { border-left-color: var(--jike-accent); }
 .section-pin .card     { border-left: 3px solid var(--pin-light); }    .section-pin .card:hover     { border-left-color: var(--pin-accent); }
 .section-yt .card      { border-left: 3px solid var(--yt-light); }     .section-yt .card:hover      { border-left-color: var(--yt-accent); }
 .section-x .card       { border-left: 3px solid var(--x-light); }      .section-x .card:hover       { border-left-color: var(--x-accent); }

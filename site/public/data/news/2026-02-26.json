@@ -2,124 +2,188 @@
   "date": "2026-02-26",
   "items": [
     {
+      "title": "Jest, a marketplace for messaging games, is challenging the app store status quo",
+      "url": "https://techcrunch.com/2026/02/26/jest-a-marketplace-for-messaging-games-is-challenging-the-app-store-status-quo/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-02-26T14:17:38.356Z",
+      "titleZh": "Jest，消息游戏市场，正在挑战应用商店现状",
+      "summary": "Jest作为一个消息游戏的市场，正在挑战应用商店的垄断地位，提供替代分发方式。"
+    },
+    {
+      "title": "Exhibit in Boston’s startup ecosystem at TechCrunch Founder Summit 2026",
+      "url": "https://techcrunch.com/2026/02/26/exhibit-in-bostons-startup-ecosystem-at-techcrunch-founder-summit-2026/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-02-26T14:17:38.360Z",
+      "titleZh": "在TechCrunch创始人峰会2026上展示波士顿创业生态",
+      "summary": "机会在2026 TechCrunch创始人峰会上展示波士顿的创业生态系统，吸引投资者和合作伙伴。"
+    },
+    {
+      "title": "Figma partners with OpenAI to bake in support for Codex",
+      "url": "https://techcrunch.com/2026/02/26/figma-partners-with-openai-to-bake-in-support-for-codex/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-02-26T14:17:38.360Z",
+      "titleZh": "Figma与OpenAI合作内置Codex支持",
+      "summary": "Figma与OpenAI合作，将Codex AI集成到设计工具中，提升用户体验。"
+    },
+    {
+      "title": "Trace raises $3M to solve the AI agent adoption problem in enterprise",
+      "url": "https://techcrunch.com/2026/02/26/trace-raises-3-million-to-solve-the-agent-adoption-problem/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-02-26T14:17:38.360Z",
+      "titleZh": "Trace筹集300万美元解决企业AI代理采用问题",
+      "summary": "Trace获得300万美元融资，专注于解决企业采用AI代理的障碍，帮助部署。"
+    },
+    {
+      "title": "How to avoid bad hires in early-stage startups",
+      "url": "https://techcrunch.com/2026/02/26/how-to-avoid-bad-hires-in-early-stage-startups/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-02-26T14:17:38.360Z",
+      "titleZh": "如何避免初创公司招聘失误",
+      "summary": "文章提供策略，帮助初创公司避免招聘错误，确保团队质量。"
+    },
+    {
+      "title": "Everything Samsung revealed at its Galaxy Unpacked event",
+      "url": "https://techcrunch.com/2026/02/26/everything-samsung-revealed-at-its-galaxy-unpacked-event/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-02-26T14:17:38.360Z",
+      "titleZh": "三星Galaxy Unpacked事件公布的一切",
+      "summary": "三星在Unpacked事件中公布新Galaxy设备、AI功能和配件。"
+    },
+    {
+      "title": "Instagram now alerts parents if their teen searches for suicide or self-harm content",
+      "url": "https://techcrunch.com/2026/02/26/instagram-now-alerts-parents-if-their-teen-searches-for-suicide-or-self-harm-content/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-02-26T14:17:38.360Z",
+      "titleZh": "Instagram现在警报父母如果青少年搜索自杀或自害内容",
+      "summary": "Instagram新功能，如果青少年搜索敏感内容，会通知父母以提供支持。"
+    },
+    {
       "title": "Salesforce CEO Marc Benioff: This isn&#8217;t our first SaaSpocalypse",
       "url": "https://techcrunch.com/2026/02/25/salesforce-ceo-marc-benioff-this-isnt-our-first-saaspocalypse/",
       "source": "TechCrunch",
-      "publishedAt": "2026-02-26T02:55:56.805Z",
-      "titleZh": "Salesforce CEO Marc Benioff：这不是我们第一次SaaS末日",
-      "summary": "Salesforce CEO Marc Benioff 表示，目前 SaaS 行业困境并非首次，公司过去曾成功应对类似危机。"
+      "publishedAt": "2026-02-26T14:17:38.360Z",
+      "titleZh": "Salesforce CEO Marc Benioff：这不是我们的第一次SaaSpocalypse",
+      "summary": "Benioff表示当前SaaS市场低迷不是首次，公司有经验应对。"
     },
     {
       "title": "Gushwork bets on AI search for customer leads — and early results are emerging",
       "url": "https://techcrunch.com/2026/02/25/gushwork-bets-on-ai-search-for-customer-leads-and-early-results-are-emerging/",
       "source": "TechCrunch",
-      "publishedAt": "2026-02-26T02:55:56.806Z",
-      "titleZh": "Gushwork 押注 AI 搜索获取客户线索——早期成果显现",
-      "summary": "Gushwork 利用 AI 搜索技术生成客户潜在线索，早期测试结果显示效果良好。"
+      "publishedAt": "2026-02-26T14:17:38.360Z",
+      "titleZh": "Gushwork押注AI搜索客户线索——早期结果出现",
+      "summary": "Gushwork使用AI生成客户线索，早期测试显示积极结果。"
     },
     {
       "title": "Anthropic acquires computer-use AI startup Vercept after Meta poached one of its founders",
       "url": "https://techcrunch.com/2026/02/25/anthropic-acquires-vercept-ai-startup-agents-computer-use-founders-investors/",
       "source": "TechCrunch",
-      "publishedAt": "2026-02-26T02:55:56.806Z",
-      "titleZh": "Anthropic 收购电脑使用 AI 初创 Vercept，前 Meta 挖走其创始人",
-      "summary": "Anthropic 在 Meta 挖走 Vercept 创始人后，收购了这家专注电脑使用 AI 的初创公司。"
+      "publishedAt": "2026-02-26T14:17:38.360Z",
+      "titleZh": "Anthropic收购计算机使用AI初创Vercept，在Meta挖走其创始人后",
+      "summary": "Anthropic收购Vercept，增强其AI能力，尽管创始人被Meta挖走。"
     },
     {
-      "title": "Nvidia has another record quarter amid record capex spends",
-      "url": "https://techcrunch.com/2026/02/25/nvidia-earnings-record-capex-spend-ai/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-02-26T02:55:56.806Z",
-      "titleZh": "Nvidia 在创纪录资本支出中迎来又一创纪录季度",
-      "summary": "Nvidia 公布又一创纪录季度业绩，尽管资本支出也创下新高。"
+      "title": "(RSS 拉取失败: https://feeds.feedburner.com/venturebeat/SZYF)",
+      "url": "#",
+      "source": "https://feeds.feedburner.com/venturebeat/SZYF",
+      "publishedAt": "2026-02-26",
+      "titleZh": "RSS拉取失败: https://feeds.feedburner.com/venturebeat/SZYF",
+      "summary": "无法拉取VentureBeat的RSS feed，内容不可用。"
     },
     {
-      "title": "The White House wants AI companies to cover rate hikes. Most have already said they would.",
-      "url": "https://techcrunch.com/2026/02/25/the-white-house-wants-ai-companies-to-cover-rate-hikes-most-have-already-said-they-would/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-02-26T02:55:56.806Z",
-      "titleZh": "白宫希望 AI 公司承担利率上涨成本，大多数已同意",
-      "summary": "白宫要求 AI 公司支付因利率上调产生的费用，大部分公司已承诺承担。"
+      "title": "(RSS 拉取失败: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml)",
+      "url": "#",
+      "source": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+      "publishedAt": "2026-02-26",
+      "titleZh": "RSS拉取失败: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+      "summary": "无法拉取纽约时报技术RSS，内容不可用。"
     },
     {
-      "title": "US cybersecurity agency CISA reportedly in dire shape amid Trump cuts and layoffs",
-      "url": "https://techcrunch.com/2026/02/25/us-cybersecurity-agency-cisa-reportedly-in-dire-shape-amid-trump-cuts-and-layoffs/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-02-26T02:55:56.806Z",
-      "titleZh": "特朗普削减和裁员下，美国 CISA 网络安全局状况堪忧",
-      "summary": "在特朗普政府预算削减和裁员影响下，美国网络安全局 CISA 据称陷入严重困境。"
-    },
-    {
-      "title": "Welcome to the post-hype crypto market",
-      "url": "https://techcrunch.com/video/welcome-to-the-post-hype-crypto-market/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-02-26T02:55:56.806Z",
-      "titleZh": "欢迎来到后炒作加密货币市场",
-      "summary": "加密货币市场进入后炒作时代，泡沫消退，转向理性发展。"
-    },
-    {
-      "title": "Alphabet-owned robotics software company Intrinsic joins Google",
-      "url": "https://techcrunch.com/2026/02/25/alphabet-owned-robotics-software-company-intrinsic-joins-google/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-02-26T02:55:56.806Z",
-      "titleZh": "Alphabet 旗下机器人软件公司 Intrinsic 加入 Google",
-      "summary": "Alphabet 拥有的机器人软件公司 Intrinsic 正式并入 Google 部门。"
-    },
-    {
-      "title": "Snapchat announces &#8216;The Snappys,&#8217; its first-ever creator awards show",
-      "url": "https://techcrunch.com/2026/02/25/snapchat-announces-the-snappys-its-first-ever-creator-awards-show/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-02-26T02:55:56.806Z",
-      "titleZh": "Snapchat 宣布举办首届创作者颁奖典礼“The Snappys”",
-      "summary": "Snapchat 推出首个创作者奖项秀“The Snappys”，表彰平台优秀创作者。"
-    },
-    {
-      "title": "An accountant won a big jackpot on Kalshi by betting against DOGE",
-      "url": "https://techcrunch.com/2026/02/25/an-accountant-won-a-big-jackpot-on-kalshi-by-betting-against-doge/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-02-26T02:55:56.806Z",
-      "titleZh": "会计师在 Kalshi 上押注反对 DOGE 赢得大奖",
-      "summary": "一名会计师在预测市场 Kalshi 通过做空 DOGE 押注赚取巨额奖金。"
+      "title": "(RSS 拉取失败: https://rss.nytimes.com/services/xml/rss/nyt/Business.xml)",
+      "url": "#",
+      "source": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
+      "publishedAt": "2026-02-26",
+      "titleZh": "RSS拉取失败: https://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
+      "summary": "无法拉取纽约时报商业RSS，内容不可用。"
     },
     {
       "title": "Musk has no proof OpenAI stole xAI trade secrets, judge rules, tossing lawsuit",
       "url": "https://arstechnica.com/tech-policy/2026/02/judge-xai-cant-claim-openai-stole-trade-secrets-just-by-hiring-ex-staffers/",
       "source": "Ars Technica - All content",
-      "publishedAt": "2026-02-26T02:56:28.641Z",
-      "titleZh": "法官裁定 Musk 无证据证明 OpenAI 窃取 xAI 商业秘密，驳回诉讼",
-      "summary": "法官认定 Elon Musk 缺乏证据，驳回 xAI 针对 OpenAI 的商业秘密窃取诉讼。"
+      "publishedAt": "2026-02-26T14:18:10.897Z",
+      "titleZh": "Musk没有证据OpenAI偷xAI贸易秘密，法官裁定，驳回诉讼",
+      "summary": "法官驳回Musk对OpenAI的诉讼，因缺乏证据证明贸易秘密被偷。"
     },
     {
       "title": "The Galaxy S26 is faster, more expensive, and even more chock-full of AI",
       "url": "https://arstechnica.com/gadgets/2026/02/samsung-reveals-galaxy-s26-lineup-with-privacy-display-and-exclusive-gemini-smarts/",
       "source": "Ars Technica - All content",
-      "publishedAt": "2026-02-26T02:56:28.641Z",
-      "titleZh": "Galaxy S26 速度更快、价格更高、AI 功能更丰富",
-      "summary": "三星 Galaxy S26 系列速度提升、售价上涨，并集成更多 AI 特性。"
+      "publishedAt": "2026-02-26T14:18:10.897Z",
+      "titleZh": "Galaxy S26更快、更贵、满载AI",
+      "summary": "三星Galaxy S26性能提升、价格上涨，集成更多AI功能。"
     },
     {
       "title": "Judge doesn't trust DOJ with search of devices seized from Wash. Post reporter",
       "url": "https://arstechnica.com/tech-policy/2026/02/judge-doesnt-trust-doj-with-search-of-devices-seized-from-wash-post-reporter/",
       "source": "Ars Technica - All content",
-      "publishedAt": "2026-02-26T02:56:28.641Z",
-      "titleZh": "法官不信任 DOJ 对《华盛顿邮报》记者设备进行搜查",
-      "summary": "法官拒绝 DOJ 搜查从华盛顿邮报记者处扣押的设备，担心权力滥用。"
+      "publishedAt": "2026-02-26T14:18:10.897Z",
+      "titleZh": "法官不信任DOJ搜索从Wash. Post记者没收的设备",
+      "summary": "法官对司法部搜索记者设备表示不信任，涉及隐私问题。"
     },
     {
       "title": "Could a vaccine prevent dementia? Shingles shot data only getting stronger.",
       "url": "https://arstechnica.com/health/2026/02/could-a-vaccine-prevent-dementia-shingles-shot-data-only-getting-stronger/",
       "source": "Ars Technica - All content",
-      "publishedAt": "2026-02-26T02:56:28.641Z",
-      "titleZh": "疫苗能否预防痴呆？带状疱疹疫苗数据越来越有力",
-      "summary": "最新数据表明带状疱疹疫苗可能预防痴呆，证据日益充分。"
+      "publishedAt": "2026-02-26T14:18:10.897Z",
+      "titleZh": "疫苗能否预防痴呆？带状疱疹疫苗数据越来越强。",
+      "summary": "研究显示带状疱疹疫苗可能降低痴呆风险，证据增强。"
     },
     {
       "title": "2026 Lexus RZ 550e review: Likable, but it needs improvement",
       "url": "https://arstechnica.com/cars/2026/02/2026-lexus-rz-550e-review-likable-but-it-needs-improvement/",
       "source": "Ars Technica - All content",
-      "publishedAt": "2026-02-26T02:56:28.641Z",
-      "titleZh": "2026 Lexus RZ 550e 评测：讨人喜欢，但仍需改进",
-      "summary": "2026 款雷克萨斯 RZ 550e 电动 SUV 驾驶体验不错，但续航和性能仍有提升空间。"
+      "publishedAt": "2026-02-26T14:18:10.897Z",
+      "titleZh": "2026 Lexus RZ 550e评论：讨喜，但需改进",
+      "summary": "Lexus RZ 550e电动SUV讨喜，但电池和充电需改进。"
+    },
+    {
+      "title": "RAM now represents 35 percent of bill of materials for HP PCs",
+      "url": "https://arstechnica.com/gadgets/2026/02/ram-now-represents-35-percent-of-bill-of-materials-for-hp-pcs/",
+      "source": "Ars Technica - All content",
+      "publishedAt": "2026-02-26T14:18:10.897Z",
+      "titleZh": "RAM现在占HP PC物料成本的35%",
+      "summary": "RAM在HP PC成本中占比35%，反映内存价格上涨。"
+    },
+    {
+      "title": "Trump's MAHA influencer pick for surgeon general goes before Senate",
+      "url": "https://arstechnica.com/health/2026/02/rfk-jr-ally-casey-means-faces-senate-for-surgeon-general-confirmation-hearing/",
+      "source": "Ars Technica - All content",
+      "publishedAt": "2026-02-26T14:18:10.897Z",
+      "titleZh": "Trump的MAHA影响者选为外科医生总长，面对参议院",
+      "summary": "Trump提名MAHA影响者为外科医生总长，即将参议院确认。"
+    },
+    {
+      "title": "Pete Hegseth tells Anthropic to fall in line with DoD desires, or else",
+      "url": "https://arstechnica.com/ai/2026/02/pete-hegseth-wants-unfettered-access-to-anthropics-models-for-the-military/",
+      "source": "Ars Technica - All content",
+      "publishedAt": "2026-02-26T14:18:10.897Z",
+      "titleZh": "Pete Hegseth告诉Anthropic遵守DoD愿望，否则",
+      "summary": "Hegseth警告Anthropic必须符合国防部要求，否则后果严重。"
+    },
+    {
+      "title": "Boozy chimps fail urine test, confirm hotly debated theory",
+      "url": "https://arstechnica.com/science/2026/02/boozy-chimps-fail-urine-test-confirm-hotly-debated-theory/",
+      "source": "Ars Technica - All content",
+      "publishedAt": "2026-02-26T14:18:10.897Z",
+      "titleZh": "醉黑猩猩尿检失败，确认热议理论",
+      "summary": "黑猩猩研究确认醉酒行为理论，通过尿检失败。"
+    },
+    {
+      "title": "WBD says Paramount’s new higher offer could be “superior” to Netflix's",
+      "url": "https://arstechnica.com/gadgets/2026/02/paramount-increases-its-warner-bros-discovery-bid-by-1-per-share/",
+      "source": "Ars Technica - All content",
+      "publishedAt": "2026-02-26T14:18:10.897Z",
+      "titleZh": "WBD说Paramount的新更高报价可能“优于”Netflix的",
+      "summary": "Warner Bros. Discovery表示Paramount新报价可能优于Netflix。"
     }
   ]
 }

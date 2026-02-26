@@ -9,7 +9,7 @@ import { NewsDigest } from '@/components/NewsDigest';
 
 const ARCHIVE_SOURCES = [
   { id: 'news', name: 'Finance & Tech News', dir: 'news' },
-  { id: 'reddit-hn', name: 'Community (Reddit / HN / PH / Substack / 即刻 / Pinterest / X)', dir: 'reddit-hn' },
+  { id: 'reddit-hn', name: 'Community (Reddit / HN / PH / Substack / Pinterest / X)', dir: 'reddit-hn' },
   { id: 'trending-videos', name: 'YouTube', dir: 'trending-videos' },
 ];
 

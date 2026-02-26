@@ -35,10 +35,6 @@ module.exports = {
   substack: {
     feeds: process.env.SUBSTACK_FEEDS ? process.env.SUBSTACK_FEEDS.split(',') : [],
   },
-  // 即刻：填 RSS 桥地址（若有），否则留空
-  jike: {
-    feeds: process.env.JIKE_FEEDS ? process.env.JIKE_FEEDS.split(',') : [],
-  },
   // Pinterest：填 RSS 或可抓取地址（若有），否则留空
   pinterest: {
     feeds: process.env.PINTEREST_FEEDS ? process.env.PINTEREST_FEEDS.split(',') : [],
