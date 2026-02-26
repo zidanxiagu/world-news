@@ -1,0 +1,433 @@
+{
+  "date": "2026-02-27",
+  "reddit": [],
+  "hn": [
+    {
+      "title": "Show HN: Terminal Phone – E2EE Walkie Talkie from the Command Line",
+      "url": "https://gitlab.com/here_forawhile/terminalphone",
+      "score": 184,
+      "id": "47164270",
+      "titleZh": "Show HN: 终端电话 – 命令行端到端加密对讲机",
+      "summary": "这是一个命令行工具，提供端到端加密的对讲机功能，适合开发者在终端中使用。"
+    },
+    {
+      "title": "Anthropic ditches its core safety promise",
+      "url": "https://www.cnn.com/2026/02/25/tech/anthropic-safety-policy-change",
+      "score": 337,
+      "id": "47165397",
+      "titleZh": "Anthropic放弃其核心安全承诺",
+      "summary": "Anthropic公司放弃了原本的核心安全承诺，可能影响AI开发的道德标准。"
+    },
+    {
+      "title": "Google API keys weren't secrets, but then Gemini changed the rules",
+      "url": "https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules",
+      "score": 978,
+      "id": "47156925",
+      "titleZh": "谷歌API密钥原本不是秘密，但Gemini改变了规则",
+      "summary": "谷歌API密钥以前不被视为秘密，但Gemini模型的更新改变了这一规则，要求更严格管理。"
+    },
+    {
+      "title": "In 2025, Meta paid an effective federal tax rate of 3.5%",
+      "url": "https://bsky.app/profile/rbreich.bsky.social/post/3mfptlfeucn2i",
+      "score": 81,
+      "id": "47167171",
+      "titleZh": "2025年Meta有效联邦税率为3.5%",
+      "summary": "Meta公司在2025年的有效联邦税率仅为3.5%，引发税收公平讨论。"
+    },
+    {
+      "title": "just-bash: Bash for Agents",
+      "url": "https://github.com/vercel-labs/just-bash",
+      "score": 29,
+      "id": "47165648",
+      "titleZh": "just-bash: 代理的Bash",
+      "summary": "just-bash是一个为AI代理设计的Bash环境，简化脚本执行。"
+    },
+    {
+      "title": "Show HN: Agent Swarm – Multi-agent self-learning teams (OSS)",
+      "url": "https://github.com/desplega-ai/agent-swarm",
+      "score": 61,
+      "id": "47165046",
+      "titleZh": "Show HN: Agent Swarm – 多代理自学习团队（开源）",
+      "summary": "Agent Swarm是一个开源的多代理系统，支持自学习团队协作。"
+    },
+    {
+      "title": "BuildKit: Docker's Hidden Gem That Can Build Almost Anything",
+      "url": "https://tuananh.net/2026/02/25/buildkit-docker-hidden-gem/",
+      "score": 13,
+      "id": "47166264",
+      "titleZh": "BuildKit: Docker隐藏宝石，能构建几乎任何东西",
+      "summary": "BuildKit是Docker的强大工具，能高效构建各种镜像和工件。"
+    },
+    {
+      "title": "Tell HN: YC companies scrape GitHub activity, send spam emails to users",
+      "url": "https://news.ycombinator.com/item?id=47163885",
+      "score": 325,
+      "id": "47163885",
+      "titleZh": "Tell HN: YC公司刮取GitHub活动，向用户发送垃圾邮件",
+      "summary": "YC公司被指刮取GitHub用户活动数据，并发送垃圾邮件。"
+    },
+    {
+      "title": "Jimi Hendrix was a systems engineer",
+      "url": "https://spectrum.ieee.org/jimi-hendrix-systems-engineer",
+      "score": 584,
+      "id": "47157224",
+      "titleZh": "Jimi Hendrix是一位系统工程师",
+      "summary": "文章探讨Jimi Hendrix如何像系统工程师一样创新音乐。"
+    },
+    {
+      "title": "Fentanyl makeover: Core structural redesign could lead to safer pain medications",
+      "url": "https://www.scripps.edu/news-and-events/press-room/2026/20260211-janda-molecule.html",
+      "score": 45,
+      "id": "47165299",
+      "titleZh": "芬太尼改造：核心结构重新设计可导致更安全止痛药",
+      "summary": "科学家通过重新设计芬太尼结构，旨在开发更安全的止痛药物。"
+    },
+    {
+      "title": "Hightouch (YC S19) Is Hiring",
+      "url": "https://hightouch.com/careers#open-positions",
+      "score": 1,
+      "id": "47164933",
+      "titleZh": "Hightouch (YC S19) 招聘中",
+      "summary": "Hightouch公司（YC S19）正在招聘新员工，聚焦数据同步技术。"
+    },
+    {
+      "title": "Banned in California",
+      "url": "https://www.bannedincalifornia.org/",
+      "score": 328,
+      "id": "47159430",
+      "titleZh": "在加州被禁",
+      "summary": "文章讨论某些产品或实践在加州被禁止的原因和影响。"
+    },
+    {
+      "title": "How will OpenAI compete?",
+      "url": "https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x",
+      "score": 371,
+      "id": "47158975",
+      "titleZh": "OpenAI将如何竞争？",
+      "summary": "探讨OpenAI在AI市场中的竞争策略和挑战。"
+    },
+    {
+      "title": "Those who can, teach history",
+      "url": "https://www.historytoday.com/archive/making-history/those-who-can-teach-history",
+      "score": 16,
+      "id": "47106275",
+      "titleZh": "能者教历史",
+      "summary": "文章强调那些有能力的人应该教授历史，以启发后代。"
+    },
+    {
+      "title": "First Website (1992)",
+      "url": "https://info.cern.ch",
+      "score": 278,
+      "id": "47159302",
+      "titleZh": "第一个网站（1992）",
+      "summary": "回顾1992年第一个网站的创建和历史意义。"
+    }
+  ],
+  "producthunt": [
+    {
+      "title": "Rover by rtrvr.ai — Turn your website into an AI agent with one script tag.",
+      "url": "https://www.producthunt.com/products/rtrvr-ai",
+      "votesCount": 0,
+      "titleZh": "Rover by rtrvr.ai — 用一个脚本标签将网站转为AI代理",
+      "summary": "Rover工具通过一个脚本标签将网站转换为AI代理，提升交互体验。"
+    },
+    {
+      "title": "Heimdall — See the real-time telemetry for objects in Earth's orbit",
+      "url": "https://www.producthunt.com/products/heimdall-3",
+      "votesCount": 0,
+      "titleZh": "Heimdall — 查看地球轨道物体实时遥测",
+      "summary": "Heimdall提供地球轨道物体的实时遥测数据可视化。"
+    },
+    {
+      "title": "CodeWords UI — Bring your automations to life",
+      "url": "https://www.producthunt.com/products/codewords",
+      "votesCount": 0,
+      "titleZh": "CodeWords UI — 让自动化生动起来",
+      "summary": "CodeWords UI工具帮助将自动化流程可视化和生动呈现。"
+    },
+    {
+      "title": "Tessl — Optimize agents skills, ship 3× better code.",
+      "url": "https://www.producthunt.com/products/tessl",
+      "votesCount": 0,
+      "titleZh": "Tessl — 优化代理技能，交付3倍更好代码",
+      "summary": "Tessl优化AI代理技能，提高代码质量三倍。"
+    },
+    {
+      "title": "API Pick — Data APIs for AI agents &amp; developers — free to start",
+      "url": "https://www.producthunt.com/products/api-pick",
+      "votesCount": 0,
+      "titleZh": "API Pick — AI代理和开发者数据API — 免费起步",
+      "summary": "API Pick提供免费起步的数据API，适合AI代理和开发者使用。"
+    },
+    {
+      "title": "DeltaMemory — Fastest cognitive memory for AI Agents",
+      "url": "https://www.producthunt.com/products/deltamemory",
+      "votesCount": 0,
+      "titleZh": "DeltaMemory — AI代理最快认知记忆",
+      "summary": "DeltaMemory为AI代理提供快速认知记忆功能，提升性能。"
+    },
+    {
+      "title": "FoodHealth Score — Find healthier groceries while you shop online",
+      "url": "https://www.producthunt.com/products/foodhealth-score",
+      "votesCount": 0,
+      "titleZh": "FoodHealth Score — 网上购物时找更健康杂货",
+      "summary": "FoodHealth Score帮助用户在网上购物时选择更健康的食品。"
+    },
+    {
+      "title": "Qwarm — Write tests in plain English AI agents run them in browsers",
+      "url": "https://www.producthunt.com/products/qwarm",
+      "votesCount": 0,
+      "titleZh": "Qwarm — 用纯英文写测试，AI代理在浏览器运行",
+      "summary": "Qwarm允许用英文编写测试，由AI代理在浏览器执行。"
+    },
+    {
+      "title": "Playground by Natoma — Simple, fast way to find and try any MCP server. No setup.",
+      "url": "https://www.producthunt.com/products/playground-by-natoma",
+      "votesCount": 0,
+      "titleZh": "Playground by Natoma — 简单快速找和试MCP服务器，无设置",
+      "summary": "Natoma的Playground提供简单方式查找和尝试MCP服务器，无需设置。"
+    },
+    {
+      "title": "Chiron — AI production mentor that lives inside your DAW",
+      "url": "https://www.producthunt.com/products/chiron",
+      "votesCount": 0,
+      "titleZh": "Chiron — 居住在DAW中的AI生产导师",
+      "summary": "Chiron是AI生产导师，集成在DAW中指导音乐制作。"
+    },
+    {
+      "title": "ChatPal — Practice speaking, get fluent!",
+      "url": "https://www.producthunt.com/products/chatpal-2",
+      "votesCount": 0,
+      "titleZh": "ChatPal — 练习口语，变得流利！",
+      "summary": "ChatPal工具帮助用户练习口语，提高语言流利度。"
+    },
+    {
+      "title": "RankingSuperior — Rank and get cited using your expertise",
+      "url": "https://www.producthunt.com/products/rankingsuperior",
+      "votesCount": 0,
+      "titleZh": "RankingSuperior — 用专长排名并被引用",
+      "summary": "RankingSuperior使用用户专长进行排名和引用。"
+    },
+    {
+      "title": "Zavi AI - Voice to Action OS — Voice that types, edits, sees and takes action in every app.",
+      "url": "https://www.producthunt.com/products/zavi-ai-voice-talk-to-text",
+      "votesCount": 0,
+      "titleZh": "Zavi AI - Voice to Action OS — 语音输入、编辑、查看并在每个应用行动",
+      "summary": "Zavi AI语音操作系统支持在各应用中语音转行动。"
+    },
+    {
+      "title": "Hush — Blur your messy desktop to hide it during screen sharing",
+      "url": "https://www.producthunt.com/products/hush-screen-share-focus-blur-desktop",
+      "votesCount": 0,
+      "titleZh": "Hush — 模糊杂乱桌面，在屏幕共享时隐藏",
+      "summary": "Hush工具在屏幕共享时模糊桌面，保护隐私。"
+    },
+    {
+      "title": "IronClaw — Secure, open-source alternative to OpenClaw",
+      "url": "https://www.producthunt.com/products/ironclaw",
+      "votesCount": 0,
+      "titleZh": "IronClaw — OpenClaw安全开源替代品",
+      "summary": "IronClaw是OpenClaw的安全开源替代方案。"
+    }
+  ],
+  "substack": [
+    {
+      "title": "Mitchell Hashimoto’s new way of writing code",
+      "url": "https://newsletter.pragmaticengineer.com/p/mitchell-hashimoto",
+      "source": "newsletter.pragmaticengineer.com",
+      "titleZh": "Mitchell Hashimoto的新编码方式",
+      "summary": "Mitchell Hashimoto介绍了新的编码方法，提升开发效率。"
+    },
+    {
+      "title": "The Future of Software Engineering with AI: Six Predictions",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-future-of-software-engineering-with-ai",
+      "source": "newsletter.pragmaticengineer.com",
+      "titleZh": "AI下的软件工程未来：六大预测",
+      "summary": "文章预测AI将改变软件工程，包括自动化和协作方式。"
+    },
+    {
+      "title": "The Pulse #162: Even fewer middle managers and more flexible teams?",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-162-even-fewer-middle-managers",
+      "source": "newsletter.pragmaticengineer.com",
+      "titleZh": "The Pulse #162: 更少中层经理和更灵活团队？",
+      "summary": "讨论公司结构变化，减少中层经理并增加团队灵活性。"
+    },
+    {
+      "title": "How Codex is built",
+      "url": "https://newsletter.pragmaticengineer.com/p/how-codex-is-built",
+      "source": "newsletter.pragmaticengineer.com",
+      "titleZh": "Codex如何构建",
+      "summary": "解释Codex的构建过程和核心技术。"
+    },
+    {
+      "title": "The Pragmatic Summit recordings and summaries",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pragmatic-summit-recordings",
+      "source": "newsletter.pragmaticengineer.com",
+      "titleZh": "Pragmatic Summit录像和总结",
+      "summary": "提供Pragmatic Summit的录像和关键点总结。"
+    },
+    {
+      "title": "The Algorithm That Powers Your X (Twitter) Post",
+      "url": "https://blog.bytebytego.com/p/the-algorithm-that-powers-your-x",
+      "source": "blog.bytebytego.com",
+      "titleZh": "驱动X (Twitter)帖子的算法",
+      "summary": "剖析X平台帖子的推荐算法工作原理。"
+    },
+    {
+      "title": "How Uber Reinvented Access Control for Microservices",
+      "url": "https://blog.bytebytego.com/p/how-uber-reinvented-access-control",
+      "source": "blog.bytebytego.com",
+      "titleZh": "Uber如何为微服务重塑访问控制",
+      "summary": "Uber重新设计微服务的访问控制系统，提高安全性和效率。"
+    },
+    {
+      "title": "How Large Language Models Learn",
+      "url": "https://blog.bytebytego.com/p/how-large-language-models-learn",
+      "source": "blog.bytebytego.com",
+      "titleZh": "大型语言模型如何学习",
+      "summary": "探讨大型语言模型的学习机制和训练过程。"
+    },
+    {
+      "title": "EP203: RabbitMQ vs Kafka vs Pulsar",
+      "url": "https://blog.bytebytego.com/p/ep203-rabbitmq-vs-kafka-vs-pulsar",
+      "source": "blog.bytebytego.com",
+      "titleZh": "EP203: RabbitMQ vs Kafka vs Pulsar",
+      "summary": "比较RabbitMQ、Kafka和Pulsar的消息队列系统优缺点。"
+    },
+    {
+      "title": "LAST CALL FOR ENROLLMENT: Become an AI Engineer - Cohort 4",
+      "url": "https://blog.bytebytego.com/p/last-call-for-enrollment-become-an",
+      "source": "blog.bytebytego.com",
+      "titleZh": "最后报名：成为AI工程师 - Cohort 4",
+      "summary": "AI工程师课程Cohort 4最后报名机会。"
+    },
+    {
+      "title": "AI is critical for humanity’s survival: Cisco president on the AI revolution | Jeetu Patel",
+      "url": "https://www.lennysnewsletter.com/p/ai-is-critical-for-humanitys-survival",
+      "source": "www.lennysnewsletter.com",
+      "titleZh": "AI对人类生存至关重要：思科总裁谈AI革命 | Jeetu Patel",
+      "summary": "思科总裁Jeetu Patel讨论AI在人类生存中的关键作用。"
+    },
+    {
+      "title": "5 OpenClaw agents run my home, finances, and code | Jesse Genet",
+      "url": "https://www.lennysnewsletter.com/p/5-openclaw-agents-run-my-home-finances",
+      "source": "www.lennysnewsletter.com",
+      "titleZh": "5个OpenClaw代理管理我的家、财务和代码 | Jesse Genet",
+      "summary": "Jesse Genet分享如何用5个OpenClaw代理管理个人生活。"
+    },
+    {
+      "title": "How to use AI for your next job interview",
+      "url": "https://www.lennysnewsletter.com/p/how-to-use-ai-in-your-next-job-interview",
+      "source": "www.lennysnewsletter.com",
+      "titleZh": "如何用AI准备下次求职面试",
+      "summary": "指导使用AI工具准备求职面试，提升成功率。"
+    },
+    {
+      "title": "How to use AI for your next job interview",
+      "url": "https://www.lennysnewsletter.com/p/how-to-use-ai-for-your-next-job-interview",
+      "source": "www.lennysnewsletter.com",
+      "titleZh": "如何用AI准备下次求职面试",
+      "summary": "指导使用AI工具准备求职面试，提升成功率。"
+    },
+    {
+      "title": "🎙️ This week on How I AI: How Notion’s design team uses Claude Code to design",
+      "url": "https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-how-notions",
+      "source": "www.lennysnewsletter.com",
+      "titleZh": "🎙️ 本周How I AI: Notion设计团队如何用Claude Code设计",
+      "summary": "播客讨论Notion设计团队使用Claude Code进行设计的过程。"
+    }
+  ],
+  "pinterest": [],
+  "x": [
+    {
+      "title": "🚨 BREAKING: US Capitol Police ARRESTED Ilhan Omar’s State of the Union guest after she REFUSED to stop standing and BLOCKING others in the gallery during Trump’s speech\n\nThis is the SAME deranged activist arrested in Minneapolis for using her car to BLOCK ICE agents’ cars on a street.\n\nThese people are fcked in the head. No wonder they always end up vioIent.",
+      "url": "https://x.com/nicksortor/status/2026844198549196826",
+      "titleZh": "🚨突发：美国国会警察逮捕伊尔汉·奥马尔国情咨文嘉宾，她在特朗普演讲期间拒绝停止站立并阻挡画廊他人",
+      "summary": "国会警察逮捕了伊尔汉·奥马尔邀请的国情咨文嘉宾，因其在特朗普演讲时阻挡他人。该嘉宾曾因用车阻挡ICE特工而被捕，作者称此类人行为异常，常导致暴力。",
+      "source": "X (Twitter)",
+      "author": "@nicksortor",
+      "likes": 75468,
+      "retweets": 16822
+    },
+    {
+      "title": "BREAKING: Kash Patel just fired 10+ FBI agents & staff who investigated Trump’s Mar‑a‑Lago classified docs & metadata subpoenas included him and Susie Wiles. \n\nSame pattern: Lie, get caught, punish anyone who did their job.https://www.cnn.com/2026/02/25/politics/fbi-agents-fired-classified-documents-kash-patel-toll-records?Date=20260226&Profile=CNN&utm_content=1772065880&utm_medium=social&utm_source=twitter",
+      "url": "https://x.com/BrittanyinTexas/status/2026822443009012044",
+      "titleZh": "突发：Kash Patel刚解雇10多名调查特朗普Mar-a-Lago机密文件及元数据传票的FBI特工和员工，包括他和Susie Wiles",
+      "summary": "Kash Patel解雇了调查特朗普机密文件案的FBI人员，遵循说谎、被抓、惩罚尽职者的模式。",
+      "source": "X (Twitter)",
+      "author": "@BrittanyinTexas",
+      "likes": 19959,
+      "retweets": 7388
+    },
+    {
+      "title": "良い記事は、非合理である──AI時代のメディアのあり方を、電ファミの10年をふり返りながら考える\nhttps://news.denfaminicogamer.jp/kikakuthetower/260226a\n\n電ファミがどういうメディアで、何を大切にして、なぜ今の姿になったのか。\nなぜ「効率」ではなく「良い記事」を価値基準としたのか。\nせっかくの機会なので、総括しました。",
+      "url": "https://x.com/denfaminicogame/status/2026856153200857174",
+      "titleZh": "好文章是非理性的──回顾电ファミ10年，思考AI时代媒体形态",
+      "summary": "文章回顾电ファミ媒体的10年历程，强调以“好文章”而非效率为价值标准，在AI时代探讨媒体本质。",
+      "source": "X (Twitter)",
+      "author": "@denfaminicogame",
+      "likes": 5839,
+      "retweets": 14709
+    },
+    {
+      "title": "We can live without AI. what we cannot live without is fresh water, farmers, agriculture, land.  stop supporting ai because it is destroying our planet.",
+      "url": "https://x.com/yvessirae/status/2026827108882985245",
+      "titleZh": "我们可以没有AI生活，但不能没有淡水、农民、农业、土地。停止支持AI，因为它在摧毁我们的星球。",
+      "summary": "作者呼吁停止支持AI，因为它破坏环境，而人类更依赖自然资源如水和农业。",
+      "source": "X (Twitter)",
+      "author": "@yvessirae",
+      "likes": 57827,
+      "retweets": 15136
+    },
+    {
+      "title": "The hecklers are guilty of high treason",
+      "url": "https://x.com/elonmusk/status/2026940589422555269",
+      "titleZh": "那些起哄者犯了叛国重罪",
+      "summary": "埃隆·马斯克称对议员提问起哄的人犯下叛国罪，针对英国人权讨论。",
+      "source": "X (Twitter)",
+      "author": "@elonmusk",
+      "likes": 115070,
+      "retweets": 18411
+    },
+    {
+      "title": "Yes",
+      "url": "https://x.com/elonmusk/status/2026931824895865204",
+      "titleZh": "是的",
+      "summary": "埃隆·马斯克同意民主党人对美国的自豪感下降，而共和党人保持稳定。",
+      "source": "X (Twitter)",
+      "author": "@elonmusk",
+      "likes": 192836,
+      "retweets": 27619
+    },
+    {
+      "title": "Good question",
+      "url": "https://x.com/elonmusk/status/2026941378438250550",
+      "titleZh": "好问题",
+      "summary": "埃隆·马斯克回应为什么多数党领袖不尽全力推动党内95%支持的问题。",
+      "source": "X (Twitter)",
+      "author": "@elonmusk",
+      "likes": 89138,
+      "retweets": 16177
+    },
+    {
+      "title": "Hmm",
+      "url": "https://x.com/elonmusk/status/2026940300351123872",
+      "titleZh": "嗯",
+      "summary": "埃隆·马斯克对某些现象的观察表示疑问。",
+      "source": "X (Twitter)",
+      "author": "@elonmusk",
+      "likes": 193654,
+      "retweets": 17115
+    },
+    {
+      "title": "They’re being taught to hate America",
+      "url": "https://x.com/elonmusk/status/2026936805342458290",
+      "titleZh": "他们被教导仇恨美国",
+      "summary": "埃隆·马斯克指出民主党人对美国自豪感下降是因为教育问题。",
+      "source": "X (Twitter)",
+      "author": "@elonmusk",
+      "likes": 73859,
+      "retweets": 12025
+    }
+  ]
+}
