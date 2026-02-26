@@ -8,9 +8,9 @@ import { GeekCommunity } from '@/components/GeekCommunity';
 import { NewsDigest } from '@/components/NewsDigest';
 
 const ARCHIVE_SOURCES = [
-  { id: 'trending-videos', name: 'YouTube 热门', dir: 'trending-videos' },
-  { id: 'reddit-hn', name: 'Reddit / HN', dir: 'reddit-hn' },
-  { id: 'news', name: '财经·科技新闻', dir: 'news' },
+  { id: 'news', name: 'Finance & Tech News', dir: 'news' },
+  { id: 'reddit-hn', name: 'Community (Reddit / HN / PH / Substack / 即刻 / Pinterest / X)', dir: 'reddit-hn' },
+  { id: 'trending-videos', name: 'YouTube', dir: 'trending-videos' },
 ];
 
 const BASE = process.env.NODE_ENV === 'production' ? '/world-news' : '';

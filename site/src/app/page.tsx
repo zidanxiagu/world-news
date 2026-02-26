@@ -45,6 +45,9 @@ export default async function Home() {
             <a href="#x" className="nav-link x"><span className="nav-dot" />X</a>
           </div>
           <Link href="/archive" className="nav-archive">归档</Link>
+          <a href="https://zidanxiagu.github.io/world-news/feed.xml" className="nav-rss" target="_blank" rel="noopener noreferrer" title="RSS 订阅">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><circle cx="6.18" cy="17.82" r="2.18"/><path d="M4 4.44v2.83c7.03 0 12.73 5.7 12.73 12.73h2.83c0-8.59-6.97-15.56-15.56-15.56zm0 5.66v2.83c3.9 0 7.07 3.17 7.07 7.07h2.83c0-5.47-4.43-9.9-9.9-9.9z"/></svg>
+          </a>
         </div>
       </nav>
 
@@ -173,7 +176,10 @@ export default async function Home() {
       </main>
 
       <footer className="site-footer">
-        数据由 Grok AI 生成摘要 · 每日自动更新
+        数据由 Grok AI 生成摘要 · 每日自动更新 ·{' '}
+        <a href="https://zidanxiagu.github.io/world-news/feed.xml" target="_blank" rel="noopener noreferrer" className="footer-rss">
+          RSS 订阅
+        </a>
       </footer>
     </>
   );

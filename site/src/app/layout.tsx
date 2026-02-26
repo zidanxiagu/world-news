@@ -45,9 +45,9 @@ export default function RootLayout({
   return (
     <html lang="zh-CN">
       <head>
-        {/* 发布后尽快看到新内容，减少浏览器对 HTML 的强缓存 */}
         <meta httpEquiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
         <meta httpEquiv="Pragma" content="no-cache" />
+        <link rel="alternate" type="application/rss+xml" title="抓瞎 RSS" href={`${SITE_URL}/feed.xml`} />
       </head>
       <body>{children}</body>
     </html>

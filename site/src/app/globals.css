@@ -118,6 +118,20 @@ a:hover { text-decoration: underline; }
   flex-shrink: 0;
 }
 .nav-archive:hover { color: #0f172a; border-color: #cbd5e1; background: #f8fafc; text-decoration: none; }
+.nav-rss {
+  margin-left: 0.4rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  color: #f97316;
+  border: 1px solid #fed7aa;
+  border-radius: 6px;
+  transition: all 0.2s;
+  flex-shrink: 0;
+}
+.nav-rss:hover { background: #fff7ed; border-color: #fdba74; }
 
 /* ===== Sections (shared) ===== */
 .section {
@@ -315,6 +329,8 @@ a:hover { text-decoration: underline; }
 
 /* ===== Footer ===== */
 .site-footer { text-align: center; padding: 2rem 1.5rem; font-size: 0.78rem; color: #cbd5e1; border-top: 1px solid #f1f5f9; }
+.footer-rss { color: #f97316; text-decoration: none; }
+.footer-rss:hover { text-decoration: underline; }
 
 /* ===== Responsive ===== */
 @media (max-width: 768px) {
