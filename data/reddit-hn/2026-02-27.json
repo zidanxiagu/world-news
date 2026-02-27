@@ -5,49 +5,49 @@
       "title": "Stop Expecting Your Best Engineer to Be a Good Mentor",
       "url": "https://reddit.com/r/programming/comments/1rfwpwp/stop_expecting_your_best_engineer_to_be_a_good/",
       "subreddit": "programming",
-      "score": 134
+      "score": 166
     },
     {
       "title": "Google API Keys Weren't Secrets. But then Gemini Changed the Rules.",
       "url": "https://reddit.com/r/programming/comments/1rfr1jg/google_api_keys_werent_secrets_but_then_gemini/",
       "subreddit": "programming",
-      "score": 150
+      "score": 153
     },
     {
       "title": "Anthropic rejects Pentagon's requests in AI safeguards dispute, CEO says",
       "url": "https://reddit.com/r/technology/comments/1rfpkww/anthropic_rejects_pentagons_requests_in_ai/",
       "subreddit": "technology",
-      "score": 6464
+      "score": 6694
     },
     {
       "title": "Netflix Backs Out of Warner Bros. Bidding, Paramount Set to Win",
       "url": "https://reddit.com/r/technology/comments/1rfp9a8/netflix_backs_out_of_warner_bros_bidding/",
       "subreddit": "technology",
-      "score": 5547
+      "score": 5610
     },
     {
       "title": "Anthropic rejects Pentagon’s AI demands",
       "url": "https://reddit.com/r/technology/comments/1rftb00/anthropic_rejects_pentagons_ai_demands/",
       "subreddit": "technology",
-      "score": 1687
+      "score": 1759
     },
     {
       "title": "How to get a Full Stack Developer to build your Production ready Application for completely FREE.",
       "url": "https://reddit.com/r/webdev/comments/1rfycn3/how_to_get_a_full_stack_developer_to_build_your/",
       "subreddit": "webdev",
-      "score": 15
+      "score": 28
     },
     {
       "title": "[D] First time reviewer. I got assigned 9 papers. I'm so nervous. What if I mess up. Any advice?",
       "url": "https://reddit.com/r/MachineLearning/comments/1rfle5p/d_first_time_reviewer_i_got_assigned_9_papers_im/",
       "subreddit": "machinelearning",
-      "score": 51
+      "score": 52
     },
     {
       "title": "Anthropic rejects latest Pentagon offer: ‘We cannot in good conscience accede to their request’",
       "url": "https://reddit.com/r/artificial/comments/1rfsjv7/anthropic_rejects_latest_pentagon_offer_we_cannot/",
       "subreddit": "artificial",
-      "score": 296
+      "score": 317
     },
     {
       "title": "Invisible characters hidden in text can trick AI agents into following secret instructions — we tested 5 models across 8,000+ cases",
@@ -59,145 +59,135 @@
       "title": "Burger King will use AI to check if employees say ‘please’ and ‘thank you’.  AI chatbot ‘Patty’ is going to live inside employees’ headsets.",
       "url": "https://reddit.com/r/artificial/comments/1rffcup/burger_king_will_use_ai_to_check_if_employees_say/",
       "subreddit": "artificial",
-      "score": 125
+      "score": 119
     },
     {
       "title": "Netflix declines to raise offer for Warner Bros",
       "url": "https://reddit.com/r/wallstreetbets/comments/1rfpgdw/netflix_declines_to_raise_offer_for_warner_bros/",
       "subreddit": "wallstreetbets",
-      "score": 5813
+      "score": 5913
     },
     {
       "title": "Neanderthal Men and Human Women Were Most Likely to Hook Up, Study Finds. Geneticists have found an interesting pattern in how early humans and Neanderthals interbred—and it wasn't balanced.",
       "url": "https://reddit.com/r/science/comments/1rfliqo/neanderthal_men_and_human_women_were_most_likely/",
       "subreddit": "science",
-      "score": 4907
+      "score": 5002
     },
     {
       "title": "Medical Cannabis Products Provide Sustained Improvements in Patients With Chronic Pain, Anxiety, and Depression",
       "url": "https://reddit.com/r/science/comments/1rft22w/medical_cannabis_products_provide_sustained/",
       "subreddit": "science",
-      "score": 1305
+      "score": 1337
     },
     {
       "title": "Study finds ChatGPT Health did not recommend a hospital visit when medically necessary in more than half of cases | ChatGPT Health performance in a structured test of triage recommendations",
       "url": "https://reddit.com/r/science/comments/1rfp9ol/study_finds_chatgpt_health_did_not_recommend_a/",
       "subreddit": "science",
-      "score": 1650
+      "score": 1694
     },
     {
       "title": "China Deploys Thousands of Fishing Boats off Japan’s Coast, and They Are Not There to Fish",
       "url": "https://reddit.com/r/worldnews/comments/1rftez1/china_deploys_thousands_of_fishing_boats_off/",
       "subreddit": "worldnews",
-      "score": 4865
+      "score": 5222
     }
   ],
   "hn": [
     {
       "title": "Statement from Dario Amodei on our discussions with the Department of War",
       "url": "https://www.anthropic.com/news/statement-department-of-war",
-      "score": 1468,
+      "score": 1520,
       "id": "47173121"
     },
     {
-      "title": "The Hunt for Dark Breakfast – Can we derive breakfasts we have never observed?",
+      "title": "The Hunt for Dark Breakfast",
       "url": "https://moultano.wordpress.com/2026/02/22/the-hunt-for-dark-breakfast/",
-      "score": 106,
+      "score": 119,
       "id": "47176257"
     },
     {
-      "title": "Dear Time Lords: Freeze Computers in 1993",
-      "url": "https://graydon2.dreamwidth.org/322461.html",
-      "score": 29,
-      "id": "47176581"
-    },
-    {
-      "title": "Google Workers Seek 'Red Lines' on Military A.I., Echoing Anthropic",
-      "url": "https://www.nytimes.com/2026/02/26/technology/google-deepmind-letter-pentagon.html",
-      "score": 214,
-      "id": "47175931"
-    },
-    {
-      "title": "What Claude Code Chooses",
+      "title": "What Claude Code chooses",
       "url": "https://amplifying.ai/research/claude-code-picks",
-      "score": 343,
+      "score": 351,
       "id": "47169757"
     },
     {
       "title": "80386 Protection",
       "url": "https://nand2mario.github.io/posts/2026/80386_protection/",
-      "score": 15,
+      "score": 23,
       "id": "47138698"
-    },
-    {
-      "title": "Layoffs at Block",
-      "url": "https://twitter.com/jack/status/2027129697092731343",
-      "score": 623,
-      "id": "47172119"
-    },
-    {
-      "title": "Will vibe coding end like the maker movement?",
-      "url": "https://read.technically.dev/p/vibe-coding-and-the-maker-movement",
-      "score": 358,
-      "id": "47167931"
-    },
-    {
-      "title": "AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]",
-      "url": "https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf",
-      "score": 339,
-      "id": "47167763"
     },
     {
       "title": "What does \" 2>&1 \" mean?",
       "url": "https://stackoverflow.com/questions/818255/what-does-21-mean",
-      "score": 204,
+      "score": 216,
       "id": "47171233"
+    },
+    {
+      "title": "Layoffs at Block",
+      "url": "https://twitter.com/jack/status/2027129697092731343",
+      "score": 630,
+      "id": "47172119"
+    },
+    {
+      "title": "AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]",
+      "url": "https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf",
+      "score": 340,
+      "id": "47167763"
+    },
+    {
+      "title": "Julia: Performance Tips",
+      "url": "https://docs.julialang.org/en/v1/manual/performance-tips/",
+      "score": 6,
+      "id": "47123633"
     },
     {
       "title": "Parakeet.cpp – Parakeet ASR inference in pure C++ with Metal GPU acceleration",
       "url": "https://github.com/Frikallo/parakeet.cpp",
-      "score": 19,
+      "score": 23,
       "id": "47176239"
     },
     {
       "title": "I rendered 1,418 confusables over 230 fonts. Most aren't confusable to the eye",
       "url": "https://paultendo.github.io/posts/confusable-vision-visual-similarity/",
-      "score": 21,
+      "score": 26,
       "id": "47150674"
     },
     {
       "title": "An Introduction to the Codex Seraphinianus, the Strangest Book Ever Published",
       "url": "https://www.openculture.com/2026/02/an-introduction-to-the-codex-seraphinianus.html",
-      "score": 56,
+      "score": 57,
       "id": "47124454"
     },
     {
       "title": "Launch HN: Cardboard (YC W26) – Agentic video editor",
       "url": "https://www.usecardboard.com/",
-      "score": 104,
+      "score": 105,
       "id": "47170174"
+    },
+    {
+      "title": "Move tests to closed source repo",
+      "url": "https://github.com/tldraw/tldraw/issues/8082",
+      "score": 31,
+      "id": "47161889"
+    },
+    {
+      "title": "Dear Time Lords: Freeze Computers in 1993",
+      "url": "https://graydon2.dreamwidth.org/322461.html",
+      "score": 40,
+      "id": "47176581"
     },
     {
       "title": "Smartphone market forecast to decline this year due to memory shortage",
       "url": "https://www.idc.com/resource-center/press-releases/wwsmartphoneforecast4q25/",
-      "score": 209,
+      "score": 213,
       "id": "47172664"
     }
   ],
   "producthunt": [
     {
-      "title": "Zavi AI - Voice to Action OS — Voice that types, edits, sees and takes action in every app.",
-      "url": "https://www.producthunt.com/products/zavi-ai-voice-talk-to-text",
-      "votesCount": 0
-    },
-    {
-      "title": "OpenClawCity — A persistent city where AI agents live, create, and evolve",
-      "url": "https://www.producthunt.com/products/openclawcity",
-      "votesCount": 0
-    },
-    {
-      "title": "Commit Please — GitHub-powered coworking for developers",
-      "url": "https://www.producthunt.com/products/commit-please",
+      "title": "Qwarm — Write tests in plain English AI agents run them in browsers",
+      "url": "https://www.producthunt.com/products/qwarm",
       "votesCount": 0
     },
     {
@@ -206,38 +196,8 @@
       "votesCount": 0
     },
     {
-      "title": "CodeWords UI — Bring your automations to life",
-      "url": "https://www.producthunt.com/products/codewords",
-      "votesCount": 0
-    },
-    {
-      "title": "HomeBar for Homey Pro — Control your Homey smart home from the Mac menu bar",
-      "url": "https://www.producthunt.com/products/homebar-for-homey-pro",
-      "votesCount": 0
-    },
-    {
-      "title": "Hush — Blur your messy desktop to hide it during screen sharing",
-      "url": "https://www.producthunt.com/products/hush-screen-share-focus-blur-desktop",
-      "votesCount": 0
-    },
-    {
       "title": "Rover by rtrvr.ai — Turn your website into an AI agent with one script tag.",
       "url": "https://www.producthunt.com/products/rtrvr-ai",
-      "votesCount": 0
-    },
-    {
-      "title": "IronClaw — Secure, open-source alternative to OpenClaw",
-      "url": "https://www.producthunt.com/products/ironclaw",
-      "votesCount": 0
-    },
-    {
-      "title": "Playground by Natoma — Simple, fast way to find and try any MCP server. No setup.",
-      "url": "https://www.producthunt.com/products/playground-by-natoma",
-      "votesCount": 0
-    },
-    {
-      "title": "ChatPal — Practice speaking, get fluent!",
-      "url": "https://www.producthunt.com/products/chatpal-2",
       "votesCount": 0
     },
     {
@@ -246,18 +206,58 @@
       "votesCount": 0
     },
     {
+      "title": "OpenClawCity — A persistent city where AI agents live, create, and evolve",
+      "url": "https://www.producthunt.com/products/openclawcity",
+      "votesCount": 0
+    },
+    {
+      "title": "Koidex — Know if a package, extension, or AI model is actually safe",
+      "url": "https://www.producthunt.com/products/koidex-2",
+      "votesCount": 0
+    },
+    {
       "title": "RankingSuperior — Rank and get cited using your expertise",
       "url": "https://www.producthunt.com/products/rankingsuperior",
       "votesCount": 0
     },
     {
-      "title": "Qwarm — Write tests in plain English AI agents run them in browsers",
-      "url": "https://www.producthunt.com/products/qwarm",
+      "title": "gpt-realtime-1.5 by OpenAI — Tighter instruction adherence in speech agents",
+      "url": "https://www.producthunt.com/products/openai",
       "votesCount": 0
     },
     {
       "title": "Zipladin — Your travel photos with voice memories",
       "url": "https://www.producthunt.com/products/zipladin-download",
+      "votesCount": 0
+    },
+    {
+      "title": "CodeWords UI — Bring your automations to life",
+      "url": "https://www.producthunt.com/products/codewords",
+      "votesCount": 0
+    },
+    {
+      "title": "Zavi AI - Voice to Action OS — Voice that types, edits, sees and takes action in every app.",
+      "url": "https://www.producthunt.com/products/zavi-ai-voice-talk-to-text",
+      "votesCount": 0
+    },
+    {
+      "title": "Commit Please — GitHub-powered coworking for developers",
+      "url": "https://www.producthunt.com/products/commit-please",
+      "votesCount": 0
+    },
+    {
+      "title": "Heimdall — See the real-time telemetry for objects in Earth's orbit",
+      "url": "https://www.producthunt.com/products/heimdall-3",
+      "votesCount": 0
+    },
+    {
+      "title": "Hush — Blur your messy desktop to hide it during screen sharing",
+      "url": "https://www.producthunt.com/products/hush-screen-share-focus-blur-desktop",
+      "votesCount": 0
+    },
+    {
+      "title": "ChatPal — Practice speaking, get fluent!",
+      "url": "https://www.producthunt.com/products/chatpal-2",
       "votesCount": 0
     }
   ],
