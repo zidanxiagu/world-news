@@ -5,8 +5,15 @@
     <link>https://zidanxiagu.github.io/world-news</link>
     <description>多源热门聚合：YouTube、财经科技、Reddit、HN、Product Hunt、Substack、Pinterest、X</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 27 Feb 2026 06:44:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Feb 2026 08:16:24 GMT</lastBuildDate>
     <atom:link href="https://zidanxiagu.github.io/world-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Plaid valued at $8B in employee share sale</title>
+      <link>https://techcrunch.com/2026/02/26/plaid-valued-at-8b-in-employee-share-sale/</link>
+      <description></description>
+      <category>Finance &amp; Tech</category>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Netflix backs out of bid for Warner Bros. Discovery, giving studios, HBO, and CNN to Ellison-owned Paramount</title>
       <link>https://techcrunch.com/2026/02/26/netflix-warner-bros-discovery-paramount-wbd-bid-studios-hbo-cnn-ellison/</link>
@@ -66,13 +73,6 @@
     <item>
       <title>Mistral AI inks a deal with global consulting giant Accenture</title>
       <link>https://techcrunch.com/2026/02/26/mistral-ai-inks-a-deal-with-global-consulting-giant-accenture/</link>
-      <description></description>
-      <category>Finance &amp; Tech</category>
-      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Threads is testing a shortcut to quickly start DM conversations</title>
-      <link>https://techcrunch.com/2026/02/26/threads-is-testing-a-shortcut-to-quickly-start-dm-conversations/</link>
       <description></description>
       <category>Finance &amp; Tech</category>
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
@@ -148,15 +148,15 @@
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>India Built the World’s Back Office. A.I. Is Starting to Shrink It.</title>
-      <link>https://www.nytimes.com/2026/02/27/technology/india-technology-jobs-ai.html</link>
+      <title>With a New Nigeria Refinery, Africa’s Richest Man Wants ‘to Rescue the Country’</title>
+      <link>https://www.nytimes.com/2026/02/27/world/africa/nigeria-dangote-refinery.html</link>
       <description></description>
       <category>Finance &amp; Tech</category>
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>With a New Nigeria Refinery, Africa’s Richest Man Wants ‘to Rescue the Country’</title>
-      <link>https://www.nytimes.com/2026/02/27/world/africa/nigeria-dangote-refinery.html</link>
+      <title>India Built the World’s Back Office. A.I. Is Starting to Shrink It.</title>
+      <link>https://www.nytimes.com/2026/02/27/technology/india-technology-jobs-ai.html</link>
       <description></description>
       <category>Finance &amp; Tech</category>
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
@@ -337,6 +337,20 @@
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>The normalization of corruption in organizations (2003) [pdf]</title>
+      <link>https://gwern.net/doc/sociology/2003-ashforth.pdf</link>
+      <description></description>
+      <category>Hacker News</category>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Julia: Performance Tips</title>
+      <link>https://docs.julialang.org/en/v1/manual/performance-tips/</link>
+      <description></description>
+      <category>Hacker News</category>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>What Claude Code chooses</title>
       <link>https://amplifying.ai/research/claude-code-picks</link>
       <description></description>
@@ -346,13 +360,6 @@
     <item>
       <title>80386 Protection</title>
       <link>https://nand2mario.github.io/posts/2026/80386_protection/</link>
-      <description></description>
-      <category>Hacker News</category>
-      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>What does &quot; 2&gt;&amp;1 &quot; mean?</title>
-      <link>https://stackoverflow.com/questions/818255/what-does-21-mean</link>
       <description></description>
       <category>Hacker News</category>
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
@@ -372,15 +379,8 @@
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Julia: Performance Tips</title>
-      <link>https://docs.julialang.org/en/v1/manual/performance-tips/</link>
-      <description></description>
-      <category>Hacker News</category>
-      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Parakeet.cpp – Parakeet ASR inference in pure C++ with Metal GPU acceleration</title>
-      <link>https://github.com/Frikallo/parakeet.cpp</link>
+      <title>What does &quot; 2&gt;&amp;1 &quot; mean?</title>
+      <link>https://stackoverflow.com/questions/818255/what-does-21-mean</link>
       <description></description>
       <category>Hacker News</category>
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
@@ -393,8 +393,8 @@
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>An Introduction to the Codex Seraphinianus, the Strangest Book Ever Published</title>
-      <link>https://www.openculture.com/2026/02/an-introduction-to-the-codex-seraphinianus.html</link>
+      <title>Parakeet.cpp – Parakeet ASR inference in pure C++ with Metal GPU acceleration</title>
+      <link>https://github.com/Frikallo/parakeet.cpp</link>
       <description></description>
       <category>Hacker News</category>
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
@@ -407,13 +407,6 @@
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Move tests to closed source repo</title>
-      <link>https://github.com/tldraw/tldraw/issues/8082</link>
-      <description></description>
-      <category>Hacker News</category>
-      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Dear Time Lords: Freeze Computers in 1993</title>
       <link>https://graydon2.dreamwidth.org/322461.html</link>
       <description></description>
@@ -421,113 +414,120 @@
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Smartphone market forecast to decline this year due to memory shortage</title>
-      <link>https://www.idc.com/resource-center/press-releases/wwsmartphoneforecast4q25/</link>
+      <title>An Introduction to the Codex Seraphinianus, the Strangest Book Ever Published</title>
+      <link>https://www.openculture.com/2026/02/an-introduction-to-the-codex-seraphinianus.html</link>
       <description></description>
       <category>Hacker News</category>
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Qwarm — Write tests in plain English AI agents run them in browsers</title>
-      <link>https://www.producthunt.com/products/qwarm</link>
+      <title>OsmAnd's Faster Offline Navigation (2025)</title>
+      <link>https://osmand.net/blog/fast-routing/</link>
+      <description></description>
+      <category>Hacker News</category>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>What's Up With That? — Read any article like an expert with one click</title>
+      <link>https://www.producthunt.com/products/what-s-up-with-that</link>
       <description></description>
       <category>Product Hunt</category>
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Wordwand — AI anywhere you type. 10x your productivity</title>
-      <link>https://www.producthunt.com/products/wordwand</link>
+      <title>Organic Intelligence Protocol (OIP) — ​$5.2B Sovereign AI Framework Recognized by OpenAI</title>
+      <link>https://www.producthunt.com/products/reddit</link>
       <description></description>
       <category>Product Hunt</category>
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Rover by rtrvr.ai — Turn your website into an AI agent with one script tag.</title>
-      <link>https://www.producthunt.com/products/rtrvr-ai</link>
+      <title>lemonpod.ai — Your daily life recap, narrated as a personal AI podcast</title>
+      <link>https://www.producthunt.com/products/lemonpod-ai</link>
       <description></description>
       <category>Product Hunt</category>
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>FoodHealth Score — Find healthier groceries while you shop online</title>
-      <link>https://www.producthunt.com/products/foodhealth-score</link>
+      <title>Superset - IDE for the AI Agent Era — Run an army of Claude Code, Codex, etc. on your machine</title>
+      <link>https://www.producthunt.com/products/superset-5</link>
       <description></description>
       <category>Product Hunt</category>
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>OpenClawCity — A persistent city where AI agents live, create, and evolve</title>
-      <link>https://www.producthunt.com/products/openclawcity</link>
+      <title>mvntSTUDIO — Turn any music into dance</title>
+      <link>https://www.producthunt.com/products/mvntstudio</link>
       <description></description>
       <category>Product Hunt</category>
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Koidex — Know if a package, extension, or AI model is actually safe</title>
-      <link>https://www.producthunt.com/products/koidex-2</link>
+      <title>Flarehawk — Monitors security tools, probes threats, + prompts action</title>
+      <link>https://www.producthunt.com/products/flarehawk</link>
       <description></description>
       <category>Product Hunt</category>
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>RankingSuperior — Rank and get cited using your expertise</title>
-      <link>https://www.producthunt.com/products/rankingsuperior</link>
+      <title>Perplexity Computer — Everything AI can do, Perplexity Computer does for you.</title>
+      <link>https://www.producthunt.com/products/perplexity-ai</link>
       <description></description>
       <category>Product Hunt</category>
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>gpt-realtime-1.5 by OpenAI — Tighter instruction adherence in speech agents</title>
-      <link>https://www.producthunt.com/products/openai</link>
+      <title>Launch In Public — Stop building in silence. Launch in public.</title>
+      <link>https://www.producthunt.com/products/launch-in-public</link>
       <description></description>
       <category>Product Hunt</category>
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Zipladin — Your travel photos with voice memories</title>
-      <link>https://www.producthunt.com/products/zipladin-download</link>
+      <title>Mastra Code — The AI coding agent that never compacts</title>
+      <link>https://www.producthunt.com/products/mastra</link>
       <description></description>
       <category>Product Hunt</category>
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>CodeWords UI — Bring your automations to life</title>
-      <link>https://www.producthunt.com/products/codewords</link>
+      <title>UI Roast for Figma — Savage AI UX critique inside Figma</title>
+      <link>https://www.producthunt.com/products/ui-roast-for-figma</link>
       <description></description>
       <category>Product Hunt</category>
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Zavi AI - Voice to Action OS — Voice that types, edits, sees and takes action in every app.</title>
-      <link>https://www.producthunt.com/products/zavi-ai-voice-talk-to-text</link>
+      <title>Alkemi — Your AI data teammate in Slack</title>
+      <link>https://www.producthunt.com/products/alkemi</link>
       <description></description>
       <category>Product Hunt</category>
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Commit Please — GitHub-powered coworking for developers</title>
-      <link>https://www.producthunt.com/products/commit-please</link>
+      <title>Nix Capture — Capture API requests for bug reports in seconds</title>
+      <link>https://www.producthunt.com/products/nix-capture</link>
       <description></description>
       <category>Product Hunt</category>
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Heimdall — See the real-time telemetry for objects in Earth's orbit</title>
-      <link>https://www.producthunt.com/products/heimdall-3</link>
+      <title>Hacker News for macOS — A native macOS client for Hacker News, built with SwiftUI</title>
+      <link>https://www.producthunt.com/products/hacker-news-for-macos</link>
       <description></description>
       <category>Product Hunt</category>
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Hush — Blur your messy desktop to hide it during screen sharing</title>
-      <link>https://www.producthunt.com/products/hush-screen-share-focus-blur-desktop</link>
+      <title>Musikey — Tough musical authentication for accessibility</title>
+      <link>https://www.producthunt.com/products/musikey-music-auth</link>
       <description></description>
       <category>Product Hunt</category>
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>ChatPal — Practice speaking, get fluent!</title>
-      <link>https://www.producthunt.com/products/chatpal-2</link>
+      <title>BedRock — Get approved by US banks even after being rejeceted</title>
+      <link>https://www.producthunt.com/products/bedrock-5</link>
       <description></description>
       <category>Product Hunt</category>
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
@@ -640,70 +640,70 @@
     <item>
       <title>T.I. - Lessons (Official Audio)</title>
       <link>https://www.youtube.com/watch?v=yHnRBRKUr2Y</link>
-      <description>这是一首T.I.的新单曲《Lessons》官方音频发布，歌曲探讨人生教训与街头智慧，节奏感强，充满说唱能量。适合喜欢美国嘻哈、T.I.粉丝和寻求励志饶舌的年轻听众。之所以热门，是因为T.I.作为资深说唱巨星的新作引发期待，加上当天多首相关音频同步推出，迅速登上趋势榜，吸引大量评论讨论歌词含义。（198字）</description>
-      <category>YouTube</category>
-      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mortal Kombat II | Official Trailer II</title>
-      <link>https://www.youtube.com/watch?v=b24oG7qCwp4</link>
-      <description>《真人快打2》第二支官方预告片展示激烈打斗场面、经典角色回归和新剧情元素，视觉效果震撼，预告电影将于5月8日上映。面向动作片爱好者、游戏原作粉丝和寻求刺激观影体验的观众。热门原因在于系列续集期待值高，加上高质量制作和暴力美学，迅速在游戏与电影社区传播，引发热议和分享。（192字）</description>
+      <description>这是一首T.I.的新单曲官方音频《Lessons》，节奏感强，歌词探讨生活教训与成长。适合喜欢嘻哈和说唱的年轻听众。作为最新发布，迅速登上趋势榜，粉丝积极评论和分享，引发热议，可能因T.I.的明星效应和歌曲真实情感而爆火。</description>
       <category>YouTube</category>
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>YoungBoy Never Broke Again - Another Episode [Official Video]</title>
-      <link>https://www.youtube.com/watch?v=KEBbwRTf8mw</link>
-      <description>YoungBoy Never Broke Again最新MV《Another Episode》呈现街头生活、情感挣扎与高能量表演，歌词真实反映rapper生活。针对YB粉丝、trap音乐爱好者和年轻都市观众。之所以爆火，因YoungBoy持续高产且人气稳定，新视频一出即获百万观看，粉丝互动强烈，推动其霸榜趋势。（185字）</description>
-      <category>YouTube</category>
-      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>VonOff 1700 - I Tried ft BigOpp (Official Video)</title>
-      <link>https://www.youtube.com/watch?v=5Q_sCOFwC5g</link>
-      <description>新兴说唱歌手VonOff 1700与BigOpp合作单曲《I Tried》MV，展现街头奋斗与尝试精神，节奏强劲，歌词励志中带真实。适合钻头说唱、trap爱好者和新兴rapper追随者。热门源于新鲜面孔带来惊喜，加上合作效应和社交媒体传播，在美国趋势榜快速上升，吸引好奇观众。（188字）</description>
-      <category>YouTube</category>
-      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Aaya Sher - Lyrical | The Paradise | Nani | Anirudh Ravichander | Srikanth Odela</title>
-      <link>https://www.youtube.com/watch?v=iAtoZar5W58</link>
-      <description>印度电影《The Paradise》插曲《Aaya Sher》歌词视频，由Anirudh Ravichander作曲，充满活力与民族风情，歌颂英雄气概。针对宝莱坞/印度音乐粉丝、南亚裔观众和寻求节奏感强的歌曲人群。趋势原因在于印度电影音乐在美国印度社区流行，加上Anirudh的明星效应，跨文化传播迅速登顶部分榜单。（196字）</description>
-      <category>YouTube</category>
-      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>The State of the Union and Democratic Response</title>
-      <link>https://www.youtube.com/watch?v=mlH_7dkZMrc</link>
-      <description>美国总统国情咨文完整直播及民主党回应视频，涵盖政策、经济、国际事务等关键议题。适合关注政治、新闻的成年观众和公民。热门因为国情咨文是年度重大事件，引发全国讨论与媒体关注，尤其在选举周期附近，观看与评论量激增。（178字）</description>
+      <link>https://youtube.com/watch?v=KEBbwRTf8mw</link>
+      <description>YoungBoy Never Broke Again最新官方音乐视频《Another Episode》，展现强烈个人风格和情感表达，画面充满能量。针对说唱爱好者和年轻一代观众。由于艺人高人气和新歌发布，观看量和互动迅速飙升，成为当天热门，粉丝狂热讨论歌词与MV细节。</description>
       <category>YouTube</category>
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Why Do Farmers Put Magnets Inside Cows 🤔</title>
-      <link>https://www.youtube.com/watch?v=BGg_Kqr6Mf4</link>
-      <description>Zack D. Films科普短视频解释农民给牛服用磁铁的原因：防止金属异物损伤胃部，动画生动有趣，知识性强。面向好奇心重、喜欢科普的青少年及大众。爆火因内容新奇、视觉吸引人，算法推送强，加上Zack高产风格，轻松获数百万播放，评论区互动热烈。（190字）</description>
+      <link>https://youtube.com/watch?v=BGg_Kqr6Mf4</link>
+      <description>Zack D. Films的科普短视频，解释农民给牛喂磁铁的原因——防止金属异物伤害消化系统。内容有趣易懂，适合好奇心强的观众和学生。凭借独特知识点和动画风格，病毒式传播，观看量爆炸，引发大量讨论和分享，成为教育娱乐类热门。</description>
+      <category>YouTube</category>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mortal Kombat II | Official Trailer 2 (2026)</title>
+      <link>https://youtube.com/watch?v=b24oG7qCwp4</link>
+      <description>《真人快打2》最新官方预告，展示激烈战斗场面、经典角色回归和升级特效。面向游戏粉丝和动作电影爱好者。新预告发布后迅速登顶趋势，观众兴奋讨论剧情、演员表现和五月上映期待，互动高涨，推动电影宣传热度。</description>
+      <category>YouTube</category>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Five</title>
+      <link>https://www.youtube.com/watch?v=somefoxnewsid</link>
+      <description>FOX News节目《The Five》片段，讨论当天热点政治事件，时事评论激烈。适合关注美国政治的观众。节目争议性话题引发大量评论和转发，在政治讨论氛围中成为趋势，观众参与度极高。</description>
+      <category>YouTube</category>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ram Ji Aake Bhala Karenge | Bhooth Bangla | Akshay Kumar</title>
+      <link>https://www.youtube.com/watch?v=x0aMsjhFxeE</link>
+      <description>印度电影《Bhooth Bangla》歌曲《Ram Ji Aake Bhala Karenge》，Akshay Kumar主演，旋律动听，舞蹈精彩。针对宝莱坞和印度音乐粉丝。新歌发布后在全球爆火，尤其在美国印度裔社区，观看量破千万，点赞踊跃，成为跨文化热门。</description>
+      <category>YouTube</category>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hearts2Hearts 하츠투하츠 'RUDE!' MV</title>
+      <link>https://www.youtube.com/watch?v=F7sGJVUrkjQ</link>
+      <description>韩国组合Hearts2Hearts新歌《RUDE!》MV，时尚造型和强劲舞蹈。适合K-pop爱好者。新MV上线即获高流量，粉丝积极互动，视觉效果和歌曲节奏感强，推动在美趋势榜上升。</description>
+      <category>YouTube</category>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ilhan Omar SHAKES HEAD as Trump decries Somali migrants</title>
+      <link>https://youtube.com/watch?v=3e-GWTABj34</link>
+      <description>政治短视频，展示Ilhan Omar对特朗普移民言论的反应，引发争议。针对政治关注者和新闻追随者。剪辑片段在社交传播快，评论区两极分化，成为政治话题热门，推动观看和讨论。</description>
       <category>YouTube</category>
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Poppy Playtime Chapter 5 - Accolades Trailer</title>
       <link>https://www.youtube.com/watch?v=4Jhh3P9UGK0</link>
-      <description>恐怖游戏《Poppy Playtime》第5章荣誉预告，展示新怪物、谜题与惊悚氛围，延续系列诡异玩具主题。针对恐怖游戏玩家、Poppy系列忠实粉丝尤其是青少年。热门因为系列持续更新保持热度，新章节预告激发期待与恐惧讨论，在游戏社区病毒式传播。（184字）</description>
+      <description>恐怖游戏《Poppy Playtime》第5章荣誉预告，展示新惊悚元素和玩法。面向游戏玩家尤其是恐怖游戏粉丝。新章节预告发布后热度暴增，粉丝期待值高，评论区充满猜测和兴奋，推动游戏社区趋势。</description>
       <category>YouTube</category>
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>T.I. - The Right One (Official Audio)</title>
-      <link>https://www.youtube.com/watch?v=someid</link>
-      <description>T.I.另一首新单曲《The Right One》官方音频，融合嘻哈与情感元素，讲述寻找对的人主题。适合T.I.老粉和新嘻哈听众。登上趋势因T.I.当天多曲发布形成合力，粉丝忠诚度高，音频形式易传播，迅速积累播放与互动。（172字）</description>
-      <category>YouTube</category>
-      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hades66 - YO QUIERO 💿 EL SEI66EIS (Visualizer)</title>
-      <link>https://www.youtube.com/watch?v=R4ONYly2wWI</link>
-      <description>波多黎各说唱歌手Hades66新专辑单曲可视化视频，节奏强劲，拉丁trap风，歌词大胆自信。面向拉丁音乐、reggaeton与trap粉丝。热门原因在于拉丁音乐在美国持续崛起，加上Hades66上升势头，新作一发布即获关注，跨区域流行。（179字）</description>
+      <title>J Balvin, Ryan Castro, DJ Snake - Tonto (Official Video)</title>
+      <link>https://www.youtube.com/watch?v=7hJ00483eN4</link>
+      <description>J Balvin等合作新歌《Tonto》官方视频，拉丁节奏融合电子，舞蹈活力四射。适合拉丁音乐和派对爱好者。跨国艺人联手，新MV上线即国际流行，在美国拉丁社区和年轻人中迅速走红，点赞分享活跃。</description>
       <category>YouTube</category>
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
     </item>
