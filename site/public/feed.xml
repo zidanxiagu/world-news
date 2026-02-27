@@ -5,7 +5,7 @@
     <link>https://zidanxiagu.github.io/world-news</link>
     <description>多源热门聚合：YouTube、财经科技、Reddit、HN、Product Hunt、Substack、Pinterest、X</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 27 Feb 2026 09:21:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Feb 2026 09:29:47 GMT</lastBuildDate>
     <atom:link href="https://zidanxiagu.github.io/world-news/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Plaid valued at $8B in employee share sale</title>
@@ -225,8 +225,8 @@
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Google API Keys Weren't Secrets. But then Gemini Changed the Rules.</title>
-      <link>https://reddit.com/r/programming/comments/1rfr1jg/google_api_keys_werent_secrets_but_then_gemini/</link>
+      <title>Who believes in vibe-coding?</title>
+      <link>https://reddit.com/r/programming/comments/1rg0jju/who_believes_in_vibecoding/</link>
       <description></description>
       <category>Reddit</category>
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
@@ -323,13 +323,6 @@
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Pak Declares &quot;Open War&quot;, Bombs Kabul, Kandahar After Afghanistan Attack</title>
-      <link>https://reddit.com/r/worldnews/comments/1rfuys8/pak_declares_open_war_bombs_kabul_kandahar_after/</link>
-      <description></description>
-      <category>Reddit</category>
-      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Statement from Dario Amodei on our discussions with the Department of War</title>
       <link>https://www.anthropic.com/news/statement-department-of-war</link>
       <description></description>
@@ -386,13 +379,6 @@
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Layoffs at Block</title>
-      <link>https://twitter.com/jack/status/2027129697092731343</link>
-      <description></description>
-      <category>Hacker News</category>
-      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]</title>
       <link>https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf</link>
       <description></description>
@@ -400,8 +386,8 @@
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Parakeet.cpp – Parakeet ASR inference in pure C++ with Metal GPU acceleration</title>
-      <link>https://github.com/Frikallo/parakeet.cpp</link>
+      <title>Layoffs at Block</title>
+      <link>https://twitter.com/jack/status/2027129697092731343</link>
       <description></description>
       <category>Hacker News</category>
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
@@ -409,6 +395,13 @@
     <item>
       <title>I rendered 1,418 confusables over 230 fonts. Most aren't confusable to the eye</title>
       <link>https://paultendo.github.io/posts/confusable-vision-visual-similarity/</link>
+      <description></description>
+      <category>Hacker News</category>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Parakeet.cpp – Parakeet ASR inference in pure C++ with Metal GPU acceleration</title>
+      <link>https://github.com/Frikallo/parakeet.cpp</link>
       <description></description>
       <category>Hacker News</category>
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
@@ -435,6 +428,13 @@
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>Perplexity Computer — Everything AI can do, Perplexity Computer does for you.</title>
+      <link>https://www.producthunt.com/products/perplexity-ai</link>
+      <description></description>
+      <category>Product Hunt</category>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Hacker News for macOS — A native macOS client for Hacker News, built with SwiftUI</title>
       <link>https://www.producthunt.com/products/hacker-news-for-macos</link>
       <description></description>
@@ -444,6 +444,34 @@
     <item>
       <title>ShowcasePro — Convert photos into elegant designs for marketing + sharing</title>
       <link>https://www.producthunt.com/products/showcasepro</link>
+      <description></description>
+      <category>Product Hunt</category>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Alkemi — Your AI data teammate in Slack</title>
+      <link>https://www.producthunt.com/products/alkemi</link>
+      <description></description>
+      <category>Product Hunt</category>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mastra Code — The AI coding agent that never compacts</title>
+      <link>https://www.producthunt.com/products/mastra</link>
+      <description></description>
+      <category>Product Hunt</category>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Superset — Run an army of Claude Code, Codex, etc. on your machine</title>
+      <link>https://www.producthunt.com/products/superset-5</link>
+      <description></description>
+      <category>Product Hunt</category>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nano Banana 2 — Google's latest AI image generation model</title>
+      <link>https://www.producthunt.com/products/nano-banana-2-11</link>
       <description></description>
       <category>Product Hunt</category>
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
@@ -463,15 +491,8 @@
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Perplexity Computer — Everything AI can do, Perplexity Computer does for you.</title>
-      <link>https://www.producthunt.com/products/perplexity-ai</link>
-      <description></description>
-      <category>Product Hunt</category>
-      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Superset — Run an army of Claude Code, Codex, etc. on your machine</title>
-      <link>https://www.producthunt.com/products/superset-5</link>
+      <title>Nix Capture — Capture API requests for bug reports in seconds</title>
+      <link>https://www.producthunt.com/products/nix-capture</link>
       <description></description>
       <category>Product Hunt</category>
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
@@ -479,20 +500,6 @@
     <item>
       <title>Flarehawk — Monitors security tools, probes threats, + prompts action</title>
       <link>https://www.producthunt.com/products/flarehawk</link>
-      <description></description>
-      <category>Product Hunt</category>
-      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>lemonpod.ai — Your daily life recap, narrated as a personal AI podcast</title>
-      <link>https://www.producthunt.com/products/lemonpod-ai</link>
-      <description></description>
-      <category>Product Hunt</category>
-      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nix Capture — Capture API requests for bug reports in seconds</title>
-      <link>https://www.producthunt.com/products/nix-capture</link>
       <description></description>
       <category>Product Hunt</category>
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
@@ -519,22 +526,8 @@
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Nano Banana 2 — Google's latest AI image generation model</title>
-      <link>https://www.producthunt.com/products/nano-banana-2-11</link>
-      <description></description>
-      <category>Product Hunt</category>
-      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>whatdoiwear.run — outfit engine for the modern runner</title>
-      <link>https://www.producthunt.com/products/whatdoiwear-run</link>
-      <description></description>
-      <category>Product Hunt</category>
-      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mastra Code — The AI coding agent that never compacts</title>
-      <link>https://www.producthunt.com/products/mastra</link>
+      <title>lemonpod.ai — Your daily life recap, narrated as a personal AI podcast</title>
+      <link>https://www.producthunt.com/products/lemonpod-ai</link>
       <description></description>
       <category>Product Hunt</category>
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
