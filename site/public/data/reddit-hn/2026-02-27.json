@@ -5,686 +5,339 @@
       "title": "Stop Expecting Your Best Engineer to Be a Good Mentor",
       "url": "https://reddit.com/r/programming/comments/1rfwpwp/stop_expecting_your_best_engineer_to_be_a_good/",
       "subreddit": "programming",
-      "score": 308,
-      "titleZh": "别期望你最好的工程师成为好导师",
-      "summary": "文章建议公司不要强迫顶尖工程师担任导师角色，因为技术专长不等于教学能力，可能导致效率低下。"
+      "score": 344
     },
     {
       "title": "Google API Keys Weren't Secrets. But then Gemini Changed the Rules.",
       "url": "https://reddit.com/r/programming/comments/1rfr1jg/google_api_keys_werent_secrets_but_then_gemini/",
       "subreddit": "programming",
-      "score": 168,
-      "titleZh": "谷歌 API 密钥原本不是秘密，但 Gemini 改变了规则",
-      "summary": "谷歌更新政策，将 API 密钥视为敏感信息，要求开发者加强保护，以防滥用。"
+      "score": 181
     },
     {
       "title": "Anthropic rejects Pentagon's requests in AI safeguards dispute, CEO says",
       "url": "https://reddit.com/r/technology/comments/1rfpkww/anthropic_rejects_pentagons_requests_in_ai/",
       "subreddit": "technology",
-      "score": 7652,
-      "titleZh": "Anthropic 拒绝五角大楼在 AI 安全争议中的要求，CEO 表示",
-      "summary": "Anthropic CEO 公开拒绝五角大楼对 AI 模型的军事使用要求，强调伦理底线。"
+      "score": 7805
     },
     {
       "title": "Netflix Backs Out of Warner Bros. Bidding, Paramount Set to Win",
       "url": "https://reddit.com/r/technology/comments/1rfp9a8/netflix_backs_out_of_warner_bros_bidding/",
       "subreddit": "technology",
-      "score": 5862,
-      "titleZh": "Netflix 退出华纳兄弟竞购，派拉蒙即将获胜",
-      "summary": "Netflix 放弃收购华纳兄弟，导致派拉蒙成为领先竞标者，媒体行业格局或将改变。"
+      "score": 5917
     },
     {
       "title": "Anthropic rejects Pentagon’s AI demands",
       "url": "https://reddit.com/r/technology/comments/1rftb00/anthropic_rejects_pentagons_ai_demands/",
       "subreddit": "technology",
-      "score": 2004,
-      "titleZh": "Anthropic 拒绝五角大楼的 AI 要求",
-      "summary": "Anthropic 公司拒绝五角大楼对 AI 技术的某些需求，坚持独立决策。"
+      "score": 2064
     },
     {
       "title": "How to get a Full Stack Developer to build your Production ready Application for completely FREE.",
       "url": "https://reddit.com/r/webdev/comments/1rfycn3/how_to_get_a_full_stack_developer_to_build_your/",
       "subreddit": "webdev",
-      "score": 98,
-      "titleZh": "如何让全栈开发者免费为你构建生产就绪应用",
-      "summary": "分享方法通过开源社区或激励机制，让开发者免费贡献代码构建应用。"
+      "score": 108
     },
     {
       "title": "[D] PhD in AI but no job — why not build your own?",
       "url": "https://reddit.com/r/MachineLearning/comments/1rg0glz/d_phd_in_ai_but_no_job_why_not_build_your_own/",
       "subreddit": "machinelearning",
-      "score": 11,
-      "titleZh": "[D] AI 博士却无工作——为什么不自己创业？",
-      "summary": "建议 AI 博士毕业生考虑创业，利用专业知识开发产品而非求职。"
+      "score": 24
     },
     {
       "title": "Anthropic rejects latest Pentagon offer: ‘We cannot in good conscience accede to their request’",
       "url": "https://reddit.com/r/artificial/comments/1rfsjv7/anthropic_rejects_latest_pentagon_offer_we_cannot/",
       "subreddit": "artificial",
-      "score": 371,
-      "titleZh": "Anthropic 拒绝五角大楼最新提议：‘我们无法良心上同意他们的要求’",
-      "summary": "Anthropic 坚定拒绝五角大楼的 AI 合作提议，优先考虑道德责任。"
+      "score": 389
     },
     {
       "title": "Invisible characters hidden in text can trick AI agents into following secret instructions — we tested 5 models across 8,000+ cases",
       "url": "https://reddit.com/r/artificial/comments/1rfjew5/invisible_characters_hidden_in_text_can_trick_ai/",
       "subreddit": "artificial",
-      "score": 93,
-      "titleZh": "隐藏在文本中的不可见字符可诱骗 AI 代理执行秘密指令——我们在 8000+ 案例中测试了 5 个模型",
-      "summary": "研究发现不可见字符可操纵 AI 模型执行隐藏指令，揭示安全漏洞。"
+      "score": 97
     },
     {
       "title": "Burger King will use AI to check if employees say ‘please’ and ‘thank you’.  AI chatbot ‘Patty’ is going to live inside employees’ headsets.",
       "url": "https://reddit.com/r/artificial/comments/1rffcup/burger_king_will_use_ai_to_check_if_employees_say/",
       "subreddit": "artificial",
-      "score": 129,
-      "titleZh": "汉堡王将使用 AI 检查员工是否说‘请’和‘谢谢’。AI 聊天机器人‘Patty’将生活在员工耳机中。",
-      "summary": "汉堡王引入 AI 系统监控员工礼貌用语，以提升客户服务质量。"
+      "score": 128
     },
     {
-      "title": "Netflix declines to raise offer for Warner Bros",
-      "url": "https://reddit.com/r/wallstreetbets/comments/1rfpgdw/netflix_declines_to_raise_offer_for_warner_bros/",
+      "title": "Netflix Drops Warner Bros. Bid",
+      "url": "https://reddit.com/r/wallstreetbets/comments/1rfutxd/netflix_drops_warner_bros_bid/",
       "subreddit": "wallstreetbets",
-      "score": 6264,
-      "titleZh": "Netflix 拒绝提高对华纳兄弟的报价",
-      "summary": "Netflix 不愿提高收购华纳兄弟的出价，导致交易可能失败。"
+      "score": 2973
     },
     {
       "title": "Neanderthal Men and Human Women Were Most Likely to Hook Up, Study Finds. Geneticists have found an interesting pattern in how early humans and Neanderthals interbred—and it wasn't balanced.",
       "url": "https://reddit.com/r/science/comments/1rfliqo/neanderthal_men_and_human_women_were_most_likely/",
       "subreddit": "science",
-      "score": 5370,
-      "titleZh": "研究发现尼安德特人男性与人类女性最可能结合。遗传学家发现了早期人类与尼安德特人杂交的有趣模式——并非平衡。",
-      "summary": "遗传研究显示尼安德特人与现代人类杂交主要为男性尼安德特人与女性人类，揭示进化历史。"
+      "score": 5493
     },
     {
       "title": "Medical Cannabis Products Provide Sustained Improvements in Patients With Chronic Pain, Anxiety, and Depression",
       "url": "https://reddit.com/r/science/comments/1rft22w/medical_cannabis_products_provide_sustained/",
       "subreddit": "science",
-      "score": 1480,
-      "titleZh": "医用大麻产品为慢性疼痛、焦虑和抑郁患者提供持续改善",
-      "summary": "研究证实医用大麻可长期缓解慢性疼痛和心理健康问题。"
+      "score": 1528
     },
     {
       "title": "Study finds ChatGPT Health did not recommend a hospital visit when medically necessary in more than half of cases | ChatGPT Health performance in a structured test of triage recommendations",
       "url": "https://reddit.com/r/science/comments/1rfp9ol/study_finds_chatgpt_health_did_not_recommend_a/",
       "subreddit": "science",
-      "score": 1859,
-      "titleZh": "研究发现 ChatGPT Health 在超过一半的医疗必要案例中未推荐就医 | ChatGPT Health 在结构化分诊推荐测试中的表现",
-      "summary": "ChatGPT Health 在医疗咨询中表现不佳，经常忽略必要就医建议，引发可靠性担忧。"
+      "score": 1888
     },
     {
       "title": "China Deploys Thousands of Fishing Boats off Japan’s Coast, and They Are Not There to Fish",
       "url": "https://reddit.com/r/worldnews/comments/1rftez1/china_deploys_thousands_of_fishing_boats_off/",
       "subreddit": "worldnews",
-      "score": 6875,
-      "titleZh": "中国在日本海岸部署数千渔船，它们不是来捕鱼的",
-      "summary": "中国渔船大规模聚集日本近海，涉嫌领土争端或资源掠夺，而非单纯渔业活动。"
+      "score": 7269
     }
   ],
   "hn": [
     {
       "title": "Statement from Dario Amodei on our discussions with the Department of War",
       "url": "https://www.anthropic.com/news/statement-department-of-war",
-      "score": 1715,
-      "id": "47173121",
-      "titleZh": "Dario Amodei 关于我们与战争部讨论的声明",
-      "summary": "Anthropic CEO Dario Amodei 发布声明，讨论与国防部的 AI 合作谈判，强调伦理考量。"
+      "score": 1766,
+      "id": "47173121"
     },
     {
       "title": "The Hunt for Dark Breakfast",
       "url": "https://moultano.wordpress.com/2026/02/22/the-hunt-for-dark-breakfast/",
-      "score": 179,
-      "id": "47176257",
-      "titleZh": "寻找黑暗早餐",
-      "summary": "文章探讨‘黑暗早餐’概念，可能指独特或非传统早餐习惯的幽默探讨。"
+      "score": 194,
+      "id": "47176257"
     },
     {
       "title": "The normalization of corruption in organizations (2003) [pdf]",
       "url": "https://gwern.net/doc/sociology/2003-ashforth.pdf",
-      "score": 12,
-      "id": "47177186",
-      "titleZh": "组织中腐败的常态化 (2003) [pdf]",
-      "summary": "2003 年论文分析组织内部腐败如何逐渐被接受，并成为文化一部分。"
+      "score": 26,
+      "id": "47177186"
     },
     {
       "title": "Julia: Performance Tips",
       "url": "https://docs.julialang.org/en/v1/manual/performance-tips/",
-      "score": 30,
-      "id": "47123633",
-      "titleZh": "Julia: 性能提示",
-      "summary": "Julia 语言性能优化指南，帮助开发者编写高效代码。"
+      "score": 34,
+      "id": "47123633"
     },
     {
       "title": "What Claude Code chooses",
       "url": "https://amplifying.ai/research/claude-code-picks",
-      "score": 388,
-      "id": "47169757",
-      "titleZh": "Claude Code 选择什么",
-      "summary": "讨论 Anthropic 的 Claude Code 模型在代码生成中的偏好和决策逻辑。"
+      "score": 397,
+      "id": "47169757"
+    },
+    {
+      "title": "Ubicloud (YC W24): Software Engineer – $95-$250K in Turkey, Netherlands, CA",
+      "url": "https://www.ycombinator.com/companies/ubicloud/jobs/j4bntEJ-software-engineer",
+      "score": 1,
+      "id": "47178176"
     },
     {
       "title": "80386 Protection",
       "url": "https://nand2mario.github.io/posts/2026/80386_protection/",
-      "score": 44,
-      "id": "47138698",
-      "titleZh": "80386 保护",
-      "summary": "解释 Intel 80386 处理器保护模式的技术细节和历史意义。"
+      "score": 51,
+      "id": "47138698"
     },
     {
       "title": "Layoffs at Block",
       "url": "https://twitter.com/jack/status/2027129697092731343",
-      "score": 682,
-      "id": "47172119",
-      "titleZh": "Block 裁员",
-      "summary": "Block 公司宣布大规模裁员，以适应 AI 驱动的业务变化。"
+      "score": 695,
+      "id": "47172119"
     },
     {
       "title": "AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]",
       "url": "https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf",
-      "score": 351,
-      "id": "47167763",
-      "titleZh": "AirSnitch: 揭秘并打破 Wi-Fi 网络中的客户端隔离 [pdf]",
-      "summary": "研究论文介绍工具，用于检测和绕过 Wi-Fi 客户端隔离的安全机制。"
-    },
-    {
-      "title": "What does \" 2>&1 \" mean?",
-      "url": "https://stackoverflow.com/questions/818255/what-does-21-mean",
-      "score": 261,
-      "id": "47171233",
-      "titleZh": "'2>&1' 是什么意思？",
-      "summary": "解释 shell 命令中重定向标准错误到标准输出的语法及其用途。"
+      "score": 352,
+      "id": "47167763"
     },
     {
       "title": "Parakeet.cpp – Parakeet ASR inference in pure C++ with Metal GPU acceleration",
       "url": "https://github.com/Frikallo/parakeet.cpp",
-      "score": 41,
-      "id": "47176239",
-      "titleZh": "Parakeet.cpp – 使用 Metal GPU 加速的纯 C++ Parakeet ASR 推理",
-      "summary": "开源项目 Parakeet.cpp 实现高效的语音识别推理，支持 GPU 加速。"
+      "score": 47,
+      "id": "47176239"
+    },
+    {
+      "title": "What does \" 2>&1 \" mean?",
+      "url": "https://stackoverflow.com/questions/818255/what-does-21-mean",
+      "score": 268,
+      "id": "47171233"
     },
     {
       "title": "I rendered 1,418 confusables over 230 fonts. Most aren't confusable to the eye",
       "url": "https://paultendo.github.io/posts/confusable-vision-visual-similarity/",
-      "score": 47,
-      "id": "47150674",
-      "titleZh": "我渲染了 1418 个混淆字符在 230 种字体上。大多数在眼中并不混淆",
-      "summary": "项目测试 Unicode 相似字符在不同字体的视觉区分度，结果显示多数易辨认。"
+      "score": 49,
+      "id": "47150674"
     },
     {
       "title": "Launch HN: Cardboard (YC W26) – Agentic video editor",
       "url": "https://www.usecardboard.com/",
-      "score": 111,
-      "id": "47170174",
-      "titleZh": "Launch HN: Cardboard (YC W26) – 代理视频编辑器",
-      "summary": "Cardboard 介绍其 AI 驱动视频编辑工具，支持自动化编辑流程。"
+      "score": 112,
+      "id": "47170174"
     },
     {
       "title": "An Introduction to the Codex Seraphinianus, the Strangest Book Ever Published",
       "url": "https://www.openculture.com/2026/02/an-introduction-to-the-codex-seraphinianus.html",
-      "score": 63,
-      "id": "47124454",
-      "titleZh": "Codex Seraphinianus 导论，有史以来最奇怪的书",
-      "summary": "介绍神秘书籍 Codex Seraphinianus 的内容和文化影响。"
-    },
-    {
-      "title": "Dear Time Lords: Freeze Computers in 1993",
-      "url": "https://graydon2.dreamwidth.org/322461.html",
-      "score": 72,
-      "id": "47176581",
-      "titleZh": "亲爱的时间领主：在 1993 年冻结计算机",
-      "summary": "幽默文章建议在 1993 年停止计算机发展，以避免现代问题。"
+      "score": 66,
+      "id": "47124454"
     },
     {
       "title": "OsmAnd's Faster Offline Navigation (2025)",
       "url": "https://osmand.net/blog/fast-routing/",
-      "score": 153,
-      "id": "47170157",
-      "titleZh": "OsmAnd 的更快离线导航 (2025)",
-      "summary": "OsmAnd 地图应用更新更快离线导航功能，提升用户体验。"
+      "score": 157,
+      "id": "47170157"
     }
   ],
   "producthunt": [
     {
-      "title": "Organic Intelligence Protocol (OIP) — ​$5.2B Sovereign AI Framework Recognized by OpenAI",
-      "url": "https://www.producthunt.com/products/reddit",
-      "votesCount": 0,
-      "titleZh": "有机智能协议 (OIP) — 52 亿美元主权 AI 框架，被 OpenAI 认可",
-      "summary": "OIP 是一个价值 52 亿美元的主权 AI 框架，已获 OpenAI 认可，支持国家级 AI 基础设施建设。"
-    },
-    {
-      "title": "lemonpod.ai — Your daily life recap, narrated as a personal AI podcast",
-      "url": "https://www.producthunt.com/products/lemonpod-ai",
-      "votesCount": 0,
-      "titleZh": "lemonpod.ai — 你的日常生活回顾，以个人 AI 播客形式叙述",
-      "summary": "lemonpod.ai 将日常活动转化为个性化 AI 播客，帮助用户回顾和反思生活。"
-    },
-    {
       "title": "Launch In Public — Stop building in silence. Launch in public.",
       "url": "https://www.producthunt.com/products/launch-in-public",
-      "votesCount": 0,
-      "titleZh": "Launch In Public — 停止默默构建。公开推出。",
-      "summary": "鼓励开发者公开分享产品开发过程，以获得反馈和社区支持。"
-    },
-    {
-      "title": "What's Up With That? — Read any article like an expert with one click",
-      "url": "https://www.producthunt.com/products/what-s-up-with-that",
-      "votesCount": 0,
-      "titleZh": "What's Up With That? — 一键像专家一样阅读任何文章",
-      "summary": "工具允许用户一键获取文章专业分析和见解，提升阅读效率。"
-    },
-    {
-      "title": "Superset - IDE for the AI Agent Era — Run an army of Claude Code, Codex, etc. on your machine",
-      "url": "https://www.producthunt.com/products/superset-5",
-      "votesCount": 0,
-      "titleZh": "Superset - AI 代理时代的 IDE — 在你的机器上运行 Claude Code、Codex 等军队",
-      "summary": "Superset 是一个 IDE，支持运行多个 AI 代理如 Claude Code，用于本地开发。"
-    },
-    {
-      "title": "Perplexity Computer — Everything AI can do, Perplexity Computer does for you.",
-      "url": "https://www.producthunt.com/products/perplexity-ai",
-      "votesCount": 0,
-      "titleZh": "Perplexity Computer — AI 能做的所有事，Perplexity Computer 为你做。",
-      "summary": "Perplexity Computer 自动化 AI 任务，提供全面智能助理服务。"
-    },
-    {
-      "title": "Nix Capture — Capture API requests for bug reports in seconds",
-      "url": "https://www.producthunt.com/products/nix-capture",
-      "votesCount": 0,
-      "titleZh": "Nix Capture — 在几秒内捕获 API 请求用于 bug 报告",
-      "summary": "Nix Capture 快速记录 API 请求，帮助开发者生成 bug 报告。"
-    },
-    {
-      "title": "Alkemi — Your AI data teammate in Slack",
-      "url": "https://www.producthunt.com/products/alkemi",
-      "votesCount": 0,
-      "titleZh": "Alkemi — 你在 Slack 中的 AI 数据队友",
-      "summary": "Alkemi 集成 Slack，提供 AI 驱动数据分析和协作支持。"
-    },
-    {
-      "title": "UI Roast for Figma — Savage AI UX critique inside Figma",
-      "url": "https://www.producthunt.com/products/ui-roast-for-figma",
-      "votesCount": 0,
-      "titleZh": "UI Roast for Figma — Figma 内野蛮的 AI UX 批判",
-      "summary": "工具在 Figma 中使用 AI 提供尖锐 UX 反馈，帮助优化设计。"
-    },
-    {
-      "title": "HelixDB — An open-source OLTP graph-vector database built in Rust.",
-      "url": "https://www.producthunt.com/products/helixdb",
-      "votesCount": 0,
-      "titleZh": "HelixDB — 用 Rust 构建的开源 OLTP 图向量数据库。",
-      "summary": "HelixDB 是一个高效的开源数据库，支持图和向量数据处理。"
-    },
-    {
-      "title": "BedRock — Get approved by US banks even after being rejeceted",
-      "url": "https://www.producthunt.com/products/bedrock-5",
-      "votesCount": 0,
-      "titleZh": "BedRock — 即使被拒绝也能获得美国银行批准",
-      "summary": "BedRock 帮助用户绕过银行拒绝，获得金融服务批准。"
-    },
-    {
-      "title": "Hacker News for macOS — A native macOS client for Hacker News, built with SwiftUI",
-      "url": "https://www.producthunt.com/products/hacker-news-for-macos",
-      "votesCount": 0,
-      "titleZh": "Hacker News for macOS — 用 SwiftUI 构建的原生 macOS Hacker News 客户端",
-      "summary": "macOS 应用提供 Hacker News 的原生浏览体验。"
-    },
-    {
-      "title": "Mastra Code — The AI coding agent that never compacts",
-      "url": "https://www.producthunt.com/products/mastra",
-      "votesCount": 0,
-      "titleZh": "Mastra Code — 永不压缩的 AI 编码代理",
-      "summary": "Mastra Code 是一个可靠的 AI 编码助手，确保代码质量不妥协。"
+      "votesCount": 0
     },
     {
       "title": "mvntSTUDIO — Turn any music into dance",
       "url": "https://www.producthunt.com/products/mvntstudio",
-      "votesCount": 0,
-      "titleZh": "mvntSTUDIO — 将任何音乐转化为舞蹈",
-      "summary": "mvntSTUDIO 使用 AI 将音乐转换为舞蹈动作和视频。"
+      "votesCount": 0
+    },
+    {
+      "title": "Mastra Code — The AI coding agent that never compacts",
+      "url": "https://www.producthunt.com/products/mastra",
+      "votesCount": 0
+    },
+    {
+      "title": "Alkemi — Your AI data teammate in Slack",
+      "url": "https://www.producthunt.com/products/alkemi",
+      "votesCount": 0
+    },
+    {
+      "title": "What's Up With That? — Read any article like an expert with one click",
+      "url": "https://www.producthunt.com/products/what-s-up-with-that",
+      "votesCount": 0
+    },
+    {
+      "title": "Hacker News for macOS — A native macOS client for Hacker News, built with SwiftUI",
+      "url": "https://www.producthunt.com/products/hacker-news-for-macos",
+      "votesCount": 0
     },
     {
       "title": "Flarehawk — Monitors security tools, probes threats, + prompts action",
       "url": "https://www.producthunt.com/products/flarehawk",
-      "votesCount": 0,
-      "titleZh": "Flarehawk — 监控安全工具，探测威胁，并提示行动",
-      "summary": "Flarehawk 提供实时安全监控和威胁响应建议。"
+      "votesCount": 0
+    },
+    {
+      "title": "BedRock — Get approved by US banks even after being rejeceted",
+      "url": "https://www.producthunt.com/products/bedrock-5",
+      "votesCount": 0
+    },
+    {
+      "title": "HelixDB — An open-source OLTP graph-vector database built in Rust.",
+      "url": "https://www.producthunt.com/products/helixdb",
+      "votesCount": 0
+    },
+    {
+      "title": "Nix Capture — Capture API requests for bug reports in seconds",
+      "url": "https://www.producthunt.com/products/nix-capture",
+      "votesCount": 0
+    },
+    {
+      "title": "lemonpod.ai — Your daily life recap, narrated as a personal AI podcast",
+      "url": "https://www.producthunt.com/products/lemonpod-ai",
+      "votesCount": 0
+    },
+    {
+      "title": "Superset - IDE for the AI Agent Era — Run an army of Claude Code, Codex, etc. on your machine",
+      "url": "https://www.producthunt.com/products/superset-5",
+      "votesCount": 0
+    },
+    {
+      "title": "UI Roast for Figma — Savage AI UX critique inside Figma",
+      "url": "https://www.producthunt.com/products/ui-roast-for-figma",
+      "votesCount": 0
+    },
+    {
+      "title": "Musikey — Tough musical authentication for accessibility",
+      "url": "https://www.producthunt.com/products/musikey-music-auth",
+      "votesCount": 0
+    },
+    {
+      "title": "Perplexity Computer — Everything AI can do, Perplexity Computer does for you.",
+      "url": "https://www.producthunt.com/products/perplexity-ai",
+      "votesCount": 0
     }
   ],
   "substack": [
     {
       "title": "The Pulse: Cloudflare rewrites Next.js as AI rewrites commercial open source",
       "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-164-nextjs",
-      "source": "newsletter.pragmaticengineer.com",
-      "titleZh": "The Pulse: Cloudflare 重写 Next.js，因为 AI 重写商业开源",
-      "summary": "Cloudflare 更新 Next.js 框架，同时 AI 技术正在改变开源软件的商业模式。"
+      "source": "newsletter.pragmaticengineer.com"
     },
     {
       "title": "Mitchell Hashimoto’s new way of writing code",
       "url": "https://newsletter.pragmaticengineer.com/p/mitchell-hashimoto",
-      "source": "newsletter.pragmaticengineer.com",
-      "titleZh": "Mitchell Hashimoto 的新编码方式",
-      "summary": "HashiCorp 创始人介绍使用 AI 辅助的新编程方法，提高开发效率。"
+      "source": "newsletter.pragmaticengineer.com"
     },
     {
       "title": "The Future of Software Engineering with AI: Six Predictions",
       "url": "https://newsletter.pragmaticengineer.com/p/the-future-of-software-engineering-with-ai",
-      "source": "newsletter.pragmaticengineer.com",
-      "titleZh": "AI 下的软件工程未来：六个预测",
-      "summary": "预测 AI 将自动化代码生成、测试和维护，转变软件工程实践。"
+      "source": "newsletter.pragmaticengineer.com"
     },
     {
       "title": "The Pulse #162: Even fewer middle managers and more flexible teams?",
       "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-162-even-fewer-middle-managers",
-      "source": "newsletter.pragmaticengineer.com",
-      "titleZh": "The Pulse #162: 甚至更少的中层经理和更灵活的团队？",
-      "summary": "讨论 AI 时代公司结构变化，减少中层管理并提升团队灵活性。"
+      "source": "newsletter.pragmaticengineer.com"
     },
     {
       "title": "How Codex is built",
       "url": "https://newsletter.pragmaticengineer.com/p/how-codex-is-built",
-      "source": "newsletter.pragmaticengineer.com",
-      "titleZh": "Codex 如何构建",
-      "summary": "详细解释 Codex AI 模型的构建过程和技术栈。"
+      "source": "newsletter.pragmaticengineer.com"
     },
     {
       "title": "Strong Consistency In Databases: Promises and Costs",
       "url": "https://blog.bytebytego.com/p/strong-consistency-in-databases-promises",
-      "source": "blog.bytebytego.com",
-      "titleZh": "数据库中的强一致性：承诺和成本",
-      "summary": "分析数据库强一致性模型的优势和潜在性能成本。"
+      "source": "blog.bytebytego.com"
     },
     {
       "title": "The Algorithm That Powers Your X (Twitter) Post",
       "url": "https://blog.bytebytego.com/p/the-algorithm-that-powers-your-x",
-      "source": "blog.bytebytego.com",
-      "titleZh": "驱动你 X (Twitter) 帖子的算法",
-      "summary": "揭示 X 平台算法如何决定帖子可见度和推荐逻辑。"
+      "source": "blog.bytebytego.com"
     },
     {
       "title": "How Uber Reinvented Access Control for Microservices",
       "url": "https://blog.bytebytego.com/p/how-uber-reinvented-access-control",
-      "source": "blog.bytebytego.com",
-      "titleZh": "Uber 如何为微服务重塑访问控制",
-      "summary": "Uber 分享微服务架构中访问控制系统的创新设计。"
+      "source": "blog.bytebytego.com"
     },
     {
       "title": "How Large Language Models Learn",
       "url": "https://blog.bytebytego.com/p/how-large-language-models-learn",
-      "source": "blog.bytebytego.com",
-      "titleZh": "大型语言模型如何学习",
-      "summary": "探讨 LLM 的训练机制和学习过程。"
+      "source": "blog.bytebytego.com"
     },
     {
       "title": "EP203: RabbitMQ vs Kafka vs Pulsar",
       "url": "https://blog.bytebytego.com/p/ep203-rabbitmq-vs-kafka-vs-pulsar",
-      "source": "blog.bytebytego.com",
-      "titleZh": "EP203: RabbitMQ vs Kafka vs Pulsar",
-      "summary": "比较三种消息队列系统的优缺点和适用场景。"
+      "source": "blog.bytebytego.com"
     },
     {
       "title": "AI is critical for humanity’s survival: Cisco president on the AI revolution | Jeetu Patel",
       "url": "https://www.lennysnewsletter.com/p/ai-is-critical-for-humanitys-survival",
-      "source": "www.lennysnewsletter.com",
-      "titleZh": "AI 对人类生存至关重要：思科总裁谈 AI 革命 | Jeetu Patel",
-      "summary": "思科总裁强调 AI 在应对全球挑战中的关键作用。"
+      "source": "www.lennysnewsletter.com"
     },
     {
       "title": "5 OpenClaw agents run my home, finances, and code | Jesse Genet",
       "url": "https://www.lennysnewsletter.com/p/5-openclaw-agents-run-my-home-finances",
-      "source": "www.lennysnewsletter.com",
-      "titleZh": "5 个 OpenClaw 代理运行我的家、财务和代码 | Jesse Genet",
-      "summary": "Jesse Genet 分享使用 AI 代理自动化家庭管理和财务。"
+      "source": "www.lennysnewsletter.com"
     },
     {
       "title": "How to use AI for your next job interview",
       "url": "https://www.lennysnewsletter.com/p/how-to-use-ai-in-your-next-job-interview",
-      "source": "www.lennysnewsletter.com",
-      "titleZh": "如何使用 AI 进行下一次求职面试",
-      "summary": "指导利用 AI 工具准备和优化面试表现。"
+      "source": "www.lennysnewsletter.com"
     },
     {
       "title": "How to use AI for your next job interview",
       "url": "https://www.lennysnewsletter.com/p/how-to-use-ai-for-your-next-job-interview",
-      "source": "www.lennysnewsletter.com",
-      "titleZh": "如何使用 AI 进行下一次求职面试",
-      "summary": "指导利用 AI 工具准备和优化面试表现。"
+      "source": "www.lennysnewsletter.com"
     },
     {
       "title": "🎙️ This week on How I AI: How Notion’s design team uses Claude Code to design",
       "url": "https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-how-notions",
-      "source": "www.lennysnewsletter.com",
-      "titleZh": "🎙️ 本周 How I AI: Notion 设计团队如何使用 Claude Code 进行设计",
-      "summary": "Notion 团队分享 Claude Code 在设计流程中的应用。"
+      "source": "www.lennysnewsletter.com"
     }
   ],
-  "pinterest": [
-    {
-      "title": "Fairway Fashion: Exploring the Latest Golf Trends for 2026",
-      "url": "https://www.pinterest.com/pin/107523509844430588",
-      "titleZh": "高尔夫时尚：探索 2026 最新高尔夫趋势",
-      "summary": "这张 Pin 展示了女性高尔夫球手粉红和红色服装灵感，帮助在球场上保持时尚。",
-      "source": "Pinterest"
-    },
-    {
-      "title": "Dusty Blue Wedding Inspiration: Trends and Ideas for 2026",
-      "url": "https://www.pinterest.com/pin/648518415137377311",
-      "titleZh": "尘蓝色婚礼灵感：2026 趋势和想法",
-      "summary": "探索尘蓝色与粉红结合的婚礼主题，包括冬季和玫瑰粉蓝配色方案。",
-      "source": "Pinterest"
-    },
-    {
-      "title": "Fashion Trend Forecasting 2026/2027/2028 - Modacable",
-      "url": "https://www.pinterest.com/pin/143411569374028084",
-      "titleZh": "时尚趋势预测 2026/2027/2028 - Modacable",
-      "summary": "提供女装、泳装、童装等多个季节的时尚趋势预测，帮助设计师规划。",
-      "source": "Pinterest"
-    },
-    {
-      "title": "Classic and Lovely Plaid Home Decorating Trend for 2026 - Pretty Designs",
-      "url": "https://www.pinterest.com/pin/79938962109735244",
-      "titleZh": "2026 经典可爱格子家居装饰趋势 - Pretty Designs",
-      "summary": "格子图案应用于家居装饰，带来新鲜乡村感，创意且愉悦。",
-      "source": "Pinterest"
-    },
-    {
-      "title": "Soap Nails Are The New Low-Maintenance Manicure of 2026 - Bangstyle",
-      "url": "https://www.pinterest.com/pin/193162271512264498",
-      "titleZh": "肥皂指甲是 2026 新低维护美甲 - Bangstyle",
-      "summary": "介绍肥皂指甲趋势，作为低维护的美甲选择，类似于肥皂眉毛。",
-      "source": "Pinterest"
-    },
-    {
-      "title": "Womenswear fashion trends forecast",
-      "url": "https://www.pinterest.com/pin/374009944063265035",
-      "titleZh": "女装时尚趋势预测",
-      "summary": "涵盖 2026/27 秋冬等季节的女装趋势预测，支持时尚收藏生产。",
-      "source": "Pinterest"
-    },
-    {
-      "title": "Girls Weekend Getaway You Don't Have to Plan",
-      "url": "https://www.pinterest.com/pin/162129655330996762",
-      "titleZh": "无需规划的女生周末度假",
-      "summary": "为女性设计的周末逃脱活动，强调乐趣、友谊和全包规划。",
-      "source": "Pinterest"
-    },
-    {
-      "title": "Best Guided Family Vacations Around the World",
-      "url": "https://www.pinterest.com/pin/162129655330997317",
-      "titleZh": "全球最佳导游家庭度假",
-      "summary": "提供适合所有年龄的家庭旅行，平衡冒险、舒适和学习。",
-      "source": "Pinterest"
-    },
-    {
-      "title": "2026 Spring Decor Ideas and Design Trends You'll Love – jane at home",
-      "url": "https://www.pinterest.com/pin/232920611964980064",
-      "titleZh": "2026 春季装饰想法和设计趋势，你会喜欢 – jane at home",
-      "summary": "收集春季家居装饰灵感和设计板，适用于各种房间和预算。",
-      "source": "Pinterest"
-    },
-    {
-      "title": "Best Travel Deals & Top 2026 Destinations to Book Now",
-      "url": "https://www.pinterest.com/pin/198580664815086763",
-      "titleZh": "最佳旅行优惠及 2026 顶级目的地，现在预订",
-      "summary": "解锁 2026 旅行优惠、省钱技巧和热门目的地建议。",
-      "source": "Pinterest"
-    },
-    {
-      "title": "Everything's Better with Butter Print",
-      "url": "https://www.pinterest.com/pin/872924340300803899",
-      "titleZh": "一切都更好与黄油打印",
-      "summary": "艺术作品受食物组合启发，设计用于厨房装饰，提升烹饪氛围。",
-      "source": "Pinterest"
-    },
-    {
-      "title": "Beautiful Breakfast Nooks and Kitchen Dining Ideas for 2026 – jane at home",
-      "url": "https://www.pinterest.com/pin/232920611966681396",
-      "titleZh": "2026 美丽早餐角和厨房用餐想法 – jane at home",
-      "summary": "展示设计师灵感的早餐角，包括长椅、照明和角落用餐设计。",
-      "source": "Pinterest"
-    },
-    {
-      "title": "Claire Chiffon Top | Pixelates Boutique",
-      "url": "https://www.pinterest.com/pin/610589662022720668",
-      "titleZh": "Claire 雪纺上衣 | Pixelates Boutique",
-      "summary": "女性服装在线购物，展示 2026 时尚趋势和造型灵感。",
-      "source": "Pinterest"
-    },
-    {
-      "title": "Elementary Art Room",
-      "url": "https://www.pinterest.com/pin/68747492950",
-      "titleZh": "小学艺术室",
-      "summary": "艺术室设置，包括素描本组织和学习目标墙，促进创意学习。",
-      "source": "Pinterest"
-    },
-    {
-      "title": "Buddhist Circuit Tourist Train - IRCTC OFFICIAL WEBSITE",
-      "url": "https://www.pinterest.com/pin/840273243019462129",
-      "titleZh": "佛教线路旅游列车 - IRCTC 官方网站",
-      "summary": "探索佛教线路的旅游列车，提供文化沉浸和便利旅行。",
-      "source": "Pinterest"
-    }
-  ],
-  "x": [
-    {
-      "title": "🧵 THREAD: AI & MARKETS UPDATE — Feb 26, 2026",
-      "url": "https://x.com/Marvssaintj/status/2027106187833974948",
-      "titleZh": "🧵 线程：AI 与市场更新 — 2026 年 2 月 26 日",
-      "summary": "线程总结了 2026 年 2 月 26 日 AI 和市场重大事件，对 AI 乐观者是个大日子。",
-      "source": "X (Twitter)",
-      "author": "@Marvssaintj",
-      "likes": 0,
-      "retweets": 0
-    },
-    {
-      "title": "Gm, here's your AI & Tech update for Feb 27, 2026:",
-      "url": "https://x.com/ohdearitsmandy/status/2027256490432589847",
-      "titleZh": "早安，这是 2026 年 2 月 27 日的 AI 与科技更新：",
-      "summary": "每日更新包括 Anthropic 与五角大楼对峙、企业代理发布和基础设施变化，讨论 AI 伦理与国家安全界限。",
-      "source": "X (Twitter)",
-      "author": "@ohdearitsmandy",
-      "likes": 1,
-      "retweets": 0
-    },
-    {
-      "title": "Check out the latest article in my newsletter: Latest AI, Blockchain, Crypto Trends, Insights and News Headlines for February 26, 2026 - 508 Articles!",
-      "url": "https://x.com/lewisfarrell/status/2027035692812169700",
-      "titleZh": "查看我通讯中的最新文章：2026 年 2 月 26 日最新 AI、区块链、加密趋势、见解和新闻标题 - 508 篇文章！",
-      "summary": "通讯收集了 508 篇关于 AI、区块链和加密货币的最新趋势和新闻。",
-      "source": "X (Twitter)",
-      "author": "@lewisfarrell",
-      "likes": 0,
-      "retweets": 0
-    },
-    {
-      "title": "Companies will trim excess labor to protect margins.",
-      "url": "https://x.com/mr305eth/status/2027149220134769004",
-      "titleZh": "公司将裁减多余劳动力以保护利润率。",
-      "summary": "自动化将导致失业增加、消费下降，最终刺激货币政策宽松。",
-      "source": "X (Twitter)",
-      "author": "@mr305eth",
-      "likes": 0,
-      "retweets": 0
-    },
-    {
-      "title": "🤖 AI PROVIDERS (EOD)",
-      "url": "https://x.com/AgentJc11443/status/2027179807356649929",
-      "titleZh": "🤖 AI 提供商 (EOD)",
-      "summary": "总结 OpenAI、DeepSeek 等 AI 提供商最新动态，强调分销和合规的重要性。",
-      "source": "X (Twitter)",
-      "author": "@AgentJc11443",
-      "likes": 0,
-      "retweets": 0
-    },
-    {
-      "title": "News roundup for 02/26/2026:",
-      "url": "https://x.com/reallukelango/status/2027159537967632575",
-      "titleZh": "2026/02/26 新闻汇总：",
-      "summary": "覆盖 AI 隐私风险、卫星服务、AI 伙伴关系等多个科技和财经新闻。",
-      "source": "X (Twitter)",
-      "author": "@reallukelango",
-      "likes": 0,
-      "retweets": 0
-    },
-    {
-      "title": "Markets update",
-      "url": "https://x.com/RenukaJain6/status/2027219096174272599",
-      "titleZh": "市场更新",
-      "summary": "美国市场混合，Nvidia 下跌；全球债务高企；AI 威胁就业，建议谨慎投资。",
-      "source": "X (Twitter)",
-      "author": "@RenukaJain6",
-      "likes": 26,
-      "retweets": 0
-    },
-    {
-      "title": "🚀 AI Buzz Today (Feb 26, 2026) – Quick hits! 🤖",
-      "url": "https://x.com/zacjohnson/status/2027123325978223087",
-      "titleZh": "🚀 今日 AI 热议 (2026 年 2 月 26 日) – 快速要点！ 🤖",
-      "summary": "包括 Google 新 AI 图像生成、OpenAI 伦敦中心和五角大楼与 Anthropic 争议等新闻。",
-      "source": "X (Twitter)",
-      "author": "@zacjohnson",
-      "likes": 1,
-      "retweets": 0
-    },
-    {
-      "title": "💥Key economic highlights for Feb 26, 2026:",
-      "url": "https://x.com/MCCryptoYT/status/2027005436369465773",
-      "titleZh": "💥 2026 年 2 月 26 日关键经济亮点：",
-      "summary": "Nvidia 强劲收益推动 AI 乐观，IMF 援助埃及，全球股市混合。",
-      "source": "X (Twitter)",
-      "author": "@MCCryptoYT",
-      "likes": 1,
-      "retweets": 1
-    },
-    {
-      "title": "Feb 25 is The Day the Machine Economy Won ⚡️🤖",
-      "url": "https://x.com/Finternetasia/status/2026875342821138496",
-      "titleZh": "2 月 25 日是机器经济获胜之日 ⚡️🤖",
-      "summary": "Nvidia 记录营收、Circle 股价飙升、白宫 AI 峰会和香港 AI 投资标志机器经济胜利。",
-      "source": "X (Twitter)",
-      "author": "@Finternetasia",
-      "likes": 2,
-      "retweets": 0
-    },
-    {
-      "title": "AI in Financial Services: Popular Use Cases and the Regulatory Road Ahead",
-      "url": "https://x.com/BeaconInsights/status/2027088679202914691",
-      "titleZh": "金融服务中的 AI：热门用例和监管前路",
-      "summary": "文章讨论 AI 在金融中的应用和即将到来的监管挑战。",
-      "source": "X (Twitter)",
-      "author": "@BeaconInsights",
-      "likes": 0,
-      "retweets": 0
-    },
-    {
-      "title": "🏢 AI & Enterprise SaaS",
-      "url": "https://x.com/AgentJc11443/status/2027096786771353723",
-      "titleZh": "🏢 AI 与企业 SaaS",
-      "summary": "总结 IBM、SEC 文件和社区信号，强调 AI 价值证明的重要性。",
-      "source": "X (Twitter)",
-      "author": "@AgentJc11443",
-      "likes": 0,
-      "retweets": 0
-    }
-  ]
+  "pinterest": [],
+  "x": []
 }
