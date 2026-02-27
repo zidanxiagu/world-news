@@ -5,49 +5,49 @@
       "title": "Stop Expecting Your Best Engineer to Be a Good Mentor",
       "url": "https://reddit.com/r/programming/comments/1rfwpwp/stop_expecting_your_best_engineer_to_be_a_good/",
       "subreddit": "programming",
-      "score": 344
+      "score": 369
     },
     {
       "title": "Google API Keys Weren't Secrets. But then Gemini Changed the Rules.",
       "url": "https://reddit.com/r/programming/comments/1rfr1jg/google_api_keys_werent_secrets_but_then_gemini/",
       "subreddit": "programming",
-      "score": 181
+      "score": 180
     },
     {
       "title": "Anthropic rejects Pentagon's requests in AI safeguards dispute, CEO says",
       "url": "https://reddit.com/r/technology/comments/1rfpkww/anthropic_rejects_pentagons_requests_in_ai/",
       "subreddit": "technology",
-      "score": 7805
+      "score": 7962
     },
     {
       "title": "Netflix Backs Out of Warner Bros. Bidding, Paramount Set to Win",
       "url": "https://reddit.com/r/technology/comments/1rfp9a8/netflix_backs_out_of_warner_bros_bidding/",
       "subreddit": "technology",
-      "score": 5917
+      "score": 5969
     },
     {
       "title": "Anthropic rejects Pentagon’s AI demands",
       "url": "https://reddit.com/r/technology/comments/1rftb00/anthropic_rejects_pentagons_ai_demands/",
       "subreddit": "technology",
-      "score": 2064
+      "score": 2111
     },
     {
       "title": "How to get a Full Stack Developer to build your Production ready Application for completely FREE.",
       "url": "https://reddit.com/r/webdev/comments/1rfycn3/how_to_get_a_full_stack_developer_to_build_your/",
       "subreddit": "webdev",
-      "score": 108
+      "score": 125
     },
     {
       "title": "[D] PhD in AI but no job — why not build your own?",
       "url": "https://reddit.com/r/MachineLearning/comments/1rg0glz/d_phd_in_ai_but_no_job_why_not_build_your_own/",
       "subreddit": "machinelearning",
-      "score": 24
+      "score": 30
     },
     {
       "title": "Anthropic rejects latest Pentagon offer: ‘We cannot in good conscience accede to their request’",
       "url": "https://reddit.com/r/artificial/comments/1rfsjv7/anthropic_rejects_latest_pentagon_offer_we_cannot/",
       "subreddit": "artificial",
-      "score": 389
+      "score": 392
     },
     {
       "title": "Invisible characters hidden in text can trick AI agents into following secret instructions — we tested 5 models across 8,000+ cases",
@@ -65,63 +65,75 @@
       "title": "Netflix Drops Warner Bros. Bid",
       "url": "https://reddit.com/r/wallstreetbets/comments/1rfutxd/netflix_drops_warner_bros_bid/",
       "subreddit": "wallstreetbets",
-      "score": 2973
+      "score": 3094
     },
     {
       "title": "Neanderthal Men and Human Women Were Most Likely to Hook Up, Study Finds. Geneticists have found an interesting pattern in how early humans and Neanderthals interbred—and it wasn't balanced.",
       "url": "https://reddit.com/r/science/comments/1rfliqo/neanderthal_men_and_human_women_were_most_likely/",
       "subreddit": "science",
-      "score": 5493
+      "score": 5639
     },
     {
       "title": "Medical Cannabis Products Provide Sustained Improvements in Patients With Chronic Pain, Anxiety, and Depression",
       "url": "https://reddit.com/r/science/comments/1rft22w/medical_cannabis_products_provide_sustained/",
       "subreddit": "science",
-      "score": 1528
+      "score": 1570
     },
     {
       "title": "Study finds ChatGPT Health did not recommend a hospital visit when medically necessary in more than half of cases | ChatGPT Health performance in a structured test of triage recommendations",
       "url": "https://reddit.com/r/science/comments/1rfp9ol/study_finds_chatgpt_health_did_not_recommend_a/",
       "subreddit": "science",
-      "score": 1888
+      "score": 1928
     },
     {
       "title": "China Deploys Thousands of Fishing Boats off Japan’s Coast, and They Are Not There to Fish",
       "url": "https://reddit.com/r/worldnews/comments/1rftez1/china_deploys_thousands_of_fishing_boats_off/",
       "subreddit": "worldnews",
-      "score": 7269
+      "score": 7633
+    },
+    {
+      "title": "Pak Declares \"Open War\", Bombs Kabul, Kandahar After Afghanistan Attack",
+      "url": "https://reddit.com/r/worldnews/comments/1rfuys8/pak_declares_open_war_bombs_kabul_kandahar_after/",
+      "subreddit": "worldnews",
+      "score": 2670
     }
   ],
   "hn": [
     {
       "title": "Statement from Dario Amodei on our discussions with the Department of War",
       "url": "https://www.anthropic.com/news/statement-department-of-war",
-      "score": 1766,
+      "score": 1817,
       "id": "47173121"
     },
     {
       "title": "The Hunt for Dark Breakfast",
       "url": "https://moultano.wordpress.com/2026/02/22/the-hunt-for-dark-breakfast/",
-      "score": 194,
+      "score": 206,
       "id": "47176257"
     },
     {
       "title": "The normalization of corruption in organizations (2003) [pdf]",
       "url": "https://gwern.net/doc/sociology/2003-ashforth.pdf",
-      "score": 26,
+      "score": 36,
       "id": "47177186"
     },
     {
       "title": "Julia: Performance Tips",
       "url": "https://docs.julialang.org/en/v1/manual/performance-tips/",
-      "score": 34,
+      "score": 41,
       "id": "47123633"
     },
     {
       "title": "What Claude Code chooses",
       "url": "https://amplifying.ai/research/claude-code-picks",
-      "score": 397,
+      "score": 404,
       "id": "47169757"
+    },
+    {
+      "title": "80386 Protection",
+      "url": "https://nand2mario.github.io/posts/2026/80386_protection/",
+      "score": 55,
+      "id": "47138698"
     },
     {
       "title": "Ubicloud (YC W24): Software Engineer – $95-$250K in Turkey, Netherlands, CA",
@@ -130,94 +142,68 @@
       "id": "47178176"
     },
     {
-      "title": "80386 Protection",
-      "url": "https://nand2mario.github.io/posts/2026/80386_protection/",
-      "score": 51,
-      "id": "47138698"
+      "title": "The Origins of Agar",
+      "url": "https://www.asimov.press/p/agar",
+      "score": 19,
+      "id": "47123109"
     },
     {
       "title": "Layoffs at Block",
       "url": "https://twitter.com/jack/status/2027129697092731343",
-      "score": 695,
+      "score": 708,
       "id": "47172119"
     },
     {
       "title": "AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]",
       "url": "https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf",
-      "score": 352,
+      "score": 354,
       "id": "47167763"
     },
     {
       "title": "Parakeet.cpp – Parakeet ASR inference in pure C++ with Metal GPU acceleration",
       "url": "https://github.com/Frikallo/parakeet.cpp",
-      "score": 47,
+      "score": 48,
       "id": "47176239"
-    },
-    {
-      "title": "What does \" 2>&1 \" mean?",
-      "url": "https://stackoverflow.com/questions/818255/what-does-21-mean",
-      "score": 268,
-      "id": "47171233"
     },
     {
       "title": "I rendered 1,418 confusables over 230 fonts. Most aren't confusable to the eye",
       "url": "https://paultendo.github.io/posts/confusable-vision-visual-similarity/",
-      "score": 49,
+      "score": 54,
       "id": "47150674"
+    },
+    {
+      "title": "What does \" 2>&1 \" mean?",
+      "url": "https://stackoverflow.com/questions/818255/what-does-21-mean",
+      "score": 273,
+      "id": "47171233"
     },
     {
       "title": "Launch HN: Cardboard (YC W26) – Agentic video editor",
       "url": "https://www.usecardboard.com/",
-      "score": 112,
+      "score": 113,
       "id": "47170174"
-    },
-    {
-      "title": "An Introduction to the Codex Seraphinianus, the Strangest Book Ever Published",
-      "url": "https://www.openculture.com/2026/02/an-introduction-to-the-codex-seraphinianus.html",
-      "score": 66,
-      "id": "47124454"
     },
     {
       "title": "OsmAnd's Faster Offline Navigation (2025)",
       "url": "https://osmand.net/blog/fast-routing/",
-      "score": 157,
+      "score": 161,
       "id": "47170157"
     }
   ],
   "producthunt": [
-    {
-      "title": "Launch In Public — Stop building in silence. Launch in public.",
-      "url": "https://www.producthunt.com/products/launch-in-public",
-      "votesCount": 0
-    },
-    {
-      "title": "mvntSTUDIO — Turn any music into dance",
-      "url": "https://www.producthunt.com/products/mvntstudio",
-      "votesCount": 0
-    },
-    {
-      "title": "Mastra Code — The AI coding agent that never compacts",
-      "url": "https://www.producthunt.com/products/mastra",
-      "votesCount": 0
-    },
-    {
-      "title": "Alkemi — Your AI data teammate in Slack",
-      "url": "https://www.producthunt.com/products/alkemi",
-      "votesCount": 0
-    },
-    {
-      "title": "What's Up With That? — Read any article like an expert with one click",
-      "url": "https://www.producthunt.com/products/what-s-up-with-that",
-      "votesCount": 0
-    },
     {
       "title": "Hacker News for macOS — A native macOS client for Hacker News, built with SwiftUI",
       "url": "https://www.producthunt.com/products/hacker-news-for-macos",
       "votesCount": 0
     },
     {
-      "title": "Flarehawk — Monitors security tools, probes threats, + prompts action",
-      "url": "https://www.producthunt.com/products/flarehawk",
+      "title": "ShowcasePro — Convert photos into elegant designs for marketing + sharing",
+      "url": "https://www.producthunt.com/products/showcasepro",
+      "votesCount": 0
+    },
+    {
+      "title": "What's Up With That? — Get instant insights about the topic you're reading about",
+      "url": "https://www.producthunt.com/products/what-s-up-with-that",
       "votesCount": 0
     },
     {
@@ -226,13 +212,18 @@
       "votesCount": 0
     },
     {
-      "title": "HelixDB — An open-source OLTP graph-vector database built in Rust.",
-      "url": "https://www.producthunt.com/products/helixdb",
+      "title": "Perplexity Computer — Everything AI can do, Perplexity Computer does for you.",
+      "url": "https://www.producthunt.com/products/perplexity-ai",
       "votesCount": 0
     },
     {
-      "title": "Nix Capture — Capture API requests for bug reports in seconds",
-      "url": "https://www.producthunt.com/products/nix-capture",
+      "title": "Superset — Run an army of Claude Code, Codex, etc. on your machine",
+      "url": "https://www.producthunt.com/products/superset-5",
+      "votesCount": 0
+    },
+    {
+      "title": "Flarehawk — Monitors security tools, probes threats, + prompts action",
+      "url": "https://www.producthunt.com/products/flarehawk",
       "votesCount": 0
     },
     {
@@ -241,23 +232,38 @@
       "votesCount": 0
     },
     {
-      "title": "Superset - IDE for the AI Agent Era — Run an army of Claude Code, Codex, etc. on your machine",
-      "url": "https://www.producthunt.com/products/superset-5",
+      "title": "Nix Capture — Capture API requests for bug reports in seconds",
+      "url": "https://www.producthunt.com/products/nix-capture",
       "votesCount": 0
     },
     {
-      "title": "UI Roast for Figma — Savage AI UX critique inside Figma",
-      "url": "https://www.producthunt.com/products/ui-roast-for-figma",
+      "title": "HelixDB — An open-source OLTP graph-vector database built in Rust.",
+      "url": "https://www.producthunt.com/products/helixdb",
       "votesCount": 0
     },
     {
-      "title": "Musikey — Tough musical authentication for accessibility",
-      "url": "https://www.producthunt.com/products/musikey-music-auth",
+      "title": "muno — AI agents that talk to your team &amp; complete tasks for you.",
+      "url": "https://www.producthunt.com/products/muno-2",
       "votesCount": 0
     },
     {
-      "title": "Perplexity Computer — Everything AI can do, Perplexity Computer does for you.",
-      "url": "https://www.producthunt.com/products/perplexity-ai",
+      "title": "mvntSTUDIO — Turn any music into dance",
+      "url": "https://www.producthunt.com/products/mvntstudio",
+      "votesCount": 0
+    },
+    {
+      "title": "Nano Banana 2 — Google's latest AI image generation model",
+      "url": "https://www.producthunt.com/products/nano-banana-2-11",
+      "votesCount": 0
+    },
+    {
+      "title": "whatdoiwear.run — outfit engine for the modern runner",
+      "url": "https://www.producthunt.com/products/whatdoiwear-run",
+      "votesCount": 0
+    },
+    {
+      "title": "Mastra Code — The AI coding agent that never compacts",
+      "url": "https://www.producthunt.com/products/mastra",
       "votesCount": 0
     }
   ],

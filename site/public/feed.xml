@@ -5,7 +5,7 @@
     <link>https://zidanxiagu.github.io/world-news</link>
     <description>多源热门聚合：YouTube、财经科技、Reddit、HN、Product Hunt、Substack、Pinterest、X</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 27 Feb 2026 08:58:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Feb 2026 09:21:12 GMT</lastBuildDate>
     <atom:link href="https://zidanxiagu.github.io/world-news/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Plaid valued at $8B in employee share sale</title>
@@ -323,6 +323,13 @@
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>Pak Declares &quot;Open War&quot;, Bombs Kabul, Kandahar After Afghanistan Attack</title>
+      <link>https://reddit.com/r/worldnews/comments/1rfuys8/pak_declares_open_war_bombs_kabul_kandahar_after/</link>
+      <description></description>
+      <category>Reddit</category>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Statement from Dario Amodei on our discussions with the Department of War</title>
       <link>https://www.anthropic.com/news/statement-department-of-war</link>
       <description></description>
@@ -358,6 +365,13 @@
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>80386 Protection</title>
+      <link>https://nand2mario.github.io/posts/2026/80386_protection/</link>
+      <description></description>
+      <category>Hacker News</category>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Ubicloud (YC W24): Software Engineer – $95-$250K in Turkey, Netherlands, CA</title>
       <link>https://www.ycombinator.com/companies/ubicloud/jobs/j4bntEJ-software-engineer</link>
       <description></description>
@@ -365,8 +379,8 @@
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>80386 Protection</title>
-      <link>https://nand2mario.github.io/posts/2026/80386_protection/</link>
+      <title>The Origins of Agar</title>
+      <link>https://www.asimov.press/p/agar</link>
       <description></description>
       <category>Hacker News</category>
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
@@ -393,15 +407,15 @@
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>What does &quot; 2&gt;&amp;1 &quot; mean?</title>
-      <link>https://stackoverflow.com/questions/818255/what-does-21-mean</link>
+      <title>I rendered 1,418 confusables over 230 fonts. Most aren't confusable to the eye</title>
+      <link>https://paultendo.github.io/posts/confusable-vision-visual-similarity/</link>
       <description></description>
       <category>Hacker News</category>
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>I rendered 1,418 confusables over 230 fonts. Most aren't confusable to the eye</title>
-      <link>https://paultendo.github.io/posts/confusable-vision-visual-similarity/</link>
+      <title>What does &quot; 2&gt;&amp;1 &quot; mean?</title>
+      <link>https://stackoverflow.com/questions/818255/what-does-21-mean</link>
       <description></description>
       <category>Hacker News</category>
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
@@ -414,52 +428,10 @@
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>An Introduction to the Codex Seraphinianus, the Strangest Book Ever Published</title>
-      <link>https://www.openculture.com/2026/02/an-introduction-to-the-codex-seraphinianus.html</link>
-      <description></description>
-      <category>Hacker News</category>
-      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>OsmAnd's Faster Offline Navigation (2025)</title>
       <link>https://osmand.net/blog/fast-routing/</link>
       <description></description>
       <category>Hacker News</category>
-      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Launch In Public — Stop building in silence. Launch in public.</title>
-      <link>https://www.producthunt.com/products/launch-in-public</link>
-      <description></description>
-      <category>Product Hunt</category>
-      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>mvntSTUDIO — Turn any music into dance</title>
-      <link>https://www.producthunt.com/products/mvntstudio</link>
-      <description></description>
-      <category>Product Hunt</category>
-      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mastra Code — The AI coding agent that never compacts</title>
-      <link>https://www.producthunt.com/products/mastra</link>
-      <description></description>
-      <category>Product Hunt</category>
-      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Alkemi — Your AI data teammate in Slack</title>
-      <link>https://www.producthunt.com/products/alkemi</link>
-      <description></description>
-      <category>Product Hunt</category>
-      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>What's Up With That? — Read any article like an expert with one click</title>
-      <link>https://www.producthunt.com/products/what-s-up-with-that</link>
-      <description></description>
-      <category>Product Hunt</category>
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -470,8 +442,15 @@
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Flarehawk — Monitors security tools, probes threats, + prompts action</title>
-      <link>https://www.producthunt.com/products/flarehawk</link>
+      <title>ShowcasePro — Convert photos into elegant designs for marketing + sharing</title>
+      <link>https://www.producthunt.com/products/showcasepro</link>
+      <description></description>
+      <category>Product Hunt</category>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>What's Up With That? — Get instant insights about the topic you're reading about</title>
+      <link>https://www.producthunt.com/products/what-s-up-with-that</link>
       <description></description>
       <category>Product Hunt</category>
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
@@ -484,15 +463,22 @@
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>HelixDB — An open-source OLTP graph-vector database built in Rust.</title>
-      <link>https://www.producthunt.com/products/helixdb</link>
+      <title>Perplexity Computer — Everything AI can do, Perplexity Computer does for you.</title>
+      <link>https://www.producthunt.com/products/perplexity-ai</link>
       <description></description>
       <category>Product Hunt</category>
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Nix Capture — Capture API requests for bug reports in seconds</title>
-      <link>https://www.producthunt.com/products/nix-capture</link>
+      <title>Superset — Run an army of Claude Code, Codex, etc. on your machine</title>
+      <link>https://www.producthunt.com/products/superset-5</link>
+      <description></description>
+      <category>Product Hunt</category>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Flarehawk — Monitors security tools, probes threats, + prompts action</title>
+      <link>https://www.producthunt.com/products/flarehawk</link>
       <description></description>
       <category>Product Hunt</category>
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
@@ -505,29 +491,50 @@
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Superset - IDE for the AI Agent Era — Run an army of Claude Code, Codex, etc. on your machine</title>
-      <link>https://www.producthunt.com/products/superset-5</link>
+      <title>Nix Capture — Capture API requests for bug reports in seconds</title>
+      <link>https://www.producthunt.com/products/nix-capture</link>
       <description></description>
       <category>Product Hunt</category>
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>UI Roast for Figma — Savage AI UX critique inside Figma</title>
-      <link>https://www.producthunt.com/products/ui-roast-for-figma</link>
+      <title>HelixDB — An open-source OLTP graph-vector database built in Rust.</title>
+      <link>https://www.producthunt.com/products/helixdb</link>
       <description></description>
       <category>Product Hunt</category>
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Musikey — Tough musical authentication for accessibility</title>
-      <link>https://www.producthunt.com/products/musikey-music-auth</link>
+      <title>muno — AI agents that talk to your team &amp;amp; complete tasks for you.</title>
+      <link>https://www.producthunt.com/products/muno-2</link>
       <description></description>
       <category>Product Hunt</category>
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Perplexity Computer — Everything AI can do, Perplexity Computer does for you.</title>
-      <link>https://www.producthunt.com/products/perplexity-ai</link>
+      <title>mvntSTUDIO — Turn any music into dance</title>
+      <link>https://www.producthunt.com/products/mvntstudio</link>
+      <description></description>
+      <category>Product Hunt</category>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nano Banana 2 — Google's latest AI image generation model</title>
+      <link>https://www.producthunt.com/products/nano-banana-2-11</link>
+      <description></description>
+      <category>Product Hunt</category>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>whatdoiwear.run — outfit engine for the modern runner</title>
+      <link>https://www.producthunt.com/products/whatdoiwear-run</link>
+      <description></description>
+      <category>Product Hunt</category>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mastra Code — The AI coding agent that never compacts</title>
+      <link>https://www.producthunt.com/products/mastra</link>
       <description></description>
       <category>Product Hunt</category>
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
@@ -640,70 +647,70 @@
     <item>
       <title>T.I. - Lessons (Official Audio)</title>
       <link>https://www.youtube.com/watch?v=yHnRBRKUr2Y</link>
-      <description>这是一首T.I.的新单曲《Lessons》官方音频，歌词探讨人生教训与街头智慧，节奏感强，带有经典嘻哈元素。适合喜欢真实说唱和励志内容的年轻听众。之所以热门，是因为T.I.作为资深艺人回归，粉丝期待已久，加上发布当天迅速积累互动，引发讨论和分享热潮。</description>
-      <category>YouTube</category>
-      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mortal Kombat II | Official Trailer II</title>
-      <link>https://www.youtube.com/watch?v=b24oG7qCwp4</link>
-      <description>《真人快打2》第二支官方预告展示激烈打斗场面、经典角色回归与新剧情暗示，视觉效果炸裂，充满血腥与动作元素。面向游戏粉丝、动作片爱好者和年轻观众。预告一出即爆火，因系列IP号召力强，加上高质量制作与期待已久的续集消息，推动观影热议与转发。</description>
-      <category>YouTube</category>
-      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>VonOff 1700 - I Tried ft BigOpp (Official Video)</title>
-      <link>https://www.youtube.com/watch?v=5Q_sCOFwC5g</link>
-      <description>VonOff 1700联手BigOpp带来《I Tried》官方MV，街头说唱风格浓厚，讲述奋斗与坚持主题，画面真实硬核。针对嘻哈地下音乐爱好者和年轻街头文化群体。视频发布后迅速登上趋势，因合作阵容新鲜、真实情感共鸣，以及社交媒体病毒式传播而爆红。</description>
-      <category>YouTube</category>
-      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why Do Farmers Put Magnets Inside Cows 🤔</title>
-      <link>https://youtube.com/watch?v=BGg_Kqr6Mf4</link>
-      <description>Zack D. Films用动画解释农民给牛喂磁铁防止金属异物伤害的科学原理，内容有趣易懂，视觉化呈现知识点。适合好奇心强的大众和学生观众。视频因奇妙事实+高质量动画制作而爆火，引发大量分享与讨论，成为教育类病毒内容。</description>
-      <category>YouTube</category>
-      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>YoungBoy Never Broke Again - Another Episode [Official Video]</title>
-      <link>https://youtube.com/watch?v=KEBbwRTf8mw</link>
-      <description>YoungBoy Never Broke Again最新单曲《Another Episode》MV，情绪激烈、节奏快，展现个人故事与生活挣扎。吸引忠实粉丝和当代说唱听众。因艺人高产+情感深度，发布即获海量关注，评论区活跃，推动趋势榜上升。</description>
+      <description>这是一首T.I.的新单曲《Lessons》官方音频发布，歌曲节奏感强，歌词探讨人生教训与成长。作为资深说唱歌手T.I.的最新作品，吸引了大量粉丝和新听众关注。视频迅速登上趋势榜，可能因为新歌首发带来的新鲜感、社交媒体传播以及粉丝积极互动，适合喜欢嘻哈和说唱音乐的年轻观众。热度源于音乐平台推送和歌迷分享讨论。(198字)</description>
       <category>YouTube</category>
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Poppy Playtime Chapter 5 - Accolades Trailer</title>
       <link>https://www.youtube.com/watch?v=4Jhh3P9UGK0</link>
-      <description>《Poppy Playtime》第5章荣誉预告展示惊悚新场景与玩具恐怖元素，氛围紧张刺激。针对恐怖游戏粉丝和系列玩家。预告发布后因游戏人气持续高涨、新章节期待值爆表而在多国趋势榜前列，引发玩家热烈讨论。</description>
-      <category>YouTube</category>
-      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>'Ninth Wave' Update Trailer / War Thunder</title>
-      <link>https://www.youtube.com/watch?v=hrmMWJPDZ0E</link>
-      <description>《战争雷霆》新更新'Ninth Wave'预告介绍新增载具、地图与玩法，视觉震撼。面向军事模拟游戏玩家。因游戏长期运营+重大更新内容丰富，预告迅速吸引老玩家回归与新人关注，登上趋势。</description>
-      <category>YouTube</category>
-      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hades66 - YO QUIERO 💿 EL SEI66EIS (Visualizer)</title>
-      <link>https://www.youtube.com/watch?v=R4ONYly2wWI</link>
-      <description>Hades66新歌《YO QUIERO》可视化视频，拉丁嘻哈节奏强劲，歌词自信张扬。适合拉丁音乐与说唱爱好者。因艺人上升势头猛、歌曲洗脑，跨区域传播快，成为多国趋势热门。</description>
+      <description>Poppy Playtime系列第五章的荣誉预告片，展示游戏新内容、惊悚元素和玩法亮点。该游戏以恐怖玩具为主题深受玩家喜爱，此预告引发大量猜测与期待。适合恐怖游戏和玩具主题爱好者观看。之所以热门，是因为系列积累的粉丝基础、新章节公布带来的兴奋，以及预告片的高制作质量在社交平台病毒式传播，评论区充满理论分析与尖叫反应。(192字)</description>
       <category>YouTube</category>
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>The Five</title>
-      <link>https://www.youtube.com/watch?v=someid</link>
-      <description>FOX News《The Five》节目片段，讨论当天热点政治事件，观点激烈碰撞。面向保守派观众与时事关注者。因节目争议性话题+实时评论，吸引大量观看与互动，进入趋势榜。</description>
+      <link>https://www.youtube.com/watch?v=GL6ZhoTNDtA</link>
+      <description>福克斯新闻节目《The Five》的最新一期讨论时事热点、政治话题，由多位主持人进行辩论和分析。内容涉及美国当前政治动态和社会议题，吸引保守派观众群体。节目因观点鲜明、辩论激烈而在政治爱好者中流行，今天登上趋势可能与当天重大新闻事件相关，观众通过观看获取不同视角的评论和即时反应。(188字)</description>
       <category>YouTube</category>
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Ukraine seeks trilateral talks with U.S. and Russia</title>
-      <link>https://www.youtube.com/watch?v=qV_zhidPK68</link>
-      <description>新闻报道乌克兰推动与美俄三方对话，分析地缘政治影响。适合关注国际新闻的观众。因全球局势紧张，此话题引发广泛关注与辩论，视频热度攀升。</description>
+      <title>FEVER DREAM</title>
+      <link>https://www.youtube.com/watch?v=3D2WPA9ZN30</link>
+      <description>Alex Warren的歌曲《FEVER DREAM》音频或音乐视频，旋律抓耳，歌词富有情感张力，可能讲述梦境或内心挣扎主题。适合流行音乐爱好者和年轻观众。新歌发布迅速获得关注，趋势原因包括平台算法推荐、歌手社交媒体宣传以及粉丝自发分享。视频风格梦幻，易引发共鸣和讨论。(185字)</description>
+      <category>YouTube</category>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mortal Kombat II | Official Trailer II</title>
+      <link>https://www.youtube.com/watch?v=b24oG7qCwp4</link>
+      <description>《真人快打II》电影第二部官方预告片，展示激烈打斗场面、经典角色回归和新剧情元素。粉丝期待已久的续集预告引发热议，适合动作片和游戏改编电影爱好者。热门原因在于经典游戏IP号召力、预告高燃剪辑在社交媒体疯传，以及即将上映的宣传效应，评论区满是兴奋预测和角色讨论。(201字)</description>
+      <category>YouTube</category>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why Do Farmers Put Magnets Inside Cows 🤔</title>
+      <link>https://www.youtube.com/watch?v=BGg_Kqr6Mf4</link>
+      <description>Zack D. Films的科普短视频，解释农民给牛服用磁铁的原因（防止金属异物损伤），用动画形式生动呈现。适合对科学知识、动物趣闻感兴趣的观众。视频爆火因内容新奇、教育性强、动画精良，算法推送广泛，加上观众好奇心驱动分享，评论区多为惊讶和学习反馈。(189字)</description>
+      <category>YouTube</category>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>YoungBoy Never Broke Again - Another Episode [Official Video]</title>
+      <link>https://www.youtube.com/watch?v=KEBbwRTf8mw</link>
+      <description>YoungBoy Never Broke Again的新音乐视频《Another Episode》，展示其独特说唱风格和生活叙事。针对说唱粉丝和年轻观众。新作发布带动流量，趋势因艺术家高产和忠实粉丝群，MV视觉冲击强，易在平台传播，引发歌词解读和情感共鸣讨论。(182字)</description>
+      <category>YouTube</category>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bruno Mars - Risk It All [Official Music Video]</title>
+      <link>https://www.youtube.com/watch?v=lY5V4hSLWY8</link>
+      <description>Bruno Mars全新单曲《Risk It All》官方MV，融合流行与放克元素，舞蹈和视觉华丽。面向流行音乐爱好者和Bruno粉丝。热门因为歌手超高人气、新歌品质优秀、MV制作精良，迅速被算法推荐并在短视频平台剪辑传播，观众热情高涨。(179字)</description>
+      <category>YouTube</category>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>BLACKPINK - ‘GO’ M/V</title>
+      <link>https://www.youtube.com/watch?v=2GJfWMYCWY0</link>
+      <description>BLACKPINK回归新歌《GO》MV，展现强大舞台魅力和时尚造型。针对K-pop粉丝，尤其是Blink群体。爆红因组合国际影响力、 comeback期待值高、MV高能舞蹈和视觉效果，全球粉丝刷屏观看与分享，趋势榜霸榜。(181字)</description>
+      <category>YouTube</category>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ram Ji Aake Bhala Karenge | Bhooth Bangla | Akshay Kumar</title>
+      <link>https://www.youtube.com/watch?v=x0aMsjhFxeE</link>
+      <description>印度电影《Bhooth Bangla》插曲《Ram Ji Aake Bhala Karenge》，Akshay Kumar主演，歌曲旋律洗脑、舞蹈热闹。适合宝莱坞和印度音乐爱好者。视频高播放因电影宣传、新歌 catchy、T-Series强大分发，跨文化传播吸引国际观众。(184字)</description>
       <category>YouTube</category>
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
     </item>
