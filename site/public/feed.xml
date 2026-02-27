@@ -5,7 +5,7 @@
     <link>https://zidanxiagu.github.io/world-news</link>
     <description>多源热门聚合：YouTube、财经科技、Reddit、HN、Product Hunt、Substack、Pinterest、X</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 27 Feb 2026 08:16:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Feb 2026 08:31:03 GMT</lastBuildDate>
     <atom:link href="https://zidanxiagu.github.io/world-news/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Plaid valued at $8B in employee share sale</title>
@@ -106,6 +106,13 @@
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>South Korea Clears Way for Google Maps to Fully Operate</title>
+      <link>https://www.nytimes.com/2026/02/27/world/asia/google-maps-south-korea.html</link>
+      <description></description>
+      <category>Finance &amp; Tech</category>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>India Built the World’s Back Office. A.I. Is Starting to Shrink It.</title>
       <link>https://www.nytimes.com/2026/02/27/technology/india-technology-jobs-ai.html</link>
       <description></description>
@@ -141,8 +148,8 @@
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>The A.I. Videos on Kids’ YouTube Feeds</title>
-      <link>https://www.nytimes.com/video/technology/100000010717886/the-ai-videos-on-kids-youtube-feeds.html</link>
+      <title>South Korea Clears Way for Google Maps to Fully Operate</title>
+      <link>https://www.nytimes.com/2026/02/27/world/asia/google-maps-south-korea.html</link>
       <description></description>
       <category>Finance &amp; Tech</category>
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
@@ -211,13 +218,6 @@
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Why Estrogen Patches For Menopause Are So Hard to Find</title>
-      <link>https://www.nytimes.com/2026/02/26/well/estrogen-patches-menopause-treatment.html</link>
-      <description></description>
-      <category>Finance &amp; Tech</category>
-      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Stop Expecting Your Best Engineer to Be a Good Mentor</title>
       <link>https://reddit.com/r/programming/comments/1rfwpwp/stop_expecting_your_best_engineer_to_be_a_good/</link>
       <description></description>
@@ -260,8 +260,8 @@
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>[D] First time reviewer. I got assigned 9 papers. I'm so nervous. What if I mess up. Any advice?</title>
-      <link>https://reddit.com/r/MachineLearning/comments/1rfle5p/d_first_time_reviewer_i_got_assigned_9_papers_im/</link>
+      <title>[D] PhD in AI but no job — why not build your own?</title>
+      <link>https://reddit.com/r/MachineLearning/comments/1rg0glz/d_phd_in_ai_but_no_job_why_not_build_your_own/</link>
       <description></description>
       <category>Reddit</category>
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
@@ -386,15 +386,15 @@
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>I rendered 1,418 confusables over 230 fonts. Most aren't confusable to the eye</title>
-      <link>https://paultendo.github.io/posts/confusable-vision-visual-similarity/</link>
+      <title>Parakeet.cpp – Parakeet ASR inference in pure C++ with Metal GPU acceleration</title>
+      <link>https://github.com/Frikallo/parakeet.cpp</link>
       <description></description>
       <category>Hacker News</category>
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Parakeet.cpp – Parakeet ASR inference in pure C++ with Metal GPU acceleration</title>
-      <link>https://github.com/Frikallo/parakeet.cpp</link>
+      <title>I rendered 1,418 confusables over 230 fonts. Most aren't confusable to the eye</title>
+      <link>https://paultendo.github.io/posts/confusable-vision-visual-similarity/</link>
       <description></description>
       <category>Hacker News</category>
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
@@ -407,15 +407,15 @@
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Dear Time Lords: Freeze Computers in 1993</title>
-      <link>https://graydon2.dreamwidth.org/322461.html</link>
+      <title>An Introduction to the Codex Seraphinianus, the Strangest Book Ever Published</title>
+      <link>https://www.openculture.com/2026/02/an-introduction-to-the-codex-seraphinianus.html</link>
       <description></description>
       <category>Hacker News</category>
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>An Introduction to the Codex Seraphinianus, the Strangest Book Ever Published</title>
-      <link>https://www.openculture.com/2026/02/an-introduction-to-the-codex-seraphinianus.html</link>
+      <title>Dear Time Lords: Freeze Computers in 1993</title>
+      <link>https://graydon2.dreamwidth.org/322461.html</link>
       <description></description>
       <category>Hacker News</category>
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
@@ -425,13 +425,6 @@
       <link>https://osmand.net/blog/fast-routing/</link>
       <description></description>
       <category>Hacker News</category>
-      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>What's Up With That? — Read any article like an expert with one click</title>
-      <link>https://www.producthunt.com/products/what-s-up-with-that</link>
-      <description></description>
-      <category>Product Hunt</category>
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -449,8 +442,78 @@
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>Launch In Public — Stop building in silence. Launch in public.</title>
+      <link>https://www.producthunt.com/products/launch-in-public</link>
+      <description></description>
+      <category>Product Hunt</category>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>What's Up With That? — Read any article like an expert with one click</title>
+      <link>https://www.producthunt.com/products/what-s-up-with-that</link>
+      <description></description>
+      <category>Product Hunt</category>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Superset - IDE for the AI Agent Era — Run an army of Claude Code, Codex, etc. on your machine</title>
       <link>https://www.producthunt.com/products/superset-5</link>
+      <description></description>
+      <category>Product Hunt</category>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Perplexity Computer — Everything AI can do, Perplexity Computer does for you.</title>
+      <link>https://www.producthunt.com/products/perplexity-ai</link>
+      <description></description>
+      <category>Product Hunt</category>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nix Capture — Capture API requests for bug reports in seconds</title>
+      <link>https://www.producthunt.com/products/nix-capture</link>
+      <description></description>
+      <category>Product Hunt</category>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Alkemi — Your AI data teammate in Slack</title>
+      <link>https://www.producthunt.com/products/alkemi</link>
+      <description></description>
+      <category>Product Hunt</category>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>UI Roast for Figma — Savage AI UX critique inside Figma</title>
+      <link>https://www.producthunt.com/products/ui-roast-for-figma</link>
+      <description></description>
+      <category>Product Hunt</category>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>HelixDB — An open-source OLTP graph-vector database built in Rust.</title>
+      <link>https://www.producthunt.com/products/helixdb</link>
+      <description></description>
+      <category>Product Hunt</category>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>BedRock — Get approved by US banks even after being rejeceted</title>
+      <link>https://www.producthunt.com/products/bedrock-5</link>
+      <description></description>
+      <category>Product Hunt</category>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hacker News for macOS — A native macOS client for Hacker News, built with SwiftUI</title>
+      <link>https://www.producthunt.com/products/hacker-news-for-macos</link>
+      <description></description>
+      <category>Product Hunt</category>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mastra Code — The AI coding agent that never compacts</title>
+      <link>https://www.producthunt.com/products/mastra</link>
       <description></description>
       <category>Product Hunt</category>
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
@@ -465,69 +528,6 @@
     <item>
       <title>Flarehawk — Monitors security tools, probes threats, + prompts action</title>
       <link>https://www.producthunt.com/products/flarehawk</link>
-      <description></description>
-      <category>Product Hunt</category>
-      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Perplexity Computer — Everything AI can do, Perplexity Computer does for you.</title>
-      <link>https://www.producthunt.com/products/perplexity-ai</link>
-      <description></description>
-      <category>Product Hunt</category>
-      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Launch In Public — Stop building in silence. Launch in public.</title>
-      <link>https://www.producthunt.com/products/launch-in-public</link>
-      <description></description>
-      <category>Product Hunt</category>
-      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mastra Code — The AI coding agent that never compacts</title>
-      <link>https://www.producthunt.com/products/mastra</link>
-      <description></description>
-      <category>Product Hunt</category>
-      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>UI Roast for Figma — Savage AI UX critique inside Figma</title>
-      <link>https://www.producthunt.com/products/ui-roast-for-figma</link>
-      <description></description>
-      <category>Product Hunt</category>
-      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Alkemi — Your AI data teammate in Slack</title>
-      <link>https://www.producthunt.com/products/alkemi</link>
-      <description></description>
-      <category>Product Hunt</category>
-      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nix Capture — Capture API requests for bug reports in seconds</title>
-      <link>https://www.producthunt.com/products/nix-capture</link>
-      <description></description>
-      <category>Product Hunt</category>
-      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hacker News for macOS — A native macOS client for Hacker News, built with SwiftUI</title>
-      <link>https://www.producthunt.com/products/hacker-news-for-macos</link>
-      <description></description>
-      <category>Product Hunt</category>
-      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Musikey — Tough musical authentication for accessibility</title>
-      <link>https://www.producthunt.com/products/musikey-music-auth</link>
-      <description></description>
-      <category>Product Hunt</category>
-      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>BedRock — Get approved by US banks even after being rejeceted</title>
-      <link>https://www.producthunt.com/products/bedrock-5</link>
       <description></description>
       <category>Product Hunt</category>
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
