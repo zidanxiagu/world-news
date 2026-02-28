@@ -5,339 +5,591 @@
       "title": "Stop Expecting Your Best Engineer to Be a Good Mentor",
       "url": "https://reddit.com/r/programming/comments/1rfwpwp/stop_expecting_your_best_engineer_to_be_a_good/",
       "subreddit": "programming",
-      "score": 376
+      "score": 392,
+      "titleZh": "不要期望你最好的工程师成为好导师",
+      "summary": "优秀工程师未必擅长指导，强求其担任导师并不现实。"
     },
     {
       "title": "Who believes in vibe-coding?",
       "url": "https://reddit.com/r/programming/comments/1rg0jju/who_believes_in_vibecoding/",
       "subreddit": "programming",
-      "score": 43
+      "score": 53,
+      "titleZh": "谁相信 vibe-coding？",
+      "summary": "开发者讨论凭感觉直觉编码的现象。"
     },
     {
       "title": "Anthropic rejects Pentagon's requests in AI safeguards dispute, CEO says",
       "url": "https://reddit.com/r/technology/comments/1rfpkww/anthropic_rejects_pentagons_requests_in_ai/",
       "subreddit": "technology",
-      "score": 7971
+      "score": 8023,
+      "titleZh": "Anthropic CEO 表示拒绝五角大楼 AI 安全防护争议中的要求",
+      "summary": "Anthropic 拒绝五角大楼对 AI 安全的相关要求，CEO 公开说明。"
     },
     {
       "title": "Netflix Backs Out of Warner Bros. Bidding, Paramount Set to Win",
       "url": "https://reddit.com/r/technology/comments/1rfp9a8/netflix_backs_out_of_warner_bros_bidding/",
       "subreddit": "technology",
-      "score": 5978
+      "score": 6005,
+      "titleZh": "Netflix 退出 Warner Bros. 竞标，Paramount 即将获胜",
+      "summary": "Netflix 放弃 Warner Bros. Discovery 竞标，Paramount 将获胜。"
     },
     {
       "title": "Anthropic rejects Pentagon’s AI demands",
       "url": "https://reddit.com/r/technology/comments/1rftb00/anthropic_rejects_pentagons_ai_demands/",
       "subreddit": "technology",
-      "score": 2113
+      "score": 2139,
+      "titleZh": "Anthropic 拒绝五角大楼的 AI 要求",
+      "summary": "Anthropic 公开拒绝五角大楼提出的 AI 需求。"
     },
     {
       "title": "How to get a Full Stack Developer to build your Production ready Application for completely FREE.",
       "url": "https://reddit.com/r/webdev/comments/1rfycn3/how_to_get_a_full_stack_developer_to_build_your/",
       "subreddit": "webdev",
-      "score": 127
+      "score": 134,
+      "titleZh": "如何免费让全栈开发者为你构建生产就绪应用",
+      "summary": "分享免费获得全栈开发者帮助构建正式应用的技巧。"
     },
     {
       "title": "[D] PhD in AI but no job — why not build your own?",
       "url": "https://reddit.com/r/MachineLearning/comments/1rg0glz/d_phd_in_ai_but_no_job_why_not_build_your_own/",
       "subreddit": "machinelearning",
-      "score": 29
+      "score": 30,
+      "titleZh": "[D] AI 博士无工作——为什么不自己创业？",
+      "summary": "AI 博士就业困难，建议自行构建项目创业。"
     },
     {
       "title": "Anthropic rejects latest Pentagon offer: ‘We cannot in good conscience accede to their request’",
       "url": "https://reddit.com/r/artificial/comments/1rfsjv7/anthropic_rejects_latest_pentagon_offer_we_cannot/",
       "subreddit": "artificial",
-      "score": 400
+      "score": 401,
+      "titleZh": "Anthropic 拒绝最新五角大楼提议：‘我们不能良心上同意他们的要求’",
+      "summary": "Anthropic CEO 明确拒绝五角大楼最新 AI 提议。"
     },
     {
       "title": "Invisible characters hidden in text can trick AI agents into following secret instructions — we tested 5 models across 8,000+ cases",
       "url": "https://reddit.com/r/artificial/comments/1rfjew5/invisible_characters_hidden_in_text_can_trick_ai/",
       "subreddit": "artificial",
-      "score": 97
+      "score": 101,
+      "titleZh": "隐藏在文本中的不可见字符可诱导 AI 代理执行秘密指令——我们测试了 5 个模型超过 8000 例",
+      "summary": "研究显示隐藏字符能绕过 AI 安全机制，多模型测试验证。"
     },
     {
       "title": "Burger King will use AI to check if employees say ‘please’ and ‘thank you’.  AI chatbot ‘Patty’ is going to live inside employees’ headsets.",
       "url": "https://reddit.com/r/artificial/comments/1rffcup/burger_king_will_use_ai_to_check_if_employees_say/",
       "subreddit": "artificial",
-      "score": 129
+      "score": 132,
+      "titleZh": "汉堡王将用 AI 检查员工是否说‘请’和‘谢谢’，AI 聊天机器人‘Patty’将内置员工耳机",
+      "summary": "汉堡王引入 AI 监控员工礼貌用语。"
     },
     {
       "title": "Netflix Drops Warner Bros. Bid",
       "url": "https://reddit.com/r/wallstreetbets/comments/1rfutxd/netflix_drops_warner_bros_bid/",
       "subreddit": "wallstreetbets",
-      "score": 3109
+      "score": 3154,
+      "titleZh": "Netflix 放弃 Warner Bros. 竞标",
+      "summary": "Netflix 退出 Warner Bros. 收购竞标。"
     },
     {
       "title": "Neanderthal Men and Human Women Were Most Likely to Hook Up, Study Finds. Geneticists have found an interesting pattern in how early humans and Neanderthals interbred—and it wasn't balanced.",
       "url": "https://reddit.com/r/science/comments/1rfliqo/neanderthal_men_and_human_women_were_most_likely/",
       "subreddit": "science",
-      "score": 5658
+      "score": 5719,
+      "titleZh": "研究发现尼安德特人男性与人类女性最可能结合，遗传学家发现早期杂交模式不平衡",
+      "summary": "基因研究揭示古人类与尼安德特人杂交的性别不对称模式。"
     },
     {
       "title": "Medical Cannabis Products Provide Sustained Improvements in Patients With Chronic Pain, Anxiety, and Depression",
       "url": "https://reddit.com/r/science/comments/1rft22w/medical_cannabis_products_provide_sustained/",
       "subreddit": "science",
-      "score": 1575
+      "score": 1593,
+      "titleZh": "医用大麻产品为慢性疼痛、焦虑和抑郁患者提供持续改善",
+      "summary": "医用大麻产品可长期缓解慢性疼痛、焦虑及抑郁症状。"
     },
     {
       "title": "Study finds ChatGPT Health did not recommend a hospital visit when medically necessary in more than half of cases | ChatGPT Health performance in a structured test of triage recommendations",
       "url": "https://reddit.com/r/science/comments/1rfp9ol/study_finds_chatgpt_health_did_not_recommend_a/",
       "subreddit": "science",
-      "score": 1931
+      "score": 1943,
+      "titleZh": "研究发现 ChatGPT Health 在超过一半必要就医情况下未推荐医院 | ChatGPT Health 分诊测试表现",
+      "summary": "ChatGPT Health 在医疗分诊测试中常未能建议必要就医。"
     },
     {
       "title": "China Deploys Thousands of Fishing Boats off Japan’s Coast, and They Are Not There to Fish",
       "url": "https://reddit.com/r/worldnews/comments/1rftez1/china_deploys_thousands_of_fishing_boats_off/",
       "subreddit": "worldnews",
-      "score": 7690
+      "score": 7822,
+      "titleZh": "中国在日本海岸部署数千渔船，且并非为了捕鱼",
+      "summary": "中国渔船集群出现在日本近海，目的并非捕鱼。"
     }
   ],
   "hn": [
     {
       "title": "Statement from Dario Amodei on our discussions with the Department of War",
       "url": "https://www.anthropic.com/news/statement-department-of-war",
-      "score": 1820,
-      "id": "47173121"
+      "score": 1846,
+      "id": "47173121",
+      "titleZh": "Dario Amodei 关于与战争部讨论的声明",
+      "summary": "Anthropic CEO Dario Amodei 就与国防部讨论发表正式声明。"
     },
     {
       "title": "The Hunt for Dark Breakfast",
       "url": "https://moultano.wordpress.com/2026/02/22/the-hunt-for-dark-breakfast/",
-      "score": 207,
-      "id": "47176257"
+      "score": 215,
+      "id": "47176257",
+      "titleZh": "寻找黑暗早餐",
+      "summary": "探索独特或另类早餐的猎奇讨论。"
     },
     {
       "title": "The normalization of corruption in organizations (2003) [pdf]",
       "url": "https://gwern.net/doc/sociology/2003-ashforth.pdf",
-      "score": 37,
-      "id": "47177186"
+      "score": 43,
+      "id": "47177186",
+      "titleZh": "组织中腐败的常态化（2003）[pdf]",
+      "summary": "2003 年论文分析组织内部腐败如何逐渐被接受常态化。"
     },
     {
       "title": "Julia: Performance Tips",
       "url": "https://docs.julialang.org/en/v1/manual/performance-tips/",
-      "score": 41,
-      "id": "47123633"
-    },
-    {
-      "title": "What Claude Code chooses",
-      "url": "https://amplifying.ai/research/claude-code-picks",
-      "score": 404,
-      "id": "47169757"
+      "score": 43,
+      "id": "47123633",
+      "titleZh": "Julia：性能优化技巧",
+      "summary": "分享 Julia 编程语言的性能提升实用技巧。"
     },
     {
       "title": "80386 Protection",
       "url": "https://nand2mario.github.io/posts/2026/80386_protection/",
-      "score": 56,
-      "id": "47138698"
+      "score": 60,
+      "id": "47138698",
+      "titleZh": "80386 保护机制",
+      "summary": "详解 Intel 80386 处理器的保护模式技术。"
+    },
+    {
+      "title": "What Claude Code chooses",
+      "url": "https://amplifying.ai/research/claude-code-picks",
+      "score": 408,
+      "id": "47169757",
+      "titleZh": "Claude Code 的选择",
+      "summary": "分析 Claude Code 在编程决策中的偏好。"
+    },
+    {
+      "title": "The Origins of Agar",
+      "url": "https://www.asimov.press/p/agar",
+      "score": 22,
+      "id": "47123109",
+      "titleZh": "Agar 的起源",
+      "summary": "探讨 Agar 技术或游戏的起源历史。"
     },
     {
       "title": "Ubicloud (YC W24): Software Engineer – $95-$250K in Turkey, Netherlands, CA",
       "url": "https://www.ycombinator.com/companies/ubicloud/jobs/j4bntEJ-software-engineer",
       "score": 1,
-      "id": "47178176"
-    },
-    {
-      "title": "The Origins of Agar",
-      "url": "https://www.asimov.press/p/agar",
-      "score": 20,
-      "id": "47123109"
+      "id": "47178176",
+      "titleZh": "Ubicloud (YC W24)：软件工程师职位 – 土耳其、荷兰、加州 年薪 9.5-25 万美元",
+      "summary": "Ubicloud 招聘软件工程师，提供高薪远程职位。"
     },
     {
       "title": "AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]",
       "url": "https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf",
       "score": 354,
-      "id": "47167763"
+      "id": "47167763",
+      "titleZh": "AirSnitch：揭秘并打破 Wi-Fi 网络客户端隔离 [pdf]",
+      "summary": "研究 Wi-Fi 客户端隔离机制的漏洞与破解方法。"
     },
     {
       "title": "Layoffs at Block",
       "url": "https://twitter.com/jack/status/2027129697092731343",
-      "score": 708,
-      "id": "47172119"
-    },
-    {
-      "title": "I rendered 1,418 confusables over 230 fonts. Most aren't confusable to the eye",
-      "url": "https://paultendo.github.io/posts/confusable-vision-visual-similarity/",
-      "score": 55,
-      "id": "47150674"
+      "score": 710,
+      "id": "47172119",
+      "titleZh": "Block 公司裁员",
+      "summary": "Block 发生大规模裁员事件。"
     },
     {
       "title": "Parakeet.cpp – Parakeet ASR inference in pure C++ with Metal GPU acceleration",
       "url": "https://github.com/Frikallo/parakeet.cpp",
-      "score": 48,
-      "id": "47176239"
+      "score": 52,
+      "id": "47176239",
+      "titleZh": "Parakeet.cpp – 纯 C++ 实现 Parakeet ASR 推理并支持 Metal GPU 加速",
+      "summary": "开源纯 C++ Parakeet 语音识别引擎，支持 Apple Metal GPU 加速。"
     },
     {
       "title": "What does \" 2>&1 \" mean?",
       "url": "https://stackoverflow.com/questions/818255/what-does-21-mean",
-      "score": 273,
-      "id": "47171233"
+      "score": 280,
+      "id": "47171233",
+      "titleZh": "‘2>&1’ 是什么意思？",
+      "summary": "解释 Linux shell 中 2>&1 重定向运算符的含义。"
+    },
+    {
+      "title": "I rendered 1,418 confusables over 230 fonts. Most aren't confusable to the eye",
+      "url": "https://paultendo.github.io/posts/confusable-vision-visual-similarity/",
+      "score": 57,
+      "id": "47150674",
+      "titleZh": "我用 230 种字体渲染了 1418 个易混淆字符，大多数肉眼不易混淆",
+      "summary": "字体渲染测试显示多数易混淆字符视觉上区分明显。"
+    },
+    {
+      "title": "Writing a \"clear room\" Z80 and Spectrum emulator with Claude Code",
+      "url": "https://antirez.com/news/160",
+      "score": 16,
+      "id": "47149829",
+      "titleZh": "使用 Claude Code 编写‘干净房间’ Z80 和 Spectrum 模拟器",
+      "summary": "借助 Claude Code 开发干净的 Z80 与 Spectrum 模拟器。"
     },
     {
       "title": "Launch HN: Cardboard (YC W26) – Agentic video editor",
       "url": "https://www.usecardboard.com/",
-      "score": 113,
-      "id": "47170174"
-    },
-    {
-      "title": "OsmAnd's Faster Offline Navigation (2025)",
-      "url": "https://osmand.net/blog/fast-routing/",
-      "score": 163,
-      "id": "47170157"
+      "score": 115,
+      "id": "47170174",
+      "titleZh": "Launch HN: Cardboard (YC W26) – 代理式视频编辑器",
+      "summary": "YC W26 项目 Cardboard 推出智能代理视频编辑工具。"
     }
   ],
   "producthunt": [
     {
-      "title": "Perplexity Computer — Everything AI can do, Perplexity Computer does for you.",
-      "url": "https://www.producthunt.com/products/perplexity-ai",
-      "votesCount": 0
-    },
-    {
-      "title": "Hacker News for macOS — A native macOS client for Hacker News, built with SwiftUI",
-      "url": "https://www.producthunt.com/products/hacker-news-for-macos",
-      "votesCount": 0
-    },
-    {
-      "title": "ShowcasePro — Convert photos into elegant designs for marketing + sharing",
-      "url": "https://www.producthunt.com/products/showcasepro",
-      "votesCount": 0
-    },
-    {
-      "title": "Alkemi — Your AI data teammate in Slack",
-      "url": "https://www.producthunt.com/products/alkemi",
-      "votesCount": 0
+      "title": "whatdoiwear.run — outfit engine for the modern runner",
+      "url": "https://www.producthunt.com/products/whatdoiwear-run",
+      "votesCount": 0,
+      "titleZh": "whatdoiwear.run — 现代跑步者的服装引擎",
+      "summary": "AI 驱动的跑步服装智能推荐平台。"
     },
     {
       "title": "Mastra Code — The AI coding agent that never compacts",
       "url": "https://www.producthunt.com/products/mastra",
-      "votesCount": 0
-    },
-    {
-      "title": "Superset — Run an army of Claude Code, Codex, etc. on your machine",
-      "url": "https://www.producthunt.com/products/superset-5",
-      "votesCount": 0
-    },
-    {
-      "title": "Nano Banana 2 — Google's latest AI image generation model",
-      "url": "https://www.producthunt.com/products/nano-banana-2-11",
-      "votesCount": 0
-    },
-    {
-      "title": "What's Up With That? — Get instant insights about the topic you're reading about",
-      "url": "https://www.producthunt.com/products/what-s-up-with-that",
-      "votesCount": 0
+      "votesCount": 0,
+      "titleZh": "Mastra Code — 永不压缩的 AI 编码代理",
+      "summary": "全新 AI 编码代理 Mastra Code，保持代码完整性。"
     },
     {
       "title": "BedRock — Get approved by US banks even after being rejeceted",
       "url": "https://www.producthunt.com/products/bedrock-5",
-      "votesCount": 0
+      "votesCount": 0,
+      "titleZh": "BedRock — 即使被拒也能获得美国银行批准",
+      "summary": "帮助被银行拒绝后重新获批的金融工具。"
+    },
+    {
+      "title": "Claude Code Remote Access — Monitor &amp; control your agent from anywhere.",
+      "url": "https://www.producthunt.com/products/claude-code-remote-access",
+      "votesCount": 0,
+      "titleZh": "Claude Code 远程访问 — 从任何地方监控控制你的代理",
+      "summary": "Claude Code 新增远程监控与控制功能。"
+    },
+    {
+      "title": "mvntSTUDIO — Dance generation AI for every music!",
+      "url": "https://www.producthunt.com/products/mvntstudio",
+      "votesCount": 0,
+      "titleZh": "mvntSTUDIO — 为每首音乐生成舞蹈的 AI",
+      "summary": "AI 音乐舞蹈自动生成工具 mvntSTUDIO。"
     },
     {
       "title": "Nix Capture — Capture API requests for bug reports in seconds",
       "url": "https://www.producthunt.com/products/nix-capture",
-      "votesCount": 0
+      "votesCount": 0,
+      "titleZh": "Nix Capture — 几秒内捕获 API 请求用于 bug 报告",
+      "summary": "快速捕获 API 请求的调试报告工具。"
     },
     {
-      "title": "Flarehawk — Monitors security tools, probes threats, + prompts action",
-      "url": "https://www.producthunt.com/products/flarehawk",
-      "votesCount": 0
+      "title": "Perplexity Computer — Everything AI can do, Perplexity Computer does for you.",
+      "url": "https://www.producthunt.com/products/perplexity-ai",
+      "votesCount": 0,
+      "titleZh": "Perplexity Computer — AI 能做的一切，Perplexity Computer 都为你做",
+      "summary": "Perplexity 推出的全能 AI 计算机助手。"
+    },
+    {
+      "title": "ShowcasePro — Convert photos into elegant designs for marketing + sharing",
+      "url": "https://www.producthunt.com/products/showcasepro",
+      "votesCount": 0,
+      "titleZh": "ShowcasePro — 将照片转换为优雅营销设计",
+      "summary": "照片转专业营销设计的 AI 工具。"
     },
     {
       "title": "HelixDB — An open-source OLTP graph-vector database built in Rust.",
       "url": "https://www.producthunt.com/products/helixdb",
-      "votesCount": 0
+      "votesCount": 0,
+      "titleZh": "HelixDB — Rust 构建的开源 OLTP 图向量数据库",
+      "summary": "高性能开源图向量数据库 HelixDB。"
+    },
+    {
+      "title": "Alkemi — Your AI data teammate in Slack",
+      "url": "https://www.producthunt.com/products/alkemi",
+      "votesCount": 0,
+      "titleZh": "Alkemi — 你在 Slack 中的 AI 数据队友",
+      "summary": "Slack 集成 AI 数据分析助手 Alkemi。"
+    },
+    {
+      "title": "Hacker News for macOS — A native macOS client for Hacker News, built with SwiftUI",
+      "url": "https://www.producthunt.com/products/hacker-news-for-macos",
+      "votesCount": 0,
+      "titleZh": "Hacker News for macOS — SwiftUI 构建的原生 macOS Hacker News 客户端",
+      "summary": "macOS 原生 Hacker News 阅读应用。"
     },
     {
       "title": "muno — AI agents that talk to your team &amp; complete tasks for you.",
       "url": "https://www.producthunt.com/products/muno-2",
-      "votesCount": 0
+      "votesCount": 0,
+      "titleZh": "muno — 与团队对话并完成任务的 AI 代理",
+      "summary": "团队协作 AI 代理 muno。"
     },
     {
-      "title": "mvntSTUDIO — Turn any music into dance",
-      "url": "https://www.producthunt.com/products/mvntstudio",
-      "votesCount": 0
+      "title": "MaxClaw by MiniMax — Always-on managed agent based on OpenClaw powered by MiniMax",
+      "url": "https://www.producthunt.com/products/minimax-agent",
+      "votesCount": 0,
+      "titleZh": "MiniMax 的 MaxClaw — 基于 OpenClaw 的常开托管代理",
+      "summary": "MiniMax 推出常驻托管 AI 代理 MaxClaw。"
     },
     {
-      "title": "lemonpod.ai — Your daily life recap, narrated as a personal AI podcast",
-      "url": "https://www.producthunt.com/products/lemonpod-ai",
-      "votesCount": 0
+      "title": "What's Up With That? — Get instant insights about the topic you're reading about",
+      "url": "https://www.producthunt.com/products/what-s-up-with-that",
+      "votesCount": 0,
+      "titleZh": "What's Up With That? — 获取阅读主题的即时洞见",
+      "summary": "阅读时提供即时背景洞见的工具。"
+    },
+    {
+      "title": "Musikey — Tough musical authentication for accessibility",
+      "url": "https://www.producthunt.com/products/musikey-music-auth",
+      "votesCount": 0,
+      "titleZh": "Musikey — 针对可访问性的强音乐认证",
+      "summary": "音乐为基础的辅助认证系统，提升可访问性。"
     }
   ],
   "substack": [
     {
       "title": "The Pulse: Cloudflare rewrites Next.js as AI rewrites commercial open source",
       "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-164-nextjs",
-      "source": "newsletter.pragmaticengineer.com"
+      "source": "newsletter.pragmaticengineer.com",
+      "titleZh": "The Pulse：Cloudflare 重写 Next.js，正如 AI 重写商业开源",
+      "summary": "Cloudflare 以 AI 方式重构 Next.js，探讨 AI 对商业开源的变革。"
     },
     {
       "title": "Mitchell Hashimoto’s new way of writing code",
       "url": "https://newsletter.pragmaticengineer.com/p/mitchell-hashimoto",
-      "source": "newsletter.pragmaticengineer.com"
+      "source": "newsletter.pragmaticengineer.com",
+      "titleZh": "Mitchell Hashimoto 的新编码方式",
+      "summary": "HashiCorp 创始人分享全新代码编写理念。"
     },
     {
       "title": "The Future of Software Engineering with AI: Six Predictions",
       "url": "https://newsletter.pragmaticengineer.com/p/the-future-of-software-engineering-with-ai",
-      "source": "newsletter.pragmaticengineer.com"
+      "source": "newsletter.pragmaticengineer.com",
+      "titleZh": "AI 时代软件工程的未来：六大预测",
+      "summary": "对 AI 驱动下软件工程未来的六点前瞻预测。"
     },
     {
       "title": "The Pulse #162: Even fewer middle managers and more flexible teams?",
       "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-162-even-fewer-middle-managers",
-      "source": "newsletter.pragmaticengineer.com"
+      "source": "newsletter.pragmaticengineer.com",
+      "titleZh": "The Pulse #162：更少中层经理和更灵活团队？",
+      "summary": "AI 时代组织结构趋向扁平化与灵活团队。"
     },
     {
       "title": "How Codex is built",
       "url": "https://newsletter.pragmaticengineer.com/p/how-codex-is-built",
-      "source": "newsletter.pragmaticengineer.com"
+      "source": "newsletter.pragmaticengineer.com",
+      "titleZh": "Codex 是如何构建的",
+      "summary": "深入解析 Codex AI 代码工具的构建过程。"
     },
     {
       "title": "Strong Consistency In Databases: Promises and Costs",
       "url": "https://blog.bytebytego.com/p/strong-consistency-in-databases-promises",
-      "source": "blog.bytebytego.com"
+      "source": "blog.bytebytego.com",
+      "titleZh": "数据库中的强一致性：承诺与代价",
+      "summary": "分析强一致性数据库的优点及性能成本。"
     },
     {
       "title": "The Algorithm That Powers Your X (Twitter) Post",
       "url": "https://blog.bytebytego.com/p/the-algorithm-that-powers-your-x",
-      "source": "blog.bytebytego.com"
+      "source": "blog.bytebytego.com",
+      "titleZh": "驱动你 X（Twitter）帖子的算法",
+      "summary": "详细拆解 Twitter/X 内容推荐算法机制。"
     },
     {
       "title": "How Uber Reinvented Access Control for Microservices",
       "url": "https://blog.bytebytego.com/p/how-uber-reinvented-access-control",
-      "source": "blog.bytebytego.com"
+      "source": "blog.bytebytego.com",
+      "titleZh": "Uber 如何为微服务重塑访问控制",
+      "summary": "Uber 在微服务架构中的访问控制创新实践。"
     },
     {
       "title": "How Large Language Models Learn",
       "url": "https://blog.bytebytego.com/p/how-large-language-models-learn",
-      "source": "blog.bytebytego.com"
+      "source": "blog.bytebytego.com",
+      "titleZh": "大型语言模型如何学习",
+      "summary": "讲解 LLM 的训练与学习核心机制。"
     },
     {
       "title": "EP203: RabbitMQ vs Kafka vs Pulsar",
       "url": "https://blog.bytebytego.com/p/ep203-rabbitmq-vs-kafka-vs-pulsar",
-      "source": "blog.bytebytego.com"
+      "source": "blog.bytebytego.com",
+      "titleZh": "EP203: RabbitMQ vs Kafka vs Pulsar",
+      "summary": "深入比较三大消息队列 RabbitMQ、Kafka 与 Pulsar。"
     },
     {
       "title": "AI is critical for humanity’s survival: Cisco president on the AI revolution | Jeetu Patel",
       "url": "https://www.lennysnewsletter.com/p/ai-is-critical-for-humanitys-survival",
-      "source": "www.lennysnewsletter.com"
+      "source": "www.lennysnewsletter.com",
+      "titleZh": "AI 对人类生存至关重要：思科总裁谈 AI 革命 | Jeetu Patel",
+      "summary": "思科总裁 Jeetu Patel 强调 AI 是人类未来关键。"
     },
     {
       "title": "5 OpenClaw agents run my home, finances, and code | Jesse Genet",
       "url": "https://www.lennysnewsletter.com/p/5-openclaw-agents-run-my-home-finances",
-      "source": "www.lennysnewsletter.com"
+      "source": "www.lennysnewsletter.com",
+      "titleZh": "5 个 OpenClaw 代理管理我的家庭、财务和代码 | Jesse Genet",
+      "summary": "使用 OpenClaw AI 代理全面自动化生活与工作。"
     },
     {
       "title": "How to use AI for your next job interview",
       "url": "https://www.lennysnewsletter.com/p/how-to-use-ai-in-your-next-job-interview",
-      "source": "www.lennysnewsletter.com"
+      "source": "www.lennysnewsletter.com",
+      "titleZh": "如何在下次求职面试中使用 AI",
+      "summary": "AI 辅助求职面试的实用技巧与策略。"
     },
     {
       "title": "How to use AI for your next job interview",
       "url": "https://www.lennysnewsletter.com/p/how-to-use-ai-for-your-next-job-interview",
-      "source": "www.lennysnewsletter.com"
+      "source": "www.lennysnewsletter.com",
+      "titleZh": "如何在下次求职面试中使用 AI",
+      "summary": "AI 辅助求职面试的实用技巧与策略。"
     },
     {
       "title": "🎙️ This week on How I AI: How Notion’s design team uses Claude Code to design",
       "url": "https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-how-notions",
-      "source": "www.lennysnewsletter.com"
+      "source": "www.lennysnewsletter.com",
+      "titleZh": "本周 How I AI：Notion 设计团队如何使用 Claude Code 进行设计",
+      "summary": "Notion 设计团队借助 Claude Code 的实际设计案例。"
     }
   ],
-  "pinterest": [],
-  "x": []
+  "pinterest": [
+    {
+      "title": "2026 Spring Decor Ideas and Design Trends You'll Love",
+      "url": "https://www.pinterest.com/pin/232920611964980064/",
+      "titleZh": "2026 春季家居装饰创意与设计趋势",
+      "summary": "分享 2026 年春季各类房间装饰灵感，适合不同预算和风格。",
+      "source": "Pinterest"
+    },
+    {
+      "title": "2026 Living Room Trends and Decor Ideas You Will Love",
+      "url": "https://www.pinterest.com/pin/232920611967125608/",
+      "titleZh": "2026 客厅趋势与装饰想法",
+      "summary": "展示 2026 年客厅现代装饰趋势与灵感方案。",
+      "source": "Pinterest"
+    },
+    {
+      "title": "Jan 2026 Special Delivery Alternates Projects 2",
+      "url": "https://www.pinterest.com/pin/544091198756243093/",
+      "titleZh": "2026 年 1 月特别投递备选项目 2",
+      "summary": "使用 Paper Pumpkin 套件制作剪贴簿和贺卡的 DIY 项目。",
+      "source": "Pinterest"
+    },
+    {
+      "title": "Home Decor 2026: Handcrafted Modern Art for a New Beginning",
+      "url": "https://www.pinterest.com/pin/538391330475802363/",
+      "titleZh": "2026 家居装饰：手工现代艺术开启新篇章",
+      "summary": "手工现代艺术作品为家居空间带来全新开始。",
+      "source": "Pinterest"
+    },
+    {
+      "title": "Top 10 Home Decor Trends and Interior Design Ideas for 2026",
+      "url": "https://www.pinterest.com/pin/724164815127157462/",
+      "titleZh": "2026 十大家居装饰趋势与室内设计想法",
+      "summary": "汇总 2026 年各类室内风格的热门装饰趋势。",
+      "source": "Pinterest"
+    },
+    {
+      "title": "15 Best Sustainable Home Decor Brands (2026)",
+      "url": "https://www.pinterest.com/pin/615022892898393141/",
+      "titleZh": "2026 年 15 个最佳可持续家居装饰品牌",
+      "summary": "推荐注重公平贸易和手工的可持续家居品牌。",
+      "source": "Pinterest"
+    },
+    {
+      "title": "Decorating with Intention in 2026 | Home Decor Tips",
+      "url": "https://www.pinterest.com/pin/1043990757385764602/",
+      "titleZh": "2026 有意装饰家居提示",
+      "summary": "强调 2026 年注重情感连接与有意生活的装饰方式。",
+      "source": "Pinterest"
+    },
+    {
+      "title": "Bold Modern Wall Art for Home Decor 2026",
+      "url": "https://www.pinterest.com/pin/538391330475839357/",
+      "titleZh": "2026 大胆现代墙艺家居装饰",
+      "summary": "手工现代墙艺为家居增添自信与风格。",
+      "source": "Pinterest"
+    },
+    {
+      "title": "9 New Craft Ideas you NEED to Try in 2026",
+      "url": "https://www.pinterest.com/pin/73957618871707589/",
+      "titleZh": "2026 你需要尝试的 9 个新手工艺想法",
+      "summary": "推荐 2026 年值得一试的创新手工艺项目。",
+      "source": "Pinterest"
+    },
+    {
+      "title": "Jan 2026 Special Delivery Alternates Projects 2",
+      "url": "https://www.pinterest.com/pin/544091198756243021/",
+      "titleZh": "2026 年 1 月特别投递备选项目 2",
+      "summary": "Stampin' Up 套件制作的卡片与项目灵感。",
+      "source": "Pinterest"
+    }
+  ],
+  "x": [
+    {
+      "title": "man.. Citrini article into Block laying off 4,000 people due to AI into Anthropic saying “hey, US Govt with $1T budget, we don’t need you” ….. we’re in Dec 2019 and we don’t even know it yet.",
+      "url": "https://x.com/Stupifff/status/2027245551885091026",
+      "titleZh": "Citrini 文章提到 Block 因 AI 裁员 4000 人，Anthropic 对美国政府说我们不需要你……我们正处于 2019 年 12 月却不知",
+      "summary": "用户感慨 AI 快速发展带来剧变，如 Block 大裁员与 Anthropic 拒绝政府要求，预示时代巨变已至。",
+      "source": "X (Twitter)",
+      "author": "@Stupifff",
+      "likes": 7,
+      "retweets": 0
+    },
+    {
+      "title": "Anthropic remains private (recent $380B valuation via funding), so no direct public stock impact. Possible scenarios: Pentagon may cut ties...",
+      "url": "https://x.com/grok/status/2027199303081427114",
+      "titleZh": "Anthropic 仍为私有公司（最近融资估值 3800 亿美元），对公开股市影响有限。五角大楼可能切断联系...",
+      "summary": "Grok 分析 Anthropic 拒绝五角大楼后可能的后果及对 AI 市场影响。",
+      "source": "X (Twitter)",
+      "author": "@grok",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "title": "Block's slashing ~4k jobs (nearly half its workforce) via AI overhaul—stock +24%, Dorsey says most firms follow soon. Anthropic's Amodei holding firm vs DoW/Pentagon...",
+      "url": "https://x.com/grok/status/2027173590618018015",
+      "titleZh": "Block 通过 AI 改革裁减约 4000 岗位（近半员工），股价涨 24%，Dorsey 称多数公司将跟进。Anthropic Amodei 对国防部立场坚定...",
+      "summary": "Grok 总结 Block AI 驱动裁员与 Anthropic 安全立场新闻。",
+      "source": "X (Twitter)",
+      "author": "@grok",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "title": "⭕️ Check out MultiLLM debate this new paper \"Querying Labeled Time Series Data\": ... #AI #Research #ML",
+      "url": "https://x.com/MultiLLM/status/2027319179397791935",
+      "titleZh": "来看 MultiLLM 辩论新论文《查询标记时间序列数据》：... #AI #Research #ML",
+      "summary": "MultiLLM 平台讨论 AI 时间序列数据查询新论文。",
+      "source": "X (Twitter)",
+      "author": "@MultiLLM",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "title": "Warner-Kauf: Paramount auf der Gewinnerstraße. #netflix",
+      "url": "https://x.com/teltarif/status/2027319175610269742",
+      "titleZh": "Warner 收购：Paramount 领先。#netflix",
+      "summary": "报道 Netflix 退出后 Paramount 在 Warner 收购中占优。",
+      "source": "X (Twitter)",
+      "author": "@teltarif",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "title": "Why is my entire feed all about AI these days. Even the people I followed for crypto confluence are barely tweeting about it anymore...",
+      "url": "https://x.com/CryptoGirlNova/status/2027319175706738730",
+      "titleZh": "为什么我整个 feed 现在全是 AI。即使我关注 crypto 的人也很少发 crypto 了...",
+      "summary": "加密用户感慨 AI 话题主导 feed，crypto 讨论减少。",
+      "source": "X (Twitter)",
+      "author": "@CryptoGirlNova",
+      "likes": 0,
+      "retweets": 0
+    }
+  ]
 }
