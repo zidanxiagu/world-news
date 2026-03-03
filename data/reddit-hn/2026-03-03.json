@@ -5,203 +5,195 @@
       "title": "I Hacked This Temu Router. What I Found Should Be Illegal.",
       "url": "https://reddit.com/r/programming/comments/1rjff3k/i_hacked_this_temu_router_what_i_found_should_be/",
       "subreddit": "programming",
-      "score": 273,
-      "titleZh": "我黑了这个 Temu 路由器，发现的东西应该违法",
-      "summary": "用户黑入 Temu 路由器后揭露严重隐私和安全问题，呼吁监管介入。"
+      "score": 291,
+      "titleZh": "我黑了这个Temu路由器。发现的东西应该违法。",
+      "summary": "黑客破解Temu廉价路由器，揭露严重安全漏洞与潜在非法数据收集。"
     },
     {
       "title": "I Put a Full JVM Inside a Browser Tab. It \"Works\". Technically. Eventually.",
       "url": "https://reddit.com/r/programming/comments/1rjb2io/i_put_a_full_jvm_inside_a_browser_tab_it_works/",
       "subreddit": "programming",
-      "score": 128,
-      "titleZh": "我把完整 JVM 塞进浏览器标签页，它“能用”。技术上。最终。",
-      "summary": "开发者成功在浏览器标签中运行完整 JVM，演示技术可行性但效率低下。"
+      "score": 131,
+      "titleZh": "我把完整JVM放进浏览器标签页。它‘能用’。技术上讲。最终。",
+      "summary": "开发者成功在浏览器中运行完整Java虚拟机，展示前沿Web技术极限。"
     },
     {
       "title": "ChatGPT uninstalls surged by 295% after DoD deal",
       "url": "https://reddit.com/r/technology/comments/1rj9vjo/chatgpt_uninstalls_surged_by_295_after_dod_deal/",
       "subreddit": "technology",
-      "score": 30902,
-      "titleZh": "ChatGPT 卸载量在 DoD 协议后激增 295%",
-      "summary": "OpenAI 与国防部协议引发用户反弹，ChatGPT 卸载量暴增 295%。"
-    },
-    {
-      "title": "OpenAI’s Altman admits defense deal was ‘opportunistic and sloppy’ amid backlash",
-      "url": "https://reddit.com/r/technology/comments/1rjeu0w/openais_altman_admits_defense_deal_was/",
-      "subreddit": "technology",
-      "score": 1945,
-      "titleZh": "OpenAI Altman 承认国防协议“投机且草率” amid 反弹",
-      "summary": "面对用户批评，OpenAI CEO Altman 承认与国防部协议处理草率。"
+      "score": 31070,
+      "titleZh": "DoD协议后ChatGPT卸载量激增295%",
+      "summary": "OpenAI国防协议引发用户反弹，ChatGPT卸载量大幅上升。"
     },
     {
       "title": "Amazon confirms its UAE data centers were 'directly struck' by Iranian drones on Sunday",
       "url": "https://reddit.com/r/technology/comments/1rjhlky/amazon_confirms_its_uae_data_centers_were/",
       "subreddit": "technology",
-      "score": 1198,
+      "score": 1322,
       "titleZh": "亚马逊确认其阿联酋数据中心周日遭伊朗无人机直接打击",
-      "summary": "亚马逊承认阿联酋数据中心遭伊朗无人机袭击，影响云服务。"
+      "summary": "亚马逊AWS数据中心被伊朗无人机袭击，影响云计算服务。"
+    },
+    {
+      "title": "OpenAI’s Altman admits defense deal was ‘opportunistic and sloppy’ amid backlash",
+      "url": "https://reddit.com/r/technology/comments/1rjeu0w/openais_altman_admits_defense_deal_was/",
+      "subreddit": "technology",
+      "score": 1976,
+      "titleZh": "OpenAI创始人Altman承认国防协议‘投机且草率’",
+      "summary": "Sam Altman回应批评，承认与五角大楼合作方式存在问题。"
     },
     {
       "title": "AWS data centre got hit by missiles and this is how they frame it lmaoo",
       "url": "https://reddit.com/r/webdev/comments/1riywuh/aws_data_centre_got_hit_by_missiles_and_this_is/",
       "subreddit": "webdev",
-      "score": 1281,
-      "titleZh": "AWS 数据中心遭导弹袭击，他们竟这样描述哈哈",
-      "summary": "AWS 数据中心遇袭，官方声明被网友嘲笑为轻描淡写。"
+      "score": 1297,
+      "titleZh": "AWS数据中心遭导弹袭击，他们这样描述 lmaoo",
+      "summary": "亚马逊淡化数据中心遭袭事件，引发网友嘲讽。"
     },
     {
       "title": "[R] Are neurons the wrong primitive for modeling decision systems?",
       "url": "https://reddit.com/r/MachineLearning/comments/1rjcqzq/r_are_neurons_the_wrong_primitive_for_modeling/",
       "subreddit": "machinelearning",
-      "score": 28,
-      "titleZh": "[R] 神经元是建模决策系统的错误基元吗？",
-      "summary": "研究论文质疑神经元是否适合作为决策系统建模基础，引发 AI 架构讨论。"
+      "score": 33,
+      "titleZh": "[R]神经元是建模决策系统的错误基元吗？",
+      "summary": "研究讨论神经网络是否适合作为AI决策建模的基本单位。"
     },
     {
       "title": "ChatGPT Uninstalls Surge 295% After OpenAI’s DoD Deal Sparks Backlash",
       "url": "https://reddit.com/r/artificial/comments/1rjfh7f/chatgpt_uninstalls_surge_295_after_openais_dod/",
       "subreddit": "artificial",
       "score": 44,
-      "titleZh": "ChatGPT 卸载量激增 295% 因 OpenAI DoD 协议引发反弹",
-      "summary": "OpenAI 国防协议引发强烈反对，ChatGPT 卸载量大幅上升。"
+      "titleZh": "ChatGPT卸载量在OpenAI DoD协议后激增295%",
+      "summary": "国防合作引发用户大规模卸载ChatGPT。"
     },
     {
       "title": "How OpenAI caved to the Pentagon on AI surveillance",
       "url": "https://reddit.com/r/artificial/comments/1rj8u3t/how_openai_caved_to_the_pentagon_on_ai/",
       "subreddit": "artificial",
-      "score": 47,
-      "titleZh": "OpenAI 如何在 AI 监控上向五角大楼屈服",
-      "summary": "OpenAI 为达成协议在 AI 监控议题上妥协国防部要求。"
+      "score": 48,
+      "titleZh": "OpenAI如何在AI监控上向五角大楼让步",
+      "summary": "OpenAI在监视相关AI应用上对国防部做出妥协。"
     },
     {
       "title": "The AI data center boom is creating a dire electrician shortage. That’s an opportunity for Gen Z | Fortune",
       "url": "https://reddit.com/r/artificial/comments/1rj96v6/the_ai_data_center_boom_is_creating_a_dire/",
       "subreddit": "artificial",
-      "score": 22,
-      "titleZh": "AI 数据中心热潮造成电工严重短缺，这是 Z 世代机会 | Fortune",
-      "summary": "AI 数据中心扩张导致电工短缺，为年轻一代提供就业机遇。"
+      "score": 24,
+      "titleZh": "AI数据中心繁荣导致电工短缺，这是Gen Z的机会 | Fortune",
+      "summary": "AI基础设施建设需求激增，电工行业出现大量就业机会。"
     },
     {
       "title": "Iran says Strait of Hormuz closed and warns it will attack ships trying to pass",
       "url": "https://reddit.com/r/wallstreetbets/comments/1rj4gvm/iran_says_strait_of_hormuz_closed_and_warns_it/",
       "subreddit": "wallstreetbets",
-      "score": 15827,
+      "score": 15880,
       "titleZh": "伊朗称霍尔木兹海峡关闭，并警告将攻击试图通过的船只",
-      "summary": "伊朗宣布关闭霍尔木兹海峡，并威胁打击过往船舶，影响全球油运。"
+      "summary": "伊朗封锁关键石油通道，威胁全球能源供应。"
     },
     {
       "title": "A national survey found 77 percent of high school students didn’t get adequate sleep in 2023 | Of those surveyed, 23% of teens reported sleeping for five hours or less, what's considered 'very short sleep'",
       "url": "https://reddit.com/r/science/comments/1riywqj/a_national_survey_found_77_percent_of_high_school/",
       "subreddit": "science",
-      "score": 4894,
-      "titleZh": "全国调查发现 77% 高中生 2023 年睡眠不足 | 23% 青少年睡眠不足五小时",
-      "summary": "调查显示大部分高中生睡眠不足，23% 仅睡五小时或更少，影响健康。"
+      "score": 4908,
+      "titleZh": "全国调查发现2023年77%高中生睡眠不足",
+      "summary": "青少年睡眠不足问题严重，23%每天睡眠不足5小时。"
     },
     {
       "title": "Antarctica has lost 10 times the size of Greater Los Angeles in ice over 30 years. The ice sheet has been retreating from the grounding line at an average rate of 442 square kilometers per year.",
       "url": "https://reddit.com/r/science/comments/1rj4ob9/antarctica_has_lost_10_times_the_size_of_greater/",
       "subreddit": "science",
-      "score": 2087,
-      "titleZh": "南极 30 年内冰层损失相当于大洛杉矶 10 倍面积，冰盖每年后退 442 平方公里",
-      "summary": "南极冰盖加速融化，30 年损失巨大，平均每年后退 442 平方公里。"
+      "score": 2099,
+      "titleZh": "南极洲30年失去相当于大洛杉矶10倍面积的冰层",
+      "summary": "南极冰盖加速融化，每年退缩442平方公里。"
     },
     {
       "title": "Multiple childhood traumas linked to highly interconnected addictive behaviors in adulthood. This pattern hints at a complex relationship between early psychological pain and the ways people attempt to cope as adults.",
       "url": "https://reddit.com/r/science/comments/1ripvng/multiple_childhood_traumas_linked_to_highly/",
       "subreddit": "science",
-      "score": 5653,
-      "titleZh": "童年多重创伤与成年高度关联成瘾行为有关，此模式暗示早期心理痛苦与成年应对方式的复杂关系",
-      "summary": "研究发现童年创伤导致成年多重成瘾，揭示心理创伤长期影响。"
+      "score": 5660,
+      "titleZh": "童年多重创伤与成年成瘾行为高度相关",
+      "summary": "研究显示早期心理创伤显著增加成年后多种成瘾风险。"
     },
     {
       "title": "Israel hacked Iran traffic cameras for years to pinpoint Khaemnei location prior to strike: News report",
       "url": "https://reddit.com/r/worldnews/comments/1rjgrpg/israel_hacked_iran_traffic_cameras_for_years_to/",
       "subreddit": "worldnews",
-      "score": 7409,
-      "titleZh": "以色列多年来黑入伊朗交通摄像头以定位哈梅内伊位置：新闻报道",
-      "summary": "报道称以色列通过入侵伊朗摄像头长期监控，精准锁定目标进行打击。"
+      "score": 7787,
+      "titleZh": "以色列多年来黑入伊朗交通摄像头定位哈梅内伊位置：报道",
+      "summary": "以色列利用黑客手段长期监控伊朗领导人位置。"
     }
   ],
   "hn": [
     {
       "title": "Meta’s AI smart glasses and data privacy concerns",
       "url": "https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything",
-      "score": 1019,
+      "score": 1026,
       "id": "47225130",
-      "titleZh": "Meta AI 智能眼镜与数据隐私担忧",
-      "summary": "Meta 新款 AI 智能眼镜引发数据隐私争议，用户担心被持续监控。"
+      "titleZh": "Meta AI智能眼镜与数据隐私担忧",
+      "summary": "Meta新AI眼镜引发公众对数据收集与隐私安全的强烈讨论。"
     },
     {
       "title": "British Columbia is permanently adopting daylight time",
       "url": "https://www.cbc.ca/news/canada/british-columbia/b-c-adopting-year-round-daylight-time-9.7111657",
-      "score": 769,
+      "score": 773,
       "id": "47223620",
       "titleZh": "不列颠哥伦比亚永久采用夏令时",
-      "summary": "加拿大不列颠哥伦比亚省决定永久使用夏令时，结束季节性调整。"
+      "summary": "加拿大BC省决定永久实行夏令时以节省能源。"
     },
     {
       "title": "Arm's Cortex X925: Reaching Desktop Performance",
       "url": "https://chipsandcheese.com/p/arms-cortex-x925-reaching-desktop",
-      "score": 14,
+      "score": 28,
       "id": "47229344",
       "titleZh": "Arm Cortex X925：达到桌面级性能",
-      "summary": "Arm 新款 Cortex X925 处理器性能逼近桌面级，助力移动设备升级。"
+      "summary": "Arm新处理器内核性能已媲美桌面电脑级别。"
     },
     {
       "title": "Ars Technica fires reporter after AI controversy involving fabricated quotes",
       "url": "https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes",
-      "score": 238,
+      "score": 240,
       "id": "47226608",
-      "titleZh": "Ars Technica 因 AI 虚构引言争议解雇记者",
-      "summary": "Ars Technica 因记者使用 AI 生成虚假引言被解雇，引发媒体伦理讨论。"
+      "titleZh": "Ars Technica因AI伪造引文解雇记者",
+      "summary": "科技媒体因记者使用AI生成虚假引述被解雇。"
     },
     {
       "title": "Simple screw counter",
       "url": "https://mitxela.com/projects/screwcounter",
-      "score": 111,
+      "score": 115,
       "id": "47201132",
       "titleZh": "简单螺丝计数器",
-      "summary": "一款简易螺丝计数工具，帮助 DIY 或维修精确计数。"
+      "summary": "Show HN项目：一个简易工具用于计数螺丝。"
+    },
+    {
+      "title": "Show HN: I built a sub-500ms latency voice agent from scratch",
+      "url": "https://www.ntik.me/posts/voice-agent",
+      "score": 380,
+      "id": "47224295",
+      "titleZh": "Show HN：我从零构建亚500ms延迟语音代理",
+      "summary": "开发者从零打造超低延迟语音AI代理。"
     },
     {
       "title": "I built a pint-sized Macintosh",
       "url": "https://www.jeffgeerling.com/blog/2026/pint-sized-macintosh-pico-micro-mac/",
       "score": 19,
       "id": "47229119",
-      "titleZh": "我造了一个袖珍版 Macintosh",
-      "summary": "爱好者自制迷你 Macintosh 电脑，复刻经典设计。"
-    },
-    {
-      "title": "Show HN: I built a sub-500ms latency voice agent from scratch",
-      "url": "https://www.ntik.me/posts/voice-agent",
-      "score": 373,
-      "id": "47224295",
-      "titleZh": "Show HN：我从零打造亚 500ms 延迟语音代理",
-      "summary": "开发者展示自建低延迟语音 AI 代理，性能优异。"
+      "titleZh": "我打造了一个袖珍Macintosh",
+      "summary": "复古爱好者制作迷你版经典Mac电脑。"
     },
     {
       "title": "DOS Memory Management",
       "url": "https://www.os2museum.com/wp/dos-memory-management/",
-      "score": 37,
+      "score": 38,
       "id": "47196864",
-      "titleZh": "DOS 内存管理",
-      "summary": "详解经典 DOS 系统内存管理技术，适合老系统爱好者。"
-    },
-    {
-      "title": "Daily Driving GrapheneOS",
-      "url": "https://blog.matthewbrunelle.com/8-4-months-of-daily-driving-grapheneos/",
-      "score": 88,
-      "id": "47228390",
-      "titleZh": "日常使用 GrapheneOS",
-      "summary": "用户分享日常驾驶 GrapheneOS 隐私手机系统的体验。"
+      "titleZh": "DOS内存管理",
+      "summary": "讨论老式DOS系统内存优化技术。"
     },
     {
       "title": "Buckle Up for Bumpier Skies",
       "url": "https://www.newyorker.com/magazine/2026/03/09/buckle-up-for-bumpier-skies",
-      "score": 24,
+      "score": 25,
       "id": "47228639",
-      "titleZh": "系好安全带，迎接更颠簸的天空",
-      "summary": "航空业面临更多 turbulence，飞行将更不稳定。"
+      "titleZh": "系好安全带，迎接更颠簸的飞行",
+      "summary": "航空业因地缘政治面临更多飞行颠簸。"
     },
     {
       "title": "Intent-Based Commits",
@@ -209,7 +201,7 @@
       "score": 40,
       "id": "47227999",
       "titleZh": "基于意图的提交",
-      "summary": "编程新实践：使用意图驱动的代码提交，提升开发效率。"
+      "summary": "编程新范式：意图驱动的代码提交方式。"
     },
     {
       "title": "Moldova broke our data pipeline",
@@ -217,138 +209,146 @@
       "score": 41,
       "id": "47197858",
       "titleZh": "摩尔多瓦破坏了我们的数据管道",
-      "summary": "某公司数据管道因摩尔多瓦事件中断，影响服务。"
+      "summary": "某公司数据管道因摩尔多瓦事件中断。"
     },
     {
-      "title": "New iPad Air, powered by M4",
-      "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/",
-      "score": 382,
-      "id": "47218175",
-      "titleZh": "新款 iPad Air，搭载 M4",
-      "summary": "苹果发布 M4 芯片驱动的新 iPad Air，性能大幅提升。"
+      "title": "Daily Driving GrapheneOS",
+      "url": "https://blog.matthewbrunelle.com/8-4-months-of-daily-driving-grapheneos/",
+      "score": 90,
+      "id": "47228390",
+      "titleZh": "日常使用GrapheneOS",
+      "summary": "隐私爱好者分享GrapheneOS手机系统日常体验。"
     },
     {
       "title": "Physicists developing a quantum computer that’s entirely open source",
       "url": "https://physics.aps.org/articles/v19/24",
-      "score": 94,
+      "score": 95,
       "id": "47225726",
       "titleZh": "物理学家开发完全开源量子计算机",
-      "summary": "科学家推进全开源量子计算机项目，促进技术民主化。"
+      "summary": "开源量子计算项目正在推进中。"
+    },
+    {
+      "title": "New iPad Air, powered by M4",
+      "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/",
+      "score": 383,
+      "id": "47218175",
+      "titleZh": "新iPad Air，M4驱动",
+      "summary": "苹果发布搭载M4芯片的新款iPad Air。"
     },
     {
       "title": "First in-utero stem cell therapy for fetal spina bifida repair is safe: study",
       "url": "https://health.ucdavis.edu/news/headlines/first-ever-in-utero-stem-cell-therapy-for-fetal-spina-bifida-repair-is-safe-study-finds/2026/02",
-      "score": 293,
+      "score": 294,
       "id": "47218743",
-      "titleZh": "首例子宫内干细胞治疗胎儿脊柱裂修复安全：研究",
-      "summary": "研究证实首例胎儿脊柱裂子宫内干细胞治疗安全有效。"
+      "titleZh": "子宫内干细胞疗法修复胎儿脊柱裂安全：研究",
+      "summary": "首例胎儿脊柱裂子宫内干细胞治疗研究证实安全有效。"
     }
   ],
   "producthunt": [
     {
-      "title": "Skyvern MCP &amp; Skills — Let Claude code and Open Claw automate the web",
-      "url": "https://www.producthunt.com/products/skyvern",
-      "votesCount": 0,
-      "titleZh": "Skyvern MCP & Skills —— 让 Claude 编码并用 Open Claw 自动化网页",
-      "summary": "新工具 Skyvern 允许 Claude AI 编写代码，并通过 Open Claw 实现网页自动化操作。"
-    },
-    {
-      "title": "Secret Sauce 3D — AI tool suite for professional 3D artists",
-      "url": "https://www.producthunt.com/products/secret-sauce-3d",
-      "votesCount": 0,
-      "titleZh": "Secret Sauce 3D —— 专业 3D 艺术家的 AI 工具套件",
-      "summary": "AI 驱动的 3D 创作套件，帮助专业艺术家提升效率和创意。"
-    },
-    {
-      "title": "Upsolve AI for CSVs — Turn your CSVs into share-worthy dashboards",
-      "url": "https://www.producthunt.com/products/upsolve-ai",
-      "votesCount": 0,
-      "titleZh": "Upsolve AI for CSVs —— 将 CSV 转化为值得分享的仪表板",
-      "summary": "AI 工具一键将 CSV 数据转为美观仪表板，便于分享。"
-    },
-    {
       "title": "Shavely — Group chat where every message speaks your language",
       "url": "https://www.producthunt.com/products/shavely",
       "votesCount": 0,
-      "titleZh": "Shavely —— 群聊中每条消息都用你的语言",
-      "summary": "群聊 app 支持实时多语言翻译，让跨语言沟通无缝。"
+      "titleZh": "Shavely——群聊每条消息都说你的语言",
+      "summary": "Shavely提供实时多语言翻译群聊功能。"
     },
     {
-      "title": "SuperMoney — Receive actionable financial tips to save money &amp; wipe debt",
-      "url": "https://www.producthunt.com/products/supermoney",
+      "title": "Lavalier AI — Interview Intelligence to hire with speed and confidence",
+      "url": "https://www.producthunt.com/products/textio",
       "votesCount": 0,
-      "titleZh": "SuperMoney —— 接收可行动的理财提示以省钱还债",
-      "summary": "AI 理财助手提供个性化省钱和债务管理建议。"
-    },
-    {
-      "title": "Continue (Mission Control) — Quality control for your software factory",
-      "url": "https://www.producthunt.com/products/continue",
-      "votesCount": 0,
-      "titleZh": "Continue (Mission Control) —— 软件工厂的质量控制",
-      "summary": "工具监控软件开发流程，确保质量和效率。"
-    },
-    {
-      "title": "DialogLab — Authoring, simulating, testing human-AI group conversations",
-      "url": "https://www.producthunt.com/products/dialoglab",
-      "votesCount": 0,
-      "titleZh": "DialogLab —— 创作、模拟、测试人机群聊对话",
-      "summary": "平台帮助设计和测试多人 AI 对话场景。"
-    },
-    {
-      "title": "MonoDesk — For designers, web/video creators who'd rather be creating",
-      "url": "https://www.producthunt.com/products/monodesk-workspace-for-creative-pros",
-      "votesCount": 0,
-      "titleZh": "MonoDesk —— 为设计师、网页/视频创作者而生，他们更愿创作",
-      "summary": "简化工作流，让创作者专注创作而非琐事。"
+      "titleZh": "Lavalier AI——面试智能工具，快速自信招聘",
+      "summary": "AI助手帮助HR更快筛选与面试候选人。"
     },
     {
       "title": "Translate PRO — Copy any text twice. Get instant translation on your Mac.",
       "url": "https://www.producthunt.com/products/translate-pro",
       "votesCount": 0,
-      "titleZh": "Translate PRO —— 复制文本两次，即在 Mac 上即时翻译",
-      "summary": "Mac 工具，复制两次文本自动翻译，方便快捷。"
+      "titleZh": "Translate PRO——Mac上复制文本两次即翻译",
+      "summary": "Mac快捷翻译工具，复制两次自动完成翻译。"
+    },
+    {
+      "title": "Continue (Mission Control) — Quality control for your software factory",
+      "url": "https://www.producthunt.com/products/continue",
+      "votesCount": 0,
+      "titleZh": "Continue (Mission Control)——软件工厂质量控制",
+      "summary": "AI驱动的代码审查与质量管理平台。"
+    },
+    {
+      "title": "Secret Sauce 3D — AI tool suite for professional 3D artists",
+      "url": "https://www.producthunt.com/products/secret-sauce-3d",
+      "votesCount": 0,
+      "titleZh": "Secret Sauce 3D——专业3D艺术家的AI工具套件",
+      "summary": "专为3D设计师打造的AI辅助创作工具。"
     },
     {
       "title": "Deep Personality — Science-backed personality insights for you and your partner",
       "url": "https://www.producthunt.com/products/deep-personality",
       "votesCount": 0,
-      "titleZh": "Deep Personality —— 科学支持的你和伴侣性格洞察",
-      "summary": "基于科学的性格分析工具，帮助情侣增进了解。"
-    },
-    {
-      "title": "Mailercloud Email API Platform — 1,000+ Emails per Second with 99%+ Deliverability",
-      "url": "https://www.producthunt.com/products/mailercloud",
-      "votesCount": 0,
-      "titleZh": "Mailercloud 邮件 API 平台 —— 每秒 1000+ 邮件，99%+ 送达率",
-      "summary": "高性能邮件 API，支持高速发送和高可靠性。"
-    },
-    {
-      "title": "Sequirly — Catch sensitive data before it reaches AI tools",
-      "url": "https://www.producthunt.com/products/sequirly-ai-adoption-without-the-risk",
-      "votesCount": 0,
-      "titleZh": "Sequirly —— 在数据到达 AI 工具前捕捉敏感信息",
-      "summary": "安全工具防止敏感数据泄露到 AI 系统中。"
+      "titleZh": "Deep Personality——你和伴侣的科学人格洞察",
+      "summary": "科学人格测试帮助情侣深入了解对方。"
     },
     {
       "title": "Krisp Accent Conversion — Understand accented speech in real time",
       "url": "https://www.producthunt.com/products/krisp",
       "votesCount": 0,
-      "titleZh": "Krisp Accent Conversion —— 实时理解带口音的语音",
-      "summary": "AI 语音工具实时转换口音，提升沟通清晰度。"
+      "titleZh": "Krisp Accent Conversion——实时理解口音演讲",
+      "summary": "AI实时转换并理解不同口音的语音。"
+    },
+    {
+      "title": "AI Agent Skills Refiner — Skills with 210k GitHub Data &amp; Translate/Refine &amp;Benchmark",
+      "url": "https://www.producthunt.com/products/ai-agent-skills-refiner",
+      "votesCount": 0,
+      "titleZh": "AI Agent Skills Refiner——用21万GitHub数据精炼技能",
+      "summary": "AI代理技能优化工具，基于开源数据基准测试。"
     },
     {
       "title": "Springfield Oracle — Every Simpsons prediction sourced, scored, fact-checked",
       "url": "https://www.producthunt.com/products/springfield-oracle",
       "votesCount": 0,
-      "titleZh": "Springfield Oracle —— 每个《辛普森一家》预言来源、评分、事实核查",
-      "summary": "数据库收集并验证《辛普森一家》中的预言准确性。"
+      "titleZh": "Springfield Oracle——每个《辛普森一家》预言来源、评分、事实核查",
+      "summary": "收集并验证《辛普森一家》预言的趣味数据库。"
     },
     {
-      "title": "Better Clipboard — Smarter copy-paste for macOS. New version!",
-      "url": "https://www.producthunt.com/products/better-clipboard",
+      "title": "getviktor.com — Your last hire. Launched from a warzone.",
+      "url": "https://www.producthunt.com/products/viktor",
       "votesCount": 0,
-      "titleZh": "Better Clipboard —— macOS 更智能的复制粘贴。新版本！",
-      "summary": "macOS 剪贴板增强工具，新版提供更智能功能。"
+      "titleZh": "getviktor.com——你的最后一次招聘。从战区推出。",
+      "summary": "战区创业者推出的独特招聘平台。"
+    },
+    {
+      "title": "Mailercloud Email API Platform — 1,000+ Emails per Second with 99%+ Deliverability",
+      "url": "https://www.producthunt.com/products/mailercloud",
+      "votesCount": 0,
+      "titleZh": "Mailercloud Email API Platform——每秒1000+邮件，99%+送达率",
+      "summary": "高性能电子邮件API服务。"
+    },
+    {
+      "title": "The Bias — The synthesis engine for multi-perspective news",
+      "url": "https://www.producthunt.com/products/the-bias-wide-angle-news",
+      "votesCount": 0,
+      "titleZh": "The Bias——多视角新闻合成引擎",
+      "summary": "AI工具从多角度合成平衡新闻报道。"
+    },
+    {
+      "title": "AgentCenter for OpenClaw — Mission Control for your OpenClaw agents.",
+      "url": "https://www.producthunt.com/products/agentcenter-for-openclaw",
+      "votesCount": 0,
+      "titleZh": "AgentCenter for OpenClaw——OpenClaw代理的任务控制中心",
+      "summary": "统一管理AI代理的任务控制平台。"
+    },
+    {
+      "title": "Qwen3.5 Small — 0.8B-9B native multimodal w/ more intelligence, less compute",
+      "url": "https://www.producthunt.com/products/qwen3",
+      "votesCount": 0,
+      "titleZh": "Qwen3.5 Small——0.8B-9B原生多模态，更智能更省算力",
+      "summary": "阿里通义千问小模型多模态能力增强版。"
+    },
+    {
+      "title": "Alexandria — Bring your knowledge and docs to life",
+      "url": "https://www.producthunt.com/products/alexandria-3",
+      "votesCount": 0,
+      "titleZh": "Alexandria——让你的知识和文档活起来",
+      "summary": "AI知识库工具，将文档转化为互动体验。"
     }
   ],
   "substack": [
@@ -356,259 +356,249 @@
       "title": "The Pulse: Cloudflare rewrites Next.js as AI rewrites commercial open source",
       "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-164-nextjs",
       "source": "newsletter.pragmaticengineer.com",
-      "titleZh": "The Pulse：Cloudflare 重写 Next.js，正如 AI 重写商业开源",
-      "summary": "Cloudflare 对 Next.js 的修改反映 AI 如何颠覆商业开源模式。"
+      "titleZh": "The Pulse：Cloudflare重写Next.js，正如AI重写商业开源",
+      "summary": "Cloudflare借助AI技术革新Next.js等开源框架。"
     },
     {
       "title": "Mitchell Hashimoto’s new way of writing code",
       "url": "https://newsletter.pragmaticengineer.com/p/mitchell-hashimoto",
       "source": "newsletter.pragmaticengineer.com",
-      "titleZh": "Mitchell Hashimoto 的新代码编写方式",
-      "summary": "HashiCorp 创始人分享创新编程方法。"
+      "titleZh": "Mitchell Hashimoto的新代码编写方式",
+      "summary": "HashiCorp创始人分享AI辅助编程新方法。"
     },
     {
       "title": "The Future of Software Engineering with AI: Six Predictions",
       "url": "https://newsletter.pragmaticengineer.com/p/the-future-of-software-engineering-with-ai",
       "source": "newsletter.pragmaticengineer.com",
-      "titleZh": "AI 时代软件工程的未来：六大预测",
-      "summary": "文章预测 AI 将如何重塑软件工程的六大趋势。"
+      "titleZh": "AI时代的软件工程未来：六大预测",
+      "summary": "对AI如何改变软件开发的六点未来展望。"
     },
     {
       "title": "The Pulse #162: Even fewer middle managers and more flexible teams?",
       "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-162-even-fewer-middle-managers",
       "source": "newsletter.pragmaticengineer.com",
-      "titleZh": "The Pulse #162：中层经理更少、团队更灵活？",
-      "summary": "讨论 AI 时代组织结构扁平化趋势。"
+      "titleZh": "The Pulse #162：更少中层经理，更灵活团队？",
+      "summary": "讨论AI时代组织结构扁平化趋势。"
     },
     {
       "title": "How Codex is built",
       "url": "https://newsletter.pragmaticengineer.com/p/how-codex-is-built",
       "source": "newsletter.pragmaticengineer.com",
-      "titleZh": "Codex 如何构建",
-      "summary": "详解 OpenAI Codex 模型的构建过程。"
+      "titleZh": "Codex是如何构建的",
+      "summary": "OpenAI Codex模型的内部架构解析。"
     },
     {
       "title": "The Architecture Behind Open-Source LLMs",
       "url": "https://blog.bytebytego.com/p/the-architecture-behind-open-source",
       "source": "blog.bytebytego.com",
-      "titleZh": "开源大语言模型背后的架构",
-      "summary": "分析流行开源 LLM 的技术架构。"
+      "titleZh": "开源LLM的架构背后",
+      "summary": "分析主流开源大语言模型的技术架构。"
     },
     {
       "title": "EP204: 11 Ways To Use AI To Increase Your Productivity",
       "url": "https://blog.bytebytego.com/p/ep204-11-ways-to-use-ai-to-increase",
       "source": "blog.bytebytego.com",
-      "titleZh": "EP204：用 AI 提升生产力的 11 种方法",
-      "summary": "播客分享 11 个实用 AI 生产力技巧。"
+      "titleZh": "EP204：用AI提升生产力的11种方法",
+      "summary": "分享AI工具提高日常工作效率的实用技巧。"
     },
     {
       "title": "Strong Consistency In Databases: Promises and Costs",
       "url": "https://blog.bytebytego.com/p/strong-consistency-in-databases-promises",
       "source": "blog.bytebytego.com",
       "titleZh": "数据库强一致性：承诺与成本",
-      "summary": "探讨数据库强一致性的优势和实现代价。"
+      "summary": "探讨数据库一致性模型的优缺点与权衡。"
     },
     {
       "title": "The Algorithm That Powers Your X (Twitter) Post",
       "url": "https://blog.bytebytego.com/p/the-algorithm-that-powers-your-x",
       "source": "blog.bytebytego.com",
-      "titleZh": "驱动你 X（Twitter）帖子的算法",
-      "summary": "揭秘 Twitter 推荐算法工作原理。"
+      "titleZh": "驱动你X（Twitter）帖子的算法",
+      "summary": "揭秘Twitter推荐算法的工作原理。"
     },
     {
       "title": "How Uber Reinvented Access Control for Microservices",
       "url": "https://blog.bytebytego.com/p/how-uber-reinvented-access-control",
       "source": "blog.bytebytego.com",
-      "titleZh": "Uber 如何为微服务重塑访问控制",
-      "summary": "Uber 创新微服务权限管理系统。"
+      "titleZh": "Uber如何为微服务重塑访问控制",
+      "summary": "Uber微服务架构中的访问控制创新实践。"
     },
     {
       "title": "🎙️ This week on How I AI: 5 OpenClaw agents run my home, finances, and code & How Coinbase scaled AI to 1,000+ engineers",
       "url": "https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-5-openclaw",
       "source": "www.lennysnewsletter.com",
-      "titleZh": "本周 How I AI：5 个 OpenClaw 代理管理我的家、财务和代码 & Coinbase 如何将 AI 扩展到 1000+ 工程师",
-      "summary": "播客讨论 AI 代理日常应用及 Coinbase AI 规模化经验。"
+      "titleZh": "🎙️本周How I AI：5个OpenClaw代理管理我的家、财务和代码 & Coinbase如何将AI扩展到1000+工程师",
+      "summary": "播客讨论AI代理在家用与企业大规模应用的实际案例。"
     },
     {
       "title": "How Coinbase scaled AI to 1,000+ engineers | Chintan Turakhia",
       "url": "https://www.lennysnewsletter.com/p/how-coinbase-scaled-ai-to-1000-engineers",
       "source": "www.lennysnewsletter.com",
-      "titleZh": "Coinbase 如何将 AI 扩展到 1000+ 工程师 | Chintan Turakhia",
-      "summary": "Coinbase 高管分享 AI 在公司内部大规模部署策略。"
+      "titleZh": "Coinbase如何将AI扩展到1000+工程师 | Chintan Turakhia",
+      "summary": "Coinbase分享将AI集成到千名工程师团队的经验。"
     },
     {
       "title": "The design process is dead. Here’s what’s replacing it. | Jenny Wen (head of design at Claude)",
       "url": "https://www.lennysnewsletter.com/p/the-design-process-is-dead",
       "source": "www.lennysnewsletter.com",
-      "titleZh": "设计流程已死，取而代之的是什么 | Claude 设计主管 Jenny Wen",
-      "summary": "Claude 设计头分享 AI 如何革新传统设计流程。"
+      "titleZh": "设计流程已死。取代它的是什么。| Jenny Wen（Claude设计主管）",
+      "summary": "Claude设计负责人谈AI如何彻底革新设计流程。"
     },
     {
       "title": "🧠 Community Wisdom: Building your tech stack from scratch, surviving painful product demos, managing LLM credit costs, resources for new designers, and more",
       "url": "https://www.lennysnewsletter.com/p/community-wisdom-building-your-tech",
       "source": "www.lennysnewsletter.com",
-      "titleZh": "🧠 社区智慧：从零构建技术栈、熬过痛苦产品演示、管理 LLM 信用成本、新设计师资源等",
-      "summary": "社区分享科技栈搭建、演示应对、AI 成本管理和设计师资源。"
+      "titleZh": "🧠社区智慧：从零构建技术栈、产品演示生存、LLM信用成本管理、新设计师资源等",
+      "summary": "技术社区分享实用资源与经验教训。"
     },
     {
       "title": "AI is critical for humanity’s survival: Cisco president on the AI revolution | Jeetu Patel",
       "url": "https://www.lennysnewsletter.com/p/ai-is-critical-for-humanitys-survival",
       "source": "www.lennysnewsletter.com",
-      "titleZh": "AI 对人类生存至关重要：思科总裁谈 AI 革命 | Jeetu Patel",
-      "summary": "思科总裁强调 AI 是人类未来关键，推动革命性变革。"
+      "titleZh": "AI对人类生存至关重要：思科总裁谈AI革命 | Jeetu Patel",
+      "summary": "思科高管认为AI是人类未来生存与发展的关键。"
     }
   ],
   "pinterest": [],
   "x": [
     {
+      "title": "26.03.03 🪖\n\n기다릴게요🥹💚\n\n#유태양 #YOOTAEYANG #ユテヤン\n#SF9  #에스에프나인",
+      "url": "https://x.com/ai_yty228/status/2028745033764180107",
+      "titleZh": "2026.03.03 等你 🪖💚 SF9 YOOTAEYANG",
+      "summary": "粉丝发布SF9成员YOOTAEYANG相关等待消息，附带视频和照片。",
+      "source": "X (Twitter)",
+      "author": "@ai_yty228",
+      "likes": 24,
+      "retweets": 8
+    },
+    {
+      "title": "어제 싱가포르 중소기업과 스타트업 정책을 총괄하는 기업청(Enterprise Singapore)의 리 추안텍(Lee Chuan Teck) 회장님을 만났습니다.\n\n싱가포르에서도 가장 뜨거운 화두는 역시 '인공지능(AI)'이었습니다.\nAI 전환을 통해 중소기업의 경쟁력을 어떻게 높일 수 있을지에 대해 많은 이야기를 나눴습니다.\n\n특히 삼성, 현대 등 우리 대기업이 중소기업과 협력하는 사례를 소개하며, 기술혁신의 성과가 대기업을 넘어 소상공인과 중소기업까지 확산되어야 한다는 방향에 서로 깊이 공감했습니다.\n\n우리 스타트업의 해외 진출을 위한 협력 방안도 의미 있게 논의했습니다.  전 세계 35개 해외 지사를 보유한 기업청(Enterprise Singapore)의 글로벌 네트워크는 싱가포르의 큰 강점입니다.\n\n이러한 인프라와 우리가 가진 해외 네트워크가 함께한다면,\n양국 기업이 세계 무대로 나아가는 데 큰 시너지를 낼 수 있을 것이라 기대합니다.\n\n이러한 논의가 실질적인 성과로 이어질 수 있도록,\n지난해 제주 APEC 중소기업 장관회의에서 출범한 ‘스타트업 얼라이언스’에 싱가포르의 참여와 함께\n양국 대표 스타트업 축제인 'COMEUP’과\n'SWITCH' 간의 교류도 계속 이어가기로 했습니다.\n\n한국과 싱가포르의 파트너십이 한 단계 더 도약할 수 있도록 최선을 다하겠습니다.\n\n#싱가포르 #EnterpriseSingapore #스타트업 #AI #한성숙 #중소벤처 #한싱가포르협력 #COMEUP #SWITCH #중소벤처기업부",
+      "url": "https://x.com/han_seongsook/status/2028728651404186002",
+      "titleZh": "韩中小企业部长会见新加坡企业局，重点讨论AI",
+      "summary": "韩国中企部长与新加坡官员会面，讨论AI如何提升中小企业竞争力并加强创业合作。",
+      "source": "X (Twitter)",
+      "author": "@han_seongsook",
+      "likes": 86,
+      "retweets": 35
+    },
+    {
+      "title": "⚠️マンガ生成AIを0円配布\n\nNanoBananaProなら誰でも5分で\nプロ級マンガが余裕で完成ですw\n\nさらにAI漫画をLPに差し込むだけで\n楽勝で売上3倍とかガッツリ狙えるわ\n\nというわけで\n『NanoBananaPro漫画作成Gem』を開発したけど、欲しい？\n\nこれ欲しい人は\n\n・いいね\n・リプ「開発」\n\nしてねーん🎁",
+      "url": "https://x.com/MuchoAi/status/2028742191141851363",
+      "titleZh": "免费赠送漫画生成AI NanoBananaPro",
+      "summary": "日本AI创作者免费发放专业漫画生成工具，5分钟即可制作卖座作品。",
+      "source": "X (Twitter)",
+      "author": "@MuchoAi",
+      "likes": 8,
+      "retweets": 1
+    },
+    {
+      "title": "gm to those who gm🧢\n\nrepeat after me:\nAI is the future.",
+      "url": "https://x.com/ole_eth/status/2028751645023060172",
+      "titleZh": "早安，AI是未来",
+      "summary": "用户每日问候帖强调AI是未来趋势。",
+      "source": "X (Twitter)",
+      "author": "@ole_eth",
+      "likes": 18,
+      "retweets": 0
+    },
+    {
       "title": "「Claude」のメモリ機能が無料開放、「ChatGPT」「Gemini」から移植する機能も／他のAIプロバイダーで蓄積されたメモリを「Claude」へ引き継げる https://forest.watch.impress.co.jp/docs/news/2090007.html",
       "url": "https://x.com/madonomori/status/2028701175529562514",
-      "titleZh": "Claude 记忆功能免费开放，可从 ChatGPT 和 Gemini 移植，也支持其他 AI 提供商记忆迁移",
-      "summary": "日本科技媒体报道 Claude AI 记忆功能全面免费开放，并新增从 ChatGPT、Gemini 等其他 AI 迁移历史记忆的功能，用户数据无缝转移。",
+      "titleZh": "Claude内存功能免费开放，可从ChatGPT/Gemini移植",
+      "summary": "Anthropic Claude AI新增免费内存功能，并支持从其他AI平台迁移历史数据。",
       "source": "X (Twitter)",
       "author": "@madonomori",
-      "likes": 528,
-      "retweets": 91
+      "likes": 589,
+      "retweets": 98
+    },
+    {
+      "title": "昨日〜今日にかけてClaudeがダウン。\n\n原因はAWSのデータセンター爆撃ではなく、ChatGPTを凌駕する圧倒的な需要増でした。\n\n一方で、OpenAIは戦争領域へのAI活用を選択。\n（線引きはしているが、民意的には「戦争にAIを許可」と映った。国防総省契約が要因です。）\n\nその結果、\n・ChatGPTアンインストール295％急増\n・Claude DL数51％増、米App Store1位\n・★1レビュー775％増、★5は50％減\n・Anthropicは「前例のない需要」で障害発生\n\n民意的にも機能的にも、いまはAnthropicのClaudeが優勢か。\n\n倫理的姿勢がユーザーを動かした、歴史的な局面。",
+      "url": "https://x.com/masahirochaen/status/2028754804479267190",
+      "titleZh": "Claude因需求暴增宕机，OpenAI国防协议引发ChatGPT卸载潮",
+      "summary": "Claude因用户激增而崩溃，同时OpenAI国防协议导致ChatGPT卸载量暴涨295%，Claude成新宠。",
+      "source": "X (Twitter)",
+      "author": "@masahirochaen",
+      "likes": 0,
+      "retweets": 0
     },
     {
       "title": "🚨 BREAKING: You can run Claude Code completely free now.\n\nNo API bills.\nNo rate limits.\nNo data leaving your device.\n\nJust Claude Code running locally fast, private, and 100% yours. Here’s how to set up Claude Code on your own machine (free + fully private)\n\nFor guide: Local AI Coding Setup: Free Claude-Like Agent (Ollama + VS Code)\n\nLike + Comment \" Send\" + Retweet\nFollow me\n@sakhil_ai\nSo that i can DM📩 You",
       "url": "https://x.com/sakhil_ai/status/2028645271081816536",
-      "titleZh": "突发：现在可完全免费本地运行 Claude Code，无 API 费用、无速率限制、数据不出设备",
-      "summary": "AI 教育者分享本地免费运行 Claude Code 的完整教程，使用 Ollama + VS Code 实现隐私保护的 AI 编码代理，引发开发者热议。",
+      "titleZh": "Claude Code现可完全免费本地运行",
+      "summary": "AI教育者分享本地免费运行Claude Code的方法，无API费用、无数据泄露。",
       "source": "X (Twitter)",
       "author": "@sakhil_ai",
-      "likes": 214,
-      "retweets": 98
+      "likes": 224,
+      "retweets": 102
     },
     {
-      "title": "120 Must-Use AI Tools. ✨\n120 Smart AI Tools for Work & Growth.🧠\n\n1. Ideas ✨\n- YOU\n- Claude\n- ChatGPT\n- Perplexity\n- Bing Chat\n\n2. Presentation\n- Prezi\n- Pitch\n- PopAi\n- Slides AI\n- Slidebean\n\n...（完整列表）",
-      "url": "https://x.com/Onil_coder/status/2028745055553626287",
-      "titleZh": "120 个必用 AI 工具列表：从创意到设计、营销全覆盖",
-      "summary": "AI 教育者整理 120 个实用 AI 工具分类列表，涵盖想法生成、演示、文案、图像、视频等场景，建议保存以提升工作效率。",
-      "source": "X (Twitter)",
-      "author": "@Onil_coder",
-      "likes": 23,
-      "retweets": 20
-    },
-    {
-      "title": "Most chains weren’t built for AI.\n@0G_labs Labs is.\n\nInstead of forcing AI onto outdated rails, (@0G_labs) rebuilds the stack for high-throughput data,transparent AI execution & trust-minimized compute\n\nOnchain AI agents that can train, reason, and operate transparently at scale.",
-      "url": "https://x.com/hny000786/status/2028732813697310842",
-      "titleZh": "大多数链不适合 AI，@0G_labs 专为 AI 重建栈",
-      "summary": "Web3 项目 0G Labs 打造高吞吐 AI 执行链，支持透明链上 AI 代理训练与推理，解决传统区块链 AI 兼容问题。",
-      "source": "X (Twitter)",
-      "author": "@hny000786",
-      "likes": 45,
-      "retweets": 33
-    },
-    {
-      "title": "VOTE ON = INSTANT $ZRO ELIGIBILITY. 10% SUPPLY TO COMMUNITY.\n\nCITADEL. ARK. TETHER. DTCC. GOOGLE CLOUD. ALL BACKING THIS.\n\n🚨 LAYERZERO L1 \"ZERO\" DROPPED 🚨\n\nhttps://core-layerzero.network",
-      "url": "https://x.com/0xKevinRich/status/2028750749371388331",
-      "titleZh": "投票即获 $ZRO 资格，10% 供应分配社区，LayerZero L1 已上线",
-      "summary": "LayerZero 推出机构级 L1 链 ZERO，由 Citadel、ARK 等背书，投票参与即可获得空投资格，吸引加密用户参与。",
-      "source": "X (Twitter)",
-      "author": "@0xKevinRich",
-      "likes": 283,
-      "retweets": 71
-    },
-    {
-      "title": "Just a heads up, if you’ve engaged with AI agents on Twitter, $VIRTUAL could be sending you some cash.\n\nThey’re dishing out up to $1M a month in rewards. Project is funded and live.\n\n💰 The AI agents' society is rewarding users 💰\n\nhttps://app-virtuals.net",
-      "url": "https://x.com/0xKevinRich/status/2028747070937395243",
-      "titleZh": "在 Twitter 与 AI 代理互动过？$VIRTUAL 可能给你发钱，每月最高 100 万美元奖励",
-      "summary": "Virtual Protocol 项目推出 AI 代理奖励计划，已与 Twitter AI 互动的用户可领取现金，项目资金充足且已上线。",
-      "source": "X (Twitter)",
-      "author": "@0xKevinRich",
-      "likes": 280,
-      "retweets": 81
-    },
-    {
-      "title": "the most useless app ever",
-      "url": "https://x.com/stupidtechtakes/status/2028660347431973228",
-      "titleZh": "史上最没用的 app",
-      "summary": "科技讽刺账号分享一段极度无用的 app 演示视频，引发大量转发和笑评，成为今日 tech 圈热门吐槽。",
-      "source": "X (Twitter)",
-      "author": "@stupidtechtakes",
-      "likes": 11435,
-      "retweets": 166
-    },
-    {
-      "title": "【日本株初心者さん必見！】\nイラン情勢、明日の日本株への影響見込み　(AIより)\n\n•  商社（三菱商事、三井物産など）\n→ 下げやすい\n...（完整日本股市影响分析）",
-      "url": "https://x.com/yoikono4351/status/2028734712814940346",
-      "titleZh": "日本股市新手必看！伊朗局势对明日日股影响预测（AI 生成）",
-      "summary": "日本投资账号用 AI 分析伊朗局势对商社、银行、能源等板块的影响，提供具体涨跌预期，获投资者关注。",
-      "source": "X (Twitter)",
-      "author": "@yoikono4351",
-      "likes": 103,
-      "retweets": 48
-    },
-    {
-      "title": "BREAKING: Trump is “very disappointed” in the UK’s anti-Trump Starmer as Starmer criticises him for “unlawful action in Iran.”",
+      "title": "BREAKING: Trump is “very disappointed” in the UK’s anti-Trump Starmer as Starmer criticises him for “unlawful action in Iran.”\n\n“I will not permit, I will not commit our military personnel to unlawful action,” says Starmer. \n\nThe masks are off. 🎭 👇",
       "url": "https://x.com/kadmitriev/status/2028698163201053022",
-      "titleZh": "突发：特朗普对英国反特朗普的 Starmer 非常失望，因 Starmer 批评其在伊朗的“非法行动”",
-      "summary": "俄罗斯投资基金 CEO 转发特朗普对英国首相 Starmer 伊朗言论的不满视频，凸显美英地缘政治分歧，成为热门话题。",
+      "titleZh": "特朗普对英国首相Starmer不满，因伊朗行动批评",
+      "summary": "特朗普对英国Starmer批评其伊朗行动感到失望，双方立场公开对立。",
       "source": "X (Twitter)",
       "author": "@kadmitriev",
-      "likes": 1107,
-      "retweets": 270
+      "likes": 1139,
+      "retweets": 279
+    },
+    {
+      "title": "“The FBI interviewed that witness 4 times. You don't interview a non-credible witness 4 times. You don’t put into the FBI reporting: ‘Protect this source.’”\n\nNow you know why Donald Trump started a war with Iran after Bill & Hillary Clinton testified.",
+      "url": "https://x.com/daviddunn177/status/2028649882857226429",
+      "titleZh": "FBI多次询问证人，特朗普因克林顿作证对伊朗开战",
+      "summary": "视频揭露FBI保护关键证人细节，解释特朗普对伊朗军事行动背景。",
+      "source": "X (Twitter)",
+      "author": "@daviddunn177",
+      "likes": 14207,
+      "retweets": 2679
     },
     {
       "title": "Freedom",
       "url": "https://x.com/TrumpDailyPosts/status/2028673071738138905",
       "titleZh": "自由",
-      "summary": "特朗普官方转载账号发布“Freedom”主题视频，呼应当前伊朗局势，获数千转发。",
+      "summary": "特朗普Truth Social视频内容聚焦“自由”主题。",
       "source": "X (Twitter)",
       "author": "@TrumpDailyPosts",
-      "likes": 3435,
-      "retweets": 680
+      "likes": 3526,
+      "retweets": 698
     },
     {
-      "title": "Holy crap, Rubio basically just admitted that Israel forced Trump's hand",
-      "url": "https://x.com/theliamnissan/status/2028610183039979528",
-      "titleZh": "天哪，鲁比奥基本承认以色列迫使特朗普出手",
-      "summary": "讽刺账号分享 Rubio 采访视频，指其暗示以色列推动特朗普伊朗行动，视频获超 2 万点赞，成为政治热议焦点。",
+      "title": "President Trump just liberated (46M) women in Iran and the media's totally ignoring it",
+      "url": "https://x.com/Chicago1Ray/status/2028653475400138901",
+      "titleZh": "特朗普解放伊朗4600万女性，媒体却忽略",
+      "summary": "支持者称特朗普行动解放伊朗女性，批评媒体不报导。",
       "source": "X (Twitter)",
-      "author": "@theliamnissan",
-      "likes": 21112,
-      "retweets": 4717
+      "author": "@Chicago1Ray",
+      "likes": 19230,
+      "retweets": 6172
     },
     {
-      "title": "Reza Pahlavi: 🇮🇷\"I am ready to go to Iran as soon as possible.\"",
-      "url": "https://x.com/TruthTrumpPost/status/2028697375355601306",
-      "titleZh": "Reza Pahlavi：我已准备好尽快返回伊朗",
-      "summary": "特朗普转载账号发布伊朗前王储 Reza Pahlavi 表态视频，呼应当前伊朗局势，获大量转发。",
-      "source": "X (Twitter)",
-      "author": "@TruthTrumpPost",
-      "likes": 5700,
-      "retweets": 2040
-    },
-    {
-      "title": "BREAKING: CNN just played a montage of Trump officials saying America is at “war” while GOP lawmakers try to explain that America is not at war.",
+      "title": "BREAKING: CNN just played a montage of Trump officials saying America is at “war” while GOP lawmakers try to explain that America is not at war. \n\nThere is no coherent messaging or strategy.",
       "url": "https://x.com/ReallyAmerican1/status/2028674979446112320",
-      "titleZh": "突发：CNN 播放特朗普官员称美国“处于战争”蒙太奇，而共和党议员试图解释美国并未处于战争",
-      "summary": "反特朗普账号分享 CNN 剪辑视频，讽刺政府对伊朗行动的混乱口径，引发政治辩论。",
+      "titleZh": "CNN播放特朗普官员称美国处于“战争”蒙太奇，共和党解释并非战争",
+      "summary": "CNN剪辑暴露特朗普团队对“战争”表述不一致。",
       "source": "X (Twitter)",
       "author": "@ReallyAmerican1",
-      "likes": 5310,
-      "retweets": 1755
+      "likes": 5380,
+      "retweets": 1778
     },
     {
-      "title": "離婚後、2児を育てながら株で資産を築き、今は完全な経済的自由を実現しました。...（完整投资心得分享）",
+      "title": "One of the most important concepts in trading.\n\nLiquidity — where price really goes. 🧵\n\nHere an helpful Cheat Sheet!",
+      "url": "https://x.com/SailorManCrypto/status/2028752536199381207",
+      "titleZh": "交易中最重要概念：流动性",
+      "summary": "加密交易者分享流动性概念及交易速查表。",
+      "source": "X (Twitter)",
+      "author": "@SailorManCrypto",
+      "likes": 24,
+      "retweets": 1
+    },
+    {
+      "title": "離婚後、2児を育てながら株で資産を築き、今は完全な経済的自由を実現しました。\n私は離婚直後から本気で投資を始め、今は配当だけで生活でき、総資産は億を超えています。東京の物価高や子育ての大変さが話題になる中でも、派手な生活は一切せず「必要なものを大切にする」——この考えが投資でも人生でも一番大事だと実感しています。なぜ情報を無料でシェアしているのか？\n子育てしながら必死で勉強した私だからこそ、同じように苦労している皆さんに「私と同じ資産自由」を味わってほしいから。\nありがたいことに、その中の多くのフォロワーさんがすでに経済的自由を達成してくれました。そのおかげで、私自身が毎日「これ以上の幸せはない」と感じるほどの達成感と満足感でいっぱいです。\n\n初心者さんも大歓迎！そこで、初心者向けに誰でも読める投資資料を作りました。専門用語なし、実践しやすい内容です。資料はすべて無料でお渡しします。\n興味があれば、いいねとフォローをお願いします。\nなぜ有料にしないのかとよく聞かれますが、株情報の発信はあくまで趣味であり、経済的に困っていないため無料で公開しています。\n\n日本株",
       "url": "https://x.com/bpline_kuwajima/status/2028734409755492366",
-      "titleZh": "离婚后独自抚养两孩靠股票实现财务自由的日本女性分享心得",
-      "summary": "日本投资达人分享从离婚到亿万资产的励志故事，并免费提供新手投资资料，鼓励女性投资。",
+      "titleZh": "离婚后靠股票实现经济自由，免费分享日本股投资资料",
+      "summary": "日本投资者分享从离婚育儿到资产自由的股票投资经验，并免费提供新手资料。",
       "source": "X (Twitter)",
       "author": "@bpline_kuwajima",
       "likes": 99,
       "retweets": 46
-    },
-    {
-      "title": "어제 싱가포르 중소기업과 스타트업 정책을 총괄하는 기업청(Enterprise Singapore)의 리 추안텍(Lee Chuan Teck) 회장님을 만났습니다. ... AI 전환을 통해 중소기업의 경쟁력을 어떻게 높일 수 있을지에 대해 많은 이야기를 나눴습니다。",
-      "url": "https://x.com/han_seongsook/status/2028728651404186002",
-      "titleZh": "韩国中小企业部长与新加坡企业局局长会面，重点讨论 AI 如何提升中小企业竞争力",
-      "summary": "韩国官员分享与新加坡合作 AI 转型经验，强调大企业带动中小企业创新，并计划加强两国创业节交流。",
-      "source": "X (Twitter)",
-      "author": "@han_seongsook",
-      "likes": 80,
-      "retweets": 34
     }
   ]
 }
