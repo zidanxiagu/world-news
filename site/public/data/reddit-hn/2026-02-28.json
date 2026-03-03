@@ -1,0 +1,614 @@
+{
+  "date": "2026-02-28",
+  "reddit": [
+    {
+      "title": "Software engineers should be a little bit cynical",
+      "url": "https://reddit.com/r/programming/comments/1rgg1wr/software_engineers_should_be_a_little_bit_cynical/",
+      "subreddit": "programming",
+      "score": 133,
+      "titleZh": "软件工程师应该有点愤世嫉俗",
+      "summary": "建议软件工程师保持适度怀疑态度，以更好地应对行业不确定性与风险。"
+    },
+    {
+      "title": "The proposal for generic methods for Go has been officially accepted",
+      "url": "https://reddit.com/r/programming/comments/1rgartl/the_proposal_for_generic_methods_for_go_has_been/",
+      "subreddit": "programming",
+      "score": 240,
+      "titleZh": "Go 语言泛型方法的提案已被正式接受",
+      "summary": "Go 语言官方正式接受泛型方法提案，将大幅提升语言的表达能力和灵活性。"
+    },
+    {
+      "title": "Palantir Sues Swiss Magazine For Accurately Reporting That The Swiss Government Didn’t Want Palantir",
+      "url": "https://reddit.com/r/technology/comments/1rgk0xg/palantir_sues_swiss_magazine_for_accurately/",
+      "subreddit": "technology",
+      "score": 4149,
+      "titleZh": "Palantir 起诉瑞士杂志准确报道瑞士政府不想用 Palantir",
+      "summary": "Palantir 因瑞士杂志准确报道政府不愿采用其服务而提起诉讼。"
+    },
+    {
+      "title": "CNN’s Jake Tapper Breaks News of Paramount Buying Network’s Parent Company WBD Live on Air: \"It Affects Everybody I’m Looking at Right Now in the Studio\"",
+      "url": "https://reddit.com/r/technology/comments/1rg8ysd/cnns_jake_tapper_breaks_news_of_paramount_buying/",
+      "subreddit": "technology",
+      "score": 11976,
+      "titleZh": "CNN 的 Jake Tapper 在直播中爆料 Paramount 收购 WBD 母公司",
+      "summary": "Jake Tapper 直播时突然宣布 Paramount 收购 Warner Bros. Discovery 母公司。"
+    },
+    {
+      "title": "Pentagon moves to designate Anthropic as a supply-chain risk",
+      "url": "https://reddit.com/r/technology/comments/1rgmq6x/pentagon_moves_to_designate_anthropic_as_a/",
+      "subreddit": "technology",
+      "score": 1530,
+      "titleZh": "五角大楼将 Anthropic 指定为供应链风险",
+      "summary": "五角大楼正式将 AI 公司 Anthropic 指定为供应链风险。"
+    },
+    {
+      "title": "How are you supposed to protect yourself from becoming a child porn host as a business SaaS with any ability to upload files? Is this a realistic danger?",
+      "url": "https://reddit.com/r/webdev/comments/1rgf1ng/how_are_you_supposed_to_protect_yourself_from/",
+      "subreddit": "webdev",
+      "score": 120,
+      "titleZh": "作为支持文件上传的 SaaS 业务，如何保护自己免于成为儿童色情托管者？这是否是现实威胁？",
+      "summary": "讨论支持文件上传的 SaaS 平台面临儿童色情内容托管的实际风险及防护策略。"
+    },
+    {
+      "title": "AI is one of those things you call a union for",
+      "url": "https://reddit.com/r/webdev/comments/1rgkin1/ai_is_one_of_those_things_you_call_a_union_for/",
+      "subreddit": "webdev",
+      "score": 51,
+      "titleZh": "AI 是那种你会为之成立工会的东西",
+      "summary": "AI 技术变革可能威胁就业，建议通过工会保护劳动者权益。"
+    },
+    {
+      "title": "[R] ContextCache: Persistent KV Cache with Content-Hash Addressing — 29x TTFT speedup for tool-calling LLMs",
+      "url": "https://reddit.com/r/MachineLearning/comments/1rglj2n/r_contextcache_persistent_kv_cache_with/",
+      "subreddit": "machinelearning",
+      "score": 7,
+      "titleZh": "[R] ContextCache: 使用内容哈希寻址的持久 KV 缓存 —— 为工具调用 LLM 带来 29 倍 TTFT 加速",
+      "summary": "新论文提出 ContextCache 技术，可为工具调用 LLM 带来 29 倍首次 token 生成速度提升。"
+    },
+    {
+      "title": "Trump orders federal agencies to stop using Anthropic AI tech ‘immediately’",
+      "url": "https://reddit.com/r/artificial/comments/1rgkegx/trump_orders_federal_agencies_to_stop_using/",
+      "subreddit": "artificial",
+      "score": 72,
+      "titleZh": "特朗普命令联邦机构立即停止使用 Anthropic AI 技术",
+      "summary": "特朗普下令所有联邦机构立即停止使用 Anthropic 的 AI 技术。"
+    },
+    {
+      "title": "Anthropic rejects latest Pentagon offer: ‘We cannot in good conscience accede to their request’",
+      "url": "https://reddit.com/r/artificial/comments/1rfsjv7/anthropic_rejects_latest_pentagon_offer_we_cannot/",
+      "subreddit": "artificial",
+      "score": 675,
+      "titleZh": "Anthropic 拒绝五角大楼最新提议：‘我们不能良心上同意他们的要求’",
+      "summary": "Anthropic 以道德理由正式拒绝五角大楼的最新 AI 使用提议。"
+    },
+    {
+      "title": "The problem with Dorsey's Block layoffs and the veiled nature of AI productivity growth",
+      "url": "https://reddit.com/r/artificial/comments/1rga39a/the_problem_with_dorseys_block_layoffs_and_the/",
+      "subreddit": "artificial",
+      "score": 22,
+      "titleZh": "Dorsey 的 Block 裁员问题以及 AI 生产力增长的隐秘性质",
+      "summary": "分析 Block 裁员现象与 AI 提升生产力但未体现在传统数据中的关系。"
+    },
+    {
+      "title": "Paramount Pay Netflix $2.8 B breakup fee - Bloomberg",
+      "url": "https://reddit.com/r/wallstreetbets/comments/1rghamq/paramount_pay_netflix_28_b_breakup_fee_bloomberg/",
+      "subreddit": "wallstreetbets",
+      "score": 4088,
+      "titleZh": "Paramount 向 Netflix 支付 28 亿美元分手费 - Bloomberg",
+      "summary": "Paramount 因交易破裂向 Netflix 支付 28 亿美元巨额分手费。"
+    },
+    {
+      "title": "Dogs act like toddlers when you need help - but cats just watch. Scientists compared 3 groups: pet dogs, cats, and human toddlers in an experiment where a human parent hides and pretends to look for an object. 75% of dogs and children helped. Cats only helped if it was in their personal interest.",
+      "url": "https://reddit.com/r/science/comments/1rgh7rx/dogs_act_like_toddlers_when_you_need_help_but/",
+      "subreddit": "science",
+      "score": 9222,
+      "titleZh": "狗在需要帮助时表现得像幼儿，但猫只会旁观。科学家比较了宠物狗、猫和人类幼儿",
+      "summary": "实验显示 75% 的狗和幼儿会主动帮助寻找隐藏物体，而猫仅在自身利益时才帮忙。"
+    },
+    {
+      "title": "People from cultures with strict social norms tend to be less skilled at being funny. These findings suggest that the ability to generate humor is not just an inborn personality trait, but a skill heavily shaped by the social rules of the environment in which a person lives.",
+      "url": "https://reddit.com/r/science/comments/1rggd6r/people_from_cultures_with_strict_social_norms/",
+      "subreddit": "science",
+      "score": 2008,
+      "titleZh": "严格社会规范文化中的人幽默感较差。这表明幽默能力受环境社会规则塑造",
+      "summary": "研究发现严格社会规范下的个体幽默能力较弱，证明幽默是受文化环境塑造的技能。"
+    },
+    {
+      "title": "Start school later, sleep longer, learn better: New study shows that flexible school start times can be an effective and practical approach to reducing chronic sleep deprivation and improving adolescents’ mental health and academic performance.",
+      "url": "https://reddit.com/r/science/comments/1rg650s/start_school_later_sleep_longer_learn_better_new/",
+      "subreddit": "science",
+      "score": 5165,
+      "titleZh": "推迟上学时间，让学生睡更久、学更好：新研究显示灵活开学时间可改善青少年心理健康和学业表现",
+      "summary": "新研究证实灵活推迟学校开学时间能有效减少青少年睡眠不足，提升心理健康与学习成绩。"
+    }
+  ],
+  "hn": [
+    {
+      "title": "I am directing the Department of War to designate Anthropic a supply-chain risk",
+      "url": "https://twitter.com/secwar/status/2027507717469049070",
+      "score": 872,
+      "id": "47186677",
+      "titleZh": "我正在指示战争部将 Anthropic 指定为供应链风险",
+      "summary": "以官方语气宣布将 Anthropic 列为供应链风险，可能为讽刺帖或真实新闻讨论。"
+    },
+    {
+      "title": "Qt45: A small polymerase ribozyme that can synthesize itself",
+      "url": "https://www.science.org/doi/10.1126/science.adt2760",
+      "score": 29,
+      "id": "47187649",
+      "titleZh": "Qt45：一种能自我合成的小型聚合酶核酶",
+      "summary": "科学家发现 Qt45 这一小型核酶，可实现自我合成复制。"
+    },
+    {
+      "title": "OpenAI raises $110B on $730B pre-money valuation",
+      "url": "https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/",
+      "score": 363,
+      "id": "47181211",
+      "titleZh": "OpenAI 以 7300 亿美元预估估值融资 1100 亿美元",
+      "summary": "OpenAI 完成巨额融资，投前估值高达 7300 亿美元。"
+    },
+    {
+      "title": "Smallest transformer that can add two 10-digit numbers",
+      "url": "https://github.com/anadim/AdderBoard",
+      "score": 26,
+      "id": "47170030",
+      "titleZh": "能加两个 10 位数字的最小 transformer 模型",
+      "summary": "研究展示极小型 transformer 模型即可准确完成两位数加法任务。"
+    },
+    {
+      "title": "Emuko: Fast RISC-V emulator written in Rust, boots Linux",
+      "url": "https://github.com/wkoszek/emuko",
+      "score": 30,
+      "id": "47187121",
+      "titleZh": "Emuko：用 Rust 编写的快速 RISC-V 模拟器，可启动 Linux",
+      "summary": "全新 Rust 实现的高性能 RISC-V 模拟器 Emuko，支持完整 Linux 引导。"
+    },
+    {
+      "title": "A new California law says all operating systems need to have age verification",
+      "url": "https://www.pcgamer.com/software/operating-systems/a-new-california-law-says-all-operating-systems-including-linux-need-to-have-some-form-of-age-verification-at-account-setup/",
+      "score": 335,
+      "id": "47181208",
+      "titleZh": "加州新法律要求所有操作系统必须有年龄验证",
+      "summary": "加州通过新法，强制所有操作系统内置年龄验证机制。"
+    },
+    {
+      "title": "NASA announces overhaul of Artemis program amid safety concerns, delays",
+      "url": "https://www.cbsnews.com/news/nasa-artemis-moon-program-overhaul/",
+      "score": 203,
+      "id": "47182483",
+      "titleZh": "NASA 因安全担忧和延误宣布 overhaul Artemis 计划",
+      "summary": "NASA 对 Artemis 月球计划进行全面调整，以应对安全问题与进度延误。"
+    },
+    {
+      "title": "A better streams API is possible for JavaScript",
+      "url": "https://blog.cloudflare.com/a-better-web-streams-api/",
+      "score": 367,
+      "id": "47180569",
+      "titleZh": "JavaScript 可能有更好的 streams API",
+      "summary": "社区讨论如何为 JavaScript 设计更优的流式处理 API。"
+    },
+    {
+      "title": "Otters as Bioindicators of Estuarine Health",
+      "url": "https://emt.pensoft.net/article/185117/",
+      "score": 17,
+      "id": "47186444",
+      "titleZh": "水獭作为河口健康生物指示物",
+      "summary": "研究表明水獭可作为监测河口生态系统健康的有效生物指示物。"
+    },
+    {
+      "title": "A Chinese official’s use of ChatGPT revealed an intimidation operation",
+      "url": "https://www.cnn.com/2026/02/25/politics/chatgpt-china-intimidation-operation",
+      "score": 119,
+      "id": "47181944",
+      "titleZh": "中国官员使用 ChatGPT 暴露恐吓行动",
+      "summary": "一名中国官员不当使用 ChatGPT，导致其恐吓行动被意外揭露。"
+    },
+    {
+      "title": "Show HN: Claude-File-Recovery, recover files from your ~/.claude sessions",
+      "url": "https://github.com/hjtenklooster/claude-file-recovery",
+      "score": 38,
+      "id": "47182387",
+      "titleZh": "Show HN: Claude-File-Recovery，从 ~/.claude 会话中恢复文件",
+      "summary": "开发者分享工具，可从 Claude AI 会话目录中恢复丢失文件。"
+    },
+    {
+      "title": "Let's discuss sandbox isolation",
+      "url": "https://www.shayon.dev/post/2026/52/lets-discuss-sandbox-isolation/",
+      "score": 91,
+      "id": "47184049",
+      "titleZh": "让我们讨论沙盒隔离",
+      "summary": "Hacker News 社区展开关于沙盒环境隔离机制的深入讨论。"
+    },
+    {
+      "title": "Writing a Guide to SDF Fonts",
+      "url": "https://www.redblobgames.com/blog/2026-02-26-writing-a-guide-to-sdf-fonts/",
+      "score": 69,
+      "id": "47183725",
+      "titleZh": "编写 SDF 字体指南",
+      "summary": "分享详细教程，教大家如何创建 SDF 字体格式。"
+    },
+    {
+      "title": "Open source calculator firmware DB48X forbids CA/CO use due to age verification",
+      "url": "https://github.com/c3d/db48x/commit/7819972b641ac808d46c54d3f5d1df70d706d286",
+      "score": 129,
+      "id": "47181753",
+      "titleZh": "开源计算器固件 DB48X 因年龄验证禁止 CA/CO 使用",
+      "summary": "DB48X 开源计算器固件因年龄验证要求，禁止在加州和科罗拉多州使用。"
+    },
+    {
+      "title": "Get free Claude max 20x for open-source maintainers",
+      "url": "https://claude.com/contact-sales/claude-for-oss",
+      "score": 426,
+      "id": "47178371",
+      "titleZh": "开源维护者可免费获得 Claude max 20x",
+      "summary": "Claude 为开源项目维护者提供最高 20 倍免费使用额度。"
+    }
+  ],
+  "producthunt": [
+    {
+      "title": "Musikey — Tough musical authentication for accessibility",
+      "url": "https://www.producthunt.com/products/musikey-music-auth",
+      "votesCount": 0,
+      "titleZh": "Musikey — 面向可访问性的强力音乐认证",
+      "summary": "Musikey 推出创新音乐认证系统，重点提升残障用户可访问性。"
+    },
+    {
+      "title": "Nano Banana 2 — Google's latest AI image generation model",
+      "url": "https://www.producthunt.com/products/nano-banana-2-11",
+      "votesCount": 0,
+      "titleZh": "Nano Banana 2 — 谷歌最新 AI 图像生成模型",
+      "summary": "谷歌发布 Nano Banana 2 全新 AI 图像生成模型。"
+    },
+    {
+      "title": "What's Up With That? — Get instant insights about the topic you're reading about",
+      "url": "https://www.producthunt.com/products/what-s-up-with-that",
+      "votesCount": 0,
+      "titleZh": "What's Up With That? — 获取你正在阅读话题的即时洞见",
+      "summary": "新工具可为用户正在阅读的内容提供实时 AI 总结与洞见。"
+    },
+    {
+      "title": "Perplexity Computer — Everything AI can do, Perplexity Computer does for you.",
+      "url": "https://www.producthunt.com/products/perplexity-ai",
+      "votesCount": 0,
+      "titleZh": "Perplexity Computer — AI 能做的一切，Perplexity Computer 都为你做",
+      "summary": "Perplexity 推出 Computer 一体化 AI 平台，覆盖研究、设计、编码等全流程。"
+    },
+    {
+      "title": "Superset — Run an army of Claude Code, Codex, etc. on your machine",
+      "url": "https://www.producthunt.com/products/superset-5",
+      "votesCount": 0,
+      "titleZh": "Superset — 在你的机器上运行 Claude Code、Codex 等军队级 AI",
+      "summary": "Superset 允许本地部署多个高级 AI 编码代理。"
+    },
+    {
+      "title": "lemonpod.ai — Your daily life recap, narrated as a personal AI podcast",
+      "url": "https://www.producthunt.com/products/lemonpod-ai",
+      "votesCount": 0,
+      "titleZh": "lemonpod.ai — 你的每日生活回顾，以个人 AI 播客形式叙述",
+      "summary": "lemonpod.ai 将用户每日活动自动生成个性化 AI 播客回顾。"
+    },
+    {
+      "title": "ShowcasePro — Convert photos into elegant designs for marketing + sharing",
+      "url": "https://www.producthunt.com/products/showcasepro",
+      "votesCount": 0,
+      "titleZh": "ShowcasePro — 将照片转为优雅营销设计并分享",
+      "summary": "ShowcasePro 一键将普通照片转换为专业营销视觉素材。"
+    },
+    {
+      "title": "Mastra Code — The AI coding agent that never compacts",
+      "url": "https://www.producthunt.com/products/mastra",
+      "votesCount": 0,
+      "titleZh": "Mastra Code — 永不压缩的 AI 编码代理",
+      "summary": "Mastra Code 提供稳定可靠的 AI 编程助手，从不偷懒压缩代码。"
+    },
+    {
+      "title": "MaxClaw by MiniMax — Always-on managed agent based on OpenClaw powered by MiniMax",
+      "url": "https://www.producthunt.com/products/minimax-agent",
+      "votesCount": 0,
+      "titleZh": "MaxClaw by MiniMax — 基于 OpenClaw 的始终在线托管代理",
+      "summary": "MiniMax 推出 MaxClaw 托管型 AI 代理服务。"
+    },
+    {
+      "title": "HelixDB — An open-source OLTP graph-vector database built in Rust.",
+      "url": "https://www.producthunt.com/products/helixdb",
+      "votesCount": 0,
+      "titleZh": "HelixDB — 用 Rust 构建的开源 OLTP 图-向量数据库",
+      "summary": "HelixDB 是高性能开源 Rust 图向量数据库，支持 OLTP 事务。"
+    },
+    {
+      "title": "Claude Code Remote Control — Continue local sessions from any device with Remote Control",
+      "url": "https://www.producthunt.com/products/claude-code-remote-access",
+      "votesCount": 0,
+      "titleZh": "Claude Code Remote Control — 从任何设备继续本地会话的远程控制",
+      "summary": "Claude Code 新增远程控制功能，可跨设备无缝继续本地会话。"
+    },
+    {
+      "title": "Alkemi — Your AI data teammate in Slack",
+      "url": "https://www.producthunt.com/products/alkemi",
+      "votesCount": 0,
+      "titleZh": "Alkemi — 你在 Slack 中的 AI 数据队友",
+      "summary": "Alkemi 在 Slack 内提供实时 AI 数据分析与协作支持。"
+    },
+    {
+      "title": "BedRock — Get approved by US banks even after being rejeceted",
+      "url": "https://www.producthunt.com/products/bedrock-5",
+      "votesCount": 0,
+      "titleZh": "BedRock — 即使被拒绝也能获得美国银行批准",
+      "summary": "BedRock 服务帮助用户即使初次被拒仍能获得美国银行账户批准。"
+    },
+    {
+      "title": "Flarehawk — Monitors security tools, probes threats, + prompts action",
+      "url": "https://www.producthunt.com/products/flarehawk",
+      "votesCount": 0,
+      "titleZh": "Flarehawk — 监控安全工具、探测威胁并提示行动",
+      "summary": "Flarehawk 使用 AI 实时监控安全工具并主动提示威胁应对。"
+    },
+    {
+      "title": "mvntSTUDIO — Dance generation AI for every song!",
+      "url": "https://www.producthunt.com/products/mvntstudio",
+      "votesCount": 0,
+      "titleZh": "mvntSTUDIO — 为每首歌生成舞蹈的 AI",
+      "summary": "mvntSTUDIO 利用 AI 为任意歌曲自动生成匹配舞蹈动作。"
+    }
+  ],
+  "substack": [
+    {
+      "title": "The Pulse: Cloudflare rewrites Next.js as AI rewrites commercial open source",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-164-nextjs",
+      "source": "newsletter.pragmaticengineer.com",
+      "titleZh": "The Pulse: Cloudflare 重写 Next.js，正如 AI 重写商业开源",
+      "summary": "Cloudflare 对 Next.js 的重写案例，反映 AI 如何重塑商业开源软件生态。"
+    },
+    {
+      "title": "Mitchell Hashimoto’s new way of writing code",
+      "url": "https://newsletter.pragmaticengineer.com/p/mitchell-hashimoto",
+      "source": "newsletter.pragmaticengineer.com",
+      "titleZh": "Mitchell Hashimoto 的新代码编写方式",
+      "summary": "Mitchell Hashimoto 分享其最新代码编写方法与哲学。"
+    },
+    {
+      "title": "The Future of Software Engineering with AI: Six Predictions",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-future-of-software-engineering-with-ai",
+      "source": "newsletter.pragmaticengineer.com",
+      "titleZh": "AI 时代的软件工程未来：六大预测",
+      "summary": "对 AI 驱动下软件工程未来的六项关键预测。"
+    },
+    {
+      "title": "The Pulse #162: Even fewer middle managers and more flexible teams?",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-162-even-fewer-middle-managers",
+      "source": "newsletter.pragmaticengineer.com",
+      "titleZh": "The Pulse #162: 更少中层经理和更灵活团队？",
+      "summary": "讨论企业组织向更少中层、更灵活团队结构转型的趋势。"
+    },
+    {
+      "title": "How Codex is built",
+      "url": "https://newsletter.pragmaticengineer.com/p/how-codex-is-built",
+      "source": "newsletter.pragmaticengineer.com",
+      "titleZh": "Codex 是如何构建的",
+      "summary": "深度揭秘 OpenAI Codex AI 编码工具的内部构建过程。"
+    },
+    {
+      "title": "Strong Consistency In Databases: Promises and Costs",
+      "url": "https://blog.bytebytego.com/p/strong-consistency-in-databases-promises",
+      "source": "blog.bytebytego.com",
+      "titleZh": "数据库中的强一致性：承诺与成本",
+      "summary": "详解数据库强一致性带来的保证及其实现代价。"
+    },
+    {
+      "title": "The Algorithm That Powers Your X (Twitter) Post",
+      "url": "https://blog.bytebytego.com/p/the-algorithm-that-powers-your-x",
+      "source": "blog.bytebytego.com",
+      "titleZh": "驱动你 X (Twitter) 帖子的算法",
+      "summary": "解析 Twitter/X 平台推荐算法的运作机制。"
+    },
+    {
+      "title": "How Uber Reinvented Access Control for Microservices",
+      "url": "https://blog.bytebytego.com/p/how-uber-reinvented-access-control",
+      "source": "blog.bytebytego.com",
+      "titleZh": "Uber 如何为微服务重塑访问控制",
+      "summary": "Uber 在微服务架构中创新访问控制系统的实践分享。"
+    },
+    {
+      "title": "How Large Language Models Learn",
+      "url": "https://blog.bytebytego.com/p/how-large-language-models-learn",
+      "source": "blog.bytebytego.com",
+      "titleZh": "大型语言模型如何学习",
+      "summary": "从原理层面讲解大型语言模型的学习与训练机制。"
+    },
+    {
+      "title": "EP203: RabbitMQ vs Kafka vs Pulsar",
+      "url": "https://blog.bytebytego.com/p/ep203-rabbitmq-vs-kafka-vs-pulsar",
+      "source": "blog.bytebytego.com",
+      "titleZh": "EP203: RabbitMQ vs Kafka vs Pulsar",
+      "summary": "详细对比三大消息队列系统 RabbitMQ、Kafka 与 Pulsar 的优劣。"
+    },
+    {
+      "title": "AI is critical for humanity’s survival: Cisco president on the AI revolution | Jeetu Patel",
+      "url": "https://www.lennysnewsletter.com/p/ai-is-critical-for-humanitys-survival",
+      "source": "www.lennysnewsletter.com",
+      "titleZh": "AI 对人类生存至关重要：思科总裁谈 AI 革命 | Jeetu Patel",
+      "summary": "思科总裁 Jeetu Patel 强调 AI 是人类生存与发展的关键技术。"
+    },
+    {
+      "title": "5 OpenClaw agents run my home, finances, and code | Jesse Genet",
+      "url": "https://www.lennysnewsletter.com/p/5-openclaw-agents-run-my-home-finances",
+      "source": "www.lennysnewsletter.com",
+      "titleZh": "5 个 OpenClaw 代理管理我的家庭、财务和代码 | Jesse Genet",
+      "summary": "Jesse Genet 分享如何用 5 个 OpenClaw AI 代理处理家庭、财务与编程事务。"
+    },
+    {
+      "title": "How to use AI for your next job interview",
+      "url": "https://www.lennysnewsletter.com/p/how-to-use-ai-in-your-next-job-interview",
+      "source": "www.lennysnewsletter.com",
+      "titleZh": "如何用 AI 准备下一次求职面试",
+      "summary": "实用指南：利用 AI 工具高效准备求职面试。"
+    },
+    {
+      "title": "How to use AI for your next job interview",
+      "url": "https://www.lennysnewsletter.com/p/how-to-use-ai-for-your-next-job-interview",
+      "source": "www.lennysnewsletter.com",
+      "titleZh": "如何用 AI 准备下一次求职面试",
+      "summary": "实用指南：利用 AI 工具高效准备求职面试。"
+    },
+    {
+      "title": "🎙️ This week on How I AI: How Notion’s design team uses Claude Code to design",
+      "url": "https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-how-notions",
+      "source": "www.lennysnewsletter.com",
+      "titleZh": "🎙️ 本周 How I AI：Notion 设计团队如何用 Claude Code 进行设计",
+      "summary": "Notion 设计团队分享使用 Claude Code 辅助设计工作的真实案例。"
+    }
+  ],
+  "pinterest": [],
+  "x": [
+    {
+      "title": "Introducing Perplexity Computer. Computer unifies every current AI capability into one system. It can research, design, code, deploy, and manage any project end-to-end.",
+      "url": "https://x.com/perplexity_ai/status/2026695550771540489",
+      "titleZh": "Perplexity 推出 Computer，统一所有 AI 能力于一系统，可端到端研究、设计、编码、部署与管理项目",
+      "summary": "Perplexity 发布全新 Computer 产品，将研究、设计、编码等所有 AI 功能整合，实现项目全生命周期一站式处理。",
+      "source": "X (Twitter)",
+      "author": "@perplexity_ai",
+      "likes": 46399,
+      "retweets": 5327
+    },
+    {
+      "title": "Legacy infra is about human <> human\nToday's reality is human <> agent\n\nReal-time infra is not just about:\nVoice\nVideo\nRouting\n\nIt's also about:\nEdge\nSTT\nTTS\nx402 payments\nCost efficient latency\n\nSame thesis.\nBigger surface area.\n\nVoice AI -- available via API/SDK. Now.",
+      "url": "https://x.com/dtelecom/status/2026973779516109088",
+      "titleZh": "传统基础设施针对人到人，今天现实是人到 AI 代理",
+      "summary": "dTelecom 指出实时基础设施需全面支持人机代理交互，涵盖边缘计算、语音转换等技术，语音 AI 已开放 API。",
+      "source": "X (Twitter)",
+      "author": "@dtelecom",
+      "likes": 10650,
+      "retweets": 4590
+    },
+    {
+      "title": "Building my first house at 25\n\nWeb3 & tech did 🚀",
+      "url": "https://x.com/Ajayfizzy/status/2024457865122000940",
+      "titleZh": "25 岁靠 Web3 与科技建起第一栋房子",
+      "summary": "用户分享通过 Web3 和科技手段在 25 岁实现自建房屋的励志故事。",
+      "source": "X (Twitter)",
+      "author": "@Ajayfizzy",
+      "likes": 14610,
+      "retweets": 717
+    },
+    {
+      "title": "Apparently Musk Hates this video, please keep it between us!",
+      "url": "https://x.com/Heccles94/status/2025239426683588805",
+      "titleZh": "据说马斯克讨厌这个视频，请大家保密！",
+      "summary": "一段据称马斯克不喜欢的视频在 X 上被广泛传播，呼吁私下分享。",
+      "source": "X (Twitter)",
+      "author": "@Heccles94",
+      "likes": 17936,
+      "retweets": 9055
+    },
+    {
+      "title": "$MWXT Staking Portal is now LIVE.\n\nEarn up to 400% APR\nFlexible staking for accessibility. Locked staking for maximum rewards.\n\nTurn your tokens into long-term yield while supporting the growth of the MWX AI marketplace.",
+      "url": "https://x.com/mwx_ai/status/2025541831195234328",
+      "titleZh": "MWXT 质押门户现已上线，最高年化收益达 400%",
+      "summary": "MWX AI 项目开启质押功能，提供灵活与锁定两种模式，支持 AI 市场长期发展。",
+      "source": "X (Twitter)",
+      "author": "@mwx_ai",
+      "likes": 2901,
+      "retweets": 1548
+    },
+    {
+      "title": "Elon now coming out against women voting",
+      "url": "https://x.com/esjesjesj/status/2025612469570265337",
+      "titleZh": "埃隆现在公开反对女性投票权",
+      "summary": "马斯克被指公开反对女性拥有投票权，引发广泛讨论。",
+      "source": "X (Twitter)",
+      "author": "@esjesjesj",
+      "likes": 14465,
+      "retweets": 689
+    },
+    {
+      "title": "Exactly",
+      "url": "https://x.com/elonmusk/status/2025319730509197744",
+      "titleZh": "正是如此",
+      "summary": "马斯克对某热门话题表示完全赞同。",
+      "source": "X (Twitter)",
+      "author": "@elonmusk",
+      "likes": 37674,
+      "retweets": 1964
+    },
+    {
+      "title": "Elon has pulled off the biggest voter fraud in Georgia in 2024. It’s time he is arrested...",
+      "url": "https://x.com/commons96055467/status/2025244923247911087",
+      "titleZh": "埃隆在 2024 年佐治亚州实施最大选民欺诈，该逮捕他了",
+      "summary": "用户指控马斯克在 2024 年大选中进行选民欺诈，要求对其进行调查与逮捕。",
+      "source": "X (Twitter)",
+      "author": "@commons96055467",
+      "likes": 18753,
+      "retweets": 8297
+    },
+    {
+      "title": "BREAKING 🚨 Elon Musk questions whether or not Sen Majority Leader Thune is owned by someone... JOHN THUNE IS A RINO TRAITOR",
+      "url": "https://x.com/MAGAVoice/status/2027320028513874337",
+      "titleZh": "突发：埃隆·马斯克质疑多数党领袖 Thune 是否被某人控制",
+      "summary": "马斯克公开质疑参议员 John Thune 的忠诚度，称其为 RINO 叛徒。",
+      "source": "X (Twitter)",
+      "author": "@MAGAVoice",
+      "likes": 15256,
+      "retweets": 4986
+    },
+    {
+      "title": "RETWEET if you are proud to stand with Hillary against the GOP!",
+      "url": "https://x.com/DisavowTrump20/status/2027157563943362752",
+      "titleZh": "如果你自豪地与希拉里站在一起反对共和党，请转发！",
+      "summary": "号召支持者与希拉里共同对抗共和党。",
+      "source": "X (Twitter)",
+      "author": "@DisavowTrump20",
+      "likes": 14586,
+      "retweets": 4808
+    },
+    {
+      "title": "Patriot Alert:🚨 This young man took the time to salute President Trump as he passed by, he’s being raised right!",
+      "url": "https://x.com/PatriotHQ/status/2025641469923770424",
+      "titleZh": "爱国警报：年轻人向特朗普总统敬礼，他被教育得很好！",
+      "summary": "分享年轻人向特朗普敬礼的暖心视频，赞扬其家庭教育。",
+      "source": "X (Twitter)",
+      "author": "@PatriotHQ",
+      "likes": 31583,
+      "retweets": 3277
+    },
+    {
+      "title": "🚨BREAKING: Legendary actor Dennis Quaid is sitting next to President Trump on Air Force One. Trump owns the culture.",
+      "url": "https://x.com/BoLoudon/status/2027504338663248075",
+      "titleZh": "突发：传奇演员丹尼斯·奎德与特朗普同乘空军一号",
+      "summary": "丹尼斯·奎德与特朗普总统同机，凸显特朗普对美国文化的主导影响力。",
+      "source": "X (Twitter)",
+      "author": "@BoLoudon",
+      "likes": 19867,
+      "retweets": 2706
+    },
+    {
+      "title": "Sit down with me and weep while we listen to our Secretary of State Marco Rubio confess Jesus Christ to be our Lord and Savior...",
+      "url": "https://x.com/LightOnLiberty/status/2025401788271112465",
+      "titleZh": "与我一起聆听国务卿鲁比奥宣认耶稣基督为主，感动落泪",
+      "summary": "分享国务卿 Marco Rubio 的基督教信仰演讲，感动大量听众。",
+      "source": "X (Twitter)",
+      "author": "@LightOnLiberty",
+      "likes": 21949,
+      "retweets": 6169
+    },
+    {
+      "title": "Musk HATES this being shared on X 😬",
+      "url": "https://x.com/Heccles94/status/2024944135715557717",
+      "titleZh": "马斯克讨厌这个在 X 上传播 😬",
+      "summary": "另一段据称马斯克不喜欢的视频再次被分享。",
+      "source": "X (Twitter)",
+      "author": "@Heccles94",
+      "likes": 9889,
+      "retweets": 5599
+    },
+    {
+      "title": "Every foreign trip, every deal, every tariff is tied to Trump’s personal portfolio... it's crony capitalism.",
+      "url": "https://x.com/GavinNewsom/status/2027503779835482135",
+      "titleZh": "特朗普每一次外访、交易、关税都与其个人资产挂钩，这是裙带资本主义",
+      "summary": "加州州长 Gavin Newsom 指责特朗普利用公职谋取巨额个人利益。",
+      "source": "X (Twitter)",
+      "author": "@GavinNewsom",
+      "likes": 5290,
+      "retweets": 1385
+    }
+  ]
+}

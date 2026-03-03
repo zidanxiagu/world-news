@@ -1,0 +1,720 @@
+{
+  "date": "2026-03-02",
+  "reddit": [
+    {
+      "title": "AWS Middle East Central (mec1-az2) down, apparently struck in war",
+      "url": "https://reddit.com/r/programming/comments/1ri7jpj/aws_middle_east_central_mec1az2_down_apparently/",
+      "subreddit": "programming",
+      "score": 1168,
+      "titleZh": "AWS 中东中部 (mec1-az2) 因战争中断",
+      "summary": "AWS 中东区域数据中心疑似受战争影响宕机。"
+    },
+    {
+      "title": "The looming AI clownpocalypse",
+      "url": "https://reddit.com/r/programming/comments/1rhyv48/the_looming_ai_clownpocalypse/",
+      "subreddit": "programming",
+      "score": 301,
+      "titleZh": "即将到来的 AI 小丑末日",
+      "summary": "讨论 AI 发展可能引发的‘小丑末日’式混乱情景。"
+    },
+    {
+      "title": "'No ethics at all': the 'cancel ChatGPT' trend is growing after OpenAI signs a deal with the US military",
+      "url": "https://reddit.com/r/technology/comments/1ribnqe/no_ethics_at_all_the_cancel_chatgpt_trend_is/",
+      "subreddit": "technology",
+      "score": 6205,
+      "titleZh": "‘毫无道德’：OpenAI 与美军签约后‘取消 ChatGPT’趋势兴起",
+      "summary": "OpenAI 签署美军协议引发用户不满，‘取消 ChatGPT’运动不断扩大。"
+    },
+    {
+      "title": "Goodbye, Tesla-style giant touchscreens: cars return to physical buttons",
+      "url": "https://reddit.com/r/technology/comments/1rhwdfx/goodbye_teslastyle_giant_touchscreens_cars_return/",
+      "subreddit": "technology",
+      "score": 20595,
+      "titleZh": "告别特斯拉式巨型触屏：汽车回归物理按钮",
+      "summary": "汽车设计趋势转向物理按钮，放弃大型触屏界面。"
+    },
+    {
+      "title": "Dario Amodei on Anthropic's Pentagon spat: 'Disagreeing with the government is the most American thing in the world'",
+      "url": "https://reddit.com/r/technology/comments/1ri1f56/dario_amodei_on_anthropics_pentagon_spat/",
+      "subreddit": "technology",
+      "score": 6369,
+      "titleZh": "Dario Amodei 谈 Anthropic 五角大楼争端：与政府意见相左是最美国的事",
+      "summary": "Anthropic CEO 表示反对政府立场是美国精神的核心。"
+    },
+    {
+      "title": "Built a fake Gmail that secretly shows live cricket. Press Escape to hide it when your boss walks by.",
+      "url": "https://reddit.com/r/webdev/comments/1rht8p3/built_a_fake_gmail_that_secretly_shows_live/",
+      "subreddit": "webdev",
+      "score": 1003,
+      "titleZh": "自制假 Gmail 偷偷显示实时板球比赛，老板来时按 Esc 隐藏",
+      "summary": "用户开发假 Gmail 界面隐藏实时体育比分，应对工作时偷看。"
+    },
+    {
+      "title": "[R] Benchmarked 94 LLM endpoints for jan 2026. open source is now within 5 quality points of proprietary",
+      "url": "https://reddit.com/r/MachineLearning/comments/1rhuwyt/r_benchmarked_94_llm_endpoints_for_jan_2026_open/",
+      "subreddit": "machinelearning",
+      "score": 31,
+      "titleZh": "[R] 2026 年 1 月基准测试 94 个 LLM 端点，开源模型与专有模型质量差距缩小至 5 分",
+      "summary": "基准测试显示开源 LLM 已接近专有模型性能，仅差 5 分。"
+    },
+    {
+      "title": "OpenAI eyes global domination with $110B Amazon and NVIDIA raise, value hits $840B",
+      "url": "https://reddit.com/r/artificial/comments/1rhzn14/openai_eyes_global_domination_with_110b_amazon/",
+      "subreddit": "artificial",
+      "score": 173,
+      "titleZh": "OpenAI 瞄准全球霸主地位，亚马逊和 NVIDIA 投资 1100 亿美元，估值达 8400 亿美元",
+      "summary": "OpenAI 通过巨额融资估值飙升至 8400 亿美元，寻求主导 AI 市场。"
+    },
+    {
+      "title": "Claude hits No. 1 on App Store as ChatGPT users defect in show of support for Anthropic's Pentagon stance",
+      "url": "https://reddit.com/r/artificial/comments/1rhu99c/claude_hits_no_1_on_app_store_as_chatgpt_users/",
+      "subreddit": "artificial",
+      "score": 204,
+      "titleZh": "Claude 登顶 App Store，用户因 Anthropic 五角大楼立场而弃用 ChatGPT",
+      "summary": "用户支持 Anthropic 立场，导致 Claude 应用排名跃升首位。"
+    },
+    {
+      "title": "Switch to Claude without starting over | Claude",
+      "url": "https://reddit.com/r/artificial/comments/1ri2r7g/switch_to_claude_without_starting_over_claude/",
+      "subreddit": "artificial",
+      "score": 26,
+      "titleZh": "无需重新开始即可切换到 Claude | Claude",
+      "summary": "Claude 提供从 ChatGPT 导入记忆的功能，便于无缝切换。"
+    },
+    {
+      "title": "Oil jumps 10% on Iran conflict and could spike to $100 a barrel, analysts say",
+      "url": "https://reddit.com/r/wallstreetbets/comments/1ri5t70/oil_jumps_10_on_iran_conflict_and_could_spike_to/",
+      "subreddit": "wallstreetbets",
+      "score": 3144,
+      "titleZh": "伊朗冲突导致油价上涨 10%，分析师称可能飙升至 100 美元/桶",
+      "summary": "伊朗冲突推高油价，未来或进一步上涨。"
+    },
+    {
+      "title": "Left-handers are more competitive than right-handers. Most people are right-handed, but 10.6% are left-handed. Left-handers are rarer than right-handers, making their attacks in a combat situation more surprising than those of right-handers. This may help explain the evolution of left-handedness.",
+      "url": "https://reddit.com/r/science/comments/1ri7p1c/lefthanders_are_more_competitive_than/",
+      "subreddit": "science",
+      "score": 1464,
+      "titleZh": "左撇子比右撇子更具竞争力",
+      "summary": "研究显示左撇子在战斗中更具优势，可能解释其进化保留。"
+    },
+    {
+      "title": "The Biden administration enacted over $198 billion in clean energy projects, the largest investment of its kind. People who lived close to the renewable energy and green manufacturing facilities noticed the investments, but were more likely to credit governors for it than the Biden administration.",
+      "url": "https://reddit.com/r/science/comments/1rhp0hd/the_biden_administration_enacted_over_198_billion/",
+      "subreddit": "science",
+      "score": 16207,
+      "titleZh": "拜登政府投入 1980 亿美元清洁能源项目，居民更倾向归功于州长",
+      "summary": "大规模清洁能源投资虽被注意到，但公众更多归功于地方官员。"
+    },
+    {
+      "title": "Young people see fewer win-win situations than older people. Zero-sum beliefs assume that if one person succeeds, others must fail. On average, older adults are also more financially secure than younger ones, which can contribute to this age-related difference.",
+      "url": "https://reddit.com/r/science/comments/1rhuuq7/young_people_see_fewer_winwin_situations_than/",
+      "subreddit": "science",
+      "score": 3681,
+      "titleZh": "年轻人比老年人更少看到双赢局面",
+      "summary": "零和思维在年轻人中更普遍，与年龄和财务安全相关。"
+    },
+    {
+      "title": "UK will allow US to use bases to strike Iranian missile sites, says Starmer",
+      "url": "https://reddit.com/r/worldnews/comments/1ria0mz/uk_will_allow_us_to_use_bases_to_strike_iranian/",
+      "subreddit": "worldnews",
+      "score": 9026,
+      "titleZh": "英国将允许美国使用基地打击伊朗导弹基地，Starmer 称",
+      "summary": "英国首相 Starmer 表示支持美国使用英基地针对伊朗。"
+    }
+  ],
+  "hn": [
+    {
+      "title": "WebMCP is available for early preview",
+      "url": "https://developer.chrome.com/blog/webmcp-epp",
+      "score": 94,
+      "id": "47211249",
+      "titleZh": "WebMCP 早期预览版可用",
+      "summary": "WebMCP 工具推出早期预览，供开发者测试。"
+    },
+    {
+      "title": "How to talk to anyone, and why you should",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/feb/24/stranger-secret-how-to-talk-to-anyone-why-you-should",
+      "score": 378,
+      "id": "47142183",
+      "titleZh": "如何与任何人交谈，以及为什么你应该这么做",
+      "summary": "分享提升社交沟通技巧的重要性与方法。"
+    },
+    {
+      "title": "Tove Jansson's criticized illustrations of The Hobbit",
+      "url": "https://tovejansson.com/hobbit-tolkien/",
+      "score": 56,
+      "id": "47182284",
+      "titleZh": "Tove Jansson 对《霍比特人》的插图遭批评",
+      "summary": "著名插画家 Tove Jansson 为《霍比特人》创作的插图引发争议。"
+    },
+    {
+      "title": "Ghostty – Terminal Emulator",
+      "url": "https://ghostty.org/docs",
+      "score": 595,
+      "id": "47206009",
+      "titleZh": "Ghostty – 终端模拟器",
+      "summary": "介绍高性能终端模拟器 Ghostty 的功能。"
+    },
+    {
+      "title": "Little Free Library Books",
+      "url": "https://littlefreelibrary.org/",
+      "score": 33,
+      "id": "47211280",
+      "titleZh": "Little Free Library 书籍",
+      "summary": "社区小免费图书馆的书籍分享项目。"
+    },
+    {
+      "title": "When does MCP make sense vs CLI?",
+      "url": "https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html",
+      "score": 235,
+      "id": "47208398",
+      "titleZh": "MCP 何时比 CLI 更有意义？",
+      "summary": "比较 MCP 工具与传统命令行界面的适用场景。"
+    },
+    {
+      "title": "How Next-Gen Spacecraft Are Overwhelming Our Communication Networks",
+      "url": "https://atempleton.bearblog.dev/how-next-gen-spacecraft-are-overwhelming-our-communication-networks/",
+      "score": 14,
+      "id": "47182339",
+      "titleZh": "下一代航天器如何压垮我们的通信网络",
+      "summary": "新型航天器对全球通信网络造成巨大负载。"
+    },
+    {
+      "title": "Microgpt explained interactively",
+      "url": "https://growingswe.com/blog/microgpt",
+      "score": 182,
+      "id": "47205208",
+      "titleZh": "Microgpt 交互式讲解",
+      "summary": "Microgpt 模型的互动式教程与解释。"
+    },
+    {
+      "title": "Decision trees – the unreasonable power of nested decision rules",
+      "url": "https://mlu-explain.github.io/decision-tree/",
+      "score": 390,
+      "id": "47204964",
+      "titleZh": "决策树 – 嵌套决策规则的非凡力量",
+      "summary": "探讨决策树算法在复杂决策中的强大应用。"
+    },
+    {
+      "title": "Chorba: A novel CRC32 implementation (2024)",
+      "url": "https://arxiv.org/abs/2412.16398",
+      "score": 38,
+      "id": "47180140",
+      "titleZh": "Chorba：一种新型 CRC32 实现 (2024)",
+      "summary": "介绍 2024 年优化的 CRC32 校验算法 Chorba。"
+    },
+    {
+      "title": "Long Range E-Bike (2021)",
+      "url": "https://jacquesmattheij.com/long-range-ebike/",
+      "score": 109,
+      "id": "47165965",
+      "titleZh": "长续航电动自行车 (2021)",
+      "summary": "回顾 2021 年长距离电动自行车设计。"
+    },
+    {
+      "title": "What Your DNA Reveals about the Sex Life of Neanderthals",
+      "url": "https://www.nytimes.com/2026/02/26/science/human-evolution-neanderthal-sex.html",
+      "score": 7,
+      "id": "47172481",
+      "titleZh": "你的 DNA 揭示尼安德特人性生活之谜",
+      "summary": "通过基因分析了解古代人类性行为。"
+    },
+    {
+      "title": "Are the Mysteries of Quantum Mechanics Beginning to Dissolve?",
+      "url": "https://www.quantamagazine.org/are-the-mysteries-of-quantum-mechanics-beginning-to-dissolve-20260213/",
+      "score": 63,
+      "id": "47210903",
+      "titleZh": "量子力学的谜团是否开始消解？",
+      "summary": "量子力学基础理论的最新突破与讨论。"
+    },
+    {
+      "title": "Setting up phones is a nightmare",
+      "url": "https://joelchrono.xyz/blog/setting-up-phones-is-a-nightmare/",
+      "score": 98,
+      "id": "47170958",
+      "titleZh": "设置手机是噩梦",
+      "summary": "手机初始化过程复杂繁琐的吐槽。"
+    },
+    {
+      "title": "Flightradar24 for Ships",
+      "url": "https://atlas.flexport.com/",
+      "score": 180,
+      "id": "47205637",
+      "titleZh": "船舶版 Flightradar24",
+      "summary": "实时追踪船舶的 Flightradar24 类似工具。"
+    }
+  ],
+  "producthunt": [
+    {
+      "title": "Simplora 2.0 — The agentic meeting stack with free prep, notes, and chat",
+      "url": "https://www.producthunt.com/products/simplora",
+      "votesCount": 0,
+      "titleZh": "Simplora 2.0 — 带免费准备、笔记和聊天的代理会议栈",
+      "summary": "Simplora 2.0 推出代理式会议工具，提供免费会议准备、笔记和聊天功能。"
+    },
+    {
+      "title": "Octrafic — Test your APIs in plain English, straight from the terminal",
+      "url": "https://www.producthunt.com/products/octrafic",
+      "votesCount": 0,
+      "titleZh": "Octrafic — 用纯英语从终端测试 API",
+      "summary": "Octrafic 允许开发者用自然语言在终端测试 API。"
+    },
+    {
+      "title": "Hearica — Turn all computer audio into captions for the deaf",
+      "url": "https://www.producthunt.com/products/hearica",
+      "votesCount": 0,
+      "titleZh": "Hearica — 将所有电脑音频转为字幕供聋人使用",
+      "summary": "Hearica 实时将电脑声音转换为字幕，帮助听障人士。"
+    },
+    {
+      "title": "Epismo Skills — Everything your agent needs to run reliably",
+      "url": "https://www.producthunt.com/products/epismo",
+      "votesCount": 0,
+      "titleZh": "Epismo Skills — 代理运行所需的一切可靠功能",
+      "summary": "Epismo Skills 为 AI 代理提供稳定运行的技能工具包。"
+    },
+    {
+      "title": "Voicr — Your voice in, polished text out — in seconds",
+      "url": "https://www.producthunt.com/products/voicr",
+      "votesCount": 0,
+      "titleZh": "Voicr — 语音输入，几秒内输出润色文本",
+      "summary": "Voicr 语音转高质量文本工具，快速处理。"
+    },
+    {
+      "title": "Claude Import Memory — Switch from ChatGPT to Claude with import memory feature",
+      "url": "https://www.producthunt.com/products/claude",
+      "votesCount": 0,
+      "titleZh": "Claude Import Memory — 从 ChatGPT 切换到 Claude 并导入记忆",
+      "summary": "Claude 新功能支持从 ChatGPT 导入记忆，无缝切换。"
+    },
+    {
+      "title": "OpenFang — Open-Source Agent Operating System",
+      "url": "https://www.producthunt.com/products/openfang",
+      "votesCount": 0,
+      "titleZh": "OpenFang — 开源代理操作系统",
+      "summary": "OpenFang 开源 AI 代理操作系统。"
+    },
+    {
+      "title": "Notra — Turn your daily work into publish-ready content",
+      "url": "https://www.producthunt.com/products/notra-3",
+      "votesCount": 0,
+      "titleZh": "Notra — 将日常工作转为可发布内容",
+      "summary": "Notra 自动将工作笔记转化为发布就绪的内容。"
+    },
+    {
+      "title": "BU — Openclaw in the cloud",
+      "url": "https://www.producthunt.com/products/browser-use",
+      "votesCount": 0,
+      "titleZh": "BU — 云端 Openclaw",
+      "summary": "BU 在云端提供 Openclaw 代理服务。"
+    },
+    {
+      "title": "OpenAI WebSocket Mode for Responses API — Persistent AI agents. Up to 40% faster.",
+      "url": "https://www.producthunt.com/products/openai-websocket-mode-for-responses-api",
+      "votesCount": 0,
+      "titleZh": "OpenAI WebSocket Mode for Responses API — 持久 AI 代理，最快 40%",
+      "summary": "OpenAI Responses API 新 WebSocket 模式，支持持久代理，速度提升 40%。"
+    },
+    {
+      "title": "Study OS — A minimalist focus timer with tasks, notes &amp; study music",
+      "url": "https://www.producthunt.com/products/study-os",
+      "votesCount": 0,
+      "titleZh": "Study OS — 极简专注计时器，带任务、笔记和学习音乐",
+      "summary": "Study OS 提供任务管理、笔记和背景音乐的专注学习系统。"
+    },
+    {
+      "title": "Claude in Excel — Chat with your spreadsheet. Fix, build, test scenarios.",
+      "url": "https://www.producthunt.com/products/claude",
+      "votesCount": 0,
+      "titleZh": "Claude in Excel — 与电子表格聊天，修复、构建、测试场景",
+      "summary": "Claude 集成 Excel，可直接聊天处理表格数据和场景。"
+    },
+    {
+      "title": "The Claw News — OpenClaw agents publishing daily news",
+      "url": "https://www.producthunt.com/products/the-claw-news",
+      "votesCount": 0,
+      "titleZh": "The Claw News — OpenClaw 代理每日发布新闻",
+      "summary": "OpenClaw 代理系统自动生成每日新闻。"
+    },
+    {
+      "title": "Producer AI by Google Labs — Turn ideas into tracks with your AI co-producer",
+      "url": "https://www.producthunt.com/products/google",
+      "votesCount": 0,
+      "titleZh": "Producer AI by Google Labs — 用 AI 联合制作人将想法转为曲目",
+      "summary": "Google Labs Producer AI 帮助用户用 AI 共同创作音乐。"
+    },
+    {
+      "title": "Surfpool — Where developers start their Solana journey",
+      "url": "https://www.producthunt.com/products/surfpool",
+      "votesCount": 0,
+      "titleZh": "Surfpool — 开发者开启 Solana 之旅的起点",
+      "summary": "Surfpool 为开发者提供 Solana 区块链入门平台。"
+    }
+  ],
+  "substack": [
+    {
+      "title": "The Pulse: Cloudflare rewrites Next.js as AI rewrites commercial open source",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-164-nextjs",
+      "source": "newsletter.pragmaticengineer.com",
+      "titleZh": "The Pulse：Cloudflare 用 AI 重写 Next.js 与商业开源",
+      "summary": "Cloudflare 借助 AI 重构 Next.js，影响商业开源生态。"
+    },
+    {
+      "title": "Mitchell Hashimoto’s new way of writing code",
+      "url": "https://newsletter.pragmaticengineer.com/p/mitchell-hashimoto",
+      "source": "newsletter.pragmaticengineer.com",
+      "titleZh": "Mitchell Hashimoto 的新代码编写方式",
+      "summary": "介绍 Mitchell Hashimoto 创新的编程方法。"
+    },
+    {
+      "title": "The Future of Software Engineering with AI: Six Predictions",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-future-of-software-engineering-with-ai",
+      "source": "newsletter.pragmaticengineer.com",
+      "titleZh": "AI 时代的软件工程未来：六大预测",
+      "summary": "对 AI 如何改变软件工程的六项未来预测。"
+    },
+    {
+      "title": "The Pulse #162: Even fewer middle managers and more flexible teams?",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-162-even-fewer-middle-managers",
+      "source": "newsletter.pragmaticengineer.com",
+      "titleZh": "The Pulse #162：更少中层经理与更灵活团队？",
+      "summary": "讨论企业减少中层管理、提升团队灵活性的趋势。"
+    },
+    {
+      "title": "How Codex is built",
+      "url": "https://newsletter.pragmaticengineer.com/p/how-codex-is-built",
+      "source": "newsletter.pragmaticengineer.com",
+      "titleZh": "Codex 是如何构建的",
+      "summary": "揭秘 Codex AI 代码工具的内部构建过程。"
+    },
+    {
+      "title": "EP204: 11 Ways To Use AI To Increase Your Productivity",
+      "url": "https://blog.bytebytego.com/p/ep204-11-ways-to-use-ai-to-increase",
+      "source": "blog.bytebytego.com",
+      "titleZh": "EP204：用 AI 提升生产力的 11 种方法",
+      "summary": "分享 11 个实用 AI 技巧来提高个人生产力。"
+    },
+    {
+      "title": "Strong Consistency In Databases: Promises and Costs",
+      "url": "https://blog.bytebytego.com/p/strong-consistency-in-databases-promises",
+      "source": "blog.bytebytego.com",
+      "titleZh": "数据库中的强一致性：承诺与成本",
+      "summary": "分析数据库强一致性模型的优势与实现代价。"
+    },
+    {
+      "title": "The Algorithm That Powers Your X (Twitter) Post",
+      "url": "https://blog.bytebytego.com/p/the-algorithm-that-powers-your-x",
+      "source": "blog.bytebytego.com",
+      "titleZh": "驱动你 X (Twitter) 帖子的算法",
+      "summary": "解析 Twitter 帖子推荐背后的算法机制。"
+    },
+    {
+      "title": "How Uber Reinvented Access Control for Microservices",
+      "url": "https://blog.bytebytego.com/p/how-uber-reinvented-access-control",
+      "source": "blog.bytebytego.com",
+      "titleZh": "Uber 如何为微服务重塑访问控制",
+      "summary": "Uber 创新的微服务访问控制系统设计。"
+    },
+    {
+      "title": "How Large Language Models Learn",
+      "url": "https://blog.bytebytego.com/p/how-large-language-models-learn",
+      "source": "blog.bytebytego.com",
+      "titleZh": "大型语言模型如何学习",
+      "summary": "解释 LLM 的训练和学习机制。"
+    },
+    {
+      "title": "The design process is dead. Here’s what’s replacing it. | Jenny Wen (head of design at Claude)",
+      "url": "https://www.lennysnewsletter.com/p/the-design-process-is-dead",
+      "source": "www.lennysnewsletter.com",
+      "titleZh": "设计流程已死，取而代之的是什么 | Jenny Wen（Claude 设计负责人）",
+      "summary": "Claude 设计负责人探讨设计流程的变革与新方法。"
+    },
+    {
+      "title": "🧠 Community Wisdom: Building your tech stack from scratch, surviving painful product demos, managing LLM credit costs, resources for new designers, and more",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-building-your-tech",
+      "source": "www.lennysnewsletter.com",
+      "titleZh": "🧠 社区智慧：从零构建技术栈、应对产品演示、管理 LLM 信用成本、新设计师资源等",
+      "summary": "社区分享技术栈搭建、演示技巧、LLM 成本管理及设计师资源。"
+    },
+    {
+      "title": "AI is critical for humanity’s survival: Cisco president on the AI revolution | Jeetu Patel",
+      "url": "https://www.lennysnewsletter.com/p/ai-is-critical-for-humanitys-survival",
+      "source": "www.lennysnewsletter.com",
+      "titleZh": "AI 对人类生存至关重要：思科总裁谈 AI 革命 | Jeetu Patel",
+      "summary": "思科总裁强调 AI 是人类未来关键，推动革命。"
+    },
+    {
+      "title": "5 OpenClaw agents run my home, finances, and code | Jesse Genet",
+      "url": "https://www.lennysnewsletter.com/p/5-openclaw-agents-run-my-home-finances",
+      "source": "www.lennysnewsletter.com",
+      "titleZh": "5 个 OpenClaw 代理管理我的家庭、财务和代码 | Jesse Genet",
+      "summary": "用户分享用 5 个 OpenClaw 代理自动化日常生活。"
+    },
+    {
+      "title": "How to use AI for your next job interview",
+      "url": "https://www.lennysnewsletter.com/p/how-to-use-ai-in-your-next-job-interview",
+      "source": "www.lennysnewsletter.com",
+      "titleZh": "如何用 AI 准备下一次求职面试",
+      "summary": "利用 AI 工具优化求职面试准备过程。"
+    }
+  ],
+  "pinterest": [
+    {
+      "title": "Handmade Travel Theme Home Decor",
+      "url": "https://www.pinterest.com/pin/34832597111721538/",
+      "titleZh": "手工旅行主题家居装饰",
+      "summary": "创作者用地图、木质山脉和手提箱桌制作旅行主题家居装饰品，增添全球旅行灵感。",
+      "source": "Pinterest"
+    },
+    {
+      "title": "Travel Home: Design With A Global Spirit",
+      "url": "https://www.pinterest.com/pin/296956169190510870/",
+      "titleZh": "旅行之家：全球精神的设计",
+      "summary": "本书指导如何将旅行经历融入家居设计，打造反映个人喜好的全球风情室内空间。",
+      "source": "Pinterest"
+    },
+    {
+      "title": "80 Easy DIY Home Decor Projects",
+      "url": "https://www.pinterest.com/pin/250512798010964911/",
+      "titleZh": "80 个简单 DIY 家居装饰项目",
+      "summary": "提供 80 个预算友好、风格多样的 DIY 家居装饰项目，轻松改造家居。",
+      "source": "Pinterest"
+    },
+    {
+      "title": "20 Inventive Ways to Decorate with Your Travel Souvenirs",
+      "url": "https://www.pinterest.com/pin/258816309829395447/",
+      "titleZh": "用旅行纪念品装饰的 20 种创意方式",
+      "summary": "分享 20 种创新方法，利用旅行纪念品装饰家居空间。",
+      "source": "Pinterest"
+    },
+    {
+      "title": "36 Easy DIY Canvas Paintings to Make Art at Home",
+      "url": "https://www.pinterest.com/pin/301741243771526840/",
+      "titleZh": "36 个简单 DIY 画布绘画，在家创作艺术",
+      "summary": "为卧室、客厅和厨房提供易做的 DIY 画布艺术作品创意。",
+      "source": "Pinterest"
+    },
+    {
+      "title": "Blogger Stylin' Home Tours - Favorite Room Edition {Kitchen & Pantry}",
+      "url": "https://www.pinterest.com/pin/255579347579681836/",
+      "titleZh": "博主家居游览 – 最爱房间版 {厨房与储藏室}",
+      "summary": "探索博主精心设计的厨房和储藏室，获取组织与装饰灵感。",
+      "source": "Pinterest"
+    },
+    {
+      "title": "45 Diy Rustic Country Home Decor For Cozy Home Design Ideas",
+      "url": "https://www.pinterest.com/pin/684054630892310299/",
+      "titleZh": "45 个 DIY 乡村风家居装饰，营造温馨家居设计",
+      "summary": "乡村风格 DIY 装饰创意，帮助打造舒适温馨的家居环境。",
+      "source": "Pinterest"
+    },
+    {
+      "title": "Coastal Decor Ideas Interior Design DIY Shopping: Complete Your Home with Coastal Art",
+      "url": "https://www.pinterest.com/pin/4714774588490546/",
+      "titleZh": "沿海装饰理念：室内设计 DIY 与购物，用沿海艺术完善家居",
+      "summary": "通过沿海艺术品和 DIY 完成家居的滨海风格装饰。",
+      "source": "Pinterest"
+    },
+    {
+      "title": "120 Best DIY Rustic Home Decor",
+      "url": "https://www.pinterest.com/pin/140806234078344/",
+      "titleZh": "120 个最佳 DIY 乡村家居装饰",
+      "summary": "从墙艺到家具，提供廉价易做的乡村风 DIY 家居装饰灵感。",
+      "source": "Pinterest"
+    },
+    {
+      "title": "Art Print: Home Sweet Home by Abedowale",
+      "url": "https://www.pinterest.com/pin/56506170340330502/",
+      "titleZh": "艺术版画：Abedowale 的 Home Sweet Home",
+      "summary": "精美艺术打印品‘Home Sweet Home’，适合家居装饰收藏。",
+      "source": "Pinterest"
+    },
+    {
+      "title": "Homes art activities - Home art",
+      "url": "https://www.pinterest.com/pin/633387442158140/",
+      "titleZh": "家居艺术活动 – 家庭艺术",
+      "summary": "适合学龄前儿童的家庭主题工艺美术活动创意。",
+      "source": "Pinterest"
+    },
+    {
+      "title": "29 Stunning Mediterranean Interior Design Ideas to Transform Your Home",
+      "url": "https://www.pinterest.com/pin/10977592836181735/",
+      "titleZh": "29 个惊艳地中海室内设计理念，改造你的家",
+      "summary": "结合乡村魅力、土色调和清新优雅的地中海风格家居改造想法。",
+      "source": "Pinterest"
+    },
+    {
+      "title": "75 Home Design Ideas You'll Love - July, 2025",
+      "url": "https://www.pinterest.com/pin/75787206200837717/",
+      "titleZh": "75 个你会喜欢的家居设计理念 - 2025 年 7 月",
+      "summary": "浏览海量家居各房间设计灵感照片和改造想法。",
+      "source": "Pinterest"
+    },
+    {
+      "title": "Home Improvements",
+      "url": "https://www.pinterest.com/pin/287597126196252553/",
+      "titleZh": "家居改造",
+      "summary": "海滩小屋装饰更新，包括 DIY 麻布柜子和板条墙板改造。",
+      "source": "Pinterest"
+    },
+    {
+      "title": "More Home Decor Map DIY Projects",
+      "url": "https://www.pinterest.com/pin/33706697199790949/",
+      "titleZh": "更多家居装饰地图 DIY 项目",
+      "summary": "用旅行地图创作家居装饰 DIY 项目，永久留住度假回忆。",
+      "source": "Pinterest"
+    }
+  ],
+  "x": [
+    {
+      "title": "Claude Codeの練習中でまだまだ初心者なので、色々と数を作って練習してます。\nプロンプトを作るのを試しに作りました✨\nGitHubに一応載せましたが、公開はしてません\n色々試して改良できれば公開したいです☺️\n#Zimage",
+      "url": "https://x.com/ai_nontan_room/status/2028275099955249538",
+      "titleZh": "Claude Code 练习中，我还是新手，所以做了各种练习。尝试制作提示词，已上传 GitHub 但未公开，希望改进后发布 #Zimage",
+      "summary": "作者正在练习 Claude Code，创建了提示词练习项目，并计划在 GitHub 公开改进版。",
+      "source": "X (Twitter)",
+      "author": "@ai_nontan_room",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "title": "What if the world’s two largest democracies stopped talking? 🚫🤝\n\nA collapse in US-India ties in 2026 would mean:\n1️⃣ Broken supply chains (Goodbye, \"China Plus One\").\n2️⃣ A massive shift in Indo-Pacific security.\n3️⃣ A tech freeze on AI and semiconductors.\nComment \n@EverydaySpy",
+      "url": "https://x.com/samirmistryshow/status/2028275141457973369",
+      "titleZh": "如果世界上两个最大民主国家停止对话会怎样？🚫🤝 2026 年美印关系崩溃将意味着：1️⃣ 供应链断裂（告别‘中国+1’）。2️⃣ 印太安全格局巨变。3️⃣ AI 和半导体技术冻结。",
+      "summary": "假设美印关系崩溃将导致供应链断裂、安全格局变化及 AI 技术冻结，引发广泛讨论。",
+      "source": "X (Twitter)",
+      "author": "@samirmistryshow",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "title": "AI is no longer experimental.\nIt’s infrastructure.\n\nHealthcare. Finance. Media. National security.\n\nWhen powerful technologies become embedded in institutions, what guardrails ensure transparency and accountability?\n\nProgress and oversight must move together.\n\nWho sets the rules?",
+      "url": "https://x.com/glemmelo/status/2028275296538132973",
+      "titleZh": "AI 不再是实验品。它已成为基础设施。医疗、金融、媒体、国家安全。当强大技术嵌入机构时，什么护栏确保透明度和问责制？进步与监督必须并进。谁来制定规则？",
+      "summary": "AI 已成关键基础设施，需建立透明问责机制以平衡进步与监督。",
+      "source": "X (Twitter)",
+      "author": "@glemmelo",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "title": "AI implementation isn’t just a tech upgrade: it’s an identity challenge.\n\nWhen tools accelerate but leadership stays static, you get 'Identity Lag.' 📉\n\nHigh PQ™ scales human potential. Don't just implement. Integrate.\n\nhttps://www.thehighpq.com/ #HighPQ #AI",
+      "url": "https://x.com/Alleyne_Co/status/2028274913803440320",
+      "titleZh": "AI 实施不仅仅是技术升级：它是身份挑战。当工具加速而领导层停滞时，就会出现‘身份滞后’。📉 高 PQ™ 可扩展人类潜力。不要只是实施，要整合。",
+      "summary": "AI 实施需解决领导层‘身份滞后’问题，通过高 PQ 整合提升人类潜力。",
+      "source": "X (Twitter)",
+      "author": "@Alleyne_Co",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "title": "anthropic just dropped free AI courses with actual certificates\n\n$0.00. no catch.\n\nwhile people are paying $500 for bootcamps anthropic is out here giving it away for free\n\nif you're in crypto and not learning how AI systems work you're already behind\n\nhttps://anthropic.skilljar.com/\n\nno excuse now",
+      "url": "https://x.com/farooq_f9/status/2028275503174721847",
+      "titleZh": "Anthropic 刚刚推出免费 AI 课程并提供证书\n$0.00 无陷阱。\n别人付 500 美元上训练营，而 Anthropic 免费赠送。\n如果你在加密领域却不学习 AI 系统运作，你已经落后了。\nhttps://anthropic.skilljar.com/\n现在没有借口了",
+      "summary": "Anthropic 提供免费带证书的 AI 课程，鼓励加密领域人士学习以跟上时代。",
+      "source": "X (Twitter)",
+      "author": "@farooq_f9",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "title": "Free Webinar on March 25! AI for Good: Secure, Smart, High-Impact AI for Nonprofits: https://www.nptechforgood.com/webinars/free-webinar-ai-for-good-secure-smart-high-impact-ai-for-nonprofits/ 💻\n\nThis webinar will provide a practical, responsible roadmap for using AI to expand impact while protecting data, reputation, and community relationships.",
+      "url": "https://x.com/nonprofitorgs/status/2028260251254796639",
+      "titleZh": "3 月 25 日免费网络研讨会！AI for Good：为非营利组织提供安全、智能、高影响力的 AI：https://www.nptechforgood.com/... 💻 本研讨会将提供实用负责的路线图，利用 AI 扩大影响同时保护数据、声誉和社区关系。",
+      "summary": "非营利组织可参加 3 月 25 日免费 AI for Good 研讨会，学习安全使用 AI 的路线图。",
+      "source": "X (Twitter)",
+      "author": "@nonprofitorgs",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "title": "AI isn’t just for big tech anymore. In 2025, it’s making small business phone systems way smarter with things like instant meeting summaries and automated follow-ups. It’s all about staying ahead and keeping the team productive. 🚀 #SMB #VoIP #AI #BusinessTech",
+      "url": "https://x.com/Voiponepabx/status/2028275321330340068",
+      "titleZh": "AI 不再只属于大科技公司。2025 年，它让小型企业电话系统更智能，如即时会议摘要和自动跟进。关键是保持领先并提高团队生产力。🚀 #SMB #VoIP #AI #BusinessTech",
+      "summary": "2025 年 AI 助力小型企业电话系统智能化，提升会议效率和团队生产力。",
+      "source": "X (Twitter)",
+      "author": "@Voiponepabx",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "title": "@sama Okay Sam, we see the contracts and the sales, but where is the actual progress in AI? Looking at the platform, there’s no growth-just a series of removals for my $20 subscription. 🙄🤦\n#OpenAI #SAVE51 #ChatGPT",
+      "url": "https://x.com/almari_mar29581/status/2028275989675930100",
+      "titleZh": "@sama 好吧 Sam，我们看到合同和销售，但 AI 的实际进展在哪里？平台上没有增长，只有我的 20 美元订阅被一系列移除。🙄🤦 #OpenAI #SAVE51 #ChatGPT",
+      "summary": "用户质疑 OpenAI 实际 AI 进步，抱怨订阅服务频繁移除功能。",
+      "source": "X (Twitter)",
+      "author": "@almari_mar29581",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "title": "I give you the Dow Jones Ind Average divided by gold, 1897-2026.\n\nWhen central banks default in real purchasing power terms, gold surges ahead of the stock market in the first phase. In the second phase, everything collapses, gold just falls slower before having a second wind into the grand finale.\n\nWe're in the 1st phase of the 3rd cycle now. QE stopped it from going haywire in 2008, but created the unsustainable, \"K-shaped economy,\" the idiotic keynesians keep talking about without understanding it.",
+      "url": "https://x.com/failuredril556/status/2028275929748033730",
+      "titleZh": "我给你道琼斯工业平均指数除以黄金的价格，1897-2026 年。当央行在实际购买力上违约时，黄金在第一阶段领先股市。第二阶段一切崩溃，黄金跌得较慢，然后迎来第二波大结局。\n我们现在处于第三周期的第一阶段。QE 在 2008 年阻止失控，但创造了不可持续的‘K 型经济’，愚蠢的凯恩斯主义者一直在谈论却不理解。",
+      "summary": "分析道琼斯/黄金比率历史周期，当前处于黄金领先的第一阶段，警告经济风险。",
+      "source": "X (Twitter)",
+      "author": "@failuredril556",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "title": "🇺🇸 EPIC SCENES UNFOLDING IN LA! \n\nMassive pro-USA, pro-Iran freedom, pro-Israel crowd has taken over the streets near Wilshire Boulevard, blasting President Trump’s iconic YMCA entrance song and turning the whole block into a celebration dance party!",
+      "url": "https://x.com/GuntherEagleman/status/2028260791116288069",
+      "titleZh": "🇺🇸 洛杉矶上演史诗场景！\n\n大规模亲美国、亲伊朗自由、亲以色列人群占领威尔希尔大道附近街道，高唱特朗普标志性 YMCA 入场歌曲，将整个街区变成庆祝舞会！",
+      "summary": "洛杉矶爆发大规模亲美亲以色列游行，人群伴随特朗普歌曲狂欢庆祝。",
+      "source": "X (Twitter)",
+      "author": "@GuntherEagleman",
+      "likes": 8138,
+      "retweets": 2081
+    },
+    {
+      "title": "Stock market today gonna be like :\n\n#Iran #Israel #DubaiAirport \n#Khameni",
+      "url": "https://x.com/RishabhBaj43421/status/2028275833144807759",
+      "titleZh": "今天的股市会像这样：\n\n#Iran #Israel #DubaiAirport \n#Khameni",
+      "summary": "伊朗以色列冲突下股市波动预期，配以相关标签。",
+      "source": "X (Twitter)",
+      "author": "@RishabhBaj43421",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "title": "I love the stock market \nI love the stock market \nI love the stock market",
+      "url": "https://x.com/TslaGroupie/status/2028274667518038075",
+      "titleZh": "我爱股市\n我爱股市\n我爱股市",
+      "summary": "用户反复表达对股市的热爱。",
+      "source": "X (Twitter)",
+      "author": "@TslaGroupie",
+      "likes": 9,
+      "retweets": 0
+    },
+    {
+      "title": "Stock Market Crash? Iran War Monday Gameplan — What Im Buying & Selling ... https://www.youtube.com/live/R381_z6hkyo?si=cz1PpdPiCBJ3xBmE via @YouTube",
+      "url": "https://x.com/angelsherryw3/status/2028275998425301115",
+      "titleZh": "股市崩盘？伊朗战争周一游戏计划 — 我要买入和卖出什么 ... https://www.youtube.com/live/... via @YouTube",
+      "summary": "分享伊朗战争下股市崩盘应对策略的 YouTube 直播，讨论买卖计划。",
+      "source": "X (Twitter)",
+      "author": "@angelsherryw3",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "title": "Elon Musk Breaks Silence on Islam — King Charles Reacts Unexpectedly https://www.youtube.com/watch?si=L87rNRc1ISf2SxZP&v=F6H9xBhQm08&feature=youtu.be via @YouTube",
+      "url": "https://x.com/JoeGoodman7et/status/2028274321114718456",
+      "titleZh": "埃隆·马斯克打破沉默谈伊斯兰 — 查尔斯国王意外反应 https://www.youtube.com/... via @YouTube",
+      "summary": "埃隆·马斯克就伊斯兰发表言论，引发查尔斯国王意外回应，附 YouTube 视频。",
+      "source": "X (Twitter)",
+      "author": "@JoeGoodman7et",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "title": "#stockmarket #spy  #USA #IRAN WAR impact on stock market  Weekly technical analysis market update video $spy $qqq $iwm #stockmarket --> https://www.youtube.com/watch?v=Sw3lmgrhv1s&feature=youtu.be",
+      "url": "https://x.com/TopTradingEdge/status/2028275797560082444",
+      "titleZh": "#stockmarket #spy #USA #IRAN WAR 对股市的影响 每周技术分析市场更新视频 $spy $qqq $iwm #stockmarket --> https://www.youtube.com/watch?... ",
+      "summary": "分析伊朗战争对股市的影响，并提供每周技术分析视频更新。",
+      "source": "X (Twitter)",
+      "author": "@TopTradingEdge",
+      "likes": 0,
+      "retweets": 0
+    }
+  ]
+}
